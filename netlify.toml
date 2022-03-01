@@ -9,10 +9,11 @@
 [[plugins]]
   package = "@netlify/plugin-gatsby"
 
-[[plugins]]
-  package = "@algolia/netlify-plugin-crawler"
-    [plugins.inputs]
-    branches = ['master']
+# TODO re-enable when merging into master
+# [[plugins]]
+#   package = "@algolia/netlify-plugin-crawler"
+#     [plugins.inputs]
+#     branches = ['master']
 
 # These redirects will be used by Netlify as well as the client to replace link addresses
 # Generic redirects, based on 404 hits
