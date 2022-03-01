@@ -6,6 +6,10 @@ const locales = {
     enabled: true,
     dayJsImport: "en",
   },
+  zh: {
+    name: "中文",
+    enabled: true,
+  },
   de: {
     name: "Deutsch",
     enabled: false,
@@ -50,9 +54,6 @@ const locales = {
   },
   vi: {
     name: "Tiếng Việt",
-  },
-  zh: {
-    name: "中文",
   },
 };
 
