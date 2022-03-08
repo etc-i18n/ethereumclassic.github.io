@@ -1,0 +1,15 @@
+title: Lazy Lions
+date: 2022-02-25
+type: nfts
+image: ./lazylions.jpg
+description: Lazy Lions, is an exclusive 5,000 only mint-able premium NFT. No two pieces of these 5,000 digital assets are alike. Each being unique and pristine, there is an order of rarity that makes certain ones more valuable than the others. each Lazy Lion is inspired by its Ethereum counterpart.
+contract: https://blockscout.com/etc/mainnet/address/0x8F1BEA297e1ab79ae1db163B611Bd93A37d28E21/transactions
+app: https://ETCLazylions.com
+twitter: https://twitter.com/LazylionsEtc
+i18n:
+  zh:
+    title: 懒惰的狮子
+    description: 懒惰的狮子，是一个独家的5,000只可铸币的高级NFT。这5,000个数字资产中没有两件是相同的。每一个都是独特的和原始的，有一个稀有的顺序，使某些人比其他的更有价值。每个懒狮子的灵感来自于它的以太坊对应物。
+  # de:
+  #   title: 懒惰的狮子
+  #   description: 懒惰的狮子，是一个独家的5,000只可铸币的高级NFT。这5,000个数字资产中没有两件是相同的。每一个都是独特的和原始的，有一个稀有的顺序，使某些人比其他的更有价值。每个懒狮子的灵感来自于它的以太坊对应物。

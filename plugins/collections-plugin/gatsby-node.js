@@ -13,36 +13,32 @@ exports.onCreateNode = async (
     createNodeId,
     createContentDigest,
   },
-  { instanceType, collectionKey }
+  { instanceType, collectionKey, locales }
 ) => {
   // we only care about collection yaml files
   if (
     node.sourceInstanceName !== instanceType ||
     node.internal.mediaType !== `text/yaml` ||
-    !node.base.includes(`.${collectionKey}.`)
+    // match `xxx.collection.en.yaml` and `/collection/xxx.yaml`
+    !(
+      node.base.includes(`.${collectionKey}.`) ||
+      node.relativePath.includes(`/${collectionKey}/`)
+    )
   ) {
     return;
   }
 
+  const isListType = node.base.includes(`.${collectionKey}.`);
   const content = await loadNodeContent(node);
   const parsedContent = jsYaml.load(content);
 
-  if (!_.isArray(parsedContent)) {
-    throw new Error(`Collection is not an array: ${node.absolutePath}`);
-  }
-
-  const [name, , locale] = node.name.split(".");
-
-  parsedContent.forEach((obj, i) => {
-    const id = createNodeId(`${node.id} [${i}] >>> YAML`);
-
-    // create type name, eg: NewsLinksCollection
+  function createYamlNode({ name = "", id, obj, locale }) {
+    // dedupe the name so we don't have VideosVideosCollectionCollection etc.
     const fullName = `${node.relativePath
       .split("/")
       .slice(0, -1)
-      .join(" ")} ${name}`;
+      .join(" ")} ${name} ${collectionKey}`;
 
-    // dedupe the name so we don't have VideosVideosCollection etc.
     const deduped = fullName
       .split(" ")
       .reduce(
@@ -53,7 +49,8 @@ exports.onCreateNode = async (
         []
       )
       .join(" ");
-    const type = _.upperFirst(_.camelCase(`${deduped} ${collectionKey}`));
+
+    const type = _.upperFirst(_.camelCase(deduped));
 
     const yamlNode = {
       ...obj,
@@ -75,5 +72,26 @@ exports.onCreateNode = async (
     }
     createNode(yamlNode);
     createParentChildLink({ parent: node, child: yamlNode });
-  });
+  }
+
+  if (isListType) {
+    if (!_.isArray(parsedContent)) {
+      throw new Error(`Collection is not an array: ${node.absolutePath}`);
+    }
+    const [name, , locale] = node.name.split(".");
+    parsedContent.forEach((obj, i) => {
+      const id = createNodeId(`${node.id} [${i}] >>> YAML`);
+      createYamlNode({ id, name, obj, locale });
+    });
+  } else {
+    Object.keys(locales)
+      .map((locale) => ({ ...locales[locale], locale }))
+      .filter(({ enabled }) => enabled)
+      .forEach(({ locale }) => {
+        const id = createNodeId(`${node.id} [${locale}] >>> YAML`);
+        const { i18n = {}, ...o } = parsedContent;
+        const obj = { ...o, ...i18n[locale] };
+        createYamlNode({ id, obj, locale });
+      });
+  }
 };

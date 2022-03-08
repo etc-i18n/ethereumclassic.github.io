@@ -13,7 +13,7 @@ export default function LayoutLanding(props) {
 }
 
 export const pageQuery = graphql`
-  query {
+  query ($locale: String!) {
     headlines: allNewsItem(
       filter: { tags: { in: "news" } }
       limit: 5
@@ -27,6 +27,7 @@ export const pageQuery = graphql`
     }
     videos: allVideosCollection(
       limit: 3
+      filter: { locale: { eq: $locale } }
       sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {
@@ -37,6 +38,7 @@ export const pageQuery = graphql`
     }
     apps: allServicesAppsCollection(
       limit: 12
+      filter: { locale: { eq: $locale } }
       sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {

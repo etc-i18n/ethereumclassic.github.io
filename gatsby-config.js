@@ -96,6 +96,7 @@ module.exports = {
     {
       resolve: "collections-plugin",
       options: {
+        locales,
         instanceType: "content",
         collectionKey: "collection",
       },

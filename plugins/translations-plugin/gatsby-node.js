@@ -134,6 +134,10 @@ exports.createPages = async (
   // Get all content files, then group by directory
   const groupedFiles = files.reduce(
     (o, { node: { relativeDirectory, relativePath } }) => {
+      // skip collection directories
+      if (relativePath.includes(`/${collectionKey}/`)) {
+        return o;
+      }
       return {
         ...o,
         [relativeDirectory]: (o[relativeDirectory] || []).concat([
