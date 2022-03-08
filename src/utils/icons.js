@@ -118,6 +118,7 @@ export {
   faHardHat as hardhat,
   faSwimmingPool as pool,
   faVial as vial,
+  faLanguage as language,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {

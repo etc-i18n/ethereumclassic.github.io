@@ -3,8 +3,6 @@ const lastUpdated = new Date("2022-02-22"); // passed to sitemap, shows roughtly
 
 const { locales, defaultLocale } = require("./configs/locales");
 
-require("dotenv").config({ path: ".env" });
-
 module.exports = {
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
@@ -15,6 +13,7 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
+    i18nDev: !!process.env.I18N_DEV,
     lastUpdated,
   },
   plugins: [
@@ -51,11 +50,10 @@ module.exports = {
         lastUpdated,
       }),
     },
-    // TODO re-enable when merging into master
-    // {
-    //   resolve: "gatsby-plugin-algolia",
-    //   options: require("./configs/search"),
-    // },
+    {
+      resolve: "gatsby-plugin-algolia",
+      options: require("./configs/search"),
+    },
     {
       resolve: "gatsby-plugin-feed",
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),

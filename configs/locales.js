@@ -9,6 +9,7 @@ const locales = {
   zh: {
     name: "中文",
     enabled: true,
+    dayJsImport: "zh",
   },
   de: {
     name: "Deutsch",
