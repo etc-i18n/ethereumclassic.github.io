@@ -13,7 +13,7 @@ exports.onCreateNode = async (
     createNodeId,
     createContentDigest,
   },
-  { instanceType, collectionKey, locales }
+  { instanceType, collectionKey, locales, defaultLocale }
 ) => {
   // we only care about collection yaml files
   if (
@@ -75,11 +75,14 @@ exports.onCreateNode = async (
   }
 
   if (isListType) {
-    if (!_.isArray(parsedContent)) {
-      throw new Error(`Collection is not an array: ${node.absolutePath}`);
+    // hack for netlify cms https://github.com/netlify/netlify-cms/issues/531
+    const content = parsedContent.items;
+    if (!_.isArray(content)) {
+      throw new Error(`Collection incorrectly formatted: ${node.absolutePath}`);
     }
-    const [name, , locale] = node.name.split(".");
-    parsedContent.forEach((obj, i) => {
+    const [name] = node.name.split(".");
+    content.forEach((o, i) => {
+      const { locale = defaultLocale, ...obj } = o;
       const id = createNodeId(`${node.id} [${i}] >>> YAML`);
       createYamlNode({ id, name, obj, locale });
     });

@@ -19,6 +19,7 @@ module.exports = {
   plugins: [
     // "gatsby-plugin-perf-budgets",
     // "gatsby-plugin-webpack-bundle-analyser-v2",
+    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-netlify",
     "gatsby-plugin-image",
     "gatsby-transformer-sharp",
@@ -95,6 +96,7 @@ module.exports = {
       resolve: "collections-plugin",
       options: {
         locales,
+        defaultLocale,
         instanceType: "content",
         collectionKey: "collection",
       },

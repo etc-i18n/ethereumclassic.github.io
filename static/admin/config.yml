@@ -1,0 +1,80 @@
+backend:
+  name: git-gateway
+local_backend: true
+# publish_mode: simple
+
+media_folder: static/img
+public_folder: /img
+
+i18n:
+  structure: multiple_files
+  locales: [en, zh]
+  default_locale: en
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "index"
+    media_folder: ""
+    public_folder: ""
+    path: "{{title}}/index"
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "media"
+    label: "Media"
+    description: "Apps, Videos and Links"
+    files:
+      - label: "Videos"
+        name: "videos"
+        file: "content/videos/videos.collection.yaml"
+        create: true
+        fields:
+          - label: Video
+            name: items
+            add_to_top: true
+            widget: list
+            # minimize_collapsed: true
+            fields:
+              - label: Video Title
+                name: title
+                widget: string
+              - label: Date Added
+                name: date
+                widget: date
+              - label: Date Uploaded
+                name: created
+                widget: date
+              - label: Video Youtube ID
+                name: youtube
+                widget: string
+              - label: Author Name
+                name: author
+                widget: string
+              - label: Author Youtube ID
+                name: authorYoutube
+                widget: string
+              - label: Tags
+                name: tags
+                widget: select
+                multiple: true
+                min: 1
+                options:
+                  - explainers
+                  - tutorials
+                  - development
+                  - trading
+                  - discussions
+                  - mining
+                  - conferences
+              # - label: Description
+              #   name: description
+              #   widget: markdown
+              #   minimal: true
+              # modes: }
