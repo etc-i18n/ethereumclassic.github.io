@@ -73,8 +73,6 @@ collections:
                   - discussions
                   - mining
                   - conferences
-              # - label: Description
-              #   name: description
-              #   widget: markdown
-              #   minimal: true
-              # modes: }
+              - label: Description
+                name: description
+                widget: text
