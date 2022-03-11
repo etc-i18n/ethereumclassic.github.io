@@ -1,13 +1,13 @@
 title: Git Repositories
 description: A hodgepodge of miscellaneous open source repositories for Ethereum Classic developers.
-updated: 2022-02-22
-contribute: true
-contributors:
+__updated: 2022-02-22
+__contribute: true
+__contributors:
   - IstoraMandiri
 items:
   repos:
-    type: links
-    showLink: true
+    __type: links
+    show__link: true
     items:
       EthereumClassic:
         name: Main Github Organization

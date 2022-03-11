@@ -1,9 +1,8 @@
 __contribute: true
+__updated: 2022-02-22
 title: Node Clients
-updated: 2022-02-22
-contribute: true
 seo: Download links for and information about the various Ethereum Classic Node Clients.
-contributors:
+__contributors:
   - pyskell
   - bobsummerwill
   - dax-classix
@@ -21,7 +20,7 @@ description: |
   You can find additional tools to help manage client deployments in the [tooling](/development/tooling) section.
 items:
   clients:
-    type: cells
+    __type: cells
     cells: true
     buttonItems:
       guide:
@@ -39,7 +38,7 @@ items:
         __guide: https://core-geth.org/install
         __release: https://github.com/etclabscore/core-geth/releases
         __support: https://gitter.im/core-geth/community
-        __supportIcon: fab fa-gitter
+        __support__icon: fab fa-gitter
         name: Core-Geth
         description: Core-Geth is a distribution of go-ethereum with many flavors. This client is Long Term Supported by the ETC Core development team, and is a recommended client from a well-known transparent team.
       Hyperledger Besu:
@@ -47,7 +46,7 @@ items:
         __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
         __release: https://github.com/hyperledger/besu/releases
         __support: https://chat.hyperledger.org/
-        __supportIcon: fab fa-rocketchat
+        __support__icon: fab fa-rocketchat
         name: Hyperledger Besu
         description: Hyperledger Besu is an Ethereum client designed to be enterprise-friendly for both public and private permissioned network use cases. This client is Long Term Supported by the ChainSafe and ETC Cooperative teams as part of the Hyperledger project with stable funding from Grayscale's Ethereum Classic Trust. This is a recommended client from a well-known transparent team.
       # Mantis:
@@ -55,6 +54,6 @@ items:
       #   __guide: https://docs.mantisclient.io/first-steps/getting-started
       #   __release: https://github.com/input-output-hk/mantis/releases
       #   __support: https://docs.mantisclient.io/resources/faq
-      #   __supportIcon: fab fa-github
+      #   __support__icon: fab fa-github
       #   name: Mantis
       #   description: Mantis comes in two versions, a fully-featured client and a desktop wallet. Mantis has been developed from the ground up and written in Scala for the Ethereum Classic (ETC) network. Created by IOHK to add robustness and variety to the ETC client range, Mantis includes optimizations and upgrades that improve network security, sustainability, and performance in the long term. v3.3.0 is the last Mantis release supported by IOHK which implements the Magneto hard-fork as per ECIP-1103.

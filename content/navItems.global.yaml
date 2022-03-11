@@ -39,36 +39,36 @@ learn:
           __link: /knowledge/foundation
           name: Foundation
           description: The core principles that form ETC's solid philosophical base
-          icon: foundation
+          __icon: foundation
         theory:
           __link: /knowledge/theory
           name: Theory
           longName: Theory & Research
-          icon: book
+          __icon: book
           description: A deeper dive into the logic of Ethereum Classic with pieces from the community
         investing:
           __link: /knowledge/investing
           name: Investing
           longName: Investor Resources
-          icon: chart
+          __icon: chart
           description: Information about the value proposion of Ethereum Classic and it's potential for sick gains
         forks:
           __link: /knowledge/forks
           name: Forks
           longName: Protocol Upgrades
-          icon: codeBranch
+          __icon: codeBranch
           description: A chronicling of past and future Hard Forks that have added functionality or bugfixes to ETC
         history:
           __link: /knowledge/history
           name: History
           longName: Classic History
-          icon: update
+          __icon: update
           description: A timeline of all of the major events in Ethereum Classics up to the present day
         future:
           __link: /knowledge/future
           name: Future
           longName: Future Classic
-          icon: etc
+          __icon: etc
           description: An overview of the decision making process in ETC, and where it might lead the protocol
     guides:
       __link: /guides
@@ -81,19 +81,19 @@ learn:
           name: Basics
           longName: The Basics
           description: FAQs and Video explainers covering Blockchain and ETC 101
-          icon: question
+          __icon: question
         metamask:
           __link: /guides/metamask
           name: MetaMask
           longName: Using MetaMask with ETC
           description: How to configure MetaMask and alternatives to interact with dapps
-          icon: cursor
+          __icon: cursor
         development:
           __link: /guides/development
           name: Development
           longName: Developer Guides
           description: A collection of turorials on how to build dapps on Ethereum Classic
-          icon: code
+          __icon: code
     videos:
       __link: /videos
       __icon: video
@@ -159,18 +159,18 @@ play:
           __link: /services/wallets
           name: Wallets
           description: Software to store and manage ETC, Tokens, NFTs and other assets
-          icon: coins
+          __icon: coins
         exchanges:
           __link: /services/exchanges
           name: Exchanges
           description: Where to buy and trade ETC
-          icon: exchange
+          __icon: exchange
         apps:
           __link: /services/apps
           name: Apps
           longName: Apps and Protocol
           description: Ecosystem of applications that levarage Ethereum Classic
-          icon: screen
+          __icon: screen
           navItems:
             nfts:
               __link: /services/apps/nfts
@@ -200,18 +200,18 @@ play:
           __link: /community/channels
           name: Channels
           longName: Social Media Channels
-          icon: comments
+          __icon: comments
           description: A list of accounts, chat rooms and forums to discuss ETC with others
         teams:
           __link: /community/teams
           name: Teams
           longName: Developer Teams
-          icon: users
+          __icon: users
           description: Information on who's working on Ethereum Classic
         events:
           __link: /community/events
           name: Events
-          icon: calendar
+          __icon: calendar
           description: Join the ETC community at regular social events happening throught the year
         # bounties:
         #   __link: /community/bounties
@@ -229,19 +229,19 @@ play:
           __link: /network/endpoints
           name: Endpoints
           longName: RPC Endpoints
-          icon: ethernet
+          __icon: ethernet
           description: Public and private services for communicating with to the ETC network
         explorers:
           __link: /network/explorers
           name: Explorers
           longName: Blockchain Explorers
-          icon: compass
+          __icon: compass
           description: Tools to inspect the chain for transactions, blocks, and other insights
         monitors:
           __link: /network/monitors
           name: Monitors
           longName: Network Monitors
-          icon: eye
+          __icon: eye
           description: Tools for checking the health and status of the network with vairious metrics
         # statistics:
         #   __link: /network/statistics
@@ -255,19 +255,19 @@ play:
         hardware:
           __link: /mining/hardware
           name: Hardware
-          icon: server
+          __icon: server
           description: Info about what kind of equipment is best to use for profitably mine ETC
         software:
           __link: /mining/software
           name: Software
           longName: Mining Software
-          icon: hardhat
+          __icon: hardhat
           description: A list of tools that can be used to mine ETC on various operating systems
         pools:
           __link: /mining/pools
           name: Pools
           longName: Mining Pools
-          icon: pool
+          __icon: pool
           description: Joining a mining pool lets you profit based on hashpower rather than blocks found
     develop:
       __link: /development
@@ -278,30 +278,30 @@ play:
         clients:
           __link: /development/clients
           name: Clients
-          icon: network
+          __icon: network
           description: Client software is the backbone of the network and implements the ETC protocol
         testnets:
           __link: /development/testnets
           name: Testnets
-          icon: vial
+          __icon: vial
           description: Networks for public testing of apps and protocol upgrades before production
         tooling:
           __link: /development/tooling
           name: Tooling
           longName: Developer Tooling
-          icon: wrench
+          __icon: wrench
           description: They say a workman is as good as his tools, so make sure you pick good ones!
         repos:
           __link: /development/repositories
           name: Repositories
-          icon: github
+          __icon: github
           longName: Git Repositories
           description: A list of Ethereum Classic related project repos for your viewing pleasure
         ecips:
           __link: /development/ecips
           name: ECIPs
           description: Ethereum Classic Improvement Proposals overview and approved proposals
-          icon: rocket
+          __icon: rocket
 news:
   __hideMobile: true
   __link: /news

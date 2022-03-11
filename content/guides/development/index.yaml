@@ -12,7 +12,7 @@ description: |
   For this reason, we strongly recommend exploring the [Developer Resources on the Ethereum.org website](https://ethereum.org/en/developers/), which has a wealth of up-to-date information. Additionally, links on this page contain guides specific to developing on Ethereum Classic.
 
   You can also find video tutorials about developing with Ethereum Classic in the [Videos > Development](/videos/development) section.
-contributors:
+__contributors:
   - multisignature
   - antsankov
   - TheEnthusiasticAs

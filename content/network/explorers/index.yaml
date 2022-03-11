@@ -1,8 +1,8 @@
 __disclaimer: verify
 title: Blockchain Explorers
-updated: 2022-02-22
-contribute: true
-contributors:
+__updated: 2022-02-22
+__contribute: true
+__contributors:
   - arvicco
   - cicorias
   - dax-classix
@@ -18,7 +18,7 @@ description: |
   The following third party explorers independently verify the state of Ethereum Classic, and it's testnets. They are commonly used to check that transactions have been broadcast and confirmed, but many offer more advanced features such as historical account balances, contract verification, and more.
 items:
   explorers:
-    type: table
+    __type: table
     intro: testing
     hideHead: true
     columnItems:
@@ -60,7 +60,7 @@ items:
       MinerGate:
         name: MinerGate
         __etc: https://minergate.com/blockchain/etc/blocks
-      OKLink:
+      OK__link:
         name: OKLink
         __etc: https://www.oklink.com/etc
       Tokenview:

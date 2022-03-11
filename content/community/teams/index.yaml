@@ -1,8 +1,8 @@
 __contribute: true
-updated: 2021-11-21
+__updated: 2021-11-21
 title: Development Teams
 seo: A list of major organizations that previously or are currently contributing to Ethereum Classic.
-contributors:
+__contributors:
   - arvicco
   - bobsummerwill
   - dax-classix

@@ -22,7 +22,7 @@ tagNames:
   wallet: Wallets
   video: Videos
   news: Headlines
-contributors:
+__contributors:
   - pyskell
   - dax-classix
   - arvicco

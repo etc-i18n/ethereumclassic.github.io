@@ -119,6 +119,7 @@ export {
   faSwimmingPool as pool,
   faVial as vial,
   faLanguage as language,
+  faCube as block,
 } from "@fortawesome/free-solid-svg-icons";
 
 export {

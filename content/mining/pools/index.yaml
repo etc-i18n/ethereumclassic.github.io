@@ -1,6 +1,6 @@
 __disclaimer: verify
-updated: 2022-02-22
-contribute: true
+__updated: 2022-02-22
+__contribute: true
 title: Mining Pools
 seo: A list of popular mining pools that you can join to support Ethereum Classic and mine ETC.
 description: |
@@ -9,7 +9,7 @@ description: |
   This page contains a non-exhaustive list of pools that support Ethereum Classic. 
 
   The Top 5 most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section.
-contributors:
+__contributors:
   - arvicco
   - bobsummerwill
   - cicorias

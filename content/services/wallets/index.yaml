@@ -1,7 +1,7 @@
 __contribute: true
-updated: 2022-02-22
+__updated: 2022-02-22
 __disclaimer: verify
-contributors:
+__contributors:
   - AndrewGuarda
   - antsankov
   - arvicco
@@ -33,7 +33,7 @@ items:
       Portis:
         __link: https://www.portis.io/
         name: Portis
-      Squarelink:
+      Square__link:
         __link: https://squarelink.com/
         name: Squarelink
   browsers:

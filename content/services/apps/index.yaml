@@ -1,9 +1,9 @@
 title: Apps and Protocols
-contribute: true
+__contribute: true
 seo: Decentralized apps and protocols built on top of Ethereum Classic; NFTs, Games, Identity Systems, DEXs, Finance Products and more...
 disclaimer: verify
 description: Ethereum Classic hosts a growing collection of decentralized applications and protocols. This page is an overview of the state of the ETC network development.
-contributors:
+__contributors:
   - zarvananvari
   - kropple
   - arashmohammadi6069
