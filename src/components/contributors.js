@@ -31,7 +31,7 @@ export default function Contributors({ contributors }) {
               />
               <div tw="transition-all max-w-0 opacity-0 group-hover:opacity-100 group-hover:max-w-xs">
                 <div tw="ml-2 mr-5">
-                  <div tw="whitespace-nowrap max-width[7em] overflow-ellipsis overflow-hidden block">
+                  <div tw="whitespace-nowrap max-width[9em] overflow-ellipsis overflow-hidden block text-sm">
                     {githubId}
                   </div>
                 </div>
