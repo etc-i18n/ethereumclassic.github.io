@@ -45,8 +45,8 @@ noResults: No Results
 ##
 announcement:
   __color: green
-  __enabled: false
-  __landingOnly: true
+  __enabled: no
+  __landingOnly: yes
   __icon: bullhorn
   text: |
     Welcome to the recently updated version of the Ethereum Classic website. Your feedback is welcome.
@@ -64,7 +64,7 @@ socialItems:
   discord:
     __link: https://ethereumclassic.org/discord
     __icon: discord
-    __hilight: true
+    __hilight: yes
     name: Discord
   reddit:
     __link: https://reddit.com/r/ethereumclassic
