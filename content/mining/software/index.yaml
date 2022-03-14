@@ -1,6 +1,6 @@
 title: Miner Software
 __updated: 2022-02-22
-__contribute: true
+__contribute: 1
 seo: A list of software packages that can be used for mining the cryptocurrency ETC on Ethereum Classic.
 description: "The Proof-of-Work mining algorithm for the Ethereum Classic network is [ETCHash](https://github.com/eth-classic/etchash) since 28th of November 2020."
 __contributors:
@@ -35,139 +35,139 @@ items:
         name: "Cruxminer"
         __link: https://cruxpool.com/cruxminer
         __guide: https://cruxpool.com/cruxminer
-        __windowsAmd: true
-        __windowsNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
       GMiner:
         name: "GMiner"
         __link: https://github.com/develsoftware/GMinerRelease/releases
         __guide: https://minerstat.com/help/how-to-set-up-gminer
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       lolMiner:
         name: "lolMiner"
         __link: https://github.com/Lolliedieb/lolMiner-releases/releases
         __guide: https://bitcointalk.org/index.php?topic=4724735.0
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       Nanominer:
         name: "Nanominer"
         __link: https://nanominer.org/
         __guide: https://github.com/nanopool/nanominer/blob/master/README.md
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       NBMiner:
         name: "NBMiner"
         __link: https://github.com/NebuTech/NBMiner/releases
         __guide: https://github.com/NebuTech/NBMiner
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       OpenETC Pool:
         name: "OpenETC Pool"
         __link: https://github.com/etclabscore/open-etc-pool/releases
         __guide: https://github.com/etclabscore/open-etc-pool/
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       Phoenix Miner:
         name: "Phoenix Miner"
         __link: https://bitcointalk.org/index.php?topic=2647654.0
         __guide: https://www.cruxpool.com/help/how-to-mine-with-phoenix-miner/
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       SRBMiner-Multi:
         name: "SRBMiner-Multi"
         __link: https://www.srbminer.com/
         __guide: https://github.com/doktor83/SRBMiner-Multi
-        __windowsAmd: true
-        __linuxAmd: true
+        __windowsAmd: 1
+        __linuxAmd: 1
       T-Rex Miner:
         name: "T-Rex Miner"
         __link: https://bitcointalk.org/index.php?topic=4432704.0
         __guide: https://github.com/trexminer/T-Rex
-        __windowsNvidia: true
-        __linuxNvidia: true
+        __windowsNvidia: 1
+        __linuxNvidia: 1
       TeamRedMiner:
         name: "Team Red Miner"
         __link: https://bitcointalk.org/index.php?topic=5059817.0
         __guide: https://github.com/todxx/teamredminer
-        __windowsAmd: true
-        __linuxAmd: true
+        __windowsAmd: 1
+        __linuxAmd: 1
       TT-Miner:
         name: "TT-Miner"
         __link: https://bitcointalk.org/index.php?topic=5025783.0
         __guide: https://bitcointalk.org/index.php?topic=5025783.0
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       AwesomeMiner:
         name: "OS: Awesome Miner"
         __link: https://hiveos.farm/
         __guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1
       HiveOS:
         name: "OS: HiveOS"
         __link: https://hiveos.farm/
         __guide: https://www.cruxpool.com/help/how-to-setup-hive-os/
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1
       MinerStat:
         name: "OS: Miner Stat"
         __link: https://minerstat.com/
         __guide: https://minerstat.com/coin/ETC
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       MMP OS:
         name: "OS: MMP OS"
         __link: https://app.mmpos.eu/
         __guide: https://bitcointalk.org/index.php?topic=5088988.0
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       NiceHash:
         name: "OS: NiceHash OS"
         __link: https://www.nicehash.com/nhos-mining
         __guide: https://www.nicehash.com/support/mining-help/nicehash-os/what-is-nicehash-os
-        __windowsAmd: true
-        __windowsNvidia: true
-        __linuxAmd: true
-        __linuxNvidia: true
+        __windowsAmd: 1
+        __windowsNvidia: 1
+        __linuxAmd: 1
+        __linuxNvidia: 1
       PiMPOS:
         name: "OS: PiMP OS"
         __link: https://getpimp.org/
         __guide: https://forum.getpimp.org/category/5/getting-started
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1
       RaveOS:
         name: "OS: RaveOS"
         __link: https://raveos.com/
         __guide: https://raveos.com/help.html
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1
       SimpleMining:
         name: "OS: Simple Mining"
         __link: https://simplemining.net/
         __guide: https://simplemining.net/page/download
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1
       Stratums:
         name: "Tool: Stratums"
         __link: https://stratu.ms/
         __guide: https://stratu.ms/help/switch-stratum
-        __linuxAmd: true
-        __linuxNvidia: true
+        __linuxAmd: 1
+        __linuxNvidia: 1

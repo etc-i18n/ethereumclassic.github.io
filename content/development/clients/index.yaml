@@ -1,4 +1,4 @@
-__contribute: true
+__contribute: 1
 __updated: 2022-02-22
 title: Node Clients
 seo: Download links for and information about the various Ethereum Classic Node Clients.
@@ -21,7 +21,7 @@ description: |
 items:
   clients:
     __type: cells
-    cells: true
+    cells: 1
     buttonItems:
       guide:
         __icon: book

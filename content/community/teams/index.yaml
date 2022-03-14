@@ -1,4 +1,4 @@
-__contribute: true
+__contribute: 1
 __updated: 2021-11-21
 title: Development Teams
 seo: A list of major organizations that previously or are currently contributing to Ethereum Classic.
@@ -20,7 +20,7 @@ description: |
 items:
   teams:
     __type: table
-    __sort: false
+    __sort: 0
     columnItems:
       year:
         name: Year
@@ -57,7 +57,7 @@ items:
       ETC Consortium:
         __year: 2016
         name: ETC Consortium
-        __active: true
+        __active: 1
         __link: https://etcconsortium.org/
         __twitter: https://twitter.com/ETCConsortium
       ETCDEV:
@@ -71,69 +71,69 @@ items:
         __year: 2016
         name: IOHK Mantis
         __className: faded
-        __active: false
+        __active: 0
         __link: https://mantisclient.io/
         __twitter: https://twitter.com/Mantis_IO
         __github: https://github.com/input-output-hk/mantis
       ETC Cooperative:
         __year: 2017
         name: ETC Cooperative
-        __active: true
+        __active: 1
         __link: https://etccooperative.org/
         __twitter: https://twitter.com/ETCCooperative
         __github: https://github.com/ETCCooperative
       Ethereum Commonwealth:
         __year: 2017
         name: Ethereum Commonwealth
-        __active: true
+        __active: 1
         __link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
         __twitter: https://twitter.com/Dexaran
         __github: https://github.com/EthereumCommonwealth
       Grayscale:
         __year: 2017
         name: Grayscale
-        __active: true
+        __active: 1
         __link: https://grayscale.co/ethereum-classic-trust/
         __twitter: https://twitter.com/GrayscaleInvest
       commonwealth.gg:
         __year: 2018
         name: Commonwealth.gg
-        __active: true
+        __active: 1
         __link: https://commonwealth.gg
         __twitter: https://twitter.com/commonwealthgg
         __github: https://github.com/p3c-bot
       ETC Labs:
         __year: 2018
         name: ETC Labs
-        __active: true
+        __active: 1
         __link: https://etclabs.org/
         __twitter: https://twitter.com/etclabs
         __github: https://github.com/etclabscore
       POA Network:
         __year: 2018
         name: POA Network
-        __active: true
+        __active: 1
         __link: https://www.poa.network/
         __twitter: https://twitter.com/poanetwork
         __github: https://github.com/poanetwork
       Chippr Robotics:
         __year: 2019
         name: Chippr Robotics
-        __active: true
+        __active: 1
         __link: https://chipprbots.com/
         __twitter: https://twitter.com/BotBridgette
         __github: https://github.com/chippr-robootics/
       ETC Core:
         __year: 2019
         name: ETC Core
-        __active: true
+        __active: 1
         __link: https://etccore.io/
         __twitter: https://twitter.com/etc_core
         __github: https://github.com/etclabscore
       ChainSafe:
         __year: 2019
         name: ChainSafe
-        __active: true
+        __active: 1
         __link: https://chainsafe.io/
         __twitter: https://twitter.com/ChainSafeth
         __github: https://github.com/ChainSafe
@@ -147,28 +147,28 @@ items:
       Second State:
         __year: 2019
         name: Second State
-        __active: true
+        __active: 1
         __link: https://www.secondstate.io/
         __twitter: https://twitter.com/secondstateinc
         __github: https://github.com/second-state
       Byzantine Fault:
         __year: 2020
         name: Byzantine Fault
-        __active: true
+        __active: 1
         __link: https://byzantine.fault.dev/
         __twitter: https://twitter.com/byzantine_fault
         __github: https://github.com/byz-f
       Gödel Labs:
         __year: 2020
         name: Gödel Labs
-        __active: true
+        __active: 1
         __link: https://www.godel.ai/
         __twitter: https://twitter.com/Goedellabs
         __github: https://github.com/multi-geth/multi-geth
       Storj Labs:
         __year: 2020
         name: Storj Labs
-        __active: true
+        __active: 1
         __link: https://storj.io/
         __twitter: https://twitter.com/storjproject
         __github: https://github.com/Storj/

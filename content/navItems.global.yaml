@@ -1,5 +1,5 @@
 learn:
-  __showNextNav: true
+  __showNextNav: 1
   name: Learn
   navItems:
     whyClassic:
@@ -303,11 +303,11 @@ play:
           description: Ethereum Classic Improvement Proposals overview and approved proposals
           __icon: rocket
 news:
-  __hideMobile: true
+  __hideMobile: 1
   __link: /news
   name: News
 extra:
-  __hideTop: true
+  __hideTop: 1
   name: Extra
   navItems:
     news:

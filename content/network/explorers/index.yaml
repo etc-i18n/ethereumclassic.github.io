@@ -1,7 +1,7 @@
 __disclaimer: verify
 title: Blockchain Explorers
 __updated: 2022-02-22
-__contribute: true
+__contribute: 1
 __contributors:
   - arvicco
   - cicorias
@@ -19,8 +19,7 @@ description: |
 items:
   explorers:
     __type: table
-    intro: testing
-    hideHead: true
+    __hideHead: 1
     columnItems:
       name: {}
       etc:
