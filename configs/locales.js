@@ -1,3 +1,5 @@
+// NB: updatae crowdin.config when adding locales
+
 const defaultLocale = "en";
 
 const locales = {
