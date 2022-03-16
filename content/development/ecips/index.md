@@ -42,6 +42,4 @@ ECIPs Website: https://ecips.ethereumclassic.org/
 
 ## Accepted ECIPs
 
-The following feautres were approved and integrated into the Ethereum Classic protocol.
-
-<Table data="ecips" />
+The following features were approved and integrated into the Ethereum Classic protocol.
