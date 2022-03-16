@@ -1,20 +1,21 @@
 files:
-  - source: /content/**/**/*.yaml
+  - source: '/content/**/**/*.[yaml/md]'
     ignore:
-      - "**/collection/**/**"
-      - "**/*.collection.*"
-      - "*.zh.yaml"
-      - "*.de.yaml"
-      - "*.es.yaml"
-      - "*.fr.yaml"
-      - "*.hr.yaml"
-      - "*.in.yaml"
-      - "*.ja.yaml"
-      - "*.ko.yaml"
-      - "*.nl.yaml"
-      - "*.ru.yaml"
-      - "*.sa.yaml"
-      - "*.th.yaml"
-      - "*.tr.yaml"
-      - "*.vi.yaml"
+      - '**/collection/**/**'
+      - '**/*.collection.*'
+      - '*.zh.yaml'
+      - '*.de.yaml'
+      - '*.es.yaml'
+      - '*.fr.yaml'
+      - '*.hr.yaml'
+      - '*.in.yaml'
+      - '*.ja.yaml'
+      - '*.ko.yaml'
+      - '*.nl.yaml'
+      - '*.ru.yaml'
+      - '*.sa.yaml'
+      - '*.th.yaml'
+      - '*.tr.yaml'
+      - '*.vi.yaml'
+      - '**/blog/**/**'
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
