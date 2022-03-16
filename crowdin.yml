@@ -1,5 +1,5 @@
 files:
-  - source: /content/**/**/*.yaml
+  - source: '/content/**/**/*.[yaml/md]'
     ignore:
       - '**/collection/**/**'
       - '**/*.collection.*'
@@ -17,4 +17,5 @@ files:
       - '*.th.yaml'
       - '*.tr.yaml'
       - '*.vi.yaml'
+      - '**/blog/**/*.md'
     translation: /%original_path%/%file_name%.%two_letters_code%.%file_extension%
