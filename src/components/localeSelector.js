@@ -3,6 +3,7 @@ import tw from "twin.macro";
 import { Popover } from "@headlessui/react";
 
 import Icon from "./icon";
+import Link from "./link";
 import PopDownMenu from "./popDownMenu";
 import LocaleButtons from "./localeButtons";
 
@@ -32,22 +33,21 @@ export default function LocaleSelector({ ...props }) {
             </div>
             <PopDownMenu
               left
-              // LODO enable this after i18n implemented
-              // cta={
-              //   <a
-              //     href="#"
-              //     tw="-m-3 p-3 px-5 flex items-center rounded-md text-base font-medium text-shade-darkest hover:bg-shade-lightest"
-              //   >
-              //     <Icon
-              //       icon="coins"
-              //       tw="flex-shrink-0 h-6 w-6 text-shade-light"
-              //       aria-hidden="true"
-              //     />
-              //     <span tw="ml-3">
-              //       Support ETC by helping to translate this website!
-              //     </span>
-              //   </a>
-              // }
+              cta={
+                <Link
+                  to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
+                  tw="-m-3 p-3 px-5 flex items-center rounded-md text-sm text-shade-light hover:bg-shade-lightest hover:text-shade-dark"
+                >
+                  <Icon
+                    icon="language"
+                    tw="flex-shrink-0 h-7 w-7"
+                    aria-hidden="true"
+                  />
+                  <span tw="ml-3">
+                    Support ETC by helping to translate this website!
+                  </span>
+                </Link>
+              }
             >
               <LocaleButtons />
             </PopDownMenu>

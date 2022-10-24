@@ -3,8 +3,7 @@ import "twin.macro";
 import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 import FooterColumn from "./footerColumn";
-// LODO re-enable locales in next version
-// import LocaleDropdown from "./localeDropdown";
+import LocaleDropdown from "./localeDropdown";
 import SocialIcons from "./socialIcons";
 import Sponsors from "./sponsors";
 import TwContainer from "./twContainer";
@@ -21,9 +20,9 @@ export default function Footer() {
       <TwContainer>
         <div tw="grid grid-cols-12 gap-4 gap-y-16">
           <div tw="col-span-full md:col-span-4 space-y-10 flex flex-col items-center md:items-start">
-            {/* <div>
+            <div>
               <LocaleDropdown />
-            </div> */}
+            </div>
             <div>
               <AddNetworkButton />
             </div>

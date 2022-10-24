@@ -15,6 +15,7 @@ module.exports = {
     siteUrl,
     socialImage: "/etc-social-card.png",
     redirects: require("./configs/redirects"),
+    i18nDev: !!process.env.I18N_DEV,
     lastUpdated,
   },
   plugins: [
@@ -95,6 +96,8 @@ module.exports = {
     {
       resolve: "collections-plugin",
       options: {
+        locales,
+        defaultLocale,
         instanceType: "content",
         collectionKey: "collection",
       },

@@ -1,8 +1,0 @@
-git:
-  filters:
-    - filter_type: dir
-      file_format: YML
-      source_file_dir: content
-      source_language: en
-      source_file_extension: yaml
-      translation_files_expression: content/<lang>.yaml

@@ -5,9 +5,8 @@ import "twin.macro";
 import Logo from "./logo";
 import SearchAlgolia from "./searchAlgolia";
 import MainMenu from "./mainMenu";
-// LODO re-enable in i18n version
-// import LocaleSelector from "./localeSelector";
-// import LocaleButtons from "./localeButtons";
+import LocaleSelector from "./localeSelector";
+import LocaleButtons from "./localeButtons";
 import DarkModeSwitcher from "./darkModeSwitcher";
 import TwContainer from "./twContainer";
 import MobileDropdown from "./mobileDropdown.";
@@ -23,11 +22,11 @@ export default function Header() {
           </div>
           <div tw="space-x-4 flex md:hidden">
             <DarkModeSwitcher />
-            {/* <MobileDropdown icon="globe">
+            <MobileDropdown icon="globe">
               <div tw="p-4">
                 <LocaleButtons />
               </div>
-            </MobileDropdown> */}
+            </MobileDropdown>
             <MobileDropdown icon="search">
               <SearchAlgolia />
             </MobileDropdown>
@@ -41,7 +40,7 @@ export default function Header() {
               <SearchAlgolia />
             </div>
             <DarkModeSwitcher />
-            {/* <LocaleSelector /> */}
+            <LocaleSelector />
           </div>
         </div>
       </TwContainer>

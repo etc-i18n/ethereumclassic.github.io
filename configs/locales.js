@@ -1,3 +1,5 @@
+// NB: updatae crowdin.config when adding locales
+
 const defaultLocale = "en";
 
 const locales = {
@@ -5,6 +7,11 @@ const locales = {
     name: "English",
     enabled: true,
     dayJsImport: "en",
+  },
+  zh: {
+    name: "中文",
+    enabled: true,
+    dayJsImport: "zh",
   },
   de: {
     name: "Deutsch",
@@ -50,9 +57,6 @@ const locales = {
   },
   vi: {
     name: "Tiếng Việt",
-  },
-  zh: {
-    name: "中文",
   },
 };
 
