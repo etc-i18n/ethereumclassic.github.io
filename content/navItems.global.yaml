@@ -11,32 +11,32 @@ learn:
         researchers:
           __link: /faqs/researchers
           name: Researchers
-          icon: search
+          __icon: search
           description: Just heard about Classic?
         users:
           __link: /faqs/users
           name: Users
-          icon: user
+          __icon: user
           description: Want to learn how to use ETC?
         investors:
           __link: /faqs/investors
           name: Investors
-          icon: chart
+          __icon: chart
           description: Interested in buying ETC?
         miners:
           __link: /faqs/miners
           name: Miners
-          icon: hardhat
+          __icon: hardhat
           description: Need info on how to mine ETC?
         developers:
           __link: /faqs/developers
           name: Developers
-          icon: code
+          __icon: code
           description: Want to build on ETC?
         contributors:
           __link: /faqs/contributors
           name: Contributors
-          icon: users
+          __icon: users
           description: Want to help the project?
     whyClassic:
       __link: /why-classic

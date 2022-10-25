@@ -111,7 +111,6 @@ Because Ethereum was so new and best practices had not formed around developing 
 
 ### ...and it's gone
 
-
 Just as with real world contracts, the devil is in the details, and it turned out that The DAO was [affected](https://blog.b9lab.com/the-dao-hack-in-eight-minutes-94919018692d) by the reentrancy bug after all. On [line 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) an exploit lay dormant, and that huge amount of raised ETH was sitting there waiting for a sharp-eyed programmer to nab.
 
 A few days later, one or more attackers began to drain The DAO, and just like a piece of string tied to a coin, used specially crafted contracts to repeatedly call The DAO's split function to extract away more ETH than its contract authors _intended_ to allow.
@@ -160,7 +159,7 @@ The stalemate meant the whitehats had denied The DAO Hacker from receiving any s
 
 One of the absurd but important details often forgotten about The DAO Fork is that it was unnecessary as most of the funds were already recovered, with the rest being as good as recovered. Without a Hard Fork, the _worst case scenario_ for DAO Token Holders was a _temporary_ 30% haircut, but as we will see, the implementation of the Hard Fork ended up causing a far worse outcome for not just DAO Token Holders but the entire Ethereum community and the culture of cryptocurrency as a whole.
 
-*UPDATE:* This analysis has been proven correct as the identity of The DAO Hacker has since been deduced by researchers and members of RHG. Absent a fork, the pressure to unmask the hacker would have been much greater and likely happened much sooner. 
+_UPDATE:_ This analysis has been proven correct as the identity of The DAO Hacker has since been deduced by researchers and members of RHG. Absent a fork, the pressure to unmask the hacker would have been much greater and likely happened much sooner.
 
 ### To Fork, or not to Fork?
 
@@ -284,7 +283,7 @@ In contrast to the newly forked Ethereum™, the unforked Ethereum was opposite 
 
 ![](./fork.png)
 
-Confusingly, the Ethereum Foundation determined that their new forked chain would be called "Ethereum". It would almost exclusively receive official support from the Foundation from then on, including the huge amounts of funding raised during the crowdsale. But the unforked chain kept something far more valuable, as _Code is Law_ is not something that could be forked away on a whim, and the original chain they abandoned continued to chug along. 
+Confusingly, the Ethereum Foundation determined that their new forked chain would be called "Ethereum". It would almost exclusively receive official support from the Foundation from then on, including the huge amounts of funding raised during the crowdsale. But the unforked chain kept something far more valuable, as _Code is Law_ is not something that could be forked away on a whim, and the original chain they abandoned continued to chug along.
 
 The longest running Smart Contract platform is, was, and always will be _Ethereum Classic_.
 
@@ -431,7 +430,7 @@ For Ethereum™, major problems remain regardless of whether code _is_ or _isn't
 
 Like Wile E. Coyote running off the cliff, it is only a matter of time for the repo-man of unanswered questions to come knocking in the form of future DAO Fork level choices. Ethereum™'s current strategic ambiguity towards _Code is Law_ may serve to appease interests temporarily, but it will in future simply cause much more significant problems down the road, when having a clear answer to the question of _Code is Law_ will save a bunch of trouble.
 
-In contrast with Ethereum Classic, in Ethereum™, the question "When should applications be stopped?" remains unanswered. For instance, whatever process determining whether forks should happen on Ethereum™ has decided that the victims of replay attacks caused by The DAO Hard Fork should not get another Hard Fork to make *them* whole, let alone all the major Smart Contract bugs and DeFi Hacks. Presumably, allowing _these_ losses is a level of sociopathy acceptable to the _Code isn't Law_ brigade.
+In contrast with Ethereum Classic, in Ethereum™, the question "When should applications be stopped?" remains unanswered. For instance, whatever process determining whether forks should happen on Ethereum™ has decided that the victims of replay attacks caused by The DAO Hard Fork should not get another Hard Fork to make _them_ whole, let alone all the major Smart Contract bugs and DeFi Hacks. Presumably, allowing _these_ losses is a level of sociopathy acceptable to the _Code isn't Law_ brigade.
 
 Having this question remain unanswered is bound to create future issues and is the core reason why Ethereum Classic openly advocates for the principle of _Code is Law_ in all circumstances. While it may not always be the most convenient position at any given moment, it is the only stance that can treat all participants neutrally, remain philosophically consistent, and therefore has the potential to stand the test of time.
 
