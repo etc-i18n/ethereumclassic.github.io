@@ -1,78 +1,78 @@
 ---
-title: Sound Money
+title: お金を音にする
 updated: 2022-02-22
 disclaimer: opinion
-seo: An overview of the useful features of money that give it value, and how some blockchains, including Ethereum Classic and Bitcoin, intentionally apply these features to their monetary policy to ensure decentralization and longevity.
+seo: 価値を与えるお金の有用な機能、およびEthereum ClassicやBitcoinを含むいくつかのブロックチェーンの概要。 これらの機能を金融政策に適用して、分散化と長寿を確保します。
 ---
 
-## Key Points
+## キーポイント
 
-- Sound Money is a concept predating the internet that inspired the invention of Bitcoin and blockchain technology.
-- Money can be considered sound if it has several quantifiable properties, and these properties are encoded into ETC.
+- Sound Moneyは、Bitcoinとブロックチェーン技術の発明に影響を与えたインターネット以前の概念です。
+- それがいくつかの定量化可能な特性を持っている場合、お金は音と考えることができ、これらの特性はETCにエンコードされます。
 - One important property is _scarcity_, which ETC gets from its _fixed emission curve_ leading to a _known future supply_.
-- If a project does not have a _known future supply_, maintainers can arbitrarily inflate the value of a currency away from holders.
-- This risk remains present on all chains that do not have a _fixed emissions curve_, including Ethereum™.
+- プロジェクトが _既知の将来の供給_を持っていない場合、メンテナは所有者から離れて通貨の価値を任意に膨らませることができます。
+- このリスクは、EthereumTMを含む _固定排出曲線_を持たないすべてのチェーンに存在し続けます。
 
-## Introduction
+## はじめに
 
-The backbone of strong economies, the provider of stability, the incentiviser of healthy [time preference](https://www.youtube.com/watch?v=k5XbLm3pEfI), the creator of prosperity. Sound money is the antidote to many of the problems created by the financial abuses of centralization in the wider world, and is the core concept that spurred the creation of Bitcoin.
+強力な経済、安定の提供者、健全な [時間優先のインセンティブ](https://www.youtube.com/watch?v=k5XbLm3pEfI)、繁栄の創造主のバックボーン。 健全な資金は、より広い世界の中央集権化の金融侵害によって引き起こされた多くの問題に対する解毒剤である。 そして、Bitcoinの作成を促したコアコンセプトです。
 
-From the [Austrian School of Economics](https://mises.org/topics/bitcoin) many of the theories behind Bitcoin, including [Sound Money](https://mises.org/library/principle-sound-money), saw their philosophical gestation. Decades before Bitcoin was technologically conceivable, economists such as Ludwig von Mises, Fredreick Hayek and Milton Friedman were professing the dangers of fiat money and the advantage of systems of finance that are free from manipulation by central authorities.
+[オーストリアの経済学学校](https://mises.org/topics/bitcoin) から、 [Sound Money](https://mises.org/library/principle-sound-money)を含むBitcoinの背後にある理論の多くは、彼らの哲学的なジェスチャーを見ました。 Bitcoinが技術的に考えられる数十年前、Ludwig von Misesのような経済学者がいました。 Fredreick HayekとMilton Friedmanは、中央当局による操作から自由な金融システムのフィアットマネーの危険性と利点を公言していました。
 
-## Properties of Sound Money
+## サウンドマネーのプロパティ
 
-Money is the lifeblood that transports energy and information around an economy, which is why well-designed currency is critical for a functional society. It was identified that money must serve three purposes: as a unit of account, a store of value, and a medium of exchange. These three functions are facilitated by several [properties](https://cryptowhat.com/properties-of-sound-money/), which were intentionally engineered into the design of Bitcoin and inherited by ETC:
+お金はエネルギーや情報を経済の周りに伝える生命線なのです だからうまくデザインされた通貨が 機能する社会にとって不可欠なのです 貨幣は、口座単位、価値の店舗、及び交換の媒体の3つの目的を果たさなければならないことが明らかにされた。 これらの3つの機能は、Bitcoinの設計に意図的に設計され、ETCによって継承されたいくつかの [プロパティ](https://cryptowhat.com/properties-of-sound-money/)によって促進されます:
 
-- **Divisibility:** ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in `wei`, the smallest ETC unit currently available.
-- **Transferability:** Since ETC isn’t tied to any banks or governments, it’s easily transferable across countries and between users on a global scale. This gives ETC an advantage over paper money and precious metals, which aren't as easily transferable across long distances.
-- **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver.
-- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost.
-- **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase.
-- **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency.
+- **部門:** ETCは小数点以下18桁まで割り切れます。 つまり、ETCは必要に応じて1,000,000,000,000,000,000,000,000の小さいユニットに分割することができます。 ETCの分類は、現在利用可能な最小ETC単位である `wei`に記述することができます。
+- **Transferability:** ETCは銀行や政府に縛られていないため、各国や世界規模で簡単にユーザー間で譲渡できます。 これにより、ETCは紙幣や貴金属よりも優位に立っており、長距離では容易に伝送できません。
+- **ファンジビリティ:** ETCはそれぞれ市場で評価されている価値があります。 1つのETCは、以前のETC取引に基づいて異なる値を持つことはありません。いくつかの通貨とは異なり、古い請求書が新しいものよりも価値が低いことが多いです。 これは菌類と呼ばれ、ETCは金や銀などの物理的な商品と共有しています。
+- **耐久性:** ETCは信じられないほど耐久性があります。 それは最終的にはただの情報なので、コンピュータやデジタルウォレットに保存できます。 紙や金属でもオフラインでもいいのです これによりETCは紙幣のような従来の貨幣よりもはるかに耐久性があり、簡単に破壊されたり、失われたりすることができます。
+- **ポータビリティ:** ETCは非常にポータブルです。 サムドライブや電話で携帯したり、紙に書き留めたり、シードフレーズとして覚えておくこともできます。
+- **Scarcity:** ETCには、時間の経過とともに解放される限られた供給があります。 これは、通貨の他のほとんどの形態よりも不足しています。
 
-## Known Future Supply
+## 既知の今後の供給
 
-ETC has all the properties of Sound Money. It’s decentralized, uncensorable, divisible, transferable, fungible, durable and scarce. The cornerstone of a blockchain's sound monetary policy is scarcity via a _known future supply_. Just like Bitcoin, but unlike Ethereum™, Classic has a _fixed emission curve_. A [fixed amount](https://etcis.money/) of ETC created as a block reward for miners, which means that holders of ETC can accurately calculate the total amount of ETC in existence at any point in time.
+ETCにはサウンドマネーのすべての特性があります。 分散型で、無修正、分割、譲渡可能、真菌、耐久性と不足があります。 ブロックチェーンの健全な金融政策の基盤は、 _既知の将来の供給_を介して希少性です。 Bitcoinと同じですが、EthereumTMとは異なり、Classicには _固定エミッション曲線_があります。 鉱夫のためのブロック報酬として作成されたETCの [固定額](https://etcis.money/) 。 つまり、ETCの保有者はいつでもETCの総量を正確に計算することができます。
 
-Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening."
+Ethereum Classicの固定エミッション曲線は、 [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017) によって導入されました。 エミッションスケジュールは5M20とも呼ばれ、500万ブロックごとにブロック報酬を20%削減します。 社会的には、このブロック報酬削減イベントは、「フィフスニング」のモニカーを取っています。
 
-| Est. Date      | 5M20 Era | Block       | Block Reward | Total Era Emission     |
-| -------------- | -------- | ----------- | ------------ | ---------------------- |
-| 2015-07-30     | Era 1    | 1           | 5 ETC        | 25,000,000 ETC         |
-| 2017-12-11     | Era 2    | 5,000,001   | 4 ETC        | 20,000,000 ETC         |
-| 2020-03-17     | Era 3    | 10,000,001  | 3.2 ETC      | 16,000,000 ETC         |
-| 2022-04-15     | Era 4    | 15,000,001  | 2.56 ETC     | 12,800,000 ETC         |
-| 2024-05-07     | Era 5    | 20,000,001  | 2.048 ETC    | 10,240,000 ETC         |
-| ~Every 2 Years | N+1      | N+5,000,000 | -20%         | Total ~200,000,000 ETC |
+| Est. 日付    | 5M20時代 | ブロック       | ブロック報酬     | 時代の合計              |
+| ---------- | ------ | ---------- | ---------- | ------------------ |
+| 2015-07-30 | 時代 1   | 1          | 5ETC（日本時間） | 2500万ETC（2500万人）   |
+| 2017-12-11 | 時代 2   | 5,000,001  | ETC（4ETC）  | 2,000,000,000 ETC  |
+| 2020-03-17 | 時代 3   | 10,000,001 | 3.2 ETC    | 16,000,000 ETC     |
+| 2022-04-15 | 時代 4   | 15,000,001 | 2.56 ETC   | 12,800,000 ETC     |
+| 2024-05-07 | <unk>  | 20,000,001 | 2.048 ETC  | 10,240,000 ETC     |
+| ~2 年ごと     | N+1    | +5,000,000 | -20%       | 合計200,000,000 ETC数 |
 
-_Note: due to fluctuating uncle rate, the exact emission amount will deviate slightly, but not significantly._
+_注:叔父率の変動により、正確な排出量はわずかにずれますが、それほど大きくはありません。_
 
-A _fixed emissions curve_ means that the rate of inflation is predictable, and in the case of ETC, is continually decreasing over time. As the value of the network increases, the value of all ETC increases predictably according to this rate, rather than some unknown future rate that could be much lower. ETC's commitment to a fixed emission curve is enshrined into both the protocol and its social layer, and thanks to Proof of Work, any hard fork that attempts to manipulate inflation will result in a permanent chain split, massively disincentivizing such a change to the point of it being _extremely_ unlikely to be contemplated, let alone be attempted, let alone be successful.
+_固定排出曲線_ は、インフレ率が予測可能であることを意味し、ETCの場合は、時間の経過とともに継続的に減少しています。 ネットワークの値が増加すると、すべてのETCの値はこのレートに従って予測値に増加します。 未知の将来の比率よりずっと低い可能性があります ETCの固定排出曲線へのコミットメントは、議定書と社会層の両方に掲げられています そしてプルーフ・オブ・ワークのおかげで、インフレを操作しようとするハードフォークは、恒久的なチェーン分割につながります。 そのような変化を予想されそうもない _極端に_ 、大規模に消滅させる。 試みることはもちろん成功することは言うまでもありません
 
-A _known future supply_ not only provides a prosperous alternative to the legacy fiat system, but also a critical sociotechnological role in the blockchains that utilize it as the basis for keeping a project decentralized. The monetary policy of a blockchain is a common agreement that all participants voluntarily engage with. It keeps all parties aligned economically and helps prevent groups from accumulating unfair influence over others. This unwavering neutrality is what keeps all participants on an equal footing.
+_既知の将来供給_ は、従来のフィアットシステムの豊かな代替手段を提供するだけではありません。 ブロックチェーンにおける重要な社会工学的な役割も担っています ブロックチェーンの金融政策は、すべての参加者が自発的に取り組む共通の合意です。 それはすべての当事者を経済的に整合させ、グループが他者への不公平な影響を蓄積するのを防ぐのに役立ちます。 この揺るぎない中立性は、すべての参加者を対等な立場に保ちます。
 
-Sound money, and it's ability to hold value over time, is a core property of the incentivization mechanisms that encourage participation, as while it does not guarantee that an asset will appreciate, it at least provides a means to calculate future earnings potential given the future growth of a project. It means that holders are guaranteed to benefit fairly from a project's upside.
+健全なお金と時間とともに価値を保持する能力は参加を促すインセンティブメカニズムの中核的な性質です 資産が認められることを保証するものではありません それは少なくともプロジェクトの将来の成長を考えれば将来の収益の可能性を計算する手段を提供する つまり、所有者はプロジェクトの逆転からかなり利益を得ることが保証されているということです。
 
-## Unsound Money
+## お金の音を立てない
 
-Be it fiat or cryptocurrencies, redistribution of funds via inflation or currency debasement is one of the oldest tricks in the book for meddling central planners with a misplaced sense of authority. In times of trouble, they inevitably use this mechanism to ensure that when the ship goes down, those who control the keys to the castle will be the first on the life rafts, as they can redistribute whatever dregs of value remain to themselves at the expense of holders of the currency, all in the name of safety and stability, of course.
+それは法定通貨または暗号通貨である。 インフレや通貨の地下化による資金の再分配は本の中で最も古いトリックの1つです 中央の計画者を困らせるための 権限の誤った感覚です トラブルが発生した場合、船が沈むときに必ずこのメカニズムを使用します。 キャッスルの鍵を握る者はライフ筏で最初になるだろう 彼らは価値のかすを再分配することができます 彼らは通貨の所有者を犠牲にして自分自身に残ります もちろん安全と安定の名の下に
 
-This failure state is a type of rugpull that can only exist in projects that are not sufficiently decentralized. The redistribution of value away from holders to some specific group (be it miners, stakers, or developers) can only happen when the [balance of power](/why-classic/decentralism#balancing-power) is uneven, such that some participants can push through changes to the protocol that put their interests before others.
+この障害状態は、十分に分散化されていないプロジェクトにのみ存在できるrugpullの一種です。 保有者から特定のグループへの価値の再分配（鉱夫、ステークホルダーなど） または開発者)は [残高](/why-classic/decentralism#balancing-power) が不均一な場合にのみ発生します。 一部の参加者が自分の興味を他の人より優先するプロトコルに変更を促すことができます
 
-The alternative to a _known future supply_ is an _unknown future supply_, leading to an unbounded degree of inflation or currency debasement down the road. In small amounts inflation may be unnoticeable and be drowned out by the day to day volatility of markets, but it nevertheless amounts to a tax on holders of the currency that do not enjoy the immediate benefits of the [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect).
+_既知の将来供給_ に代わるものは、 _未知の供給_です。 インフレあるいは通貨が地下化されるのです 少量のインフレは目立たないものであり、市場の日々のボラティリティによって溺れてしまうかもしれません。 しかしそれにもかかわらず、それは [Cantillon Effect](https://cointelegraph.com/explained/from-cash-to-crypto-the-cantillon-effect-vs-the-nakamoto-effect)の即時の利益を享受していない通貨の保有者への税金に相当します。
 
-In extreme cases, chains with a policy of maintaining an _unknown future supply_ can lead to [Zimbabwe-like hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe), which is an ever-present dark cloud that hangs over all holders of these currencies. Although these projects may not need to turn on the inflation tap today, it may become "necessary" for whatever reason in the future. Be it development funding issues or the [race to the bottom](/why-classic/proof-of-work#the-apr-arms-race) of competing with other chains' Proof of Stake yields, without the precedent of a fixed emission curve, the central organizing committee of such projects can easily conjure up any number of justifications for appropriating value away from holders as the only way for the project to continue.
+極端な場合 _不明な将来の供給を維持する方針を持つチェーン_ は、 [ジンバブエのようなハイパーインフレ](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe)につながる可能性があります。 これらの通貨のすべての保有者に常に存在するダーククラウドです これらのプロジェクトは、今日のインフレタップを有効にする必要はないかもしれませんが、将来的には何らかの理由で「必要」になるかもしれません。 開発資金の問題や、他のチェーンのプルーフ・オブ・ステークの利回りと競合する [下位](/why-classic/proof-of-work#the-apr-arms-race) への競争であること。 固定された排出曲線の前例がないと そのようなプロジェクトの中心的な組織委員会は、プロジェクトを継続する唯一の方法として、保有者から価値を引き出すための正当性の任意の数を簡単に確認することができます。
 
-![A One Hundred Trillion Zimbabwe Dollar Note](./zimbabwedollar.jpg)
+![100兆のジンバブエ・ドル](./zimbabwedollar.jpg)
 
-Some promoters of cryptocurrencies, perhaps unintentionally, gaslight their fellow holders into believing that the checks and balances provided by _fixed future supply_ are a hindrance, postulating that it is somehow in the financial interests of holders not to have one.
+暗号通貨の一部のプロモーター、おそらく意図せずに。 将来の _固定供給_ によって提供される小切手と残高が障害になると信じて、仲間の持ち主を激励させる。 何らかの形で所有者の金銭的利益を上げていることを示しています
 
-The idea of _ultrasound money_, a synonym of _unsound money_, means that the future supply of a currency is unknown, and while maintainers pinky-promise that it will never be higher than it needs to be, that could be anything from zero to infinity. An _ultrasound_ future supply is subject to tinkering based on an undefined and unpredictable criterion, meaning its central authority reserves the unrestricted right to redistribute funds away from holders in the future.
+_超音波お金_のアイデア , _不健全なお金_の同義語, つまり通貨の将来の供給は不明です メンテナーは必要以上に高くなることはないと指摘していますが それはゼロから無限になるかもしれません _超音波_ の将来の供給は、未定義の予測不可能な基準に基づいて改良されます。 つまり中央当局は将来的に 資金を保有者から離れて再分配する無制限の権利を保有しています
 
-> Yeah, your boring old car might be safe, but check out this bad boy over here. We removed the breaks and seat belts, so now it's ultrasafe.
+> うん、あなたの退屈な古い車は安全かもしれないが、こちらの悪い男の子をチェックしてください。 私たちは休憩とシートベルトを取り除いたので、今は超音波です。
 > 
-> - Advocates of ~~Ultrasound Money~~ Ultrasafe Vehicles
+> - ~~超音波お金~~ 超音波車
 
-![Used Car Salesman Explaining Ultrasafe Vehicles](./ultrasafe.jpg)
+![超音波車について説明する中古車](./ultrasafe.jpg)
 
-Regrettably, in contrast with Ethereum Classic, perhaps to provide optionality in the future for attracting Proof of Stake collateral, Ethereum™ is one of many cryptocurrency projects that maintains a policy of _unknown future supply_, which in turn means that holders are exposed to the risk of unbounded future inflation.
+残念ながら、Ethereum Classicとは対照的に、おそらくProof of Stakeの担保を引き付けるために将来オプションを提供することになります。 EthereumTMは、 _未知の将来供給_のポリシーを維持する多くの暗号通貨プロジェクトの1つです。 将来のインフレのリスクにさらされることになります
