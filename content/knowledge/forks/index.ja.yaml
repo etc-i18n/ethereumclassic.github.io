@@ -1,0 +1,53 @@
+title: プロトコルのアップグレード
+seo: 過去のハードフォークの歴史; Ethereum Classicに受け入れられたプロトコルアップグレード。
+description: |
+  イーサリアムクラシックは、そのhistroyにもかかわらず、ハードフォークのすべてのタイプに反対しているわけではありません。 それから遠い; ハードフォークにより、プロトコルをアップグレードし、バグを修正し、開発者が「止められないアプリケーションを構築する」ことをさらに目標とする機能を追加することができます。
+
+  Ethereum Classicが実装しないハードフォークのタイプは、
+
+  (/why-classic/genesis)のようなものです。 プロトコル自体の欠陥や機能強化には対応していません しかし、アプリケーション層でスマートコントラクトを変更することで、*コードは法律* になります。
+
+   Ethereum Classicは戦略的に上流EthereumのEVMとの最大限の互換性を維持します。 つまり、ETHに配備された契約はETCにも展開でき、Ethereum ClassicはEthereumに関する研究を通じて生まれた多くの貴重なイノベーションを継承しています。
+items:
+  forks:
+    title: ETCフォーク履歴
+    items:
+      Frontier:
+        title: Frontier
+        text: '「止められないアプリケーションを構築する」というスローガンの下で立ち上げられ、フロンティアはライブだったが、Ethereumプロジェクトの裸骨実装でした。 これは技術ユーザー、特に開発者向けのものでした。ブロックはガス制限が5,000個ありました。 この「解凍」期間により、鉱山労働者は業務を開始し、早期採用者は「急ぐ」ことなくクライアントをインストールすることができました。'
+      Ice Age:
+        title: アイスエイジ
+        text: フロンティア解凍フォークは、ブロックごとに5,000のガス制限を解除し、デフォルトのガス価格を51gweiに設定しました。 トランザクションで許可されるこれには21,000ガスが必要です。
+      Homestead:
+        title: ホームステイ
+        text: Homesteadフォークは未来を見据えていた。 いくつかのプロトコル変更とネットワーク変更が含まれており、Ethereumはさらにネットワークアップグレードを行うことができました。
+      Gas Reprice:
+        title: ガス<unk>
+        text: ECIP-1015は、DAOハードフォーク後のEthereum Classicの最初の独立したプロトコルアップグレードでした これは、取引スパム攻撃を軽減するためのIO重量運用における長期的なガスコストの変化を伴いました。
+      Die Hard:
+        title: Die Hard
+        text: ダイ・ハードフォークは、難易度爆弾を遅らせ、EXPのコードを再価格化し、リプレイ保護を実装し、ETCのチェーンIDを61に設定しました。
+      Gotham:
+        title: ゴッサム語
+        text: ECIP 1017は、ETCの最大絶対数と時間の経過とともに劣化した排出量の方法に上限を導入することによって、Ethereum Classicをより多くのBitcoinのようにします。
+      Defuse Difficulty Bomb:
+        title: 不具合の多いBomba
+        text: 難易度の高い爆弾は他の変更はありません。
+      Atlantis:
+        title: Atlantis
+        text: 優れたイーサリアム財団Spurious DragonとByzantiumネットワークプロトコルをイーサリアムクラシックネットワーク上で有効にし、これらのネットワーク間で最大限の互換性を可能にするために、ハードフォークのAtlantisコードでアップグレードしました。
+      Agharta:
+        title: Agharta
+        text: 優れたイーサリアム財団ConstantinpleとPetersburgネットワークプロトコルをイーサリアムクラシックネットワークで有効にし、ハードフォークのAghartaコードでこれらのネットワーク全体で最大の互換性を可能にしました。
+      Phoenix:
+        title: Phoenix
+        text: 優れたイーサリアム財団イスタンブールのネットワークプロトコルは、これらのネットワーク全体で最大の互換性を可能にするために、ハードフォークのPhoenixコードでEthereum Classicネットワークでアップグレードされました。
+      Thanos:
+        title: Thanos
+        text: ECIP 1099はDAG計算で使用されるエポック長を校正し、ETHashからETCHashに切り替えました。 4GBのメモリを備えたGPUがETCを採掘できるようにすることで、ネットワークのセキュリティが向上しました。
+      Magneto:
+        title: Magneto
+        text: Ethereum Foundation Berlin ネットワークプロトコルのアップグレード機能を有効にし、Ethereumとの最大の互換性に達します。
+      Mistique:
+        title: Mystique
+        text: Ethereum Foundationロンドンネットワークプロトコルのアップグレード機能を有効にし、Ethereumとの最大の互換性を維持します。
