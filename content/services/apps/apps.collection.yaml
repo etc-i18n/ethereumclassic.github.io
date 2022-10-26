@@ -47,6 +47,29 @@
 ### END APP TEMPLATE
 #
 # ADD YOUR NEW APP HERE
+- title: Shiba Classic
+  date: 2022-10-25
+  type: other
+  image: ./images/shibc.jpeg
+  verifiedContract: https://blockscout.com/etc/mainnet/address/0x1FDc495289B590e78d455cf7faa6cd804de5Cbc1/contracts#address-tabs
+  audit: https://twitter.com/SoteriaSC/status/1561793005530611713
+  description: The first meme coin on the Ethereum Classic chain.
+  links:
+    - name: Homepage
+      icon: home
+      link: https://www.shibaclassic.sc/
+    - name: GitHub
+      icon: github
+      link: https://github.com/Shiba-Classic-ETC
+    - name: Twitter
+      icon: twitter
+      link: https://twitter.com/shibctokenetc
+    - name: Telegram
+      icon: telegram
+      link: https://t.me/ShibCtokenERC
+    - name: Linktree
+      icon: link
+      link: https://linktr.ee/shibctoken
 - title: ETCPlanets
   date: 2022-10-14
   type: nfts
@@ -199,8 +222,8 @@
   author: Nova Network
   authorLink: https://novanetwork.io/
   verifiedContract: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
-  openSource: https://blockscout.com/etc/mainnet/address/0xab1E9D7551c1B161cedf96AeaC66b95bc5cCd7d4/contracts
-  testSuite: https://fusion.novanetwork.io/#/nusd-etc
+  openSource: https://github.com/nova-network-inc
+  testSuite: https://github.com/nova-network-inc
   description: Fusion is the most advanced DeFi protocol in the crypto space. It hosts an array of yield generating protocols, has compatibility with next generation fNFTs, AMM, multi transfer, and other exclusive tools. All these comes with multichain interoperability for easy integration.
   type: finance
   links:
