@@ -1,0 +1,127 @@
+title: Piscinas de minería
+seo: Una lista de piscinas mineras populares a las que puedes unirte para apoyar Ethereum Classic y minar ETC.
+description: |
+  Una piscina minera es un grupo conjunto de mineros de criptomonedas que combinan recursos computacionales de herederos a través de una red para fortalecer la probabilidad de encontrar un bloque o minar con éxito para criptomonedas.
+
+  Esta página contiene una lista no exhaustiva de piscinas que soportan Ethereum Classic.
+
+  Las piscinas más populares han sido resaltadas a continuación para ayudarle a limitar su búsqueda. Puedes encontrar actualizaciones en vivo sobre el tamaño de cada piscina minera en la sección [Monitores de Red](/network/monitors). Si una piscina está cerca del 30% del hashrate total de la red considere apuntar su hashrate a una piscina diferente para ayudar a descentralizar el hashrate minero de la red. Algunos grandes mineros distribuyen su hashrate sobre múltiples piscinas para ayudar en estos esfuerzos. A medida que la red siga creciendo, deberíamos ver que la tasa de hashrate se reparte entre muchas piscinas a medida que las tarifas de las piscinas se vuelven más competitivas para atraer el hashrate de los mineros.
+items:
+  pools:
+    items:
+      2Miners:
+        name: 2Mineros
+      AltPool:
+        name: AltPool
+      AntPool:
+        name: AntPool
+      BaikalMine:
+        name: BaikalMine
+      BAYPOOL:
+        name: BAYPOL
+      Beepool:
+        name: Piscina
+      Binance Pool:
+        name: Herramienta de Binance
+        __primary: true
+      BTC.com:
+        name: BTC.com
+      BWPool:
+        name: BWPool
+      Clona:
+        name: Clona
+      Cominers:
+        name: Comineros
+      Comining:
+        name: Combinando
+      CoolPool:
+        name: CoolPool
+      CrazyPool:
+        name: CrazyPool
+        __primary: true
+      Cruxpool:
+        name: Cruxpool
+      DigiPools:
+        name: DigiPools
+      E4Pool:
+        name: E4Pool
+      EMCD:
+        name: EMCD
+      ETC Mining Club:
+        name: Club de minería ETC
+      ETC-POOL:
+        name: ETC-POOL
+      ETC Pool US:
+        name: ETCpool.us
+        __primary: true
+      Ethermine:
+        name: Ethermine
+      EZil:
+        name: Ezil
+      f2pool:
+        name: f2pool
+      FairPool:
+        name: FairPool
+      FirePool:
+        name: Herramienta de fuego
+      flexpool:
+        name: Flexpool
+      HashBlue:
+        name: HashBlue
+        __primary: true
+      HashCity:
+        name: Ciudad
+      Hellominer:
+        name: Infernal
+      HeroMiners:
+        name: Heromineros
+      Hiveon:
+        name: Hiveon
+      HuobiPool:
+        name: HuobiPool
+      ICanMining:
+        name: Minería de cañón
+      K1Pool:
+        name: K1Pool
+      KryptexPool:
+        name: KryptexPool
+      MaxHash:
+        name: MaxHash
+      MinerGate:
+        name: MinerGate
+      Mole Pool:
+        name: Pool de Topo
+      MyMiners:
+        name: Mis mineros
+      Nanopool:
+        name: Nanopool
+      Open ETC Pool:
+        name: Abrir ETC Pool
+      Pearpool:
+        name: Piscina
+      Prohashing:
+        name: Prohashing
+      RociMining:
+        name: Minería de Roci
+      RuPool:
+        name: RuPool
+      SoloPool:
+        name: Herramienta SoloPool
+      ua-mining:
+        name: ua-mining
+      ViaBTC:
+        name: ViaBTC
+      Wattpool:
+        name: Wattpool
+      Whalesburg:
+        name: Baluarte
+      WoolyPooly:
+        name: Piscina de Lana
+      XnPool:
+        name: XnPool
+      Yu-Tam:
+        name: Yu-Tam
+      Zergpool:
+        name: Zergpool
+      ŻET:
+        name: Ejercicio

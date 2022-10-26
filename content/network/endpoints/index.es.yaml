@@ -1,0 +1,46 @@
+title: Puntos finales públicos
+seo: Una lista de los puntos finales de llamada de procedimientos remotos (RPC) que se pueden utilizar para interactuar con ETC a través de MetaMask y otras aplicaciones.
+description: |
+  Los puntos finales de la llamada a procedimientos remotos (RPC) son su puerta de entrada a Ethereum Classic, y le permiten comunicarse con y leer datos de la cadena ETC. Para obtener la máxima confianza, ejecutas un [Cliente ETC](/development/clients); un endpoint local normalmente está disponible en `http://localhost:8545`.
+
+  Los puntos finales de Ethereum Classic RPC también están disponibles, ya sea de forma gratuita para la comunidad o como servicio de suscripción. Porque puedes firmar y transmitir transacciones localmente usando una billetera como [MetaMask](/guides/metamask), los puntos finales públicos pueden ser utilizados mientras se mantiene la custodia de sus claves privadas.
+
+  Puede utilizar estas URLs para transaccionar e implementar en ETC (o sus redes de prueba) actualizando su cartera o configuración de herramienta de implementación. Asegúrate de cambiar tu Chain ID a `61` para Ethereum Classic mainnet.
+
+  Para más información sobre otras redes, revisa la sección [testnets](/development/testnets).
+
+  **Se recomienda seleccionar uno de los extremos RPC de ETC monitoreados en tiempo real en [ChainList.org](https://chainlist.org/en/chain/61).**
+items:
+  endpoints:
+    columnItems:
+      name:
+        name: Servicio
+      rpcUrl:
+        name: URL RPC
+    items:
+      Ethercluster:
+        name: Clasificador Eterno
+      Ethercluster (Kotti):
+        name: Ethercluster (Kotti)
+      Ethercluster (Mordor):
+        name: Clasificador Eterno (Mordor)
+      Ethercluster (Goerli):
+        name: Ethercluster (Goerli)
+      ETC-Network.info BESU:
+        name: ETC-Network.info BESU
+      ETC-Network.info GETH:
+        name: GETH ETC-Network.info
+      ETC-Network.info ETCP:
+        name: Planetas ETC RPC
+      ETC-Network.info GETH (Goerli):
+        name: GETH ETC-Network.info (Goerli)
+      ETC-Network.info GETH (Kotti):
+        name: GETH ETC-Network.info (Kotti)
+      ETC-Network.info GETH (Mordor):
+        name: GETH ETC-Network.info (Mordor)
+      BlockScout API:
+        name: API de BlockScout
+      RIVET API:
+        name: REGISTRAR
+      TokenView API:
+        name: API de TokenView
