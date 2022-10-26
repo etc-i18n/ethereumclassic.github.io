@@ -1,50 +1,22 @@
-__contribute: 1
-__updated: 2022-02-22
-title: Node Clients
-seo: Download links for and information about the various Ethereum Classic Node Clients.
-__contributors:
-  - pyskell
-  - bobsummerwill
-  - dax-classix
-  - arvicco
-  - ProphetDaniel
-  - q9f
-  - YazzyYaz
-  - realcodywburns
-  - stevanlohja
-  - TheEnthusiasticAs
-  - gitr0n1n
+title: 节点客户端
+seo: 下载各种Ethereum 经典节点客户端的链接和信息。
 description: |
-  Clients are software packages that can be used to run the Ethereum Classic protocol in various modes; Full Nodes, Archive Nodes, Fast Sync Clients, etc. Clients allow you to run a mainnet or testnet node, validate blocks through mining, and interface with the network through API.
+  客户端是软件包，可用来以各种方式运行以太空经典协议；完整节点、归档节点、快速同步客户端等。 客户端允许您运行主网或测试网节点，通过挖掘验证块，并通过 API 与网络接口。
 
-  You can find additional tools to help manage client deployments in the [tooling](/development/tooling) section.
+  您可以在 [tooling](/development/tooling) 部分找到帮助管理客户端部署的额外工具。
 items:
   clients:
-    __type: cells
     buttonItems:
       guide:
-        __icon: book
-        name: Guide
+        name: 指南
       release:
-        __icon: code
-        name: Releases
+        name: 发布
       support:
-        __iconRef: supportIcon
-        name: Support
+        name: 支持
     items:
       CoreGeth:
-        __link: https://etclabscore.github.io/core-geth
-        __guide: https://etclabscore.github.io/core-geth/getting-started/installation/
-        __release: https://github.com/etclabscore/core-geth/releases
-        __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: discord
         name: CoreGeth
-        description: A highly configurable Go implementation of the Ethereum protocol. This client is Long Term Supported by the ETC Cooperative development team. This is a recommended client from a well-known transparent team.
+        description: 一个高度配置的 Ethereum 协议的执行。此客户端是由ETC Cooperative development 团队支持的。 这是一个知名透明团队推荐的客户。
       Hyperledger Besu:
-        __link: https://besu.hyperledger.org/
-        __guide: https://besu.hyperledger.org/en/stable/HowTo/Get-Started/Install-Binaries/
-        __release: https://github.com/hyperledger/besu/releases
-        __support: https://discord.gg/xQY3MTUTYd
-        __supportIcon: discord
-        name: Hyperledger Besu
-        description: An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client. This client is Long Term Supported by the ETC Cooperative teams. This is a recommended client from a well-known transparent team.
+        name: 超音速贝斯文
+        description: 一个基于 Java 的企业级的 Apache 2.0 授权Etherum客户端。 这个客户是由ETC Cooperative team支持的长期客户。这是一个知名透明团队推荐的客户。
