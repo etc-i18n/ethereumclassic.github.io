@@ -1,174 +1,56 @@
-__contribute: 1
-__updated: 2021-11-21
-title: Development Teams
-seo: A list of major organizations that previously or are currently contributing to Ethereum Classic.
-__contributors:
-  - arvicco
-  - bobsummerwill
-  - dax-classix
-  - realcodywburns
-  - gitr0n1n
-  - ProphetDaniel
-  - pyskell
-  - q9f
-  - stevanlohja
-  - TheEnthusiasticAs
+title: 开发团队
+seo: 以往或目前正在为以太西姆古典作出贡献的主要组织名单。
 description: |
-  Ethereum Classic is a decentralized development ecosystem which means there is no 'official' team or formal hierarchy. This global development community is a permissionless 'do-ocracy', where anyone can participate. Individuals and teams choose tasks for themselves and execute them. We collectively establish [rough consensus](https://en.wikipedia.org/wiki/Rough_consensus) through the [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/) process.
+  以太久经典是一种分散的开发生态系统，意味着没有“官方”团队或正式等级。 这个全球发展界是一个没有权限的管理机构，任何人都可以参加。 个人和团队自己选择任务并执行它们。我们集体建立[粗略共识](https://en.wikipedia)。 rg/wiki/Rough_consens) through [Etherum Classic Improvement Proposal](https://ecips.eferumclassic.org/)
 
-  This is a list of prominent teams that have contributed to Ethereum Classic since the project's genesis block on July 30, 2015. The Ethereum Classic ecosystem is appreciative of all protocol level development efforts by individuals, volunteers, and teams.
+  这是自该项目于2015年7月30日起诞生区块以来为以太坊经典做出贡献的杰出团队名单。 以太古经典生态系统赞赏个人、志愿者和团队在协议一级的所有发展努力。
 items:
   teams:
-    __type: table
-    __sort: 0
     columnItems:
       year:
-        name: Year
+        name: 年份
       name:
-        __linkRef: link
-        name: Team Name
+        name: 团队名称
       social:
-        name: Social
-        iconItems:
-          github:
-            __linkRef: github
-            __icon: github
-          twitter:
-            __linkRef: twitter
-            __icon: twitter
+        name: 社交活动
       active:
-        __checkRef: active
-        name: Active
+        name: 已启用
     items:
       Ethereum Foundation:
-        __year: 2015
-        name: Ethereum Foundation
-        __className: faded
-        __link: https://ethereum.org/
-        __twitter: https://twitter.com/ethereum
-        __github: https://github.com/ethereum/
+        name: 以太久基金会
       Parity Technologies:
-        __year: 2016
-        name: Parity Technologies
-        __className: faded
-        __link: https://parity.io/
-        __twitter: https://twitter.com/ParityTech
-        __github: https://github.com/paritytech
+        name: 对等技术
       ETC Consortium:
-        __year: 2016
         name: ETC Consortium
-        __active: 1
-        __link: https://etcconsortium.org/
-        __twitter: https://twitter.com/ETCConsortium
       ETCDEV:
-        __year: 2016
-        name: ETCDEV
-        __className: faded
-        __link: https://etcdevteam.com/
-        __twitter: https://twitter.com/getemerald
-        __github: https://github.com/ETCDEVTeam/
+        name: 其它设备
       Grothendieck:
-        __year: 2016
         name: IOHK Mantis
-        __className: faded
-        __active: 0
-        __link: https://mantisclient.io/
-        __twitter: https://twitter.com/Mantis_IO
-        __github: https://github.com/input-output-hk/mantis
       ETC Cooperative:
-        __year: 2017
         name: ETC Cooperative
-        __active: 1
-        __link: https://etccooperative.org/
-        __twitter: https://twitter.com/ETCCooperative
-        __github: https://github.com/ETCCooperative
       Ethereum Commonwealth:
-        __year: 2017
-        name: Ethereum Commonwealth
-        __active: 1
-        __link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
-        __twitter: https://twitter.com/Dexaran
-        __github: https://github.com/EthereumCommonwealth
+        name: 以太坊英联邦组织
       Grayscale:
-        __year: 2017
         name: Grayscale
-        __active: 1
-        __link: https://grayscale.co/ethereum-classic-trust/
-        __twitter: https://twitter.com/GrayscaleInvest
       commonwealth.gg:
-        __year: 2018
-        name: Commonwealth.gg
-        __active: 1
-        __link: https://commonwealth.gg
-        __twitter: https://twitter.com/commonwealthgg
-        __github: https://github.com/p3c-bot
+        name: 英联邦.gg
       ETC Labs:
-        __year: 2018
-        name: ETC Labs
-        __active: 1
-        __link: https://etclabs.org/
-        __twitter: https://twitter.com/etclabs
-        __github: https://github.com/etclabscore
+        name: ETC 标签
       POA Network:
-        __year: 2018
-        name: POA Network
-        __active: 1
-        __link: https://www.poa.network/
-        __twitter: https://twitter.com/poanetwork
-        __github: https://github.com/poanetwork
+        name: POA 网络
       Chippr Robotics:
-        __year: 2019
-        name: Chippr Robotics
-        __active: 1
-        __link: https://chipprbots.com/
-        __twitter: https://twitter.com/BotBridgette
-        __github: https://github.com/chippr-robootics/
+        name: Chippr 机器人
       ETC Core:
-        __year: 2019
         name: ETC Core
-        __active: 1
-        __link: https://etccore.io/
-        __twitter: https://twitter.com/etc_core
-        __github: https://github.com/etclabscore
       ChainSafe:
-        __year: 2019
-        name: ChainSafe
-        __active: 1
-        __link: https://chainsafe.io/
-        __twitter: https://twitter.com/ChainSafeth
-        __github: https://github.com/ChainSafe
+        name: 链安全
       Core Paper:
-        __year: 2019
-        name: Core Paper
-        __className: faded
-        __link: https://corepaper.org/
-        __twitter: https://twitter.com/corepaper
-        __github: https://github.com/corepaper
+        name: 核心文件
       Second State:
-        __year: 2019
-        name: Second State
-        __active: 1
-        __link: https://www.secondstate.io/
-        __twitter: https://twitter.com/secondstateinc
-        __github: https://github.com/second-state
+        name: 第二个国家
       Byzantine Fault:
-        __year: 2020
-        name: Byzantine Fault
-        __active: 1
-        __link: https://byzantine.fault.dev/
-        __twitter: https://twitter.com/byzantine_fault
-        __github: https://github.com/byz-f
+        name: Byzantine 故障
       Gödel Labs:
-        __year: 2020
-        name: Gödel Labs
-        __active: 1
-        __link: https://www.godel.ai/
-        __twitter: https://twitter.com/Goedellabs
-        __github: https://github.com/multi-geth/multi-geth
+        name: Goodutification del Labs
       Storj Labs:
-        __year: 2020
         name: Storj Labs
-        __active: 1
-        __link: https://storj.io/
-        __twitter: https://twitter.com/storjproject
-        __github: https://github.com/Storj/
