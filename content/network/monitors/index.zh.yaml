@@ -1,75 +1,49 @@
-title: Network Monitors
-__updated: 2022-08-22
-__contribute: 1
-seo: Tools for checking the health of the Ethereum Classic network, and general statistics such as issuance, transaction counts and mining profitability.
+title: 网络监视器
+seo: 用来检查以太西姆经典网络健康状况的工具，以及发行、交易计数和采矿利润等一般统计数字。
 description: |
-  Below is a selection of tools that provide insights into a wide range of metrics relating to the Ethereum Classic. Together they provide a full spectrum analysis of the health and status of the network.
-__contributors:
-  - arvicco
-  - cicorias
-  - dax-classix
-  - gitr0n1n
-  - IstoraMandiri
-  - ProphetDaniel
-  - pyskell
-  - TheEnthusiasticAs
-  - MrMarioMichel
+  下面是一些工具，这些工具可以使人们深入了解与以太基姆古典有关的各种衡量标准。 它们共同对网络的健康和状况进行全面分析。
 items:
   monitors:
-    __type: links
     items:
       2Miners:
-        name: 2Miners
-        __link: https://2miners.com/etc-stats/
-        description: Ethereum Classic stats dashboard provides the most important blockchain statistics, graphs, and other performance metrics captured directly from online nodes.
+        name: 2矿工
+        description: Etherum 经典统计仪表板提供了最重要的区块链统计、图表和其他直接从在线节点获取的性能指标。
       CoinMetrics:
         name: CoinMetrics
-        __link: 'https://coinmetrics.io/charts/#assets=etc'
-        description: Detailed historical data covering a number of metrics such as price, hashrate, address count, transaction count, etc.
+        description: 包括价格、哈希率、地址计数、交易计数等若干衡量标准在内的详细历史数据。
       CoinWarz:
         name: CoinWarz
-        __link: https://www.coinwarz.com/mining/ethereum-classic
-        description: Ethereum Classic mining information - including a Ethereum Classic mining calculator, a list of Ethereum Classic mining hardware, Ethereum Classic difficulty with historical charts, Ethereum Classic hashrate charts, as well as the current Ethereum Classic price.
+        description: 以太坊经典采矿信息——包括以太坊经典采矿计算器、以太坊经典采矿硬件清单， 以太古经典为难点的历史图表、以太古经典散列图以及以太古经典当前价格。
       Emerald Insights:
-        name: Emerald Insights
-        __link: https://insights.emeraldpay.io/
-        description: Emerald Insights is a part of the Emerald project, which is supposed to provide statistics, monitoring, and advanced pieces of information about cryptocurrencies used by Emerald.
+        name: 绿宝石洞察力
+        description: 绿宝石洞察是绿宝石项目的一部分，该项目应提供统计数据。 监测和有关紧急情况使用的加密货币的高级信息。
       #ETCNodes:
       #name: ETCNodes
       #__link: https://etcnodes.org/
       ForkWatch:
         name: Fork Watch
-        __link: https://www.forkwatch.io/
-        description: ForkWatch is a NiceHash monitoring tool that alerts about anomalies on specific algorithms on the NiceHash market, especially when the price of renting BTC/TH/Day changes. This helps stakeholders of specific coins be warned in case mining power is potentially rented for an incoming attack on a specific network.
+        description: ForkWatch 是一种尼克哈希监测工具，它提醒人们注意尼克哈希市场特定算法上的异常情况，特别是当租用比特币/TH/日间价格发生变化时。 这有助于在特定硬币的利益攸关方因某个特定网络遭到袭击而可能租用采矿电力时向其发出警告。
       MiningPoolStats:
         name: MiningPoolStats
-        __link: https://miningpoolstats.stream/ethereumclassic
-        description: Live stats about the state of mining pools on ETC, including block distribution, hashrate history, etc.
+        description: 关于ETC矿池状态的实时统计，包括区块分布、哈希率历史等。
       Nanopool:
         name: Nanopool
-        __link: https://etc.nanopool.org/stats
-        description: Historical difficulty, difficulty, block time and price.
+        description: 历史上的困难、困难、阻碍时间和价格。
       PoolDetective:
-        name: Pool Detective
-        __link: https://pooldetective.org/
-        description: Mining pools are important players in proof-of-work cryptocurrencies. But who monitors what they tell their miners to work on? MIT's Digital Currency Initiative started a project in the summer of 2019 to start monitoring the behavior of mining pools.
+        name: 池检测
+        description: 采矿池是工作证明加密货币中的重要参与者。 但谁来监测他们告诉他们的矿工在哪里工作？ 2019年夏季，麻省理工学院的数字货币倡议启动了一个项目，开始监测采矿池的行为。
       TokenView:
-        name: TokenView
-        __link: https://etc.tokenview.com/en/charts
-        description: Standard historical network stats.
+        name: 令牌视图
+        description: 标准历史网络统计信息。
       WhatToMine:
         name: WhatToMine
-        __link: https://whattomine.com/coins/162-etc-ethash
-        description: Profitability calculator for mining Ethereum Classic and other chains.
+        description: 开采以太坊经典和其他链条的利润计算器。
       Kotti Stats:
-        name: Kotti Stats
-        __kotti: http://stats.kotti.goerli.net/
-        description: Network stats for the Ethereum Classic Kotti Testnet.
+        name: Kotti 统计
+        description: Ethereum Classic Kotti Testnet的网络统计信息。
       ua-mining:
         name: ua-mining
-        __link: https://etc-stats.ua-mining.com
-        description: Ethereum Classic stats dashboard.
+        description: Ethereum 经典统计仪表板
       etc-network.info:
-        name: etc-network.info
-        __link: https://etc-network.info
-        description: A small site to help you navigate services provided by etc-network.info.
+        name: 等网络信息
+        description: 一个帮助您浏览由etc-network.info提供的服务的小型网站。
