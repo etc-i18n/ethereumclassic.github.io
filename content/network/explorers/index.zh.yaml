@@ -1,52 +1,26 @@
-__disclaimer: verify
-title: Blockchain Explorers
-__updated: 2022-02-22
-__contribute: 1
-__contributors:
-  - arvicco
-  - cicorias
-  - dax-classix
-  - gitr0n1n
-  - IstoraMandiri
-  - ProphetDaniel
-  - pyskell
-  - TheEnthusiasticAs
-  - PauloBaronceli
-seo: A list of blockchain explorer services for Ethereum Classic and the various ETC testnets.
+title: 区块链探索器
+seo: Ethereum 经典和各种ETC 测试网的区块链浏览器服务列表。
 description: |
-  Blockchain Explorers provide a convenient way to get insights into the current and past state of a given chain, allowing you to inspect the contents of blocks, transactions and account balances.
+  Blockchain Explorers 提供了一种方便的方式来了解某个链的当前和过去状态， 允许您检查块、交易和账户余额的内容。
 
-  The following third party explorers independently verify the state of Ethereum Classic, and it's testnets. They are commonly used to check that transactions have been broadcast and confirmed, but many offer more advanced features such as historical account balances, contract verification, and more.
+  以下第三方探索者独立验证Ethereum Classic的状态和它的测试网。 它们通常用来核实交易是否已经广播和确认， 但许多项目提供了更先进的特点，如历史账户余额、合同核查等等。
 items:
   explorers:
-    __type: table
-    __hideHead: 1
     columnItems:
-      name: { }
       etc:
-        __linkRef: etc
         text: Mainnet
       kotti:
-        __linkRef: kotti
-        text: Kotti
+        text: 科蒂文
       mordor:
-        __linkRef: mordor
         text: Mordor
     items:
       BlockScout:
-        name: BlockScout
-        __etc: https://blockscout.com/etc/mainnet/
-        __kotti: https://blockscout.com/etc/kotti/
-        __mordor: https://blockscout.com/etc/mordor/
+        name: Block侦查器
       ETCBlockExplorer:
-        name: ETCBlockExplorer
-        __etc: https://etcblockexplorer.com/
+        name: ETCBockExplorer
       OKLink:
         name: OKLink
-        __etc: https://www.oklink.com/etc
       Tokenview:
-        name: Tokenview
-        __etc: https://etc.tokenview.com/
+        name: 令牌视图
       NovaExplorer:
-        name: Nova Explorer
-        __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic
+        name: 新探索者
