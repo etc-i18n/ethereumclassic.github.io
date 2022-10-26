@@ -1,0 +1,26 @@
+title: ブロックチェーンエクスプローラー
+seo: Ethereum Classicと様々なETCテストネットのためのブロックチェーンエクスプローラサービスのリスト。
+description: |
+  Blockchain Explorerは、特定のチェーンの現在と過去の状態についての洞察を得るための便利な方法を提供します。 ブロック、取引、口座残高の内容を確認できます。
+
+  以下のサードパーティーエクスプローラは、Ethereum Classicの状態を独立して検証し、テストネットです。 トランザクションがブロードキャストされ確認されていることを確認するために一般的に使用されます。 しかし、多くは、歴史的な口座残高、契約の検証など、より高度な機能を提供しています。
+items:
+  explorers:
+    columnItems:
+      etc:
+        text: メインネット
+      kotti:
+        text: Kotti
+      mordor:
+        text: Mordor
+    items:
+      BlockScout:
+        name: BlockScout
+      ETCBlockExplorer:
+        name: ETCBlockExplorer
+      OKLink:
+        name: OKLink
+      Tokenview:
+        name: トークンビュー
+      NovaExplorer:
+        name: Nova Explorer
