@@ -1,42 +1,42 @@
 ---
 updated: 2022-02-22
 contribute: true
-disclaimer: verify
-title: Events
-seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
+disclaimer: 验证
+title: 事件
+seo: 真实世界和虚拟以太坊经典相关事件的概述。 ETC首脑会议和每周社区呼吁欢迎所有人！
 contributors:
   - IstoraMandiri
   - bobsummerwill
 ---
 
-Magic happens when people come together and share ideas, and participants throughout the ETC community have spontaneously organized to form real life and online gatherings to focus their attention on improving Ethereum Classic.
+当人们聚集在一起分享想法时，魔法就会发生。 它还自发地组织了各种活动，使整个ETC社区的参与者能够组织真正的生活和在线聚会，集中精力改进Ethereum Classic。
 
-## Community Calls
+## 社区电话
 
-Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. The call is streamed to [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), but you can also join 1 hour before we go live, at 1400 UTC, to chat off the record in the Green Room.
+每个星期四, 通常在 UTC 1500, Ethereum Classic [Discord](https://ethereumclassic.org/discord) 服务器上进行群聊。 通话正在流向 [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), 但您也可以在我们上线前加入1小时， 1400 UTC 要在绿房间中聊天记录。
 
-Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
+有时候一名特邀嘉宾会加入与社区的问答聊天。 这些通话通常被录制，您可以在 ETC 社区调用 [存储库](https://github.com/ethereumclassic/community-calls) 上找到这些录音。
 
-Everybody, regardless of level of involvement in ETC, is welcome to join this chat and there is usually time available to open the floor to questions if you'd like to bring something up.
+所有人，不论其在就业和培训中心的参与程度如何， 欢迎加入這個聊天室，如果您想要提出一些问题，通常有时间打開。
 
-## ETC Summit
+## ETC 首脑会议
 
-Since Ethereum Classic's inception (barring global travel restrictions), each year an ETC Summit has been held in various cities all over the world.
+自古典教会成立（全球旅行限制）以来，每年都在世界各地的不同城市举行一次经济和社会理事会首脑会议。
 
-These in-person conferences allow otherwise internet-only community members to meet and great in the flesh, to better coordinate and hash out ideas, maybe over a drink or two.
+这些面对面的会议使只有互联网的社区成员能够举行会议，并在小球上取得很大成就。 为了更好地协调和散列想法，或许在一个或两个饮料上。
 
-Some community members also take the stage and present ideas on a number of topics related to Ethereum Classic.
+一些社区成员还进入舞台，就与以太基姆古典有关的一些专题提出意见。
 
-So far, the following summits have been held:
+2. 迄今为止，已举行了下列首脑会议：
 
 - 2019 Vancouver
 - 2018 Seoul
 - 2017 Hong Kong
 
-Videos of the presentations are available under the [Videos > Conferences](/videos/conferences) section.
+演示文稿的视频可在 [视频 > 会议](/videos/conferences) 部分查阅。
 
-## Core Dev Calls
+## 核心开发电话
 
-The ETC Core Devs Call is a technical discussion call for developers working on the Ethereum Classic clients and/or ECIP process.
+ETC Core Devs Call是一项技术讨论，要求开发人员在Ethereum Classic 客户端和/或ECIP 过程中工作。
 
-These calls have no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
+这些电话没有设定的时间表，但是全年都相当频繁。 在 [ECIP repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call) 中以GitHub 问题的形式宣布了拟议的呼叫。
