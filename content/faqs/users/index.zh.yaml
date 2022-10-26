@@ -1,65 +1,64 @@
-title: User FAQs
-seo: Frequently Asked Questions for those looking for help in the day to day use of Ethereum Classic.
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
+title: 用户常见问题
+seo: 经常问问那些在日常使用Ethereum Classic时寻求帮助的人。
+info: 无法在这里找到您问题的答案吗？请尝试在 ETC 社区 [discord](https://eferumclassic.org/discord) 服务器中查询。
 __contribute: true
-description: If you'd like to send and receive ETC, use one of the applications deployed to Ethereum Classic, or are worried about how to use it safely, this page is for you.
+description: 如果您想发送和接收ETC，请使用部署到Ethereum Classic的应用程序之一， 或者担心如何安全地使用它。这个页面是为你的。
 items:
   questions:
-    __type: questions
     items:
       comparison:
-        question: Can I use Ethereum Classic (ETC) in the same way as Ethereum (ETH)?
+        question: 我能否以与以太基姆（ETH）相同的方式使用以太基经典？
         answer: |
-          Yes, Ethereum Classic operates to the end user in pretty much exactly the same way as Ethereum. You'll just need to make sure the wallet, application, exchange or other service you are using supports Classic.
+          是的，Etherum经典对终端用户的操作方式与以太坊完全相同。 您只需要确保您正在使用的钱包、应用、交易所或其他服务支持Classic。
 
-          You can use MetaMask with Ethereum Classic.
+          您可以使用MetaMask 与 Ethereum Classic。
       metmask:
-        question: How do I use ETC with MetaMask?
+        question: 如何使用MetaMask的ETC？
         answer: |
-          You can easily add Ethereum Classic to MetaMask via the [CoinList.org](https://coinlist.org/en/chain/61) website. If you want to manually configure MetaMask to use a custom Ethereum Classic RPC node, you can check out the [MetaMask](/guides/metamask) guide.
+          您可以通过 [CoinList.org](https://coinlist.org/en/chain/61) 网站轻松地将以太坊模式添加到MetaMask。 如果您想手动配置MetaMask 使用自定义 Etherum 经典RPC 节点，您可以查看 [MetaMask](/guides/metamask) 指南。
       explorers:
-        question: How can I view my Ethereum Classic transactions?
+        question: 如何查看我的Ethereum 经典交易？
         answer: |
-          The most popular and fully-featured Ethereum Classic explorer is [BlockScout](https://blockscout.com/etc/mainnet/), but there are also several alternatives available in the [block explorers](/network/explorers) section.
+          最受欢迎和最全功能的 Ethersum 经典浏览器是 [BlockScout](https://blockscout.com/etc/mainnet/)，但[blockexplorers](/network/explorers) 部分也有一些替代方法。
       exchange:
-        question: How can I get ETC?
+        question: 如何获得ETC？
         answer: |
-          Ethereum Classic is listed on pretty much every major cryptocurrency [exchange](/services/exchanges), where you can purchase ETC with fiat currency or trade other cryptocurrencies for it.
+          以太坊经典在相当多的每个主要加密货币 [exchange](/services/exchanges), 在哪里您可以用法定货币购买ETC或交易其他加密货币。
 
-          If you have a reasonably modern graphics card, you can also [mine](/mining) it for yourself.
+          如果您拥有一个相当现代的图形卡，您也可以 [mine](/mining)为您自己。
       wallets:
-        question: Which wallet do you recommend I use with Ethereum Classic?
+        question: 你建议我使用哪个钱包与 Ethereum Classic？
         answer: |
-          There are many different types of wallet available depending on your use case. Check out the [wallets](/services/wallets) section for more information.
+          有许多不同类型的钱包，取决于您的用途大小写。查看 [wallets](/services/wallets) 部分获取更多信息。
       apps:
-        question: What apps are running on the Ethereum Classic network?
+        question: Ethereum Classic 网络上运行了哪些应用？
         answer: |
-          Everything from centralized exchanges, DEXs, DeFi, NFTs, cross-chain bridges, and more. Check out the [services](/services) section to find out more.
+          来自中央交换、 DEX、 DeFi、 NFT、 跨链桥等等的一切。查看 [services](/services) 部分来了解更多信息。
       defi:
-        question: Does Ethereum Classic have DeFi?
+        question: 以太久经典是否有 DeFi？
         answer: |
-          Yes. A small, but growing decentralized finance ecosystem exists on Ethereum Classic, see the [finance](/services/apps/finance) app category for updates.
+          是。Ethereum Classic存在一个小但不断增长的分权金融生态系统，查看 [finance](/services/apps/finance) 应用程序类别的更新。
       staking:
-        question: Can I stake my ETC?
+        question: 我能把我的ETC联系起来吗？
         answer: |
-          No, at least not as you would on a Proof of Stake blockchain. ETC is a Proof of Work blockchain, so you can only mine, not stake, to provide security to the network.
+          不，至少不会像您在Stake区块链上的样子。 ETC 是一个工作区块链的证明，因此您只能为网络提供安全，而不会涉及任何问题。
 
-          There may be some [lending protocols](/services/apps/finance) that allow you to loan out your ETC for a yeild, but these are not part of the Ethereum Classic protocol itself, and come with counter-party risk.
+          可能有一些[借出协议](/services/apps/finance)允许您借出您的ETC以获得更高版本， 但这并不是以太基姆经典协议本身的一部分，反方也面临风险。
       safety:
-        question: I heard that Ethereum Classic was 51% attacked. Is it safe to use?
+        question: 我听说爱森古姆经典遭到51%的攻击。使用安全吗？
         answer: |
-          In 2020, Ethereum Classic had a historically very low hashrate, which led to a series of 51% attacks. It is beleived that attackers rented out hashrate and targeted exchanges with double spend attacks, who in total lost around $10m in ETC.
+          2020年，埃瑟姆经典的哈希率历来很低，导致了一系列51%的攻击。 人们感到恐惧的是，攻击者以双重支出攻击的方式出租散装货箱和有针对性的交换，他们在埃塔公司总共损失了大约10万美元。
 
-          In response, Ethereum Classic clients and the wider ecosystem since implemented a number of countermeasures, such as longer confirmation times on exchanges, ECIP-1099, and MESS. Since these countermeasures have been in place, there have been no further 51% attacks.
+          相应地，经典客户和更广泛的生态系统实施了若干反措施， 例如交易确认时间较长，ECIP-1099和MESS。 由于采取了这些反措施，没有再发生51%的攻击。
 
-          Moreover, since Ethereum's switch to Proof of Stake in 2022, ETC became the largest GPU-minable chain, increasing it's hash rate by 50x to 100x since the last 51% attack. This has made it exceedingly unlikely that a pool of hashrate is available to rent out to perform another 51% attack, and even if it was, would prohibitively expensive to do so without any guararuntee of success.
+          此外，自Etherum在2022年转向Proof Stake以来， ETC成为最大的GPU微弱链，自上次51%的攻击以来，它的散列率增加了50x到100x。 这使得现在极不可能有一组散列物来租用以再进行51%的攻击。 而且，即使是这样，在没有任何成功的警告下这样做也会使人望而却步。
 
-          As with all Proof of Work blockchains, the potential for 51% attacks to occur is a necessary part of the protocol's design. As time goes on and Ethereum Classic continues to no longer be attacked in this way, stakeholders can be increasingly confident that 51% attacks are a thing of a past.
+          与所有工作区块链的证明一样，51%的攻击发生的可能性是协议设计的一个必要部分。 随着时间的推移，埃瑟姆经典继续遭到这样的攻击。 利益攸关方可以越来越相信，51%的袭击是过去的事情。
 
-          In any case, it does not make financial sense for 51% attackers to target small holders, and they aren't able to "steal" your ETC. Rather, they typically target exchanges by double-spending withdrawals. Historically, exchanges have been able to absorb these relatively small-scale attacks, and have implement countermeasures as described.
+          无论如何，51%的攻击者以小持有者为目标是没有经济意义的，他们不能“偷”你的ETC。 相反，它们通常以双重支出提款作为交换的目标，从历史上看，交易所能够吸收这些较小规模的攻击，并执行所述的反措施。
       deposit:
-        question: Why does it take so long to deposit ETC?
+        question: 为什么要花这么长的时间才能存放ETC？
         answer: |
-          As mentioned in the above question, as a countermeasure to 51% attacks, some exchanges have extremely long deposit times for Ethereum Classic. This helps defend the exchange from being a victims of a double spend attack, but means users need to wait more time for deposits to be confirmed.
+          如上述问题所述，作为对51%袭击的反措施，有些交易所对Etherum类的存款时间非常长。 这有助于保护交易不致成为双重支出攻击的受害者。 但这意味着用户需要等待更多的时间才能确认存款。
 
-          As the hashrate of ETC has recently increased significantly, it is likely that exchanges will reduce the number of confirmations required to completed deposits.
+          由于ETC的哈希率最近大幅度增加，交易所很可能会减少完成存款所需的确认数量。
