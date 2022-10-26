@@ -1,8 +1,8 @@
 ---
-title: Guides & Tutorials
-seo: User guides covering the basics of how to interact with Ethereum Classic, and development tutorials for decentralized application creators.
+title: 指南 & 教程
+seo: 用户指南涵盖如何与 Ethereum Classic, 以及用于分散应用程序创建者的开发教程。
 ---
 
-Ethereum Classic, being technologically very similar to Ethereum, shares a body of work in user guides, tutorials and walkthroughs that apply to both chains. As far as the protocol goes, everything that you can do on Ethereum can be done in pretty much the same way on Ethereum Classic, which is why the [community guides on Ethereum.org](https://ethereum.org/en/learn/) are highly recommended reading.
+以太坊类同以太坊技术上非常相似，在两种环节中共用了大量的用户指南、教程和走向。 就协议而言，你可以在以太坊做的一切事情都可以在以太坊典礼上做到这一点。 这就是为什么在以太坊上的 [个社区指南的原因。 rg](https://ethereum.org/en/learn/) 是高度推荐的读。
 
-To supplement this, this section contains Ethereum Classic specific materials, covering everything from the basics, to guides for general user, and tutorials for developers.
+为了补充这一点，本节载有“以太坊”经典特定材料，涵盖从基础知识到普通用户指南和开发者辅导等所有内容。
