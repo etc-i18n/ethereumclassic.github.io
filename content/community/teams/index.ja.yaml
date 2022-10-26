@@ -1,0 +1,58 @@
+title: 開発チーム
+seo: Ethereum Classicに以前または現在貢献している主要な組織のリスト。
+description: |
+  Ethereum Classicは、「公式」チームや正式な階層が存在しないことを意味する分散型開発エコシステムです。 このグローバル開発コミュニティは誰でも参加できる許可のない「Do-ocracy」です。 個人とチームは自分でタスクを選択して実行します。
+
+  (https://en.wikipedia) をまとめて作成します。 [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/)プロセスを通して、rg/wiki/Raugh_consensus)
+
+   これは、2015年7月30日のプロジェクトのジェネシス・ブロック以来、Ethereum Classicに貢献してきた著名なチームのリストです。 Ethereum Classicエコシステムは、個人、ボランティア、およびチームによるすべてのプロトコルレベルの開発努力に感謝しています。
+items:
+  teams:
+    columnItems:
+      year:
+        name: 年
+      name:
+        name: チーム名
+      social:
+        name: ソーシャル
+      active:
+        name: アクティブ
+    items:
+      Ethereum Foundation:
+        name: イーサリアム財団
+      Parity Technologies:
+        name: パリティ技術
+      ETC Consortium:
+        name: ETC Consortium
+      ETCDEV:
+        name: ETCDEV
+      Grothendieck:
+        name: IOHK Mantis
+      ETC Cooperative:
+        name: ETC協力
+      Ethereum Commonwealth:
+        name: Ethereum Commonwealth
+      Grayscale:
+        name: Grayscale
+      commonwealth.gg:
+        name: Commonwealth.gg
+      ETC Labs:
+        name: ETC Labs
+      POA Network:
+        name: POAネットワーク
+      Chippr Robotics:
+        name: Chippr ロボット
+      ETC Core:
+        name: ETCコア
+      ChainSafe:
+        name: ChainSafe
+      Core Paper:
+        name: コアペーパー：
+      Second State:
+        name: 第二の状態
+      Byzantine Fault:
+        name: ビザンチン障害
+      Gödel Labs:
+        name: Go<unk> del Labs
+      Storj Labs:
+        name: Storj Labs
