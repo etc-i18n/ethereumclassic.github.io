@@ -1,1 +1,66 @@
+title: 研究者のよくある質問
+seo: よくある質問 Ethereum Classicの基本を研究または理解しようとする人のための質問。
+info: ここで質問の答えが見つかりませんか？ETCコミュニティ [discord](https://etherumclassic.org/discord) サーバーで質問してみてください。
+description: Ethereum Classicについて聞いたことがあり、詳細を知りたい場合 または既にETCを保持していますが、それが存在する理由をより深く理解したい、このページはあなたのためです。
 __contribute: true
+items:
+  questions:
+    items:
+      what:
+        question: Ethereum Classicとは?
+      eth:
+        question: Ethereum ClassicとEthereumの違いは何ですか?
+        answer: |
+          Ethereum ClassicとEthereumはかつて同じプロジェクトでしたが、哲学の違いにより、2016でコミュニティが分裂しました。 2022では、EthereumはProof of Stakeに切り替え、ClassicはProof of Workに残りました。 このことは、両鎖の間の最初の大きな技術的な違いを示しました。
+
+          そのコンセンサスメカニズムとは別に、ETCおよびETHは技術的に非常に類似している。 ETCはEVM互換性を維持し、Ethereumにデプロイされた契約をEthereum Classicに簡単に展開することができます。 
+
+
+
+          イーサリアムとEthereum Classicの分割の詳細については、 [history](/knowledge/history) と [geneis](/why-classic/genesis) セクションを参照してください。
+      whitepaper:
+        question: Ethereum Classicにはホワイトペーパーはありますか?
+      roadmap:
+        question: Ethereum Classicのロードマップはどこにありますか?
+        answer: |
+          トップダウンのリーダーシップのない分散型プロジェクトとして、Bitcoinと同様に、正式なエグゼクティブロードマップはありません。 このプロトコルは、
+
+          (/development/ecips) (ECIP) プロセスを通じて草の根の協働によって継続的に改善されています。 
+
+           [future](/knowledge/future) セクションで、潜在的なアップグレードについての詳細を見つけることができます。
+      origins:
+        question: Ethereum Classicはなぜ存在するのですか?
+      codeIsLaw:
+        question: '"コードは法律である"とは何を意味するのでしょうか?'
+        answer: |
+          「コードは法律である」は、当局が有効な契約の運用や取引をオンチェーンで妨害する能力を持たない理想的なものです。 世界の状態を大幅に改善する可能性のある多くの有望な利益を可能にしています
+
+          代替の「コードは法律ではない」は、ブロックチェーン技術の黎明期以前の標準的な状況でした。 破損したオフチェーンの意思決定プロセスは、契約と取引の結果を決定します。 
+
+
+
+          [Code is Law](/why-classic/code-is-law) セクションでこの概念のニュアンスについて詳しく学ぶことができます。
+      decentralization:
+        question: なぜ私は分散化を気にする必要がありますか?
+        answer: |
+          地方分権化は「コードは法律」の前提条件です。 これにより、参加者はレベルのプレイフィールドで動作することができ、ブロックチェーン技術の基本的な価値を解放することができます。 多くのブロックチェーンプロジェクトは、彼らの主張にもかかわらず、十分に分散化されておらず、それらを捕捉して検閲しやすくします。
+
+          詳細については、 [decentralism](/why-classic/decentralism) セクションを参照してください。
+      who:
+        question: Ethereum Classicプロジェクトを担当するのは誰ですか?
+        answer: |
+          Bitcoinと同様に、Ethereum Classic Projectを担当するエンティティはありません。 その代わりに、一般的な原則に従う個人やチームは、許可のない草の根のDo-ocracyに貢献します。 この組織構造にはいくつかの欠点がありますが、プロジェクトを特定の種類のキャプチャに免疫化するため、長期的な生存を向上させます。 したがって、ETCにはトップダウンのリーダーシップはなく、このウェブサイトやEthereum Classicクライアントソフトウェアを含む「公式なものはありません」。 それにもかかわらず、エコシステム内で活動する著名なチームが存在し、彼らの評判、実績、貢献に基づいて非公式な影響力を得ている。
+
+
+
+          Ethereum Classicの自己組織化コミュニティの詳細については、 [community](/community) および [foundation](/knowledge/foundation) セクションを参照してください。
+      proofOfWork:
+        question: Ethereum Classicはなぜプルーフ・オブ・ステークを使用しないのですか?
+        answer: |
+          Ethereum Classicが検閲抵抗を優先しているため、コミュニティは試行錯誤した真のProof of Workコンセンサスメカニズムを維持することを決定しました。 Proof of Stakeの様々なフレーバーがPoWと同じセキュリティ保証に一致しない理由はたくさんあります。 要するにセキュリティや分散化のトレードオフが関わっていて 検閲の影響を受けやすいのです
+
+          [Proof of Work](/why-classic/of-work) セクションで、Ethereum Classicの決定についての詳細を学ぶことができます。
+      stats:
+        question: Ethereum Classicのネットワーク状況については、どのように確認できますか?
+      news:
+        question: ETCの出来事についてどのように最新の状態に保つことができますか?
