@@ -1,61 +1,33 @@
-__contribute: 1
-__contributors:
-  - arvicco
-  - bobsummerwill
-  - cseberino
-  - dax-classix
-  - dax-classix
-  - gitr0n1n
-  - IstoraMandiri
-  - lgn21st
-  - matthewjamesr
-  - ProphetDaniel
-  - ProphetDaniel
-  - pyskell
-  - realcodywburns
-  - redsn0w0
-  - TheEnthusiasticAs
-  - Zorlin
 items:
   main:
-    __type: links
-    title: Core Principles
-    description: This section contains a selection of the most important articles that dive deep into The Ethereum Classic Foundation's underlying philosophy. These are the ideas that ultimately keep the Original Ethereum Vision going.
+    title: 核心原则
+    description: 本节载有一些最重要的文章，这些文章深入到以太基姆经典基金会的基本哲学中。 这些是最终保持原始《以太空眼光》的想法。
     items:
       Declaration of Independence:
-        name: Declaration of Independence
-        __link: /blog/2016-08-13-declaration-of-independence
-        description: A statement of ETC's reason for being, a list of grievances, and a description of its principles and goals. It is one of Ethereum Classic's early founding documents, originally published in August 2016 and translated into many languages.
+        name: 独立宣言
+        description: 一份关于考试委员会成立理由的说明，一份冤情清单，以及一份关于其原则和目标的说明。 它是Ethereum Classic的早期创始文件之一，最初于2016年8月出版，翻译成多种语文。
       A Crypto-Decentralist Manifesto:
         name: A Crypto-Decentralist Manifesto
-        __link: /blog/2016-07-11-manifesto
-        description: Another influential document from Ethereum Classic's early days. It outlines the core values of decentralization, and helps inform decision making within the ETC communtiy.
+        description: 另一份有影响力的文件来自以太古典早期，它概述了权力下放的核心价值，并有助于为考试和测验委员会内部的决策提供信息。
       Ethereum Classic Vision:
-        name: Ethereum Classic Vision
-        __link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
-        description: How Ethereum Classic will be a successful computing platform and why ETC is an excellent store of value.
+        name: Ethereum 经典视图
+        description: Etherum经典如何成为一个成功的计算平台，以及为什么ETC是一个极好的价值存储。
       keepEtcClassic:
-        name: Let's Keep Ethereum Classic Classic
-        __link: https://ethereumclassicclassic.org
-        description: An in-depth reminder about the importance of defending the principles of Ethereum Classic, in response to a (now withdrawn) Treasury Proposal.
+        name: 让我们保持以太古典经典
+        description: 深入提醒我们，针对财政部的一项提议（现已撤回），必须捍卫以太瑟姆公会的原则。
   past:
-    __type: links
-    title: The Shoulders of Giants
-    description: Ethereum Classic could not exist without other trailblazing projects such as the original blockchain groundwork and decentralist philosophy of Bitcoin, and the Turing-complete Smart Contract platform technology provided by The Ethereum Project.
+    title: 巨人的支持者
+    description: 没有其他开拓性项目，如原始的区块链基础和比特币的分散式哲学，太空经典就不可能存在。 以及Etherum项目提供的Turing-complete Smart Contract 平台技术。
     items:
       The idea of Smart Contracts:
-        name: The idea of Smart Contracts
-        __link: https://web.archive.org/web/20020316215014/http://szabo.best.vwh.net/idea.html
-        description: Nick Szabo's idea of smart contracts post from 1997.
+        name: 智能合同的概念
+        description: Nick Szabo的智能合约概念从1997年开始。
       Bitcoin A Peer-to-Peer Electronic Cash System:
-        name: "Bitcoin: A Peer-to-Peer Electronic Cash System"
-        __link: https://bitcoin.org/en/bitcoin-paper
-        description: Satoshi Nakamoto's original whitepaper is still recommended reading for anyone studying how Bitcoin and Blockchains work.
+        name: "比特币：对等电子现金系统"
+        description: 仍建议任何研究比特币和区块链如何工作的人阅读Satoshi Nakamoto的原始白皮书。
       ethWhitepaper:
-        name: "Ethereum Whitepaper"
-        __link: https://ethereum.org/en/whitepaper/
-        description: The Original Ethereum Whitepaper explains how the utility of blockchain technology is unleashed by "solving the political problem of deciding who gets to influence the consensus", and the concept of DAOs, Stablecoins, etc.
+        name: "以太空白纸"
+        description: 原始Etherum Whitepaper 解释了区块链技术是如何通过“解决决定谁要影响共识的政治问题”来发挥效用的。 以及DAO、Stablecoins等概念。
       ethYellowPaper:
-        name: "Ethereum Yellowpaper"
-        __link: https://ethereum.github.io/yellowpaper/paper.pdf
-        description: The original technical description of the Ethereum Protocol, by Gavin Wood
+        name: "以太空黄皮纸"
+        description: Gavin Wood对《以太坊议定书》的最初技术说明
