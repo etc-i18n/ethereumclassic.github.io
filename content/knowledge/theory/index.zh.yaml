@@ -1,75 +1,45 @@
-__contribute: 1
-title: Theory & Research
-__updated: 2022-02-22
-seo: A collection of articles covering a wide array of topics that relate to Ethereum Classic's underlying philosophy, history, and unique value proposition.
+title: 理论与研究
+seo: 一系列涉及以太基姆古典的基本哲学、历史和独特价值主张的广泛专题的文章。
 description: |
-  Above and beyond Ethereum Classic's core tenants, a whole school of thought based on the consequences of The Hard Fork and continuation of The Original Ethereum Vision has emerged.
+  超越了以太坊公会的核心租户， 根据《硬福克》的后果和原始《以太坊展望》的继续，形成了一整套思路。
 
-  A collection of articles have been gathered below that explore the impact of ETC, its history, and a wider range of theory and research topics, to help further your understanding of Ethereum Classic's unique position and unbounded potential.
-__contributors:
-  - arvicco
-  - bobsummerwill
-  - cseberino
-  - dax-classix
-  - dax-classix
-  - gitr0n1n
-  - IstoraMandiri
-  - lgn21st
-  - matthewjamesr
-  - ProphetDaniel
-  - ProphetDaniel
-  - pyskell
-  - realcodywburns
-  - redsn0w0
-  - TheEnthusiasticAs
-  - Zorlin
+  下面收集了一系列文章，探讨了ETC及其历史的影响。 还有更广泛的理论和研究课题，帮助你进一步了解亚瑟姆古典的独特地位和无限潜力。
 items:
   links:
-    __type: links
     items:
       Etherplan:
-        name: Etherplan
-        __link: https://etherplan.com
-        description: Donald McIntyre's Etherplan is a prominent Ethereum Classic theory and research source. McIntyre is responsible for authoring several of the following articles.
+        name: 以太计划
+        description: Donald McIntyre's Etherplan 是著名的Etherum经典理论和研究来源。
       Ethereum Classic Vision:
-        name: Ethereum Classic Vision
-        __link: https://etherplan.com/2019/08/14/ethereum-classic-vision/8595/
-        description: How Ethereum Classic will be a successful computing platform and why ETC is an excellent store of value.
+        name: Ethereum 经典视图
+        description: Etherum经典如何成为一个成功的计算平台，以及为什么ETC是一个极好的价值存储。
       Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
-        name: Ethereum Classic vs. Ethereum 2.0, What is the Difference?
-        __link: https://etherplan.com/2019/07/23/ethereum-classic-vs-ethereum-2-0-what-is-the-difference/8425/
-        description: It can be said that Ethereum Classic is a conservatively run system, focused on security, and the upcoming Ethereum 2.0 is a progressively run system, focused on performance.
+        name: 以太古经典与以太空为基础的 2.0 之间有什么区别？
+        description: 可以说，埃瑟姆经典是一种以安全为重点的保守管理系统，也是即将推出的以埃瑟姆2为重点的系统。 这是一个以业绩为重点的逐步运作的系统。
       Phyro's Recap of ETC History:
-        name: Phyro's Recap of ETC History
-        __link: https://phyro.github.io/etc-history/
+        name: Phyro的ETC历史记录
         description: |
-          A detailed overview of the story behind ETC by a long term ETCer.
-          *You can also read more about ETC history on the [roadmap](/knowledge/roadmap).*
+          详细概述ETC公司的长期故事。
+          *您也可以在 [roadmap](/knowledge/roadmap)上阅读更多关于ETC 历史的信息。*
       /blog/2016-12-06-why/:
-        name: Why Would I Choose To Run My Application On Ethereum / Classic Instead Of The World Wide Web?
-        description: Benefits over the World Wide Web
-        __link: /blog/2016-12-06-why/
+        name: 为什么我要选择在Etherum/经典上运行我的应用程序，而不是万维网？
+        description: 万维网带来的利益
       Ethereum Classic Opportunities:
-        name: Ethereum Classic Opportunities
-        __link: https://etherplan.com/2019/08/14/ethereum-classic-opportunities/8614/
-        description: An overview of the wild potential of Ethereum Classic
+        name: 以太坊经典商机
+        description: 以太坊经典野生潜力概述
       How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
-        name: How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy
-        __link: https://etherplan.com/2019/07/22/how-to-have-a-vision-for-ethereum-classic-without-creating-a-governance-orgy/8359/
-        description: An approach to maintaining progress whilst avoiding the problems of blockchain governance
+        name: 如何在不创造治理神学的情况下为以太基古典树立一个视野。
+        description: A. 保持进展同时避免区块链治理问题的办法
       The Ethereum Classic vs Ethereum 1.x Dichotomy:
-        name: The Ethereum Classic vs Ethereum 1.x Dichotomy
-        __link: https://etherplan.com/2019/09/18/the-ethereum-classic-vs-ethereum-1-x-dichotomy/8752/
-        description: What will be ETC's relationship with ETH 1.X when Ethereum moves to Proof of Stake?
+        name: 以太古经典与以太异常为主。 1.x 二次切割。
+        description: Etherum走向利益证明时，ETC与ETH 1.X的关系是什么？
       Why Proof of Stake is Less Secure Than Proof of Work:
-        name: Why Proof of Stake is Less Secure Than Proof of Work
-        __link: https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/
-        description: By anchoring to a proof of work physical base, the subjective layer acquires orders of magnitude more objectivity, thus security.
+        name: 为什么利益攸关方的证明比工作证明更安全？
+        description: 主观层通过以工作体质为基础的证据为依据，从而获得了更加客观的程度，从而更加安全。
       Ethereum Classic (ETC) Wiki:
         name: Ethereum Classic (ETC) Wiki
-        __link: https://github.com/ethereumclassic/wiki/wiki
-        description: Some core philosophies of Ethereum's ETC chain.
+        description: Etherum的ETC链的一些核心理念。
       Categories of Decentralization:
-        name: Categories of Decentralization
-        link: https://taek.org/posts-categories-of-decentralization
-        description: Five categories intended to provide a robust baseline for reasoning about the trust assumptions made by a platform or protocol, without trying to capture every important detail or provide definite certainty that one protocol is more decentralized than another.
+        name: 权力下放的类别
+        link: https://taek.org/posts-categories-distribution
+        description: 五个类别旨在为平台或协议所做信托假设的推理提供可靠的基线。 不试图抓住每个重要细节或确定某个协议比另一个协议更分散。
