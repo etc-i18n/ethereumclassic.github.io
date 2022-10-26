@@ -1,0 +1,22 @@
+title: アプリとプロトコル
+seo: イーサリアムクラシック上に構築された分散型アプリとプロトコル、NFT、ゲーム、アイデンティティシステム、DEX、ファイナンス製品など...
+description: Ethereum Classicは、分散型アプリケーションとプロトコルの増大するコレクションをホストしています。 このページは、ETCネットワーク開発の状態の概要です。
+types:
+  nfts:
+    title: NFT
+    description: Non-Fungible Tokensは、2021とそれ以降で暗号通貨スペースを奪った偽造品です。
+  games:
+    title: ゲーム
+    description: Ethereum Classicブロックチェーンに祀られているインタラクティブなゲームは、エンターテインメントの新たなフロンティアに到達します。
+  identity:
+    title: Identity Systems
+    description: 相互運用可能なアイデンティティは、Sybil耐性分散システムの作成に役割を果たし、評判とガバナンスを促進します。
+  interoperability:
+    title: 相互運用性
+    description: 価値とデータをブロックチェーン間で共有することができるクロスチェーン技術は、ネットワーク効果を高め、関係するすべての人にとってパイを大きくします。
+  finance:
+    title: ファイナンス
+    description: 分散型ファイナンス(DeFi)、分散型エクスチェンジ(DEX)、分散型自律組織(DAO)、頭字語、ブロックチェーン技術はこれらの新しい経済車両の建設に優れています。
+  other:
+    title: その他
+    description: ユニークなアプリケーションとプロトコルはすべて、既存のカテゴリに収まらなかった。
