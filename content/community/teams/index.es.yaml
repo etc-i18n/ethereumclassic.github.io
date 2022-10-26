@@ -1,0 +1,56 @@
+title: Equipos de Desarrollo
+seo: Una lista de las principales organizaciones que anteriormente o están contribuyendo a Ethereum Classic.
+description: |
+  Ethereum Classic es un ecosistema de desarrollo descentralizado que significa que no hay ningún equipo 'oficial' o jerarquía formal. Esta comunidad mundial de desarrollo es una "doocracia" sin permisos, en la que cualquiera puede participar. Los individuos y equipos eligen tareas para sí mismos y las ejecutamos. Colectivamente establecemos [rough consensus](https://en.wikipedia. rg/wiki/Rough_consensus) a través del proceso [Ethereum Classic Improvement Proposal (ECIP)](https://ecips.ethereumclassic.org/).
+
+  Esta es una lista de destacados equipos que han contribuido a Ethereum Classic desde el bloque génesis del proyecto el 30 de julio de 2015. El ecosistema Ethereum Classic agradece todos los esfuerzos de desarrollo de nivel de protocolo de individuos, voluntarios y equipos.
+items:
+  teams:
+    columnItems:
+      year:
+        name: Año
+      name:
+        name: Nombre del equipo
+      social:
+        name: Social
+      active:
+        name: Activo
+    items:
+      Ethereum Foundation:
+        name: Cimiento Ethereum
+      Parity Technologies:
+        name: Tecnologías de paridad
+      ETC Consortium:
+        name: ETC Consortium
+      ETCDEV:
+        name: ETCDEV
+      Grothendieck:
+        name: IOHK Mantis
+      ETC Cooperative:
+        name: Cooperativa ETC
+      Ethereum Commonwealth:
+        name: Commonwealth de eteo
+      Grayscale:
+        name: Grayscale
+      commonwealth.gg:
+        name: Commonwealth.gg
+      ETC Labs:
+        name: Laboratorios ETC
+      POA Network:
+        name: Red POA
+      Chippr Robotics:
+        name: Robótica de Chippr
+      ETC Core:
+        name: Núcleo ETC
+      ChainSafe:
+        name: Cena segura
+      Core Paper:
+        name: Papel central
+      Second State:
+        name: Segundo Estado
+      Byzantine Fault:
+        name: Fallo de Byzantine
+      Gödel Labs:
+        name: Gurú del Labs
+      Storj Labs:
+        name: Storj Labs
