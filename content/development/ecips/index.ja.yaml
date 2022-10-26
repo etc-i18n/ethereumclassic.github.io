@@ -1,0 +1,32 @@
+items:
+  table:
+    number: 数値
+    author: 著者
+    columnItems:
+      title:
+        name: タイトル
+      author:
+        name: 著者
+    items:
+      Delay Difficulty Bomb Explosion:
+        title: 難易度の高い爆弾爆発遅延
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        title: 取引スパム攻撃を軽減するためのIO重量運用の長期ガスコストの変更
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        title: 金融政策とイーサリアムクラシック排出スケジュールの最終変更
+      Monetary policy rounding specification:
+        title: 金融政策の丸め仕様
+      Remove Difficulty Bomb:
+        title: 難易度の高いトラップを削除
+      Clique proof-of-authority consensus protocol:
+        title: Clique proof-of-authority コンセンサスプロトコル
+      Status Codes:
+        title: ステータスコード：
+      Atlantis EVM and Protocol Upgrades:
+        title: アトランティスのEVMとプロトコルのアップグレード
+      Agharta EVM and Protocol Upgrades:
+        title: Agharta EVMとプロトコルのアップグレード
+      Phoenix EVM and Protocol Upgrades:
+        title: Phoenix EVMおよびプロトコルのアップグレード
+      Calibrate Epoch Duration:
+        title: エポックのキャリブレーション時間

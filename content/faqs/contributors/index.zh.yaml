@@ -1,0 +1,44 @@
+title: 贡献者常见问题
+seo: 经常问到那些想要加入ETC社区并为Ethereum Classic作出贡献的人的问题。
+info: 无法在这里找到您问题的答案吗？请尝试在 ETC 社区 [discord](https://eferumclassic.org/discord) 服务器中查询。
+__contribute: true
+description: 如果你想知道如何参与埃瑟姆经典社区，你就在合适的地方。
+items:
+  questions:
+    items:
+      developer:
+        question: 我是否需要成为开发者才能为以太基古典做贡献？
+        answer: 虽然开发者为基础设施建设提供了关键的价值，但非开发者发挥的作用可能更加重要。 无论你的才能如何，你都可以通过其他方式提供帮助，如协调和帮助传播以太基姆古典的文字， 反过来，又招聘更多的开发者和其他招聘者。
+      channels:
+        question: 我怎样才能加入ETC社区？
+        answer: 您不需要申请加入权限。只需开始贡献！
+      tasks:
+        question: 我能帮助哪些任务？
+        answer: 项目可以使用您的帮助的物品列表保存在[Ethereum Classic Volunteer GitHub 存储库](https://github.com/theretherumclassic/volunteer)。
+      where:
+        question: 以太坊经典支持者大多在哪里？
+        answer: 说英语的 ETC 社区最活跃于 [Discord](https://eferumclassic.org/discord)。 您可以在[Social Channels](/community/channels)部分找到其他社区论坛，包括其他语言的论坛。
+      ecips:
+        question: 我如何建议改进以太坊典？
+        answer: 要建议协议升级，您可以使用 [以太坊经典改进建议](/development/ecips) 进程。 但它值得首先与其他社区成员一起在其中一个社区频道[Social Channels](/community/channels)集思广益。
+      toxicity:
+        question: 我听说ETC社区有毒。
+        answer: |
+          因为没有人需要许可才能成为ETC社区的一部分，所以它吸引了各种字符， 有时甚至更令人不同意。 此外，许多电子数据交换公司和更广泛的加密货币空间的参与者都是伪装匿名的，所以过滤器的数量较少。 不要采取一个人的态度来代表整个社区，请不要让这种态度阻止你做出贡献。
+
+          如果你喜欢一个更加温和的对话, 请试试 [ETC Coop Discord](https://discord.gg/5wDyd6u6pU)，它在通信中执行更严格的规则.
+      events:
+        question: 是否有任何以太空为基础的经典活动？
+        answer: 是的，每年举行会议、每周社区通话和非正常的开发人员通话。 您可以在 [events](/community/events) 部分更多地了解当前、过去和未来的事件。
+      website:
+        question: 如何将我的应用、视频或文章添加到这个网站？
+        answer: 请查看此网站的 [GitHub 仓库](https://github.com/etherumclassic/eyasumclassic.github.io) 获取说明。
+      tweets:
+        question: 我如何建议推文？
+        answer: '[@eth_classic](https://github.com/etherumclassic/tweets-eth_classic) 和 [@ETC_Network](https://github.com/etherumclassic/tweets-et_network) Twitter 帐户接受社区推荐的推文。 只需用标签`#ETCtweets`来推出你建议的tweets，并将由社区在 `#ETCtweets` Discord 线程中审查。'
+      grants:
+        question: 我能拿到钱来为以太坊典型贡献吗？
+        answer: |
+          付款的主要方法是通过温暖模糊的幸福感觉。 认识到你正在通过沿着重要技术提供帮助，为人类的未来做出贡献。
+
+          除此之外，还有一些偶尔的赠款方案，您应该通过关注社区内的对话来保持眼睛。
