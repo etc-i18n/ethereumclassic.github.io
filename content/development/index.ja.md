@@ -1,11 +1,11 @@
 ---
-title: Development
-seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
+title: 開発
+seo: Ethereum Classicへのアプリケーションの貢献またはデプロイについて詳しく知りたい開発者のためのリソースのコレクション。
 updated: 2022-02-22
 ---
 
-This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.
+このセクションには、Ethereum Classicに貢献またはデプロイを計画している開発者が有用と思うリソースのリストがあります。
 
-If you are just getting started with development on Ethereum Classic, check out the [development guides](/guides/development) section.
+Ethereum Classicで開発を開始したばかりの場合は、 [開発ガイド](/guides/development) セクションを参照してください。
 
-If you have experience developing on Ethereum, you'll be pleased to find out that nearly all the development concepts and tools used with Ethereum are compatible with Ethereum Classic, so your typical workflow is unlikely to change when you deploy to Classic.
+あなたがEthereumで開発した経験があるなら Ethereumで使用されている開発コンセプトとツールのほとんどがEthereum Classicと互換性があることがわかります。 そのため、Classic にデプロイした場合、一般的なワークフローは変更されることはありません。
