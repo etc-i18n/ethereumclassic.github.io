@@ -1,6 +1,6 @@
 ---
 title: 网络工具
-seo: 选定一些工具和资源，用于检查以太西姆经典网络并与之互动。 RPC 端点、区块链探索器和网络监视器。
+seo: A selection of tools and resources for inspecting and interacting with the Ethereum Classic network. RPC Endpoints, Blockchain Explorers, and Network Monitors. RPC 端点、区块链探索器和网络监视器。
 updated: 2022-02-22
 ---
 
