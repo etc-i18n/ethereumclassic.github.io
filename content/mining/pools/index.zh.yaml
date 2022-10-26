@@ -1,214 +1,127 @@
-__disclaimer: verify
-__updated: 2022-02-22
-__contribute: 1
-title: Mining Pools
-seo: A list of popular mining pools that you can join to support Ethereum Classic and mine ETC.
+title: 矿池子
+seo: 您可以加入的热门矿池列表来支持以太坊经典和矿井ETC。
 description: |
-  A mining pool is a joint group of cryptocurrency miners who combine heir computational resources over a network to strengthen the probability of finding a block or otherwise successfully mining for cryptocurrency.
+  采矿池是一个由加密矿工组成的联合群组，他们将继承计算资源与网络结合起来，以加强找到区块或以其他方式成功开采加密货币的概率。
 
-  This page contains a non-exhaustive list of pools that support Ethereum Classic.
+  此页面包含一个支持以太久传统的集合列表。
 
-  The most popular pools have been highlighted below to help you narrow down your search. You can find live updates about the size of each mining pool in the [Network Monitors](/network/monitors) section. If a pool is nearing 30% of total network hashrate consider pointing your hashrate to a different pool to help decentralize the network's mining hashrate. Some large miners spread their hashrate over multiple pools to help in these efforts. As the network continues to grow, we should see hashrate spread out over many pools as pool fees become more competitive to attract miner hashrate.
-__contributors:
-  - arvicco
-  - bobsummerwill
-  - cicorias
-  - dax-classix
-  - edradev
-  - ETC365
-  - gitr0n1n
-  - herominers
-  - IstoraMandiri
-  - karpusa
-  - MiningCryptoLive
-  - needles61
-  - ProphetDaniel
-  - pyskell
-  - redsn0w0
-  - sneg55
-  - TheEnthusiasticAs
-  - xiphon
-  - zz0412
-  - Jamyye
+  最受欢迎的集合已在下面突出显示，以帮助您缩小搜索范围。 您可以在[网络监视器](/network/监视器)部分找到每个矿池大小的实况更新。 如果一个池接近网络哈希率总数的30%，考虑将您的哈希率指向另一个池，以帮助分散网络的采矿哈希率。 一些大型矿工在多个池中散布其散装水箱，以帮助开展这些工作。 随着网络的继续发展，我们应该看到散列率分散在许多集合中，因为集合费用越来越具有吸引矿工散货的竞争性。
 items:
   pools:
-    __type: buttons
     items:
       2Miners:
-        name: 2Miners
-        __link: https://2miners.com/etc-mining-pool
-        __primary: 1
+        name: 2矿工
       AltPool:
         name: AltPool
-        __link: http://etc.altpool.pro/
       AntPool:
         name: AntPool
-        __link: https://antpool.com/
       BaikalMine:
         name: BaikalMine
-        __link: https://baikalmine.com/en/pplns/etc/
       BAYPOOL:
-        name: BAYPOOL
-        __link: https://etc.baypool.org/
+        name: 天花座
       Beepool:
-        name: Beepool
-        __link: https://beepool.org/coindetail/etc
+        name: 蜜蜂库
       Binance Pool:
         name: Binance Pool
-        __link: https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
         __primary: true
       BTC.com:
         name: BTC.com
-        __link: https://pool.btc.com/
       BWPool:
         name: BWPool
-        __link: https://etc.bwpool.net/pool/i
       Clona:
-        name: Clona
-        __link: https://etc.clona.ru
+        name: 克洛纳
       Cominers:
-        name: Cominers
-        __link: https://etc.cominers.org/
+        name: 进来者
       Comining:
-        name: Comining
-        __link: https://comining.io/
+        name: 正在入门
       CoolPool:
-        name: CoolPool
-        __link: https://coolpool.top/
+        name: 冷却库
       CrazyPool:
         name: CrazyPool
-        __link: https://crazypool.org/
         __primary: true
       Cruxpool:
-        name: Cruxpool
-        __link: https://www.cruxpool.com/etc/
+        name: Cruxpoint
       DigiPools:
         name: DigiPools
-        __link: https://etc.digipools.org/
       E4Pool:
-        name: E4Pool
-        __link: https://e4pool.com/
+        name: E4库
       EMCD:
         name: EMCD
-        __link: https://pool.emcd.io/
       ETC Mining Club:
-        name: ETC Mining Club
-        __link: https://www.etcmining.club/
+        name: ETC 采矿Club
       ETC-POOL:
-        name: ETC-POOL
-        __link: https://etc-pool.com/
+        name: ETC-POL
       ETC Pool US:
-        name: ETCPool.us
-        __link: https://etcpool.us/
+        name: 我的
         __primary: true
       Ethermine:
         name: Ethermine
-        __link: https://etc.ethermine.org/
-        __primary: 1
       EZil:
-        name: EZil
-        __link: https://ezil.me/
+        name: 埃西尔
       f2pool:
-        name: f2pool
-        __link: https://www.f2pool.com/
-        __primary: 1
+        name: f2池子
       FairPool:
-        name: FairPool
-        __link: https://etc.fairpool.xyz/
+        name: 法尔普尔
       FirePool:
         name: FirePool
-        __link: https://firepool.com/
       flexpool:
-        name: Flexpool
-        __link: https://flexpool.io/
+        name: Flexpore
       HashBlue:
         name: HashBlue
-        __link: https://hash.blue
         __primary: true
       HashCity:
-        name: HashCity
-        __link: https://hashcity.org/
+        name: 哈希城
       Hellominer:
-        name: Hellominer
-        __link: https://hellominer.com/ETC/EtcHome.aspx
+        name: Hellinder
       HeroMiners:
-        name: HeroMiners
-        __link: https://etc.herominers.com/
+        name: 牧民矿工
       Hiveon:
         name: Hiveon
-        __link: https://hiveon.net/
-        __primary: 1
       HuobiPool:
         name: HuobiPool
-        __link: https://www.hpt.com/
       ICanMining:
         name: ICanMining
-        __link: https://icanmining.ru/?l=en&d=pool&pool=etc
       K1Pool:
-        name: K1Pool
-        __link: https://k1pool.com/
+        name: K1库
       KryptexPool:
         name: KryptexPool
-        __link: https://kryptex.network/en/etc
       MaxHash:
         name: MaxHash
-        __link: https://etcpool.maxhash.org/
       MinerGate:
         name: MinerGate
-        __link: https://minergate.com/etc-mining-pool
       Mole Pool:
-        name: Mole Pool
-        __link: http://mole-pool.net/
+        name: 摩尔库
       MyMiners:
-        name: MyMiners
-        __link: https://etc.myminers.org/
+        name: 我的矿工
       Nanopool:
         name: Nanopool
-        __link: https://etc.nanopool.org/
-        __primary: 1
       Open ETC Pool:
-        name: Open ETC Pool
-        __link: https://github.com/etclabscore/open-etc-pool
-        __primary: 1
+        name: 打开 ETC 库
       Pearpool:
-        name: Pearpool
-        __link: https://etc.pearpool.com/
+        name: 珍宝箱
       Prohashing:
-        name: Prohashing
-        __link: https://prohashing.com/
+        name: 推送
       RociMining:
-        name: Roci Mining
-        __link: http://rocimining.co.uk/
+        name: 罗奇采矿公司
       RuPool:
         name: RuPool
-        __link: https://rupool.pro/
       SoloPool:
         name: SoloPool
-        __link: https://etc.solopool.org/
       ua-mining:
         name: ua-mining
-        __link: https://etc.ua-mining.com
       ViaBTC:
         name: ViaBTC
-        __link: https://www.viabtc.com/
       Wattpool:
         name: Wattpool
-        __link: https://wattpool.net/pools
       Whalesburg:
-        name: Whalesburg
-        __link: https://whalesburg.com/
+        name: 沃莱斯堡
       WoolyPooly:
-        name: WoolyPooly
-        __link: 'https://woolypooly.com/#/coin/etc'
+        name: 羊毛套装
       XnPool:
         name: XnPool
-        __link: https://www.xnpool.com/
       Yu-Tam:
         name: Yu-Tam
-        __link: https://etc.yu-tam.contact/
       Zergpool:
         name: Zergpool
-        __link: http://zergpool.com/site/mining?algo=ethash
       ŻET:
-        name: ŻET
-        __link: https://etc.zet-tech.eu/
+        name: ZcessET
