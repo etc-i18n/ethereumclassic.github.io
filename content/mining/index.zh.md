@@ -4,10 +4,10 @@ seo: 为什么以太坊经典是对加密货币开采的一个很大的长期选
 updated: 2022-02-22
 ---
 
-Etherum的近期/近期切换到Stake a.k.a。 “合并”“太空”经典成为最大的智能工作合同平台，继承了以前开采过以太空矿的许多矿工。 因为以太机类的散列算法与ETHash几乎完全相同，因此它支持相同的硬件， 采矿ETC应当简单地转向支持ETC的采矿池。
+Etherum的近期/近期切换到Stake a.k.a。 With Ethereum's imminent/recent switch to Proof of Stake a.k.a. "The Merge", Ethereum Classic becomes the largest Proof of Work Smart Contract Platform and inherits many of the miners that previously mined Ethereum. As Ethereum Classic's hashing algorithm is almost identical to ETHash, so it supports the same hardware, and mining ETC should be as simple switching to a mining pool that supports ETC. 因为以太机类的散列算法与ETHash几乎完全相同，因此它支持相同的硬件， 采矿ETC应当简单地转向支持ETC的采矿池。
 
-以太久经典有长期 [承诺](/why-classic/proof-of-work) 证明工作， 一个经过考验和真正协商一致的机制，为建立不可阻挡的应用奠定坚实的基础。 这种承诺并不是偶然发生的，而是作为一种比其他机制有意设计的选择。 正如“利益证明”等，这是出于固有的安全取舍。
+Ethereum Classic has a long term [commitment](/why-classic/proof-of-work) to Proof of Work, a tried and true consensus mechanism that provides a solid foundation on which to Build Unstoppable Applications. This commitment is not out of happenstance, but as an intentional design choice over other mechanisms, such as Proof of Stake, that come with inherent security trade-offs. 这种承诺并不是偶然发生的，而是作为一种比其他机制有意设计的选择。 正如“利益证明”等，这是出于固有的安全取舍。
 
-采矿是任何工作区块链证明中最重要的元素之一。 由于提供了安全，节点可以就网络状态达成共识。 作为提供这种服务的交换，世界上任何人都不经许可， 可以贡献散列功率，并根据排放曲线和交易费获得每个区块的奖励。
+Mining is one of the most important elements of any Proof of Work blockchain, as it provides security allows nodes to reach consensus about the state of the network. In exchange for providing this service, anyone in the world, without permission, can contribute hash power and be rewarded every block with ETC, based on the emission curve and transaction fees. 作为提供这种服务的交换，世界上任何人都不经许可， 可以贡献散列功率，并根据排放曲线和交易费获得每个区块的奖励。
 
-下面是为以太西姆古典开发的矿物资源并非详尽无遗。 如果你有采矿问题, 在 [以太坊经典Discord](/community/channels) 中有一个活跃的采矿频道。
+下面是为以太西姆古典开发的矿物资源并非详尽无遗。 Below is a non-exhaustive collection of mining resources developed for Ethereum Classic. If you have questions about mining, there is an active Mining channel in the [Ethereum Classic Discord](/community/channels).
