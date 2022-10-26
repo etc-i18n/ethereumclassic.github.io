@@ -1,6 +1,6 @@
 ---
-title: ECIPs
-seo: A summary of the Ethereum Classic Improvement Proposal (ECIP) process, and a list of accepted ECIPs.
+title: ECIP
+seo: Ethereum Classic改善提案(ECIP)プロセスの概要、および受け入れられたECIPのリスト。
 license: CC-BY
 contribute: true
 updated: 2022-02-22
@@ -10,35 +10,35 @@ contributors:
   - TheEnthusiasticAs
 ---
 
-## [Ethereum Classic Improvement Proposals](https://ecips.ethereumclassic.org/)
+## [イーサリアムクラシック改善提案](https://ecips.ethereumclassic.org/)
 
 ### Summary
 
-This document is a summary of the Ethereum Classic Improvement Proposal (ECIP) process. To view the full description of the ECIP process please read ECIP-1000 which is the formal document generally acknowledged by the Ethereum Classic (ETC) ecosystem, by rough consensus, as the most suitable system to propose new standard changes to the ETC protocol, informational documents, or ECIP process suggestions.
+このドキュメントは、Ethereum Classic Improvement Proposal (ECIP) プロセスの概要です。 ECIPプロセスの完全な説明を見るには、Ethereum Classic(ETC)エコシステムによって一般的に認められている正式な文書であるECIP-1000をお読みください。 大まかなコンセンサスにより、ETCプロトコル、情報文書、またはECIPプロセスの提案に新しい標準的な変更を提案するのに最適なシステムとして。
 
-### Getting Started
+### はじめに
 
-After reading ECIP-1000, fork the repository and add your ECIP to it, using the provided ECIP markdown template. Submit by creating a Pull Request to the Ethereum Classic ECIPs repository.
+ECIP-1000を読んだ後、提供されたECIPマークダウンテンプレートを使用してリポジトリをフォークし、ECIPを追加します。 Ethereum Classic ECIPsリポジトリにプルリクエストを作成して送信します。
 
-### Types of Participants
+### 参加者の種類
 
-As you will see by reading this summary and the other documents suggested above, there are several parties that participate in the life cycle of an ECIP:
+この要約と上記で提案された他の文書を読むことでわかるように。 ECIPのライフサイクルに参加するいくつかの当事者がいます
 
-- **ECIP Author:** This is you! The author is the person interested in improving ETC by making a new ECIP. Therefore, responsible for learning how the process works, so he or she can effectively propose protocol changes, informational or procedural improvements. The author is also responsible for following up on the ECIP life cycle throughout all the status steps, from 'draft' to 'active' as described below, so the proposal becomes a reality. If not, it is possible that the ECIP will be eventually rejected.
-- **Editors:** Editors are developers, mainly ETC volunteers, members of the Ethereum Classic Github Organization whose responsibilities include, but are not limited to, assigning numbers to ECIPs, merging them, listing them in the ECIP directory, checking if they are ready, sound and complete, if the status steps are followed, and to check their motivation, accuracy and proper licensing terms.
-- **Developer Teams:** ETC has several developer companies and volunteer developers who work on different node clients. Because these developers are dedicated to maintaining the core protocol of Ethereum Classic, they are categorized as "core developers" or "core developer teams". Core developers are in charge of making new proposals or reviewing and accepting or rejecting proposals from other developers or teams. When they accepts new changes, they merge them into the respective clients they maintain for the ETC network.
-- **Implementors:** Once an ECIP is accepted and merged, the last step is for miners, mining pools, wallet operators, exchanges, and other full node operators to implement the changes by installing or upgrading their nodes to integrate the new changes. These operating network participants are called "implementors".
-- **Users:** Users or end users may be regular consumers, businesses, governments, non-economic node operators, investors, or other kinds of users who see when the implementors upgraded their systems and adopt the new rules for sending transactions and managing smart contracts or using applications on top of ETC. Discussion Participants: According the ECIP process, when moving ECIPs forward, authors will open for discussion their proposals. These discussions are located in public forums, Github or developer calls. Discussion participants may be core or volunteer Ethereum Classic client developers, any developers on Github willing to contribute their well reasoned opinions, and other interested stakeholders or participants in the ETC ecosystems.
+- **ECIP 著者:** これはあなたです! 著者は、新しいECIPを作ることによってETCの改善に興味を持っている人です。 したがって、プロセスがどのように機能するかを学ぶ責任があるため、プロトコルの変更、情報化、または手続き改善を効果的に提案することができます。 また、すべてのステータスステップを通じて、ECIPライフサイクルをフォローアップすることも担当します。 下記のように「草案」から「活発」へと変化し提案が現実化する。 そうでない場合、ECIP が最終的に拒否される可能性があります。
+- **エディター:** エディターは開発者で、主にETCボランティアです。 Ethereum Classic Github Organizationのメンバーは、ECIPに番号を割り当てることを含みますが、これに限定されません。 それらをマージし、それらをECIPディレクトリにリストし、準備ができているかどうかを確認し、音を出して完了します。 状況の手順に従って動機、正確さ、適切なライセンス条件を確認する場合。
+- **開発チーム:** ETCには、複数の開発会社と、異なるノードクライアントで働くボランティア開発者がいます。 これらの開発者はEthereum Classicのコアプロトコルを維持することに専念しているため、「コア開発者」または「コア開発チーム」に分類されます。 コア開発者は、新しい提案を行ったり、他の開発者やチームから提案を受け入れたり、拒否したりすることを担当しています。 新しい変更を受け入れると、ETCネットワークで管理しているそれぞれのクライアントにそれらをマージします。
+- **実装:** ECIPが受け入れられマージされると、最後のステップは鉱夫、マイニングプール、ウォレットオペレータのためのものです。 交換、およびその他のフルノード演算子は、新しい変更を統合するためにノードをインストールまたはアップグレードすることによって変更を実装します。 これらのオペレーティングネットワークの参加者は「実装者」と呼ばれます。
+- **ユーザー:** ユーザーまたはエンドユーザーは、通常の消費者、企業、政府、非経済的ノード事業者、投資家である可能性があります。 または、実装者がシステムをアップグレードし、トランザクションの送信やスマートコントラクトの管理、ETC上でアプリケーションを使用するための新しいルールを採用することを確認する他の種類のユーザー。 ディスカッション参加者:ECIPプロセスによると、ECIPを前進させる場合、著者は自分の提案について議論するために開かれます。 これらのディスカッションは、公開フォーラム、Github、または開発者の呼び出しにあります。 ディスカッション参加者は、コアまたはボランティアのEthereum Classicクライアント開発者である可能性があります Githubの開発者なら誰でも、ETCエコシステムの他の利害関係者や参加者に十分な理由を持った意見を提供したいと考えています。
 
-### Contributing Steps
+### ステップへの貢献
 
-- Review ECIP-1000.
-- Fork the repository by clicking "Fork" in the top right.
-- Add your ECIP to your fork of the repository. There is a ECIP markdown template.
-- Submit a Pull Request to Ethereum Classic's ECIPs repository.
+- ECIP-1000 を確認します。
+- 右上の「フォーク」をクリックしてリポジトリをフォークします。
+- リポジトリのフォークに ECIP を追加します。 ECIPマークダウンテンプレートがあります。
+- Ethereum ClassicのECIPsリポジトリにプルリクエストを送信します。
 
-ECIPs Website: https://ecips.ethereumclassic.org/
+ECIPsウェブサイト: https://ecips.ethereumclassic.org/
 
-## Accepted ECIPs
+## 承認済みのECIP
 
-The following features were approved and integrated into the Ethereum Classic protocol.
+以下の機能が承認され、Ethereum Classicプロトコルに統合されました。
