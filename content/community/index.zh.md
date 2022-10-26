@@ -1,15 +1,15 @@
 ---
-title: ETC Community
+title: ETC 社区
 updated: 2022-02-22
-seo: Links to the Channels, Teams and Events that make up the Ethereum Classic community. Get involved!
+seo: 链接到构成以太坊传统社区的频道、团队和事件。 参与！
 ---
 
-Ethereum Classic is something far more than just some lines of code.
+以太久经典不仅仅是一些代码行而已。
 
-Those lines of code that define the Ethereum Classic protocol have a magical property that, thanks to economic incentives and game theory, enable otherwise totally unrelated individuals to come together and organize far more effectively, peacefully and powerfully than any other organizational structure known today.
+界定以太基姆经典协议的代码行有一种魔法属性，由于经济激励和游戏理论的缘故。 使完全无关的个人能够比今天已知的任何其他组织结构更有效、更和平和更强有力地聚集在一起。
 
-Limited not by geography, united in vision, and armed with the most powerful techno-socio-economic tools ever invented, they have the potential to revolutionize the world on a global scale.
+由于地理位置、视野一致、拥有有史以来最强有力的技术-社会经济工具而受到限制， 它们有可能在全球范围内使世界发生革命性变化。
 
-Ethereum Classic does not just enable, but consists of its community; a highly decentralized, diverse, multi-talented and dedicated collection of individuals and groups from all over the planet. Their mission is to spread the good word of Classic and reinforce its pool of talent so that together, we can [upgrade](/why-classic/code-is-law) the systems of the world.
+以太久经典不仅能开启，而且由其社区组成； 一个高度分散、多样化、多才能和专心致志的来自全球各地的个人和团体集合。 Their mission is to spread the good word of Classic and reinforce its pool of talent so that together, we can [upgrade](/why-classic/code-is-law) the systems of the world.
 
-Whoever you are, and whatever your skills, you are welcome to join us.
+无论你是谁，无论你的技能如何，都欢迎你加入我们的行列。
