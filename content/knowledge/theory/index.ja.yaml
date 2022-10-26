@@ -1,0 +1,45 @@
+title: 理論と研究
+seo: Ethereum Classicの基礎となる哲学、歴史、独自の価値提案に関連する幅広いトピックを網羅した記事のコレクション。
+description: |
+  Ethereum Classicのコアテナントを超えている The Hard Forkの結果とThe Original Ethereum Visionの継続に基づいた思考の学校が登場しました。
+
+  ETCの歴史の影響を調べる記事集が下記にまとめられている。 幅広い理論と研究のトピックは、Ethereum Classicのユニークな位置と無限の可能性について理解を深めるのに役立ちます。
+items:
+  links:
+    items:
+      Etherplan:
+        name: Etherplan
+        description: Donald McIntyreのEtherplanは、Ethereumクラシックの著名な理論と研究ソースです。McIntyreは次の記事のいくつかを作成する責任があります。
+      Ethereum Classic Vision:
+        name: イーサリアムクラシックビジョン
+        description: Ethereum Classicがどのようにコンピューティングプラットフォームを成功させ、ETCが優れた価値のあるストアであるのか。
+      Ethereum Classic vs. Ethereum 2.0, What is the Difference?:
+        name: Ethereum ClassicとEthereum 2.0の違いは何ですか?
+        description: Ethereum Classicは、セキュリティと今後のEthereum2に焦点を当てた保守的に実行されるシステムです。 パフォーマンスに焦点を当てた徐々に実行されるシステムです
+      Phyro's Recap of ETC History:
+        name: PhyroのETCの歴史のまとめ
+        description: |
+          ETCを長期的に見ると、ETCの背後にあるストーリーの詳細な概要。
+          *ETCの歴史の詳細については、 [roadmap](/knowledge/roadmap)でも読むことができます。*
+      /blog/2016-12-06-why/:
+        name: なぜ私はワールドワイドウェブの代わりにEthereum/Classicでアプリケーションを実行することを選択するでしょうか?
+        description: World Wide Web上の利点
+      Ethereum Classic Opportunities:
+        name: イーサリアムクラシック機会
+        description: Ethereum Classicの野生の可能性の概要
+      How to Have a Vision for Ethereum Classic Without Creating a Governance Orgy:
+        name: ガバナンスを作成せずにイーサリアムクラシックにビジョンを持つ方法
+        description: ブロックチェーンガバナンスの問題を回避しながら進歩を維持するためのアプローチ
+      The Ethereum Classic vs Ethereum 1.x Dichotomy:
+        name: Ethereum Classic vs Ethereum 1.x Dictomy（ディクショトミー）
+        description: イーサリアムがプルーフ・オブ・ステークに移行した際のETCとの関係は?
+      Why Proof of Stake is Less Secure Than Proof of Work:
+        name: プルーフ・オブ・ステークがプルーフ・オブ・ワークよりも安全性が低い理由
+        description: 仕事の物理的な基盤の証明にアンカーすることによって、主観的な層は、より大きなより客観性、すなわちセキュリティの順序を取得します。
+      Ethereum Classic (ETC) Wiki:
+        name: Ethereum Classic (ETC) Wiki
+        description: EthereumのETCチェーンのいくつかのコア哲学。
+      Categories of Decentralization:
+        name: 地方分権のカテゴリ
+        link: https://taek.org/posts-categories-of-decentralization
+        description: プラットフォームまたはプロトコルによって行われた信頼の仮定についての推論のための堅牢なベースラインを提供することを意図した 5 つのカテゴリ。 重要な詳細を把握したり特定の確実性を提供したりすることなく あるプロトコルは他のプロトコルより分散化されています
