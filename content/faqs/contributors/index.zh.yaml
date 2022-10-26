@@ -1,45 +1,44 @@
-title: Contributor FAQs
-seo: Frequently Asked Questions for those looking to join the ETC community and contribute to Ethereum Classic.
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
+title: 贡献者常见问题
+seo: 经常问到那些想要加入ETC社区并为Ethereum Classic作出贡献的人的问题。
+info: 无法在这里找到您问题的答案吗？请尝试在 ETC 社区 [discord](https://eferumclassic.org/discord) 服务器中查询。
 __contribute: true
-description: If you'd like learn about getting involved in the Ethereum Classic community, you're in the right place.
+description: 如果你想知道如何参与埃瑟姆经典社区，你就在合适的地方。
 items:
   questions:
-    __type: questions
     items:
       developer:
-        question: Do I need to be a developer to contribute to Ethereum Classic?
-        answer: Not at all. While developers provide critical value in building infrastrucutre, an arguably more important role is played by non-developers. Whatever your talents, you can help in other ways, such by coordinating and helping to spread the word of Ethereum Classic, in turn recruiting more developers and other recruiters.
+        question: 我是否需要成为开发者才能为以太基古典做贡献？
+        answer: 虽然开发者为基础设施建设提供了关键的价值，但非开发者发挥的作用可能更加重要。 无论你的才能如何，你都可以通过其他方式提供帮助，如协调和帮助传播以太基姆古典的文字， 反过来，又招聘更多的开发者和其他招聘者。
       channels:
-        question: How can I join the ETC community?
-        answer: You don't need to ask for permission to join. Just start contributing!
+        question: 我怎样才能加入ETC社区？
+        answer: 您不需要申请加入权限。只需开始贡献！
       tasks:
-        question: What tasks can I help with?
-        answer: A list of things that the project could use your help with is maintained in the [Ethereum Classic Volunteer GitHub repository](https://github.com/ethereumclassic/volunteer).
+        question: 我能帮助哪些任务？
+        answer: 项目可以使用您的帮助的物品列表保存在[Ethereum Classic Volunteer GitHub 存储库](https://github.com/theretherumclassic/volunteer)。
       where:
-        question: Where do Ethereum Classic supporters mostly hang out?
-        answer: The english speaking ETC community is mostly active on [Discord](https://ethereumclassic.org/discord). You can find other community forums, including those in other languages, in the [Social Channels](/community/channels) section.
+        question: 以太坊经典支持者大多在哪里？
+        answer: 说英语的 ETC 社区最活跃于 [Discord](https://eferumclassic.org/discord)。 您可以在[Social Channels](/community/channels)部分找到其他社区论坛，包括其他语言的论坛。
       ecips:
-        question: How can I suggest improvements to Ethereum Classic?
-        answer: To suggest protocol upgrades, you can use the [Ethereum Classic Improvement Proposal](/development/ecips) process, but it's worth brainstorming with other community members in one of the ETC [Social Channels](/community/channels) first.
+        question: 我如何建议改进以太坊典？
+        answer: 要建议协议升级，您可以使用 [以太坊经典改进建议](/development/ecips) 进程。 但它值得首先与其他社区成员一起在其中一个社区频道[Social Channels](/community/channels)集思广益。
       toxicity:
-        question: I heard that the ETC community is toxic. Is that true?
+        question: 我听说ETC社区有毒。
         answer: |
-          Because nobody needs permission to be part of the ETC community, it attracts all kinds of characters, from extremely nice to, on occasion, a little more disagreeable. Also, many ETCers and participants in the wider cryptocurrency space are pseudoanonymous, so have less of a filter. Don't take one person's attitude to represent the entire community, and please don't let this dissuade you from contributing.
+          因为没有人需要许可才能成为ETC社区的一部分，所以它吸引了各种字符， 有时甚至更令人不同意。 此外，许多电子数据交换公司和更广泛的加密货币空间的参与者都是伪装匿名的，所以过滤器的数量较少。 不要采取一个人的态度来代表整个社区，请不要让这种态度阻止你做出贡献。
 
-          If you prefer a more moderated conversation, try the [ETC Coop Discord](https://discord.gg/5wDyd6u6pU), which enforces stricter rules around politeness in communication.
+          如果你喜欢一个更加温和的对话, 请试试 [ETC Coop Discord](https://discord.gg/5wDyd6u6pU)，它在通信中执行更严格的规则.
       events:
-        question: Are there any Ethereum Classic events?
-        answer: Yes, yearly conferences, weekly community calls and irregular developer calls are held. You can find out more about present, past and future events in the [events](/community/events) section.
+        question: 是否有任何以太空为基础的经典活动？
+        answer: 是的，每年举行会议、每周社区通话和非正常的开发人员通话。 您可以在 [events](/community/events) 部分更多地了解当前、过去和未来的事件。
       website:
-        question: How can I add my App, Video or Article to to this website?
-        answer: Please check out this website's [GitHub repository](https://github.com/ethereumclassic/ethereumclassic.github.io) for instructions.
+        question: 如何将我的应用、视频或文章添加到这个网站？
+        answer: 请查看此网站的 [GitHub 仓库](https://github.com/etherumclassic/eyasumclassic.github.io) 获取说明。
       tweets:
-        question: How can I suggest tweets?
-        answer: 'The [@eth_classic](https://github.com/ethereumclassic/tweets-eth_classic) and [@ETC_Network](https://github.com/ethereumclassic/tweets-etc_network) Twitter accounts accept community suggested tweets. Simply tweet your suggested tweet with the hashtag `#ETCtweets`, and it will be reviewed by the community in the `#ETCtweets` Discord thread.'
+        question: 我如何建议推文？
+        answer: '[@eth_classic](https://github.com/etherumclassic/tweets-eth_classic) 和 [@ETC_Network](https://github.com/etherumclassic/tweets-et_network) Twitter 帐户接受社区推荐的推文。 只需用标签`#ETCtweets`来推出你建议的tweets，并将由社区在 `#ETCtweets` Discord 线程中审查。'
       grants:
-        question: Can I get paid to contribute to Ethereum Classic?
+        question: 我能拿到钱来为以太坊典型贡献吗？
         answer: |
-          The main method of payment is via warm fuzzy feelings of well-being, knowing that you are contributing to the future of humanity by helping along an important technology.
+          付款的主要方法是通过温暖模糊的幸福感觉。 认识到你正在通过沿着重要技术提供帮助，为人类的未来做出贡献。
 
-          Other than that, there are occasional grants programs that you should keep an eye out for by following the conversation within the community.
+          除此之外，还有一些偶尔的赠款方案，您应该通过关注社区内的对话来保持眼睛。
