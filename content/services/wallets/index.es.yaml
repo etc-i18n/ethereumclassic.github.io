@@ -1,0 +1,169 @@
+title: Carteras
+seo: Una fuente de carteras web, extensiones, monederos de software, carteras de hardware y otras formas de asegurar ETC.
+description: |
+  Hay muchas opciones de monederos para elegir entre asegurar y usar ETC. Cada opción da un equilibrio diferente entre seguridad y comodidad. Por favor, busque la mejor opción dependiendo de sus necesidades.
+
+  ## ¿Qué Monedero debo usar?
+
+  Las siguientes sugerencias no son endorsements, y sirven sólo para ayudar a los nuevos usuarios rápidamente encontrar una opción que probablemente funcione para ellos.
+
+  - Si quieres una aplicación móvil simple, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) es fácil de usar y soporta muchas monedas incluyendo ETC.
+  - Si desea mantener pequeñas cantidades de ETC para su uso con aplicaciones descentralizadas, luego prueba [MetaMask](/guides/metamask) y conéctalo a Ethereum Classic.
+  - Si acepta ETC para su negocio, probablemente sólo desee crear una cuenta [exchange](/services/exchanges) que pueda usar para venderla por su moneda local.
+  - Si tienes cantidades más grandes, es muy recomendable comprar [Hardware Wallet](#hardware-wallets).
+  - Para casos de uso más avanzado, por favor haga su propia investigación y pruebe algunas opciones de abajo.
+items:
+  web:
+    title: Carteras Web
+    description: Se puede acceder a estas carteras Web3 usando una página web. No deberían usarse para asegurar grandes cantidades, sino que te permitirán interactuar fácilmente con ETC sin descargas.
+    items:
+      MyCrypto:
+        name: MiCrypto
+      MyEtherWallet:
+        name: MyEtherWallet
+        __primary: true
+      Portis:
+        name: Portis
+      Squarelink:
+        name: Enlace cuadrado
+  browsers:
+    title: Carteras integradas del navegador
+    description: Estas carteras Web3 están integradas en los navegadores web. Por lo general, inyectan sitios web con la información de tu cuenta para que puedas interactuar sin problemas con Ethereum Classic dapps en tu navegador.
+    items:
+      Brave:
+        name: Bravoz
+      MathWallet:
+        name: MathWallet
+      MetaMask:
+        name: Metamáscara
+        __primary: true
+      Nifty Wallet:
+        name: Cartera Nifty
+      Opera:
+        name: Ópera
+      SimpleHold Wallet:
+        name: Billetera simple
+      TokenPocket:
+        name: TokenPocket
+  hardware:
+    title: Carteras Hardware
+    description: Las carteras de hardware son carteras seguras diseñadas para el almacenamiento a largo plazo.
+    items:
+      Bitski:
+        name: Bitski
+      CoolBitX:
+        name: CoolBitX
+      Ellipal:
+        name: Ellipal
+      HTC Exodus:
+        name: Éxodo HTC
+      KeyPal:
+        name: KeyPal
+      Ledger:
+        name: Libro
+        __primary: true
+      Parity Signer:
+        name: Signo de paridad
+      SafePal:
+        name: SafePal
+      Signatory Client:
+        name: Cliente signatario
+      Trezor:
+        name: Trezor
+        __primary: true
+  software:
+    title: Carteras de software
+    description: Las carteras de software son de escritorio o dispositivos móviles diseñados para almacenamiento a corto plazo.
+    items:
+      ABRA:
+        name: ABRA
+      Alpha Wallet:
+        name: Cartera Alpha
+      AToken:
+        name: AToken
+      Atomic Wallet:
+        name: Cartera Atomic
+      BTCPOP:
+        name: BTCPOP
+      Button Wallet:
+        name: Botón billetera
+      Cobo:
+        name: Cobo
+      Coin Wallet:
+        name: Monedero de monedas
+      Coinbase Wallet:
+        __primary: true
+        name: Monedero base de monedas
+      Coinomi:
+        name: Coinomi
+      Cryptonator:
+        name: Criptonador
+      Edge:
+        name: Borde
+      Emerald Wallet:
+        name: Cartera de Emerald
+      Ethos:
+        name: Ethos
+      eToro Wallet:
+        name: eToro Wallet
+      Evercoin:
+        name: Evercoin
+      Exodus:
+        name: Éxodo
+      Guarda:
+        name: Guarda
+      HubrisOne:
+        name: HubrisOne
+      Huobi Wallet:
+        name: Huobi Wallet
+      Hebe Wallet:
+        name: Cartera Hebe
+      Infinito Wallet:
+        name: Cartera Infinito
+      Jaxx Liberty:
+        name: Libertad Jaxx
+      Mantis Wallet:
+        name: Cartera de Mantis
+      MathWallet:
+        name: MathWallet
+      Midas Protocol:
+        name: Midas Protocol
+      Mixin Messenger:
+        name: Mensajero Mixin
+      Now Wallet:
+        name: Ahora billetera
+      Ownbit:
+        name: Bebé
+      TokenPocket:
+        name: TokenPocket
+      Tokenview:
+        name: Tokenview
+      Trust Wallet:
+        name: Billetera de confianza
+        __primary: true
+      Trustee Wallet:
+        name: Cartera del Fiduciario
+      Zelcore Wallet:
+        name: Monedero Zelcore
+      ZenGo:
+        name: ZenGo
+  other:
+    title: Otros productos de Wallet
+    description: Estos productos son gratuitos para las criptomonedas como almacenamiento de semilla de recuperación.
+    items:
+      BillFodl:
+        name: BillFodl
+      Blockplate:
+        name: Placa de bloqueo
+      ColdTi:
+        name: ColdTi
+      Crypto Key Stack:
+        name: Pila de teclas cripto
+      CryptoSteel:
+        name: CryptoAcero
+      CRYPTOTAG:
+        name: CRYPTOTAG
+      Hodlinox:
+        name: Hodlinox
+      Steely:
+        name: Corre
