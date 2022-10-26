@@ -1,0 +1,21 @@
+items:
+  web:
+    items:
+      MyEtherWallet:
+        __primary: true
+  browsers:
+    items:
+      MetaMask:
+        __primary: true
+  hardware:
+    items:
+      Ledger:
+        __primary: true
+      Trezor:
+        __primary: true
+  software:
+    items:
+      Coinbase Wallet:
+        __primary: true
+      Trust Wallet:
+        __primary: true

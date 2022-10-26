@@ -1,0 +1,64 @@
+title: 用户常见问题
+seo: 经常问问那些在日常使用Ethereum Classic时寻求帮助的人。
+info: 无法在这里找到您问题的答案吗？请尝试在 ETC 社区 [discord](https://eferumclassic.org/discord) 服务器中查询。
+__contribute: true
+description: 如果您想发送和接收ETC，请使用部署到Ethereum Classic的应用程序之一， 或者担心如何安全地使用它。这个页面是为你的。
+items:
+  questions:
+    items:
+      comparison:
+        question: 我能否以与以太基姆（ETH）相同的方式使用以太基经典？
+        answer: |
+          是的，Etherum经典对终端用户的操作方式与以太坊完全相同。 您只需要确保您正在使用的钱包、应用、交易所或其他服务支持Classic。
+
+          您可以使用MetaMask 与 Ethereum Classic。
+      metmask:
+        question: 如何使用MetaMask的ETC？
+        answer: |
+          您可以通过 [CoinList.org](https://coinlist.org/en/chain/61) 网站轻松地将以太坊模式添加到MetaMask。 如果您想手动配置MetaMask 使用自定义 Etherum 经典RPC 节点，您可以查看 [MetaMask](/guides/metamask) 指南。
+      explorers:
+        question: 如何查看我的Ethereum 经典交易？
+        answer: |
+          最受欢迎和最全功能的 Ethersum 经典浏览器是 [BlockScout](https://blockscout.com/etc/mainnet/)，但[blockexplorers](/network/explorers) 部分也有一些替代方法。
+      exchange:
+        question: 如何获得ETC？
+        answer: |
+          以太坊经典在相当多的每个主要加密货币 [exchange](/services/exchanges), 在哪里您可以用法定货币购买ETC或交易其他加密货币。
+
+          如果您拥有一个相当现代的图形卡，您也可以 [mine](/mining)为您自己。
+      wallets:
+        question: 你建议我使用哪个钱包与 Ethereum Classic？
+        answer: |
+          有许多不同类型的钱包，取决于您的用途大小写。查看 [wallets](/services/wallets) 部分获取更多信息。
+      apps:
+        question: Ethereum Classic 网络上运行了哪些应用？
+        answer: |
+          来自中央交换、 DEX、 DeFi、 NFT、 跨链桥等等的一切。查看 [services](/services) 部分来了解更多信息。
+      defi:
+        question: 以太久经典是否有 DeFi？
+        answer: |
+          是。Ethereum Classic存在一个小但不断增长的分权金融生态系统，查看 [finance](/services/apps/finance) 应用程序类别的更新。
+      staking:
+        question: 我能把我的ETC联系起来吗？
+        answer: |
+          不，至少不会像您在Stake区块链上的样子。 ETC 是一个工作区块链的证明，因此您只能为网络提供安全，而不会涉及任何问题。
+
+          可能有一些[借出协议](/services/apps/finance)允许您借出您的ETC以获得更高版本， 但这并不是以太基姆经典协议本身的一部分，反方也面临风险。
+      safety:
+        question: 我听说爱森古姆经典遭到51%的攻击。使用安全吗？
+        answer: |
+          2020年，埃瑟姆经典的哈希率历来很低，导致了一系列51%的攻击。 人们感到恐惧的是，攻击者以双重支出攻击的方式出租散装货箱和有针对性的交换，他们在埃塔公司总共损失了大约10万美元。
+
+          相应地，经典客户和更广泛的生态系统实施了若干反措施， 例如交易确认时间较长，ECIP-1099和MESS。 由于采取了这些反措施，没有再发生51%的攻击。
+
+          此外，自Etherum在2022年转向Proof Stake以来， ETC成为最大的GPU微弱链，自上次51%的攻击以来，它的散列率增加了50x到100x。 这使得现在极不可能有一组散列物来租用以再进行51%的攻击。 而且，即使是这样，在没有任何成功的警告下这样做也会使人望而却步。
+
+          与所有工作区块链的证明一样，51%的攻击发生的可能性是协议设计的一个必要部分。 随着时间的推移，埃瑟姆经典继续遭到这样的攻击。 利益攸关方可以越来越相信，51%的袭击是过去的事情。
+
+          无论如何，51%的攻击者以小持有者为目标是没有经济意义的，他们不能“偷”你的ETC。 相反，它们通常以双重支出提款作为交换的目标，从历史上看，交易所能够吸收这些较小规模的攻击，并执行所述的反措施。
+      deposit:
+        question: 为什么要花这么长的时间才能存放ETC？
+        answer: |
+          如上述问题所述，作为对51%袭击的反措施，有些交易所对Etherum类的存款时间非常长。 这有助于保护交易不致成为双重支出攻击的受害者。 但这意味着用户需要等待更多的时间才能确认存款。
+
+          由于ETC的哈希率最近大幅度增加，交易所很可能会减少完成存款所需的确认数量。
