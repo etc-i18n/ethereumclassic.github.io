@@ -1,258 +1,169 @@
-__contribute: 1
-__updated: 2022-08-11
-__disclaimer: verify
-__contributors:
-  - AndrewGuarda
-  - antsankov
-  - arvicco
-  - bobsummerwill
-  - chendatony31
-  - conqeror
-  - danSSH
-  - dax-classix
-  - gitr0n1n
-  - HebeBlock
-  - IstoraMandiri
-  - ProphetDaniel
-  - pyskell
-  - TheEnthusiasticAs
-  - ericfish
-  - Jamyye
-title: Wallets
-seo: A source of web wallets, extensions, software wallets, hardware wallets, and other ways to secure ETC.
+title: 钱包
+seo: 网上钱包、扩展、软件钱包、硬件钱包和其他安全ETC的方法。
 description: |
-  There are many options of wallets to choose from to secure and use ETC. Each option gives a different balance between security and convenience. Please research the best option depending on your requirements.
+  有许多钱包选项可供选择来安全和使用ETC。 每个选项给安全和方便之间带来不同的平衡。请根据您的要求研究最好的选项。
 
-  ## Which Wallet Should I use?
+  ## 我应该使用哪个钱包？
 
-  The following suggestions are not endorsements, and serve only to help new users quickly find an option that probably works for them.
+  以下建议不被认可，只能帮助新用户快速找到一个可能适合他们的选项。
 
-  - If you want a simple mobile app, [Trust Wallet](https://trustwallet.com/ethereum-classic-wallet) is easy to use and support many currencies including ETC.
-  - If you want to hold small amounts of ETC for use with decentralized applications, then try [MetaMask](/guides/metamask) and connect it to Ethereum Classic.
-  - If you are accepting ETC for your business, you probably just want to create an [exchange](/services/exchanges) account that you can use to sell it for your local currency.
-  - If you are holding larger amounts, it is highly recommended to purchase a [Hardware Wallet](#hardware-wallets).
-  - For more advanced use cases, please do your own research and try a few options from below.
+  - 如果您想要一个简单的移动应用程序，[Trust Walle](https://trustwallet.com/ethereu-classic-wallet) 便易于使用，并支持包括ETC在内的许多货币。
+  - 如果您想要持有少量的ETC用于分散的应用程序 然后尝试 [MetaMask](/guides/metamask) 并将其连接到 Ethereum Classic。
+  - 如果您接受ETC作为您的业务。 您可能只是想要创建一个 [exchange](/services/exchanges) 帐户，您可以用它来为您的本地货币出售它。
+  - 如果您持有更多金额，强烈建议您购买[硬件钱包](#硬件钱包)。
+  - 对于更高级的情况，请进行您自己的研究并尝试下面的几个选项。
 items:
   web:
-    __type: buttons
-    title: Web Wallets
-    description: These Web3 wallets can be accessed using a web page. They shouldn't be used to secure large amounts, but allow you to easily interacting with ETC without downloads.
+    title: Web 钱包
+    description: 这些Web3钱包可以使用网页访问。 它们不应被用来获取大笔金额，但允许您在没有下载的情况下轻松地与ETC进行交互。
     items:
       MyCrypto:
-        __link: https://www.mycrypto.com
         name: MyCrypto
       MyEtherWallet:
-        __link: https://www.myetherwallet.com
         name: MyEtherWallet
         __primary: true
       Portis:
-        __link: https://www.portis.io/
         name: Portis
       Squarelink:
-        __link: https://squarelink.com/
-        name: Squarelink
+        name: 正方形链接
   browsers:
-    __type: buttons
-    title: Browser Integrated Wallets
-    description: These Web3 wallets are integrated in web browsers. Typically, they inject websites with your account information in order to allow you to seamlessly interact with Ethereum Classic dapps in your browser.
+    title: 浏览器集成钱包
+    description: 这些Web3钱包被整合到网络浏览器。 典型的情况是，他们注入网站的账户信息，以便您可以在浏览器中无缝地与 Ethereum Classic dapps 交互。
     items:
       Brave:
-        __link: https://brave.com/
-        name: Brave
+        name: 勇士
       MathWallet:
-        __link: https://mathwallet.org/
         name: MathWallet
       MetaMask:
-        __link: https://metamask.io/
-        name: MetaMask
+        name: 元蒙版
         __primary: true
       Nifty Wallet:
-        __link: https://github.com/poanetwork/nifty-wallet
-        name: Nifty Wallet
+        name: Nifty 钱包
       Opera:
-        __link: https://www.opera.com/crypto
         name: Opera
       SimpleHold Wallet:
-        __link: https://simplehold.io/download
-        name: SimpleHold Wallet
+        name: 简单的钱包
       TokenPocket:
-        __link: https://extension.tokenpocket.pro/
-        name: TokenPocket
+        name: 令牌Pocket
   hardware:
-    __type: buttons
-    title: Hardware Wallets
-    description: Hardware wallets are secure wallets designed for long term storage.
+    title: 硬件钱包
+    description: 硬件钱包是为长期存储设计的安全钱包。
     items:
       Bitski:
-        __link: https://www.bitski.com/
         name: Bitski
       CoolBitX:
-        __link: https://www.coolwallet.io/
         name: CoolBitX
       Ellipal:
-        __link: https://www.ellipal.com/
         name: Ellipal
       HTC Exodus:
-        __link: https://www.htcexodus.com/
         name: HTC Exodus
       KeyPal:
-        __link: https://keypal.pro/
         name: KeyPal
       Ledger:
-        __link: https://shop.ledger.com/
-        name: Ledger
+        name: 账单
         __primary: true
       Parity Signer:
-        __link: https://www.parity.io/signer/
-        name: Parity Signer
+        name: 对等签名人
       SafePal:
-        __link: https://www.safepal.io/
-        name: SafePal
+        name: 安全保护
       Signatory Client:
-        __link: https://vbstreetz.github.io/signatory-client/
-        name: Signatory Client
+        name: 签名客户端
       Trezor:
-        __link: https://trezor.io/
-        name: Trezor
+        name: 特雷佐尔
         __primary: true
   software:
-    __type: buttons
-    title: Software Wallets
-    description: Software wallets are Desktop or Mobile devices designed for short-term storage.
+    title: 软件钱包
+    description: 软件钱包是为短期存储设计的桌面或移动设备。
     items:
       ABRA:
-        __link: https://www.abra.com/
         name: ABRA
       Alpha Wallet:
-        __link: https://alphawallet.com/
-        name: Alpha Wallet
+        name: Alpha 钱包
       AToken:
-        __link: https://www.atoken.com/
         name: AToken
       Atomic Wallet:
-        __link: https://atomicwallet.io/
         name: Atomic Wallet
       BTCPOP:
-        __link: https://btcpop.co/
         name: BTCPOP
       Button Wallet:
-        __link: https://buttonwallet.com/
-        name: Button Wallet
+        name: 按钮钱包
       Cobo:
-        __link: https://cobo.com/
-        name: Cobo
+        name: 科波文
       Coin Wallet:
-        __link: https://coin.space/
-        name: Coin Wallet
+        name: 硬币钱包
       Coinbase Wallet:
-        __link: https://wallet.coinbase.com/
         __primary: true
-        name: Coinbase Wallet
+        name: Coinbase 钱包
       Coinomi:
-        __link: https://www.coinomi.com/
         name: Coinomi
       Cryptonator:
-        __link: https://www.cryptonator.com/
-        name: Cryptonator
+        name: 加密器
       Edge:
-        __link: https://edge.app/
-        name: Edge
+        name: 边缘
       Emerald Wallet:
-        __link: https://emerald.cash/
-        name: Emerald Wallet
+        name: 绿宝石钱包
       Ethos:
-        __link: https://www.ethos.io/universal-wallet/
         name: Ethos
       eToro Wallet:
-        __link: https://www.etorox.com/crypto-wallet/
         name: eToro Wallet
       Evercoin:
-        __link: https://evercoin.com
-        name: Evercoin
+        name: 埃韦尔币
       Exodus:
-        __link: https://www.exodus.io/
         name: Exodus
       Guarda:
-        __link: https://guarda.com/
-        name: Guarda
+        name: 守卫a
       HubrisOne:
-        __link: https://hubrisone.com/wallet
         name: HubrisOne
       Huobi Wallet:
-        __link: https://www.huobiwallet.com/
         name: Huobi Wallet
       Hebe Wallet:
-        __link: https://hebe.cc/
-        name: Hebe Wallet
+        name: Habe 钱包
       Infinito Wallet:
-        __link: https://www.infinitowallet.io/
-        name: Infinito Wallet
+        name: Infinito 钱包
       Jaxx Liberty:
-        __link: https://jaxx.io/
-        name: Jaxx Liberty
+        name: Jaxx 自由
       Mantis Wallet:
-        __link: 'https://mantisclient.io/#wallet'
-        name: Mantis Wallet
+        name: Matantis 钱包
       MathWallet:
-        __link: https://mathwallet.org/
         name: MathWallet
       Midas Protocol:
-        __link: https://midasprotocol.io/
         name: Midas Protocol
       Mixin Messenger:
-        __link: https://mixin.one/messenger
-        name: Mixin Messenger
+        name: Mixin 送信器
       Now Wallet:
-        __link: https://walletnow.app/
-        name: Now Wallet
+        name: 现在钱包
       Ownbit:
-        __link: https://ownbit.io/
-        name: Ownbit
+        name: 所有者
       TokenPocket:
-        __link: https://tokenpocket.pro/
-        name: TokenPocket
+        name: 令牌Pocket
       Tokenview:
-        __link: https://tokenview.com/cn/download
-        name: Tokenview
+        name: 令牌视图
       Trust Wallet:
-        __link: https://trustwallet.com/ethereum-classic-wallet
-        name: Trust Wallet
+        name: 信任钱包
         __primary: true
       Trustee Wallet:
-        __link: https://trusteeglobal.com/
-        name: Trustee Wallet
+        name: 托管钱包
       Zelcore Wallet:
-        __link: https://zel.network/project/zelcore/
-        name: Zelcore Wallet
+        name: Zelcore 钱包
       ZenGo:
-        __link: https://zengo.com/
         name: ZenGo
   other:
-    __type: buttons
-    title: Other Wallet Products
-    description: These products are complimentary to crypto wallets like recovery seed storage.
+    title: 其他钱包产品
+    description: 这些产品是对诸如恢复种子存储等加密钱包的补充。
     items:
       BillFodl:
-        __link: https://billfodl.com/
-        name: BillFodl
+        name: 账单Fodl
       Blockplate:
-        __link: https://www.blockplate.com/
-        name: Blockplate
+        name: 块板
       ColdTi:
-        __link: https://coldti.com/
-        name: ColdTi
+        name: 科尔多蒂文
       Crypto Key Stack:
-        __link: https://cryptokeystack.com/
-        name: Crypto Key Stack
+        name: 加密密钥应用
       CryptoSteel:
-        __link: https://cryptosteel.com/
-        name: CryptoSteel
+        name: 加密Steel
       CRYPTOTAG:
-        __link: https://cryptotag.io/
         name: CRYPTOTAG
       Hodlinox:
-        __link: https://hodlinox.com/
         name: Hodlinox
       Steely:
-        __link: https://thesteely.com/
-        name: Steely
+        name: 稳固的
