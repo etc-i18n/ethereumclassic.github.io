@@ -1,14 +1,14 @@
 ---
-title: Knowledge Base
+title: ナレッジベース
 updated: 2022-02-22
 disclaimer: opinion
-seo: A hub of information about the History, Future, Philosophy and Economics of Ethereum Classic, documenting the why, how and where of the decentralized version of Ethereum.
+seo: Ethereum Classicの歴史、未来、哲学、経済に関する情報のハブ 分散版のEthereumの理由、方法と場所を記録しています。
 ---
 
-Ethereum Classic, despite having no central organizing committee, has managed to attract many kinds of participants at various points in time who have come and gone and all contributed and shaped it in their own way. ETC's greatest strength lies in its philosophy and principles, which can be spread even without billions of dollars of marketing because their value is self-evident, and bright minds gravitate toward them.
+中央整理委員会がないにもかかわらず、Ethereum Classicは、 様々な時点で様々な参加者を惹きつけています 誰もが自分なりに貢献し形作っています ETCの最大の強みは、その哲学と原理にあります 数十億ドルのマーケティングなしでも広めることができます なぜなら彼らの価値は自明で 明るい心は彼らに向かって引かれるからです
 
-There is no way to compete traditionally with a billion dollar budget VC-backed blockchain in the short term. Those projects are sure to attract immediate attention, but this reliance on centralized funding and direction comes at the price of long term sustainability.
+短期的には、VCが支援する10億ドルの予算と伝統的に競争する方法はありません。 これらのプロジェクトは確実に注目を集めるでしょうが、集中型の資金や方向性への依存は、長期的な持続可能性を犠牲にしています。
 
-As the good word of Ethereum Classic is spread, and people get deeper into understanding the true value of blockchains, ETC is going to keep delivering on the _Original Ethereum Vision_ of "Build Unstoppable Applications" and will become quietly, steadily but inevitably more useful and valuable, without a central budget in sight.
+Ethereum Classicの良い言葉が広がり、人々はブロックチェーンの真の価値をより深く理解するようになります。 ETCは"Build Unstopable Applications"の _オリジナルのEthereum Vision_ を引き続き配信し、静かになります。 中央予算がなくても着実に有用で貴重なものになります
 
-This section contains a selection of contributions from community members that feed into the source of ETC's strength, by providing intel and philosophical ordnance that can be deployed in the battle of winning hearts and minds.
+このセクションでは、ETCの強みの源に供給するコミュニティメンバーからの貢献の選択を含みます。 心と心の戦いに展開できる情報と哲学的な兵器を提供することで
