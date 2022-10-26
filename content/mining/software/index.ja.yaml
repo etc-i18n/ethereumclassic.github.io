@@ -1,0 +1,59 @@
+title: 鉱夫ソフトウェア
+seo: Ethereum Classicで暗号化ETCをマイニングするために使用できるソフトウェアパッケージのリスト。
+description: "Ethereum Classicネットワークのプルーフ・オブ・ワークマイニングアルゴリズムは、2020年11月28日から [ETCHash](https://github.com/eth-classic/etchash)です。"
+items:
+  table:
+    columnItems:
+      name:
+        name: 名前
+      windowsAmd:
+        name: Windows AMD
+      windowsNvidia:
+        name: Windows Nvidia
+      linuxAmd:
+        name: Linux AMD
+      linuxNvidia:
+        name: Linux Nvidia
+      guide:
+        text: ガイド
+    items:
+      Cruxminer:
+        name: "Cruxminer"
+      GMiner:
+        name: "GMiner"
+      lolMiner:
+        name: "LOLMiner"
+      Nanominer:
+        name: "Nanominer"
+      NBMiner:
+        name: "NBMiner"
+      OpenETC Pool:
+        name: "OpenETCプール"
+      Phoenix Miner:
+        name: "Phoenix Miner"
+      SRBMiner-Multi:
+        name: "SRBMiner-Multi"
+      T-Rex Miner:
+        name: "T-Rex Miner"
+      TeamRedMiner:
+        name: "赤の鉱夫チーム"
+      TT-Miner:
+        name: "TT-Miner"
+      AwesomeMiner:
+        name: "OS: 素晴らしい採掘者"
+      HiveOS:
+        name: "OS: HiveOS"
+      MinerStat:
+        name: "OS: 鉱夫の統計"
+      MMP OS:
+        name: "OS: MMP OS"
+      NiceHash:
+        name: "OS: NiceHash OS"
+      PiMPOS:
+        name: "OS: PiMP OS"
+      RaveOS:
+        name: "OS: RaveOS"
+      SimpleMining:
+        name: "OS: シンプルな採掘方法"
+      Stratums:
+        name: "Tool: Stratums"
