@@ -1,58 +1,32 @@
 items:
   table:
-    __type: table
-    number: Number
-    author: Authors
+    number: 号码
+    author: 作者
     columnItems:
-      number:
-        __name: "ECIP #"
-        __linkPrefix: https://ecips.ethereumclassic.org/ECIPs/ecip-
       title:
-        name: Title
+        name: 标题
       author:
-        name: Authors
+        name: 作者
     items:
       Delay Difficulty Bomb Explosion:
-        __number: "1010"
-        title: Delay Difficulty Bomb Explosion
-        __author: Igor Artamonov
+        title: 延迟难度炸弹爆炸数
       Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
-        __number: "1015"
-        title: Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks
-        __author: Cody W Burns
+        title: 为减少交易垃圾邮件袭击而进行的重型IO-重型业务的长期气体成本变化
       Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
-        __number: "1017"
-        title: Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule
-        __author: Matthew Mazur
+        title: 货币政策和以太基古姆经典排放时间表的最后修改
       Monetary policy rounding specification:
-        __number: "1039"
-        title: Monetary policy rounding specification
-        __author: Isaac Ardis
+        title: 货币政策四舍五入的规范
       Remove Difficulty Bomb:
-        __number: "1041"
-        title: Remove Difficulty Bomb
-        __author: Igor Artamonov
+        title: 移除难度炸弹b
       Clique proof-of-authority consensus protocol:
-        __number: "1048"
-        title: Clique proof-of-authority consensus protocol
-        __author: Péter Szilágyi
+        title: 客户授权证明协商一致协议
       Status Codes:
-        __number: "1050"
-        title: Status Codes
-        __author: Brooklyn Zelenka, Boris Mann
+        title: 状态码
       Atlantis EVM and Protocol Upgrades:
-        __number: "1054"
-        title: Atlantis EVM and Protocol Upgrades
-        __author: Isaac Ardis
+        title: Atlantises EVM and Protocol 升级
       Agharta EVM and Protocol Upgrades:
-        __number: "1056"
-        title: Agharta EVM and Protocol Upgrades
-        __author: Isaac Ardis, Wei Tang
+        title: Agharta EVM和协议升级
       Phoenix EVM and Protocol Upgrades:
-        __number: "1088"
-        title: Phoenix EVM and Protocol Upgrades
-        __author: Raw Pong Ghmoa
+        title: Phoenix EVM 和协议升级
       Calibrate Epoch Duration:
-        __number: "1099"
-        title: Calibrate Epoch Duration
-        __author: Luke Williams
+        title: 校准Epoch时长
