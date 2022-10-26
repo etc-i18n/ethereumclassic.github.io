@@ -2,90 +2,90 @@
 title: ETH + BTC = ETC
 updated: 2022-02-22
 disclaimer: opinion
-seo: By combining the technology of Ethereum with the philosophy and security of Bitcoin, Ethereum Classic stands alone in being able to provide a truly decentralized Smart Contract Platform.
+seo: Ethereumの技術とBitcoinの哲学とセキュリティを組み合わせることによって。 Ethereum Classicは、真に分散型スマートコントラクトプラットフォームを提供できることに単独です。
 ---
 
-## Key Points
+## キーポイント
 
-- Ethereum Classic, existing in response to problems enabled by centralization, quickly realized and adopted the genius of Bitcoin's decentralist design decisions.
-- Like ETH, ETC is a Turing Complete Smart Contract Platform.
-- Like BTC, ETC has a miraculous origin, which is impossible to recreate.
-- Like BTC, ETC has "no official anything", preventing "official" capture.
-- Like BTC, ETC aims to provide a reliable secure base layer and does so by upgrading the protocol conservatively.
-- Like BTC, ETC requires constant skepticism in community interactions.
+- 中央集権化によって可能にされた問題に対応して存在するEthereum Classicは、Bitcoinの分散型設計決定の天才を迅速に実現し、採用しました。
+- ETH同様、ETCはチューリング完全スマートコントラクトプラットフォームです。
+- BTCと同様、ETCには奇跡的な起源があり、再現することは不可能です。
+- BTCと同様に、ETCは「公式なものはない」ので、「公式な」キャプチャができません。
+- BTCと同様に、ETCはプロトコルを保守的にアップグレードすることにより、信頼性の高い安全な基底層を提供することを目指しています。
+- BTCと同様に、ETCはコミュニティの相互作用に絶えず懐疑論を必要とします。
 
-## Introduction
+## はじめに
 
-For those already somewhat familiar with the cryptocurrency ecosystem, a quite simple heuristic exists that cuts to the chase of what Ethereum Classic is attempting to achieve.
+すでに暗号通貨エコシステムに多少慣れている人のために。 Ethereum Classicが達成しようとしていることを追跡する、非常に単純なヒューリスティックが存在します。
 
-> Ethereum Classic takes the philosophy of Bitcoin and applies it to the technology of Ethereum
+> Ethereum ClassicはBitcoinの哲学を取り、Ethereumの技術に適用します
 > 
-> - The CEO of Ethereum Classic, if one existed
+> - イーサリアムクラシックの最高経営責任者(CEO)
 
 ![ETH + BTC = ETC](./ethbtcetc.png)
 
-Many of those involved with Ethereum before the DAO Hack were under the impression that Ethereum was hoping to do precisely this: be built on top of the well-established core ideas that Bitcoin provided but add on additional functionality in the form of a Turing Complete Smart Contract Platform.
+DAO Hack以前にEthereumに関与する人々の多くは、Ethereumが正確にこれを行うことを望んでいたという印象の下にありました:Bitcoinが提供しましたが、チューリング完全なスマートコントラクトプラットフォームの形で追加機能を追加する、確立されたコアアイデアの上に構築されます。
 
-But as The DAO Hack showed, this was not the case. What is now known as Ethereum™ has very little to do with the decentralist values that Bitcoin was created to embody.
+しかし、DAOハックが示したように、これはケースではありませんでした。 現在EthereumTMとして知られているものは、Bitcoinを具現化するために作成された分散型の値とはほとんど関係がありません。
 
-The decision for The Ethereum Foundation to abandon the decentralist values that were used to entice contributions was unfortunate but created a vacuum that ultimately further refined the meaning and importance of those values and birthed a project whose mission was to continue that _Original Ethereum Vision_.
+Ethereum財団が貢献を誘惑するために使用された分散主義の値を放棄することは不幸でしたが、最終的にそれらの値の意味と重要性をさらに洗練され、その使命を継続することであったプロジェクトを生み出した真空を作成しました _元のEthereum Vision_。
 
-Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome.
+Bitcoin自体よりもさらに多くのEthereum Classicは、分散型価値の重要性についての明確な思い出として存在します。 当時の彼らの意義を理解していなかった人も多かった。 しかし他の多くの人々は、地方分権化こそが、単なる厄介な障害ではないという事実を理解しました。
 
-Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed.
+チェーンが分かれて以来、 Ethereum Classicの設計選択と哲学は、元のBitcoinプロトコルを構築する際に行われた天才的な決定を認識するようになりました。 ETCは可能な限り、この成功を、分散主義の追求とそれに続く現実世界の成果においてエミュレートしています。
 
-## Immaculate Conception 2.0
+## 無原罪の受容2.0
 
-Much like Bitcoin, Ethereum Classic can be considered a divine entity due to the circumstances of its miraculous origin.
+Bitcoinのように、Ethereum Classicは奇跡的な起源の状況のために神聖な存在とみなすことができます。
 
-As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split.
+以前の [](/why-classic/genesis#the-immaculate-conception)を探求したように、Ethereum Classicの作成ストーリーは、事故によって再現または起こることはほぼ確実に不可能です。 誕生に至るまでの出来事だけでなく、ETCの存在自体も、他のプロジェクトへの警告として機能しています。 同じような論争の激しいハードフォークを避けるか、少なくともチェーン分裂の可能性を軽減しながらそれらを行う可能性があります
 
 > There were no markets and therefore no monetary value, and with this, it has not corrupted by the profit incentive from inception.  
 > ...  
 > This is not the case with other coins [ed: except ETC]; all launched with founders looking to profit, having backing from investors who are looking for bit exits and naturally retail foaming at the mouth looking to flip their positions too.
 > 
-> - [The Bitcoin Manual, Why There Won't Be A Next Bitcoin](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
+> - [Bitcoinマニュアル、次のBitcoinがない理由](https://thebitcoinmanual.com/articles/why-there-wont-be-a-next-bitcoin/)
 
-In some ways, Ethereum Classic's conception is even more "immaculate" than Bitcoin's; it was not planned at all, by anyone, and unlike Bitcoin, Ethereum Classic has no Satoshi, meaning that there is no Satoshi to return and influence decision-making, which is theoretically possible in Bitcoin.
+いくつかの点で、Ethereum Classicの概念はBitcoinよりもさらに「無原罪」です。 誰によっても計画されておらず、Bitcoinとは異なり、Ethereum ClassicにはSatoshiはありません。 つまり、Bitcoinで理論的に可能である意思決定に戻り影響を与えるSatoshiはありません。
 
-Ethereum Classic is also the only blockchain project seeded with a follower base that was 100% focused on the principles of decentralism. Despite the risks, they went against the official Ethereum™ project, self-selecting specifically because of their reaction to The DAO incident and the abuses enabled by centralization.
+Ethereum Classicは、100%の分散主義の原則に焦点を当てたフォロワーベースでシードされた唯一のブロックチェーンプロジェクトです。 リスクにもかかわらず、彼らは公式のEthereumTMプロジェクトに反対しました DAO事件への反応と集中化によって有効にされた虐待のために、具体的に自己選択。
 
-## No Official Anything
+## 公式なものはありません
 
-Like Bitcoin, Ethereum Classic has no official developers, maintainers, or leaders. It has no official logo, no official website, no official conferences. Ethereum Classic cannot have an official _anything_ because no individual or group has the authority to claim they represent ETC in any official capacity.
+Bitcoinのように、Ethereum Classicには公式の開発者、メンテナー、またはリーダーはいません。 公式ロゴも公式サイトも、公式会議もありません。 Ethereum Classicは公式の __ を持つことはできません。なぜなら、個人やグループは公式の能力でETCを代表すると主張する権限を持っていないからです。
 
-This is a rare quality and massive strength in the world of blockchains. It means no official _thing_ can be taken down, captured, or compromised, and there is no official entity that can sue competing forks for copyright infringement.
+これは、ブロックチェーンの世界ではまれな品質と巨大な強さです。 公式の __ を取り除いたり、捕獲したり、危険にさらされたりすることはできないということです。 著作権侵害で競合するフォークを訴えることができる公式の実体はありません
 
-_No official anything_ is the source of much of the strength of the Ethereum Classic project, but it also has drawbacks as there is no central source of truth to coordinate from. Instead, a "do-ocracy" exists where anyone can contribute and based on what is done, picked up, and used, those contributions become part of Ethereum Classic. This makes it a unique project and attractive to contributors as literally nothing can stop _you_ from being as close to official as anyone else.
+_公式なものはありません_ Ethereum Classicプロジェクトの強みの源泉です。 中心的な真実の情報源がないので欠点もあります 代わりに、誰もが貢献し、何が行われ、何が取り上げられ、使用されるかに基づいて、それらの貢献がEthereum Classicの一部になります。 これはユニークなプロジェクトであり、貢献者にとって魅力的なものです。 _あなた_ が他の誰よりも近くにいることを止めることはできません。
 
-## Secure Base Layer
+## セキュアなベースレイヤー
 
-The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™.
+Ethereum Classicコミュニティ内の多くの人々の見解は、前述の [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) が少なくとも後のベースでは乗り越えられないということです。 このため、Ethereum Classicの現在のロードマップには、EthereumTMによって試みられるよりエキゾチックな「ソリューション」は含まれていません。
 
-Essentially, there is no known _one size fits all_ approach to scaling throughput that can be applied on the base layer without compromising an important security assumption, so for ETC as a protocol, barring some significant technological advancement, it is best left up to applications or secondary protocols to provide various different trade-offs and implement optimizations depending on the use case, giving users the choice of which to adopt.
+本質的には、 重要なセキュリティの前提を損なうことなく、基本層に適用できるスループットをスケーリングするためのすべての __ アプローチに適合する既知のサイズはありません。 プロトコルとしてのETCには 大きな技術の進歩がなければ さまざまなトレードオフを提供し、ユースケースに応じて最適化を実装するためには、アプリケーションやセカンダリプロトコルに委ねられています。 ユーザーに採用する選択肢を与えています
 
-Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain.
+Ethereum Classicコミュニティの多くは、ブロックサイズを増やす試みにも警戒しています。 "膨張"と _同期するための_ 時間とハードウェア要件の増加という点で、道を下って現れる可能性が高い悪影響によります。 これがチェックされていない場合、Ethereum Classicノードを実行するのが難しくなり、集中化につながります。 ブロックガスの制限をさらに減らす必要があると主張する人もいます。 一方、他の人は、チェーンに保存する必要のあるデータ量を減らすことができる _知識証明ゼロ_ テクノロジーを目指しています。
 
-There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements.
+ブロックチェーンをスケーリングするための層別アプローチは、ベースレイヤーを混乱させないような方法で _Blockchain Trilemma_ を満足させながらスループットを向上させることができるという一般的な合意があります。 L1に影響を与えることなく、個々のL2システムを安全に実験でき、アプリケーションやユーザーの要件に応じて様々なトレードオフを微調整できます。
 
-## KISS Slowly
+## ゆっくりキスする
 
-The base layer needs to be secure in several ways; both technologically with fewer bugs and socioeconomically secure against various forms of attack.
+基底層はいくつかの方法で安全である必要があります; 技術的にはバグが少なく、さまざまな形態の攻撃に対して経済的に安全であること。
 
-Because single points of failure can exist in many areas and are often hidden, all things being equal, it is easier to maintain decentralization in systems that are _less complex_. Additional complexity creates not just more technical bugs and exploits, but also potential central points of failure, in unforeseen game-theory quandaries and in the form of higher upkeep requirements leading to a reduced pool of developers able to contribute to maintenance. If a system is too complex for anyone to reason with, it may as well be captured by its authors, who have sole authority on how it should be operated, maintained, and upgraded.
+失敗の単一のポイントは、多くの領域に存在し、しばしば隠されることがあるので, すべてのものは等しいです. _より複雑ではない_システムでは、分散化を維持する方が簡単です。 追加の複雑さは、単に技術的なバグやエクスプロイトだけでなく、潜在的な潜在的な障害の中心点を生み出します。 予期せぬゲーム理論や維持管理に貢献できる開発者のプールを減らすための より高い維持管理要件の形でです システムが複雑すぎて誰でも理解できない場合は、その作者によっても捕捉される可能性があります。 どのように運営され、維持され、そしてアップグレードされるべきかについての唯一の権限を持っています。
 
-Bitcoin, as with ETC, positions itself as the "good old reliable" system that does not need to innovate quickly, but instead, do so slowly and methodically without breaking it's previously established guarantees. This is achieved through a conservative approach to protocol upgrades, a "Move Slowly and Don't Break Things" ethos, and the delivery of innovation in layers, rather than attempting to implement radical changes to the base protocol.
+BitcoinはETCと同様に、迅速に革新する必要のない「古き良き信頼性の高い」システムとして位置づけています。 しかし代わりにゆっくりと系統的に行うそれは以前に確立された保証を破らずに これは、プロトコルのアップグレードに対する保守的なアプローチ、「ゆっくりと移動しない」という精神によって達成されます。 基本プロトコルに根本的な変更を加えようとするのではなく
 
-Like Bitcoin, this approach does not preclude innovation. Instead, it simply demands a careful and methodical [approach](/knowledge/future#upgrade-process) to protocol upgrades.
+Bitcoinのように、このアプローチはイノベーションを妨げません。 代わりに、単純にプロトコルのアップグレードに対して慎重かつ系統的な [アプローチ](/knowledge/future#upgrade-process) を要求します。
 
-## Don't Trust, Verify
+## 信頼しない、確認する
 
-One of the hallmarks of genuinely decentralized projects is that a healthy level of distrust exists amongst participants in the social layer. While this may sound counter-intuitive, it is what secures the social layer against many forms of attack.
+本当に分散化されたプロジェクトの特徴の一つは、社会的な層の参加者の間に健全な不信のレベルが存在することです。 これは直感に反するように聞こえるかもしれませんが、社会的な層を多くの形態の攻撃に対して保護するものです。
 
-Any individual could become compromised at any point, so all participants must maintain an ever-skeptical perspective in communications and decision-making, judging _ideas_ rather than individuals and reputations. To do otherwise is to make one of the key failures of centralized decision-making, which may be expedient, but is fragile, as when decisions are made based on authority rather than merit alone, it allows terrible decisions not just to occur occasionally, but continue unchecked, double-downed on, and snowball out of control.
+あらゆる個人がいつでも侵害される可能性があるため、すべての参加者は、コミュニケーションと意思決定において常に懐疑的な視点を維持する必要があります。 個人や評判よりもむしろ _アイディア_ を判断する。 他の方法で行うことは、集中的な意思決定の重要な失敗の一つを作ることです, これは便宜的なことができます. しかし利点だけではなく権力に基づいて決定が下されるように脆弱です 時折起きるだけでなくチェックを外し ダブル・ダウンして スノーボールを制御不能にする
 
-For this reason the concept of *toxicity* as a general approach to the adversarial cryptocurrency social space remains an open debate and is considered by some to be a legitimate, frank, albeit unsavory strategy for navigating discussions. Some consider toxicity a form of immune response that weeds out certain types of smooth-talking bad actors who rely on populism to forward a particular proposal. Toxicity is not compatible with all personalities, and the Ethereum Classic has its fair share of both toxic and non-toxic participants. Be advised that in most cases, abrasiveness in the cryptocurrency space is not personal, but on the contrary, about defaulting to a purely idea-based rather than personality-based discussion.
+このため、敵対的な暗号通貨の社会空間に対する一般的なアプローチとしての *毒性* の概念は依然としてオープンな議論であり、正当なものであると考えられています。 議論をナビゲートするための不快な戦略とはいえね ある人は毒性を特定の提案を進めるためにポピュリズムに頼る滑らかな話す悪いアクターのあるタイプを除去する免疫応答の形態と考える。 毒性はすべての人格と互換性がありません。Ethereum Classicは毒性参加者と毒性参加者の両方に公平なシェアを持っています。 ほとんどの場合、暗号通貨領域の不安定性は個人的ではないことに注意してください。 しかしそれどころか個性に基づく議論ではなく 純粋なアイデアに基づくものでした
 
 ---
 
-Next, let's take a closer look at some practical technical implementation details that Ethereum Classic has adopted thanks to inspiration from Bitcoin; Sound Money, and Proof of Work.
+次に、Ethereum ClassicがBitcoinからのインスピレーションのおかげで採用しているいくつかの実用的な技術的実装の詳細を詳しく見てみましょう。 サウンドマネーとプルーフ・オブ・ワーク。
