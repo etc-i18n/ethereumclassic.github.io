@@ -3,7 +3,7 @@ updated: 2022-02-22
 contribute: true
 disclaimer: 验证
 title: 事件
-seo: 真实世界和虚拟以太坊经典相关事件的概述。 ETC首脑会议和每周社区呼吁欢迎所有人！
+seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all! ETC首脑会议和每周社区呼吁欢迎所有人！
 contributors:
   - IstoraMandiri
   - bobsummerwill
@@ -13,9 +13,9 @@ contributors:
 
 ## 社区电话
 
-每个星期四, 通常在 UTC 1500, Ethereum Classic [Discord](https://ethereumclassic.org/discord) 服务器上进行群聊。 通话正在流向 [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), 但您也可以在我们上线前加入1小时， 1400 UTC 要在绿房间中聊天记录。
+Every Thursday, usually at UTC 1500, a group voice chat takes place in the Ethereum Classic [Discord](https://ethereumclassic.org/discord) server. The call is streamed to [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), but you can also join 1 hour before we go live, at 1400 UTC, to chat off the record in the Green Room. 通话正在流向 [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), 但您也可以在我们上线前加入1小时， 1400 UTC 要在绿房间中聊天记录。
 
-有时候一名特邀嘉宾会加入与社区的问答聊天。 这些通话通常被录制，您可以在 ETC 社区调用 [存储库](https://github.com/ethereumclassic/community-calls) 上找到这些录音。
+有时候一名特邀嘉宾会加入与社区的问答聊天。 Occasionally a special guest will join the chat for Questions and Answers with the community. These calls are usually recorded, and you can find these recordings on the ETC Community Calls [repository](https://github.com/ethereumclassic/community-calls).
 
 所有人，不论其在就业和培训中心的参与程度如何， 欢迎加入這個聊天室，如果您想要提出一些问题，通常有时间打開。
 
@@ -27,7 +27,7 @@ contributors:
 
 一些社区成员还进入舞台，就与以太基姆古典有关的一些专题提出意见。
 
-2. 迄今为止，已举行了下列首脑会议：
+迄今为止，已举行了下列首脑会议：
 
 - 2019 Vancouver
 - 2018 Seoul
@@ -39,4 +39,4 @@ contributors:
 
 ETC Core Devs Call是一项技术讨论，要求开发人员在Ethereum Classic 客户端和/或ECIP 过程中工作。
 
-这些电话没有设定的时间表，但是全年都相当频繁。 在 [ECIP repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call) 中以GitHub 问题的形式宣布了拟议的呼叫。
+这些电话没有设定的时间表，但是全年都相当频繁。 These calls have no set schedule, but occur fairly frequently throughout the year. Proposed calls are announced in the form of GitHub issues in the [ECIPs repo](https://github.com/ethereumclassic/ECIPs/issues?q=is%3Aissue+Devs+Call).
