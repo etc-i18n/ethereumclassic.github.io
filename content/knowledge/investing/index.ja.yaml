@@ -1,0 +1,24 @@
+items:
+  links:
+    items:
+      Grayscale's ETC Research Report:
+        name: グレースケールのETC研究レポート
+        description: Ethereum Classicの値の提案に関するGrayscaleのレポート。 ETHとETCの起源について話し合い、ETCがモノのインターネットに電力を供給できる価値のある商品として提示する投資機会です。 また、ETCへの戦略的な配分により、投資家ポートフォリオの効率性が向上する方法も紹介されています。
+      etcIsMoney:
+        name: ETCはお金です
+        description: '「ハードマネー」の資質とそれらがEthereum Classicに関連することについてのカラフルで意見の多いアラーム'
+      The Ethereum Classic Monetary Policy Explained:
+        name: イーサリアムクラシック金融政策の説明
+        description: Bitcoinと同様でETHとは異なり、ETCのキャップされた金融政策を規定します。 ETCの総供給量は、次の世紀の間に199Mと210Mの間で収束します。 また、5Mブロックごとに20%の新しい供給削減(「フィフテニング」)、および初期投入割当ての経済性についても説明しています。
+      The Logic of why Ethereum Classic will Rise 1000x in the Medium to Long Term:
+        name: Ethereum Classicが中長期的に1000xを上昇させる理由のLogic
+        description: Etherplanは、Ethereum Classicが予見可能な将来にいくつかの有利なリターンを見る理由を説明します。
+      Why Does Ethereum Classic Have Value?:
+        name: Ethereumクラシックに価値があるのはなぜですか?
+        description: EtherplanはETCの価値提案とネットワークが「プログラマブル・デジタル・ゴールド」として基本的な価値を持っている理由を調べます。
+      Decentralized Finance (DeFi) on ETC Explained:
+        name: ETCでの分散ファイナンス（DeFi）
+        description: 富がその所有者によってブロックチェーンに保存され、分散型金融アプリケーションを通じて活用される方法を探ります。 DeFiは、参加者が従来の銀行システムよりもはるかに大きなコントロールと透明性を提供します。
+      Grayscale Ethereum Classic Trust (ETCG):
+        name: グレースケールEthereum Classic Trust (ETCG)
+        description: グレイスケールのEthereum Classic Trustは、投資家が伝統的な投資車両を通じてETCの価格変動にさらされることを可能にします。 ETCGは証券取引により株式市場で取引され、退職口座(IRA/401K)で保有することができます。 ETCの購入と保管の投資家の課題を回避します。
