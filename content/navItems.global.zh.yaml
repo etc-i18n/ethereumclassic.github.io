@@ -86,7 +86,6 @@ learn:
           longName: 开发者指南
           description: 关于如何在以太古经典上构建dapps的海龟集
     videos:
-      name: ZH VIDEO
       description: 一系列视频和播客，让您了解ETC的概念和事件
       navItems:
         explainers:
