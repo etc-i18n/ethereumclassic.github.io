@@ -1,8 +1,8 @@
 ---
-title: Guides & Tutorials
-seo: User guides covering the basics of how to interact with Ethereum Classic, and development tutorials for decentralized application creators.
+title: ガイド & チュートリアル
+seo: ユーザーガイドでは、Ethereum Classicとのやり取りの基本や、分散型アプリケーション作成者向けの開発チュートリアルについて説明します。
 ---
 
-Ethereum Classic, being technologically very similar to Ethereum, shares a body of work in user guides, tutorials and walkthroughs that apply to both chains. As far as the protocol goes, everything that you can do on Ethereum can be done in pretty much the same way on Ethereum Classic, which is why the [community guides on Ethereum.org](https://ethereum.org/en/learn/) are highly recommended reading.
+イーサリアムに技術的に非常に似ているEthereum Classicは、両方のチェーンに適用されるユーザーガイド、チュートリアル、ウォークスルーで作業の本体を共有します。 As far as the protocol goes, everything that you can do on Ethereum can be done in pretty much the same way on Ethereum Classic, which is why the [community guides on Ethereum.org](https://ethereum.org/en/learn/) are highly recommended reading.
 
-To supplement this, this section contains Ethereum Classic specific materials, covering everything from the basics, to guides for general user, and tutorials for developers.
+これを補足するために、このセクションにはEthereum Classic固有の資料が含まれており、基本から一般ユーザー向けのガイド、および開発者向けのチュートリアルまですべてを網羅しています。
