@@ -1,0 +1,112 @@
+title: 社交频道
+seo: Ethereum 经典聊天室、Twitter账户、讨论小组、论坛、播客、仓库和区域网站集合。
+description: |
+  以下是活跃的Ethereum 经典讨论渠道和小组的非详尽清单。
+
+  目前ETC 社区内的主要活动中心在 [Discord](https://eferumclassic.org/discord)。
+items:
+  Chat Rooms:
+    title: 聊天室
+    items:
+      chat Discord:
+        __primary: true
+        name: Discord (Community, Global)
+      chat Discord Coop:
+        __primary: true
+        name: Discord (ETC Coop)
+      chat Facebook English:
+        name: Facebook (英文)
+      chat Facebook Vietnam:
+        name: Facebook (越南语)
+      chat Kakao Korea:
+        name: Kakao (韩国)
+      chat Slack:
+        name: Slack (英文)
+      chat WeChat:
+        name: WeChat (中文)
+  Development Chat:
+    title: 开发聊天
+    items:
+      Core-Geth dev:
+        name: 核心资源
+      ETC Core dev:
+        name: ETC Core
+      Hyperledger Besu dev:
+        name: 超音速贝斯文
+  Telegram Groups:
+    title: Telegram 群組
+    items:
+      telegram English:
+        name: Distr.
+      telegram Español:
+        name: Español
+      telegram Italia:
+        name: Italia
+      telegram Russia:
+        name: Russian
+      telegram Viet Nam:
+        name: Viet Nam
+      telegram China:
+        name: 中文
+  Forums:
+    title: 讨论区
+    items:
+      forum RedditEthereumClassic:
+        name: Reddit r/Etherumsic
+      forum BitcoinTalk:
+        name: 比特币Talk
+      forum Archived BitcoinTalk:
+        name: 已存档比特币Talk
+  Media:
+    title: 媒体
+    items:
+      media ETCfInv:
+        name: 以太奇为投资者的 Etherum Casicic (ETC)
+      media EthereumClassicCC:
+        name: Ethereum 经典社区呼叫
+      media Etherplan:
+        name: 以太计划
+      media EVM61:
+        name: EVM61
+      media Explore The Chain:
+        name: 探索链条
+      media Let's Talk ETC!:
+        name: 让我们说话ETC！
+  Twitter Accounts:
+    title: Twitter 账户
+    items:
+      twitter China:
+        name: 中国
+      twitter English 1:
+        __primary: true
+        name: "@ETC_Network"
+      twitter English 2:
+        __primary: true
+        name: "@eth_classic"
+      twitter Español:
+        name: Español
+      twitter France:
+        name: 法国
+      twitter Germany:
+        name: 德国
+      twitter Italia:
+        name: Italia
+      twitter Japan:
+        name: 日本
+      twitter Korea 1:
+        name: Korea
+      twitter Korea 2:
+        name: Korea
+      twitter Netherlands:
+        name: 荷兰
+      twitter Turkey:
+        name: 土耳其
+      twitter Viet Nam:
+        name: Viet Nam
+  Regional Website:
+    title: 区域网站
+    items:
+      website ETC Hub:
+        name: ETCHub.io
+      website EthereumClassic.cn:
+        name: EthereumClassic.cn
