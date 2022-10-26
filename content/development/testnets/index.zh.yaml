@@ -1,88 +1,46 @@
 title: Testnets
-__updated: 2022-02-22
-__contribute: 1
-seo: Information about the various Ethereum Classic testnets, which publically available networks that can be used to test contracts and protocol upgrades.
+seo: 关于各种Ethereum 经典测试网的信息，这些测试网可用于测试合同和协议升级。
 description: |
-  When developing contracts on Ethereum Classic, as with any EVM Contract System, it is advised to use a local [virtual network](/development/tooling), which allows you to quickly iterate without having to wait for blocks to be mined. At some point, though, you may wish to allow the public to interact with a beta version of your application, and for this, a testnet can be used.
+  在制定Ethereum Classic合同时，如同任何EVM合同系统一样，建议使用本地[虚拟网络](/development/tool)， 允许您快速循环而不必等待方块被开采。 但在某个时候，您可能希望允许公众与您的应用程序的 beta 版本交互。 为此，可以使用测试网。
 
-  As Ethereum Classic maintains compatibility with Ethereum's upstream EVM, other than some minor edge cases, contracts will behave identically. This means that popular Ethereum testsnets such as [Kovan](https://kovan-testnet.github.io/website/) can, for the most part, be used for public testing of Ethereum Classic contracts, and because of their popularity this may be preferable for user testing.
+  由于Etherum经典与Etherum上游的EVM保持兼容性，除了一些较小的边缘情况外，合同的行为将是相同的。 这意味着流行的Ethereum testsnet，比如 [Kovan](https://kovan-testnet.github)。 o/website/）大部分可用来公开测试“以太坊经典”合同， 而且因为它们很受欢迎，这可能更适合用户测试。
 
-  Additionally, Ethereum Classic has its own testnets that operate the Ethereum Classic version of the EVM, and deploying to one of these networks is also highly recommended before production release. These public testnets also provide faucets, so you can easily acquire testnet ETC and deploy your code.
+  此外，以太坊经典有自己的测试网来运行以太坊经典版本的 EVM 还强烈建议在生产释放之前向其中一个网络部署。 这些公共测试网也提供了动物群，所以您可以轻松获取测试网ETC并部署您的代码。
 
-  Some of these networks, such as Astor, test experimental versions of ETC with features that do not yet exist in Ethereum Classic mainnet.
-__contributors:
-  - gitr0n1n
-  - IstoraMandiri
+  其中一些网络，如Astor，测试实验版本的ETC，其特性尚不存在于Ethereum Classic mainnet中。
 items:
   testnets:
-    __type: table
-    __sort: 0
     i18n:
-      pow: Proof of Work
-      poa: Proof of Authority
+      pow: 工作证明
+      poa: 权力证明
       testnet: Testnet
-      experimental: Experimental
+      experimental: 实验性
       faucet: Faucet
     columnItems:
       name:
-        name: Name
-        __linkRef: link
+        name: 名称
       faucet:
-        __linkRef: faucet
         text: Faucet
-        __icon: coins
       type:
-        name: Type
-        __textRef: type
+        name: 类型
       miningAlgo:
-        name: Algorithm
+        name: 算法
       consensusAlgo:
-        __textRef: consensusAlgo
-        name: Consensus Type
+        name: 共识类型
       networkId:
-        name: NetworkID
+        name: 网络 ID
       chainId:
-        name: ChainID
+        name: 链号
     items:
       Testnet Kotti:
-        name: Kotti
-        __chainId: 6
-        __type: testnet
-        __networkId: 6
-        __link: https://github.com/goerli/testnet
-        __faucet: http://kottifaucet.me/
-        __consensusAlgo: poa
-        __miningAlgo: Clique
+        name: 科蒂文
       Testnet Mordor:
         name: Mordor
-        __chainId: 63
-        __type: testnet
-        __networkId: 7
-        __link: https://github.com/eth-classic/mordor
-        __faucet: 'https://easy.hebeswap.com/#/faucet'
-        __consensusAlgo: pow
-        __miningAlgo: Etchash
       Testnet Astor:
-        name: Astor
-        __type: experimental
-        __link: https://astor.host/
-        __consensusAlgo: pow
-        __miningAlgo: Keccak256
+        name: 阿斯托尔
       Testnet Helmsdeep:
         name: Helmsdeep
-        __type: experimental
-        __link: https://github.com/chippr-robotics/chippr-bots/tree/staging/packages/testnets/helmsdeep
-        __consensusAlgo: pow
-        __miningAlgo: Etchash
       Testnet Keccak Besu:
         name: Keccak Besu
-        __type: experimental
-        __link: https://github.com/whiteblock/keccak-besu-testnet
-        __consensusAlgo: pow
-        __miningAlgo: Keccak256
       Testnet Sagano:
         name: Sagano
-        __type: experimental
-        __link: https://docs.mantisclient.io/first-steps/client-quickstart
-        __consensusAlgo: pow
-        __miningAlgo: Etchash
