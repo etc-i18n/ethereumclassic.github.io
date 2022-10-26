@@ -14,7 +14,6 @@ contributors:
 **⚠️ 更新**  
 您现在可以轻松地将ETC 添加到MetaMask，点击链接列表中的"连接钱包"：
 
-<AddNetwork />
 
 您可以在本网站每页底部找到此链接。
 

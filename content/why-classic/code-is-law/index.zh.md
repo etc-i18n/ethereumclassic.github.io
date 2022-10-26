@@ -1,7 +1,7 @@
 ---
 title: 代码是法律
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 关于“法典是法律”的概念的解释， 并且以太坊经典是使这个光明未来得以展开的少数区块链项目之一。
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 基础知识
-seo: Ether is Ethereum Classic's native token is a cryptocurrency traded on digital currency exchanges under the ticker symbol <strong x-id="1">ETC</strong>. Ether is created as a reward to network nodes for a process known as mining, which validates computations performed on Ethereum Classic's EVM. Ether 是作为对网络节点的奖励创建的，这种过程被称为采矿，它验证了以太空类的EVM进行的计算。
+seo: Ether is Ethereum Classic's native token is a cryptocurrency traded on digital currency exchanges under the ticker symbol ETC. Ether is created as a reward to network nodes for a process known as mining, which validates computations performed on Ethereum Classic's EVM. Ether 是作为对网络节点的奖励创建的，这种过程被称为采矿，它验证了以太空类的EVM进行的计算。
 license: 抄送
 contributors:
   - 开发人员

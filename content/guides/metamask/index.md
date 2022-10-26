@@ -8,14 +8,10 @@ info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/h
 contributors: [DonaldMcIntyre]
 ---
 
-import AddNetwork from '../../../src/components/addNetwork.js'
-
 **⚠️ Update**  
-You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on ChainList:
+You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on https://chainlist.org/en/chain/61
 
-<AddNetwork />
-
-You can find this link at the bottom of every page on this website.
+You can also find this link at the bottom of every page on this website.
 
 ---
 

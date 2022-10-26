@@ -1,7 +1,7 @@
 ---
 title: 工作证明
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 为什么Stake证明并不是希望带来巨大变化的区块链的适当解决方案的论点， 以及为什么工作证明是唯一能够做到的已知协商一致机制。
 ---
 

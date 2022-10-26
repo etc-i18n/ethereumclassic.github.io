@@ -1,7 +1,7 @@
 ---
 title: 分权制
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 一篇论文解释了以太基姆古典的原则和核心价值主张为基础的权力下放价值观，使它能够带来光明的未来， 与许多其他区块链走的黑暗的中央集权路径形成对比。
 contributors:
   - "IstoraMandiri"

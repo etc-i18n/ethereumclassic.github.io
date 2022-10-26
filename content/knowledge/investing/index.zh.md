@@ -3,10 +3,10 @@ updated: 2022-02-22
 title: 投资者资源
 contributors:
   - arvicco
-  - dax-class6
+  - dax-classix
   - gitr0n1n
   - IstoraMandiri
-  - 梅利普吉维尔
+  - philippgille
   - ProphetDaniel
   - pyskell
   - TheEnthusiasticAs

@@ -1,7 +1,7 @@
 ---
 title: 声音钱
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 一个给它提供价值的有用特征以及一些区块链，包括Ethereum Classic 和 Bitcoin 的概述。 有意将这些特点应用于货币政策，以确保权力下放和长寿。
 ---
 

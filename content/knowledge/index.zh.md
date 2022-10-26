@@ -1,7 +1,7 @@
 ---
 title: 知识库
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 一个关于古典以太久传统的历史、未来、哲学和经济学的信息中心， 记录分散版的原因、方式和地点。
 ---
 

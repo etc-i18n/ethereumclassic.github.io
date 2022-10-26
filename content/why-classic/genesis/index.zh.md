@@ -2,7 +2,7 @@
 title: 始发地
 updated: 2022-02-22
 contribute: true
-disclaimer: 意 见
+disclaimer: opinion
 seo: Ethereum Classic的起源故事，包括臭名昭著的DAO Hack， 由此产生的硬叉使以太坊基金会放弃了他们对《守则》的承诺是合法的。
 info: "**Disclaimer:** The events outlined in this story are believed to be accurate, but some details could not be verified as first-hand sources were deleted or otherwise lost to history. If any facts are disputed or additional sources become available, corrections are welcome. 如果有任何事实有争议或有更多的消息来源，欢迎作出更正。 如果有任何事实有争议或有更多的消息来源，欢迎作出更正。"
 ---
@@ -260,7 +260,7 @@ As the Child DAO's split function deadline loomed, consensus was declared, and E
 
 在2016年7月20日的第1,920,000号区块上，做了历史。 While the Ethereum™ website still proudly [proclaimed](http://web.archive.org/web/20160731205712/https://ethereum.org/) "Build Unstoppable Applications", its authors changed the Ethereum protocol for the sole purpose of stopping The Hacker's Child DAO in its tracks. 到达合同层的转场，拳打脚踢 _代码是窗口外的法律_ 改写了DAO公司的中途航班合同，并没收了The Hacker的ETH。 到达合同层的转场，拳打脚踢 _代码是窗口外的法律_ 改写了DAO公司的中途航班合同，并没收了The Hacker的ETH。
 
-任务已完成！</p> 
+任务已完成！
 
 Contrary to popular misconception, The DAO Hard Fork was technically _not_ a "rollback", as it is commonly referred to - there was no "going back" to an old state. Instead, it was a "surgical irregular state change". In many ways, this is a far worse outcome than a rollback from a _Code is Law_ perspective, as unlike a long reorg, this was the manual intervention of a contract, overriding its logic, _changing the rules of the game_, and inserting some arbitrary replacement code determined by a subjective off-chain governance process with next to no transparency. 相反，这是“外科不正常地改变状态”。 在许多方面，这比退回 _是法律_ 角度的结果要差得多。 与长篇大论不同，这是合同的人工干预，推翻了合同的逻辑， _更改游戏规则_, 并插入一些由主观的脱链治理程序决定的任意替换代码，几乎没有透明度。
 

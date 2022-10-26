@@ -3,7 +3,7 @@ title: 为何古典类？
 updated: 2022-02-22
 showNext: true
 seo: '《古典》将其创立、权力下放使命和光明的未来包括在内的理由是法律的。'
-disclaimer: 意 见
+disclaimer: opinion
 info: "**注意：** 在以下各节中，*EtherumTM*指的是发表于 DAO Fork [Ethereum Foundation](https://eferum)。 rg) Mainnet Chain，不要与Ethereum *protocol*混淆，因为它使用了许多区块链项目，包括Ethereum Classic"
 ---
 

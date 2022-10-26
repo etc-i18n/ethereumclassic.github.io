@@ -1,7 +1,7 @@
 ---
 title: ETH + BTC = ETC
 updated: 2022-02-22
-disclaimer: 意 见
+disclaimer: opinion
 seo: 通过将以太坊的技术与比特币的哲学和安全结合起来， 只有以太坊经典才能提供一个真正分散的智能合同平台。
 ---
 
@@ -64,7 +64,7 @@ The view of many within the Ethereum Classic community is that the aforementione
 
 本质上， 没有已知的 _个尺寸适合适用于可以应用于基础层且不损害重要安全假设的所有_ 个缩放通道， 作为一项议定书的ETC 排除了一些重大技术进步， 最好由应用程序或次级协议来提供各种不同的权衡，并根据使用情况进行优化。
 
-Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain. 一些人争辩说，应进一步减少块气体的限制 其他人期待 _零知识证明</em> 技术，可以减少需要存储在链上的数据数量。 一些人争辩说，应进一步减少块气体的限制 其他人期待 _零知识证明</em> 技术，可以减少需要存储在链上的数据数量。
+Many in the Ethereum Classic community are also wary of attempts to increase the block size, due to the adverse effects that are likely to appear down the road in terms of "bloat" and the increased _time to sync_ and hardware requirements, which, if left unchecked, may make it difficult to run an Ethereum Classic node, leading to centralization. Some argue the block gas limit should be reduced further, while others look towards _Zero Knowledge Proof_ technologies that can reduce the amount of data needed to be stored on chain. 一些人争辩说，应进一步减少块气体的限制 其他人期待 _零知识证明 技术，可以减少需要存储在链上的数据数量。 一些人争辩说，应进一步减少块气体的限制 其他人期待 _零知识证明 技术，可以减少需要存储在链上的数据数量。
 
 There is general agreement that a layered approach to scaling blockchains can increase throughput while satisfying the _Blockchain Trilemma_ in a way that does not mess with the base layer. Individuals can safely experiment with different L2 systems without affecting L1, and can fine-tune the various trade-offs depending on the application and user requirements. 个人可以在不影响L1的情况下安全地试验不同的L2系统，并可以根据应用和用户要求对各种权衡进行微调。
 

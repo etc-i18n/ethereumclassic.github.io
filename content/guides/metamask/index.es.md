@@ -9,8 +9,6 @@ contributors:
   - DonaldMcIntyre
 ---
 
-importar AddNetwork de '../../../src/components/addNetwork.js'
-
 **⚠️ Update**  
 Ahora puede agregar fácilmente ETC a la máscara haciendo clic en "Connect-Wallet" en ChainList:
 

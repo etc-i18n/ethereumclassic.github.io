@@ -6,6 +6,8 @@ import localizedPlugin from "dayjs/plugin/localizedFormat";
 // figure out how to do this dynamically but also work with SSR
 import "dayjs/locale/en";
 import "dayjs/locale/zh";
+import "dayjs/locale/ja";
+import "dayjs/locale/es";
 
 dayjs.extend(localizedPlugin);
 

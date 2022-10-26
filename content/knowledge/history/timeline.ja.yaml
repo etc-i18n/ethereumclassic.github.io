@@ -41,7 +41,7 @@ items:
     text: DAOの分割メカニズムは、資金を回収するソリューションを見つけるために約1ヶ月を与えます; 財団とコミュニティ開発者は、ソフトフォークを実装するために競争します。
   robinHoodGroupAnnounced:
     title: Robin Hood Groupが発表しました
-    text: '「ホワイトハット」ハッカーのグループは、DAO資金の70%を確保していますが、残りの30%をハッカーによって分割するためにはプロトコルレベルのアクションが必要です。'
+    text: "「ホワイトハット」ハッカーのグループは、DAO資金の70%を確保していますが、残りの30%をハッカーによって分割するためにはプロトコルレベルのアクションが必要です。"
   softForkTheDao:
     title: "DAO戦争：ソフトフォーク投票"
     text: Ethereum Foundationは、ハッカーからのトランザクションを検閲するために「Soft Fork」クライアントをリリースします。マイニングプールは、ガス制限を下げることによってそれを有効にするために投票します。
@@ -121,7 +121,7 @@ items:
     title: ETCDEV チーム
     text: ETCDEVチームとして長期にわたるETC貢献者とボランティアのチームがリブランドします。
   monetaryPolicyAdopted:
-    title: 金融政策の<unk>
+    title: 金融政策の
     text: Ethereum Classicは210を中心にコンセンサスを形成します。 5M20と呼ばれるBitcoin型の限定排出スケジュールを持つM ETC固定キャップ金融政策; 5Mブロックごとに20%のブロック報酬を削減します。
   etcInvestmentFund:
     title: ETCG投資基金
