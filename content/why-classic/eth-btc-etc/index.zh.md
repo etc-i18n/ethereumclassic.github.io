@@ -7,7 +7,7 @@ seo: 通过将以太坊的技术与比特币的哲学和安全结合起来， �
 
 ## 关键点
 
-- 以太久典型，是为了应对集中化带来的问题，很快实现并采用了比特币的分散设计决定的才能。
+- Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed. 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。
 - 如同ETH一样，ETC 是一个智能合约完整平台。
 - 像BTC一样，ETEC有一个奇迹般的产地，不可能再娱乐。
 - 像BTC一样，ETC “没有任何官方东西”，防止“官方”捕获。
@@ -40,7 +40,7 @@ Since the chain split, the design choices and philosophy of Ethereum Classic hav
 
 As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split. 不仅导致其诞生的事件极不可能发生，而且埃塔的存在现在也是对其他项目的警告。 有可能避免类似的有争议的硬叉，或至少只是在减少链分的可能性的同时这样做。
 
-> 没有市场，因而也没有货币价值，所以从一开始就没有因为利润刺激而受到损害。    
+> 没有市场，因而也没有货币价值，所以从一开始就没有因为利润刺激而受到损害。     
 > ...  
 > 其他硬币不属于这种情况[: 除ETC]； 所有发射者都是追求利润， 得到了寻找点位的投资者的支持，并且自然地在眼前也要翻转自己的仓位的嘴上发火烧。
 > 
@@ -60,7 +60,7 @@ _No official anything_ is the source of much of the strength of the Ethereum Cla
 
 ## 安全基础图层
 
-The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™. 因此，Ethereum Classic目前的行进图不包括EtherumTM将尝试的更多外来的“解决办法”。
+The view of many within the Ethereum Classic community is that the aforementioned [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) is insurmountable, at least on the base later. For this reason, Ethereum Classic's current roadmap does not include the more exotic "solutions" that will be attempted by Ethereum™. 因此，Ethereum Classic目前的行进图不包括EtherumTM将尝试的更多外来的“解决办法”。 因此，Ethereum Classic目前的行进图不包括EtherumTM将尝试的更多外来的“解决办法”。
 
 本质上， 没有已知的 _个尺寸适合适用于可以应用于基础层且不损害重要安全假设的所有_ 个缩放通道， 作为一项议定书的ETC 排除了一些重大技术进步， 最好由应用程序或次级协议来提供各种不同的权衡，并根据使用情况进行优化。
 
