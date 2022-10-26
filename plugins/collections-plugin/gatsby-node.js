@@ -5,6 +5,28 @@ function urlSafe(str) {
   return encodeURI(_.kebabCase(str.toLocaleLowerCase()));
 }
 
+function mergei18n(obj, i18n) {
+  if (!i18n) {
+    return obj;
+  }
+  return _.mergeWith(_.cloneDeep(obj), _.cloneDeep(i18n), (a, b) => {
+    // ignore undefined fields
+    if (obj === undefined) {
+      return null;
+    }
+    // map arrays
+    if (_.isArray(a)) {
+      return a.map((item) => {
+        if (b[item.name]) {
+          return { ...item, ...b[item.name] };
+        } else {
+          return item;
+        }
+      });
+    }
+  });
+}
+
 exports.onCreateNode = async (
   {
     node,
@@ -13,24 +35,26 @@ exports.onCreateNode = async (
     createNodeId,
     createContentDigest,
   },
-  { instanceType, collectionKey, locales, defaultLocale }
+  { instanceType, collectionKey, locales }
 ) => {
   // we only care about collection yaml files
   if (
     node.sourceInstanceName !== instanceType ||
     node.internal.mediaType !== `text/yaml` ||
-    // match `xxx.collection.en.yaml` and `/collection/xxx.yaml`
     !(
-      node.base.includes(`.${collectionKey}.`) ||
-      node.relativePath.includes(`/${collectionKey}/`)
+      node.base.includes(`.${collectionKey}.`) // ||
+      // node.relativePath.includes(`/${collectionKey}/`) // TODO
     )
   ) {
     return;
   }
 
-  const isListType = node.base.includes(`.${collectionKey}.`);
   const content = await loadNodeContent(node);
   const parsedContent = jsYaml.load(content);
+
+  if (!_.isArray(parsedContent)) {
+    throw new Error(`Collection incorrectly formatted: ${node.absolutePath}`);
+  }
 
   function createYamlNode({ name = "", id, obj, locale }) {
     // dedupe the name so we don't have VideosVideosCollectionCollection etc.
@@ -74,25 +98,34 @@ exports.onCreateNode = async (
     createParentChildLink({ parent: node, child: yamlNode });
   }
 
-  if (isListType) {
-    if (!_.isArray(parsedContent)) {
-      throw new Error(`Collection incorrectly formatted: ${node.absolutePath}`);
-    }
-    const [name] = node.name.split(".");
-    parsedContent.forEach((o, i) => {
-      const { locale = defaultLocale, ...obj } = o;
-      const id = createNodeId(`${node.id} [${i}] >>> YAML`);
-      createYamlNode({ id, name, obj, locale });
+  const [name, , nodeLocale] = node.name.split(".");
+  const mixedLocales = !nodeLocale;
+
+  if (!mixedLocales) {
+    // for regular `name.collection.locale`
+    parsedContent.forEach((obj, i) => {
+      createYamlNode({
+        id: createNodeId(`${node.id} [${i}] >>> YAML`),
+        locale: nodeLocale,
+        name,
+        obj,
+      });
     });
   } else {
-    Object.keys(locales)
-      .map((locale) => ({ ...locales[locale], locale }))
-      .filter(({ enabled }) => enabled)
-      .forEach(({ locale }) => {
-        const id = createNodeId(`${node.id} [${locale}] >>> YAML`);
-        const { i18n = {}, ...o } = parsedContent;
-        const obj = { ...o, ...i18n[locale] };
-        createYamlNode({ id, obj, locale });
-      });
+    // for `name.collection`, populate nodes for all locales
+    parsedContent.forEach((item, i) => {
+      const { i18n = {}, locale: _locale, ...obj } = item;
+      Object.keys(locales)
+        .map((locale) => ({ ...locales[locale], locale }))
+        .filter(({ enabled }) => !!enabled)
+        .forEach(({ locale }) => {
+          createYamlNode({
+            id: createNodeId(`${node.id} [${i}] [${locale}] >>> YAML`),
+            obj: mergei18n(obj, i18n[locale]),
+            locale,
+            name,
+          });
+        });
+    });
   }
 };

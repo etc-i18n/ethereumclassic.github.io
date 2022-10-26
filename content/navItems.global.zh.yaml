@@ -1,0 +1,19 @@
+learn:
+  navItems:
+    videos:
+      name: ZH VIDEO
+      navItems:
+        discussions:
+          hidden: 1
+        trading:
+          hidden: 1
+        development:
+          hidden: 1
+        tutorials:
+          hidden: 1
+        mining:
+          hidden: 1
+        conferences:
+          hidden: 1
+        other:
+          hidden: 1

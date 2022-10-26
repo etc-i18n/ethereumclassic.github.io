@@ -15,7 +15,11 @@ export default function LayoutLanding(props) {
 export const pageQuery = graphql`
   query ($locale: String!) {
     headlines: allNewsItem(
-      filter: { tags: { in: "news" }, unlisted: { ne: true } }
+      filter: {
+        locale: { eq: $locale }
+        tags: { in: "news" }
+        unlisted: { ne: true }
+      }
       limit: 5
       sort: { fields: date, order: DESC }
     ) {
@@ -27,7 +31,7 @@ export const pageQuery = graphql`
     }
     videos: allVideosCollection(
       limit: 3
-      filter: { locale: { eq: $locale } }
+      filter: { locale: { eq: $locale }, unlisted: { ne: true } }
       sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {
@@ -38,7 +42,7 @@ export const pageQuery = graphql`
     }
     apps: allServicesAppsCollection(
       limit: 12
-      filter: { locale: { eq: $locale } }
+      filter: { locale: { eq: $locale }, unlisted: { ne: true } }
       sort: { fields: [date, title], order: [DESC, ASC] }
     ) {
       edges {

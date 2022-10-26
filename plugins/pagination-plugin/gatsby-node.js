@@ -73,6 +73,7 @@ exports.onCreatePage = async (
   const pageGroups = [
     {
       path: page.path,
+      filterBase: `/${basePath}`,
       items: queried[locale]?.total ?? 0,
       slugs: queried[locale]?.slugs,
     },
@@ -85,8 +86,10 @@ exports.onCreatePage = async (
     const resultKeys = Object.keys(fResult);
     all[camelCase(`all ${fKey}`)] = resultKeys;
     resultKeys.forEach((fItem) => {
+      const filterPath = `${config.filters[fKey]?.slug ?? "/"}${fItem}`;
       pageGroups.push({
-        path: `${page.path}${config.filters[fKey].slug}${fItem}`,
+        path: `${page.path}${filterPath}`,
+        filterBase: `/${basePath}${filterPath}`,
         items: fResult[fItem].count,
         slugs: fResult[fItem].slugs,
         filter: fItem,
@@ -95,7 +98,8 @@ exports.onCreatePage = async (
       });
     });
   });
-  pageGroups.forEach(({ path, items, filterType, filter, slugs, field }) => {
+  pageGroups.forEach((group) => {
+    const { path, items, filterType, filter, slugs, field, filterBase } = group;
     const numPages = Math.floor(items / config.itemsPerPage) + 1;
     const { type } = config.filters[filterType] || {};
     Array.from({ length: numPages }).forEach((_, i) => {
@@ -103,10 +107,9 @@ exports.onCreatePage = async (
       const isFirst = currentPage === 1;
       const filterQuery = {
         locale: { eq: locale },
-        // TODO make configurable
-        unlisted: { ne: true },
         ...(type === "tags" && { [field]: { in: filter } }),
         ...(type === "category" && { [field]: { eq: filter } }),
+        ...config.globalFilters,
       };
       const p = {
         ...page,
@@ -114,7 +117,7 @@ exports.onCreatePage = async (
         context: {
           ...page.context,
           numPages,
-          filterBase: path,
+          filterBase,
           numItems: items,
           currentPage,
           limit: config.itemsPerPage,
