@@ -1,19 +1,19 @@
 ---
-title: Services
+title: サービス
 updated: 2022-02-22
-seo: A directory of services that make up the rich ecosystem that sits on top of Ethereum Classic, including Wallets, Exchanges and Decentralized Applications.
+seo: Wallet、Exchanges、Decentralized Applicationsなど、Ethereum Classicの上に位置する豊富なエコシステムを構成するサービスのディレクトリ。
 ---
 
-On top of the Ethereum Classic blockchain is a rich ecosystem of applications, including Wallets, Exchanges and Decentralized Applications. As the number of these services grows over time, so does the utility and value of the network as a whole.
+Ethereum Classicブロックチェーンは、Wallet、Exchanges、Decentralized Applicationsなどのアプリケーションの豊富なエコシステムです。 これらのサービスの数が時間とともに増えるにつれて、ネットワーク全体の有用性と価値も増大します。
 
-## Important Warning
+## 重要な警告
 
-Ethereum Classic, as a neutral permissionless protocol, has no means to gate-keep what is deployed to it, so the only protection users have against falling victim to bad projects is vigilance and a level of prudence, making sure that what they are interacting with has a level of integrity they are comfortable with.
+Ethereum Classicは、中立的な許可なしプロトコルとして、デプロイされるゲートキープには手段がありません。 つまりユーザーが悪いプロジェクトの犠牲者になるのを防ぐのは 警戒と慎重さだけだ 彼らが相互作用しているものが彼らが快適に使えるレベルの整合性を持っていることを確認する
 
-Where it is relevant, this section will try to provide some hints as to what are signs of a good project. The _gold standard_ is a team with a track record publishing open source code with a full test suite and extensive audits, but it is up to individuals to decide for themselves what level of assurance they need depending on their use case, financial commitment, and risk appetite.
+関連性がある場合、このセクションでは良いプロジェクトの兆候についていくつかのヒントを提供しようとします。 _ゴールドスタンダード_ は、完全なテストスイートと広範な監査を備えたオープンソースコードを公開する実績を持つチームです。 でも自分で決めるのは個人の責任だ どの程度の保証が必要か 経済的なコミットメントとリスクに対する食欲です
 
 Even _gold standard_ projects will occasionally fall victim to bugs, hacks and rugpulls, so always follow the first rule of crypto: **don't invest what you can't afford to lose**.
 
-All the links to external resources on the website should be treated with caution, as they are community submitted, are not vetted, and cannot be guaranteed to be safe.
+ウェブサイト上の外部リソースへのリンクはすべて慎重に扱う必要があります。 共同体が提出されても審査されず安全であることが保証されません
 
-Please take precautions and do your own research before using an application.
+申請の際は事前にご注意の上、ご自身の研究をお願いいたします。
