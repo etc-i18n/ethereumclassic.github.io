@@ -1,0 +1,84 @@
+title: Preguntas frecuentes del investigador
+seo: Preguntas frecuentes para aquellos que investigan o intentan entender lo básico de Ethereum Classic.
+info: '¿No puedes encontrar una respuesta a tu pregunta aquí? Intenta preguntar en el servidor de la comunidad ETC [discord](https://ethereumclassic.org/discord).'
+description: Si acabas de escuchar sobre Ethereum Classic y quieres aprender más, o ya mantenga ETC pero quiere una comprensión más profunda de su razón para ser, esta página es para usted.
+__contribute: true
+items:
+  questions:
+    items:
+      what:
+        question: '¿Qué es Ethereum Classic?'
+        answer: |
+          Ethereum Classic es una prueba del trabajo Smart Contract Blockchain.
+
+          Philosophically ETC es similar a Bitcoin, valorando los ideales de descentralización, resistencia a la censura y dinero sólido. Tecnológicamente, es similar a Ethereum, que opera una EVM (Ethereum Virtual Machine).
+
+          Combinar estos dos enfoques coloca a Ethereum Classic en una posición única, proporcionar una fuerte fundación descentralista arraigada en los ideales de cypherpunk junto con la flexibilidad e innovación de Smart Contracts.
+      eth:
+        question: '¿Cuál es la diferencia entre Ethereum Classic y Ethereum?'
+        answer: |
+          Ethereum Classic y Ethereum fueron una vez el mismo proyecto, pero debido a una diferencia en la filosofía, las comunidades se dividieron en 2016. En 2022, Ethereum cambió a Prueba de Toma, y el Clásico permaneció en la Prueba de Trabajo. Esto marcó la primera gran diferencia tecnológica entre las dos cadenas.
+
+          Aparte de sus mecanismos de consenso, ETC y ETH siguen siendo muy similares tecnológicamente, y ETC mantiene compatibilidad con EVM de modo que los contratos desplegados en Ethereum también pueden ser fácilmente desplegados en Ethereum Classic.
+
+          Puedes aprender más sobre la división entre las secciones Ethereum y Ethereum Classic en las [history](/knowledge/history) y [geneis](/why-classic/genesis) .
+      whitepaper:
+        question: '¿Ethereum Classic tiene un papel blanco?'
+        answer: |
+          Puesto que Ethereum es una bifurcación de Ethereum Classic, ambos proyectos comparten la misma historia hasta 2016, incluyendo documentos anteriores como el Ethereum [Whitepaper](https://ethereum. rg/es/whitepaper/) y [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
+
+          Después de la división con Ethereum, los seguidores del ETC publicaron una serie de documentos que detallaban las diferencias en la filosofía, que se convirtió en parte del ADN del proyecto Ethereum Classic. Puede leer más sobre los documentos fundacionales de Ethereum Classic en la sección [foundation](/knowledge/foundation).
+      roadmap:
+        question: '¿Dónde puedo encontrar el mapa de ruta de Ethereum Classic?'
+        answer: |
+          Similar a Bitcoin, como un proyecto descentralizado sin liderazgo, no hay un mapa formal de camino ejecutivo. El protocolo se mejora continuamente a través de la colaboración a través del proceso [Ethereum Classic Improvement Proposal](/development/ecips) (ECIP).
+
+          Puedes encontrar más acerca de las actualizaciones potenciales en la sección [future](/knowledge/future).
+      origins:
+        question: '¿Por qué Ethereum Classic existe?'
+        answer: |
+          La misión de Ethereum Classic es continuar con la visión original de Ethereum de "Construir aplicaciones imparables" emboed en el ideal de "Code is Law".
+
+          A nivel técnico, Ethereum Classic existe como una continuación de Ethereum, que se separaron de ETC en 2016 y deteniendo la ejecución de una aplicación que se ejecutaba en ella. Puedes aprender sobre los detalles de este evento en la sección [geneis](/why-classic/genesis) .
+      codeIsLaw:
+        question: '¿Qué significa "Code is Law"?'
+        answer: |
+          "Code is Law" es un ideal por el cual ninguna autoridad tiene la capacidad de interferir en las operaciones de contratos y transacciones válidas en cadena, posibilitar muchos beneficios prometedores que tienen el potencial de mejorar enormemente el estado del mundo.
+
+          La alternativa, "Code isn't Law", ha sido el estado estándar de las cosas antes del amanecer de la tecnología blockchain, por el cual los procesos de toma de decisiones fuera de cadena corruptible determinan el resultado de contratos y transacciones.
+
+          Puedes aprender más sobre el matiz de este concepto en la sección [Code is Law](/why-classic/code-is-law).
+      decentralization:
+        question: '¿Por qué debería preocuparme por la descentralización?'
+        answer: |
+          La descentralización es un requisito previo para "Code is Law". Permite a los participantes operar en igualdad de condiciones y es lo que desbloquea el valor fundamental de la tecnología blockchain. Muchos proyectos de blockchain, a pesar de sus pretensiones, no están suficientemente descentralizados, lo que los hace susceptibles de captura y censura.
+
+          Puedes aprender más sobre esto en la sección [decentralism](/why-classic/decentralism).
+      who:
+        question: '¿Quién está a cargo del Proyecto Ethereum Classic ?'
+        answer: |
+          Similar a Bitcoin, no hay una sola entidad a cargo del Proyecto Ethereum Classic . En cambio, los individuos y los equipos que siguen un conjunto común de principios contribuyen a una democracia sin permisos. Si bien esta estructura organizacional tiene algunos cajones, también hace que el proyecto sea inmune a ciertos tipos de captura y por lo tanto mejora la supervivencia a largo plazo.
+
+          Por lo tanto, no hay ningún liderazgo superior ni "ninguna cosa oficial" en ETC, incluyendo este sitio web e incluso el software cliente Ethereum Classic. Sin embargo, existen destacados equipos que operan dentro del ecosistema, ganando influencia informal basada en su reputación, historial y contribuciones.
+
+          Puedes aprender más sobre la comunidad autoorganizada de Ethereum Classic en las secciones [community](/community) y [foundation](/knowledge/foundation).
+      proofOfWork:
+        question: '¿Por qué Ethereum Classic no utiliza la prueba de toma?'
+        answer: |
+          Como Ethereum Classic da una alta prioridad a la resistencia a la censura, su comunidad decidió permanecer en el mecanismo probado y verdadero de prueba de trabajo. Hay muchas razones por las que los diversos sabores de la Prueba de Stake no son capaces de igualar las mismas garantías de seguridad que PoW, pero en resumen, todos implican compensaciones de seguridad o descentralización que los hacen más susceptibles a la censura.
+
+          Puedes aprender más sobre la decisión de que Ethereum Classic no cambie a Proof of Stake en la sección [Proof of Work](/why-classic/proof-of-work).
+      stats:
+        question: '¿Cómo puedo averiguar el estado de red de Ethereum Classic?'
+        answer: |
+          Puedes encontrar información sobre la salud y el estado de ETC en las secciones [Monitores de red](/network/monitors) y [Explorador de blockchain](/network/explorers), así como información de precios sobre varios [exchanges](/services/exchanges).
+
+          En particular, el sitio web [etc-network.info](https://etc-network.info/) mantiene una serie de servicios de monitoreo.
+      news:
+        question: '¿Cómo puedo mantenerme informado de los eventos de ETC?'
+        answer: |
+          La sección [News](/noticias) se actualiza regularmente con noticias importantes y publicaciones en blogs de la comunidad, donde también puedes encontrar un feed RSS.
+
+          También hay muchas fuentes de actualizaciones disponibles en la comunidad [Canales Sociales](/community/channels). Notablemente, la comunidad Ethereum Classic [Discord Server](https://ethereumclassic. rg/discord) y [/r/ethereumclassic](https://reddit.com/r/ethereumclassic).
+
+          También puedes seguir las actualizaciones de desarrollo en las organizaciones [Ethereum Classic Github](https://github.com/ethereumclassic) y [ETC Labs Github](https://github.com/etclichard core).
