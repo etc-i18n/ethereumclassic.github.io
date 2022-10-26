@@ -1,45 +1,44 @@
-title: Developer FAQs
-seo: Frequently Asked Questions for those looking to contribute to or build applications on Ethereum Classic.
-info: 'Can''t find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord''s `#dev-general` channel of interest.'
+title: 开发者常见问题解答
+seo: 常见的问问问那些想要贡献或构建Ethereum Classic应用程序的人。
+info: '无法在这里找到您问题的答案吗？请尝试在 ETC 社区询问 [discord](https://therumclassic)。 rg/discord服务器。具体而言，您可以找到ETC Discord的`#dev-general`渠道。'
 __contribute: true
-description: Want to learn how to build an application or protocol on top of Ethereum Classic? This page is for you.
+description: 想要学习如何在以太空话为顶端的应用程序或协议？这个页面是为您设计的。
 items:
   questions:
-    __type: questions
     items:
       types:
-        question: What kind of applications can I build on ETC?
+        question: 我可以在ETC上建立什么样的应用程序？
         answer: |
-          As ETC uses the turing-complete EVM, any kind of smart contract system can be deployed to ETC; from Multisigs, to DeFi, to NFTs, to wherever your dreams can take you. Any application that can be deployed to Ethereum can also be deployed to Ethereum Classic.
+          由于ETC使用了转机完整的EVM，任何类型的智能合同系统都可以部署到ETC； 从 Multisigns, 到 Defi, 到 NFTs, 到你的梦想能够带给你的地方。 可以部署到以太坊的任何应用也可以部署到以太基姆古典。
 
-          Some other chains have a history of censoring certain applications and transactions, so if you want to ensure your application runs exactly as programmed without downtime, censorship or third party interference, then consider deploying to Ethereum Classic!
+          其他链条有审查某些应用程序和交易的历史记录。 所以，如果你想要确保你的应用程序完全按照程序运行，而不受停顿、检查或第三方干预，然后考虑部署到Ethereum Classic！
 
-          For some examples of apps that have been deployed to Ethereum Classic, check out the [apps](/services/apps) section.
+          一些应用已经部署到Ethereum Classic的示例，请参阅 [apps](/services/apps) 部分。
       eth:
-        question: What's the difference between ETH and ETC when writing applications?
+        question: 在撰写申请书时，ETH和ETC之间有什么区别？
         answer: |
-          There is no difference when writing contracts; you can use the same developer tools and programming language (notably, Solidity) that you would with Ethereum.
+          编写合约时没有差别；您可以使用与Etherum相同的开发者工具和编程语言(特别是团结)。
 
-          The main difference with Ethereum is that ETC has a different app ecosystem, so the existing deployed contracts you can directly interact with are different. If you need to plug in to an existing asset on Ethereum, you could use a wrapped asset, [cross-chain bridges](/services/apps/interoperability), or you could even consider deploying your own version of these assets.
+          与 Ethereum 的主要区别是ETC 有一个不同的应用生态系统。 所以您可以直接互动的现有已部署的合同是不同的。 如果你需要插入到Etherum上的现有资产，你可以使用一个被包装的资产。 [跨链桥](/services/apps/interoperability)，或您甚至可以考虑部署您自己的版本这些资产。
       development:
-        question: How can I develop applications for Ethereum Classic?
+        question: 我如何开发以太基古典的应用程序？
         answer: |
-          Check out the [development guides](/guides/development) section, as well as the [development](/development) section for tutorials and tools to help you deploy to Classic.
+          查看[development guides](/guides/development)部分，以及 [development](/development)部分来帮助你部署到Classic的教程和工具。
       deployment:
-        question: How do I deploy to the Ethereum Classic blockchain?
+        question: 如何部署到以太西姆经典区块链？
         answer: |
-          First, acquire some ETC to pay for the gas to deploy your contract, then simply ensure you deploy to to the Ethereum Classic network (Chain ID 61), rather than the Ethereum network (Chain ID 1).
+          首先，获取一些ETC来支付用于部署您的合同的天然气费用。 然后简单地确保你部署到以太西姆经典网络 (Chain ID 61)，而不是以太太西姆网络 (Chain ID 1)。
       rpc:
-        question: Are there public RPC endpoints I can use to deploy to ETC?
+        question: 是否有我可以部署到ETC的公共RPC端点？
         answer: |
-          Yes. If you don't want to sync run your own Ethereum Classic node, there are a number of public endpoints available that are free to use.
+          是的。如果您不想同步运行自己的Ethereum 经典节点， 有一些可用的公开端点可供自由使用。
 
-          Check out the [RPC Endpoints](/network/endpoints) section, as well as [ChainList.org](https://chainlist.org/en/chain/61).
+          查看[RPC 端点](/network/endpoints)部分，以及 [ChainList.org](https://chainlist.org/en/chain/61)。
       grants:
-        question: Can I get funding to build on Ethereum Classic?
+        question: 我能获得资金来在以太基古典为基础上建设吗？
         answer: |
-          As Ethereum Classic has no centralized treasury, all development is necessarily either self-funded or via third party funding. In the past various third parties operated grants programs, and [ETC Cooperative](https://etccooperative.org/) has announced that it will launch a new grants program soon.
+          由于埃瑟姆经典没有集中的财政，所有开发都必须自筹资金或通过第三方供资。 过去各类第三方都开办了赠款方案，[ETC Cooperative](https://etccooperative.org/)已宣布不久将启动一项新的赠款方案。
       ecips:
-        question: How can I help with development of Ethereum Classic protocol?
+        question: 我如何帮助制定以太坊经典协议？
         answer: |
-          You can submit proposals for protocol upgrades through the [ECIP](/development/ecips) process. You can help maintain client codebases by visiting the GitHub repositories of the [clients](/development/clients) you'd like to help with.
+          您可以通过 [ECIP](/development/ecips) 进程提交协议升级提案。 您可以通过访问 [clients](/development/clients) 的 GitHub 仓库来帮助维护客户端代码。
