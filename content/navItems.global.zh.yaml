@@ -1,7 +1,6 @@
 learn:
   navItems:
     videos:
-      name: ZH VIDEO
       navItems:
         discussions:
           hidden: 1
