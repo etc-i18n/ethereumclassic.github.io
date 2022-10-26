@@ -1,85 +1,84 @@
-title: Researcher FAQs
-seo: Frequently Asked Questions for those researching or trying to understand the basics of Ethereum Classic.
-info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server.
-description: If you have just heard about Ethereum Classic and want to learn more, or already hold ETC but want a deeper understanding of it's reason for being, this page is for you.
+title: 研究员常见问题解答
+seo: 经常问问的问题给那些研究者或试图理解以太基古典的基本知识。
+info: 无法在这里找到您问题的答案吗？请尝试在 ETC 社区 [discord](https://eferumclassic.org/discord) 服务器中查询。
+description: 如果您刚刚听说过太太古经典，想了解更多信息， 或者已经持有ETC, 但想要更深入地了解它的存在原因, 这个页面是为你的。
 __contribute: true
 items:
   questions:
-    __type: questions
     items:
       what:
-        question: What is Ethereum Classic?
+        question: 什么是 Ethereum 典型？
         answer: |
-          Ethereum Classic is a Proof of Work Smart Contract Blockchain.
+          以太坊经典是智能工作合同区块链的证明。
 
-          Philosophically, ETC is similar to Bitcoin, valuing the ideals of decentralization, censorship resistance and sound money. Technologically, it is similar to Ethereum, operating an EVM (Ethereum Virtual Machine).
+          从哲学上讲，ETC类似于比特币，珍视权力下放、检查制度抵制和健全金钱的理想。 在技术上，它与以太空相似，运行一个EVM (因此虚拟机)。
 
-          Combining these two approaches puts Ethereum Classic in a unique position, providing a strong decentralist foundation rooted in cypherpunk ideals along with the flexibility and innovation of Smart Contracts.
+          将这两种方法结合在一起，使埃瑟姆经典处于一个独特的位置。 提供扎根于Cypherpunk理想的牢固的权力下放基础，以及智能合同的灵活性和创新。
       eth:
-        question: What is the difference between Ethereum Classic and Ethereum?
+        question: 以太西姆经典与以太西姆之间有什么区别？
         answer: |
-          Ethereum Classic and Ethereum were once the same project, but due to a difference in philosophy, the communities split in 2016. In 2022, Ethereum switched to Proof of Stake, with Classic remaining on Proof of Work. This marked the first major technological difference between the two chains.
+          以太古经典和以太坊曾经是同一项目，但由于哲学不同，社区于2016年分裂。 2022年，Etherum转向Proof Stake，经典则留在工作证明上。 这标志着两个链条之间的第一个重大技术差异。
 
-          Apart from their consensus mechanisms, ETC and ETH remain very similar technologically, and ETC maintains EVM compatibility so that contracts deployed to Ethereum can also be easily deployed to Ethereum Classic.
+          除了其协商一致的机制之外，ETEC和ETH在技术上仍然非常相似。 ETC 维持EVM 兼容性，以便部署到Etherum的合同也可以很容易地部署到Ethereum Classic。
 
-          You can learn more about the split between Ethereum and Ethereum Classic in the [history](/knowledge/history) and [geneis](/why-classic/genesis) sections.
+          您可以在 [history](/knowledge/history) 和 [geneis](/why-classic/genesis) 中了解更多关于以太坊和以太坊经典之间的分割的信息。
       whitepaper:
-        question: Does Ethereum Classic have a whitepaper?
+        question: 以太久经典是否有白纸？
         answer: |
-          Because Ethereum is a fork of Ethereum Classic, both projects share the same history up until 2016, including preceding documents such as the Ethereum [Whitepaper](https://ethereum.org/en/whitepaper/) and [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf).
+          因为以太久古典的一个叉，所以两个项目在2016年之前都有相同的历史。 包括先前的文档，例如Ethereum [Whitepaper](https://eferum)。 rg/en/whitepaper/和 [Yellowpaper](https://eferum.github.io/yellowpaper/paper.pdf)。
 
-          After the split with Ethereum, ETC supporters published a number of documents detailing differences in philosophy, which became part of the Ethereum Classic project's DNA. You can read more about Ethereum Classic's founding documents in the [foundation](/knowledge/foundation) section.
+          在与埃瑟姆分裂之后，考试和测验委员会的支持者发表了一些文件，详细说明了哲学上的差异， 它成为以太坊经典项目的DNA的一部分。 您可以在 [foundation](/knowledge/foundation) 部分阅读更多关于以太坊公会的创始文档。
       roadmap:
-        question: Where can I find Ethereum Classic's roadmap?
+        question: 从哪里可以找到古典的行进图？
         answer: |
-          Similar to Bitcoin, as a decentralized project without top-down leadership, there is no formal executive road map. The protocol is continuously improved through grassroots collaboration through the [Ethereum Classic Improvement Proposal](/development/ecips) (ECIP) process.
+          与比特币类似，作为一个没有自上而下领导的分散项目，没有正式的执行路线图。 通过[以太坊经典改进建议]（/development/ecips）（ECIP）进程，通过基层合作不断改进该议定书。
 
-          You can find more about potential upgrades in the [future](/knowledge/future) section.
+          您可以在 [future](/knowledge/future)部分找到更多关于潜在升级的信息。
       origins:
-        question: Why does Ethereum Classic exist?
+        question: 为什么存在埃瑟姆经典？
         answer: |
-          The mission of Ethereum Classic is to continue the original Ethereum vision of "Build Unstoppable Applications" embodied in the ideal of "Code is Law".
+          以太久经典的任务是继续原先的“建成不可阻挡的应用”的设想，这种设想体现在“法典是法律”的理想中。
 
-          On a technical level, Ethereum Classic exists as a continuation of Ethereum, which split away from ETC in 2016 and by stopping the execution of an application running on it. You can learn about the details of this event in [geneis](/why-classic/genesis) section.
+          在技术层面，以太基古经典为延续， 它在2016年脱离ETC，并停止执行运行于它的应用程序。 您可以在 [geneis](/why-classic/genesis) 部分了解此事件的细节。
       codeIsLaw:
-        question: What does "Code is Law" mean?
+        question: '“法典是法律”的含义是什么？'
         answer: |
-          "Code is Law" is an ideal whereby no authority has the ability to interfere with the operations of valid contracts and transactions on-chain, enabling many promising benefits that have the potential to vastly improve the state of the world.
+          “守则是法律”，是一种理想，任何当局都不能干涉有效合同和链上交易的运作， 使许多有希望的好处能够大大改善世界状况。
 
-          The alternative, "Code isn't Law", has been the standard state of affairs before the dawn of blockchain technology, whereby corruptible off-chain decision making processes determine the result of contracts and transactions.
+          备选方案“代码不是法律”，一直是区块链技术刚刚开始时的标准状态。 在这种情况下，腐败的境外决策过程决定合同和交易的结果。
 
-          You can learn more more about the nuance of this concept in the [Code is Law](/why-classic/code-is-law) section.
+          你可以在[法典是法律](/why-classic/code is-law)章节中更多地了解这个概念的细微差别。
       decentralization:
-        question: Why should I care about decentralization?
+        question: 我为什么要关心权力下放？
         answer: |
-          Decentralization is a pre-requisit for "Code is Law". It allows participants to operate on a level playing field, and is what unlocks the fundamental value of blockchain technology. Many blockchain projects, despite their claims, are not sufficiently decentralized, making them susceptible to capture and censorship.
+          权力下放是“法典是法律”的先决条件。 它使得参与者能够在一个平等的游戏场地上运行，这是解锁区块链技术基本价值的原因。 许多区块链项目尽管有其要求，但没有充分分散，使其容易被捕获和检查。
 
-          You can learn more about this in the [decentralism](/why-classic/decentralism) section.
+          您可以在 [decentralism](/why-classic/decentralism) 部分了解更多关于这个问题的信息。
       who:
-        question: Who is in charge of the Ethereum Classic Project?
+        question: 谁负责以太坊经典项目？
         answer: |
-          Similar to Bitcoin, no single entity is in charge of the Ethereum Classic Project. Instead, individuals and teams following a common set of principles contribute in a permissionless grassroots do-ocracy. While this organizational structure has some drawbacks, it also makes the project immune to certain types of capture and therefore enhances long-term survival.
+          与比特币类似，没有一个实体负责以太基姆经典项目。 相反，遵循一套共同原则的个人和团队在毫无许可的基层领导中作出贡献。 虽然这种组织结构有一些缺点，但它也使该项目免受某些类型的捕获，从而加强了长期生存。
 
-          There is therefore no top-down leadership and "no official anything" in ETC, including this website and even the Ethereum Classic client software. Nonetheless, there are prominent teams that operate within the ecosystem, gaining informal influence based on their reputation, track record, and contributions.
+          因此在ETC中没有自上而下的领导和任何东西，包括本网站甚至Ethereum Classic 客户端软件。 然而，有一些著名的团队在生态系统内运作，根据他们的声誉、记录和贡献而获得非正式的影响。
 
-          You can learn more about Ethereum Classic's self-organizing community in the [community](/community) and [foundation](/knowledge/foundation) sections.
+          您可以在 [community](社区) 和 [foundation](/knowledge/foundation) 部分了解更多关于以太坊类的自组织社区。
       proofOfWork:
-        question: Why doesn't Ethereum Classic use Proof of Stake?
+        question: 为什么Etherum不使用Stake的经典样本？
         answer: |
-          As Ethereum Classic puts a high priority on censorship resistance, it's community decided to remain on the tried and true Proof of Work consensus mechanism. There are many reasons why the various flavors of Proof of Stake are not able to match the same security guarantees as PoW, but in short, they all involve security or decentralization trade-offs that make them more susceptible to censorship.
+          由于埃瑟姆经典高度重视抵制新闻检查的问题，社区决定继续依靠经过考验和真正的工作证明协商一致机制。 利益攸关方的各种证明文件之所以不能提供与《行动纲领》相同的安全保障，原因有很多。 但简言之，它们都涉及安全或权力下放方面的权衡，使它们更容易受到检查。
 
-          You can learn more about the decision for Ethereum Classic no to switch to Proof of Stake in the [Proof of Work](/why-classic/proof-of-work) section.
+          您可以了解更多关于Ethereum Classic 不要在[工作证明](/why-class/proof-of-work)部分切换到Stake证明的决定。
       stats:
-        question: How can I find out about Ethereum Classic's network status?
+        question: 我如何才能找到以太坊模式的网络状态？
         answer: |
-          You can find information about the health and state of ETC in the [network monitors](/network/monitors) and [blockchain explorer](/network/explorers) sections, as well as price information on various [exchanges](/services/exchanges).
+          您可以在 [网络监视器](/network/monitors) 和 [blockchain 探索器](/network/explorers) 部分中找到关于ETC 的健康和状态的信息。 以及各种 [exchanges](/services/exchanges)的价格信息。
 
-          Notably, the website [etc-network.info](https://etc-network.info/) maintains a number of monitoring services.
+          值得注意的是，网站 [etc-network.info](https://etc-network.info/) 维护了一些监测服务。
       news:
-        question: How can I keep up to date on ETC happenings?
+        question: 我如何能够随时了解ETC发生的最新情况？
         answer: |
-          The [News](/news) section is regularly updated with important news and community blog posts, where you can also find an RSS feed.
+          [News](/news) 部分定期更新重要的新闻和社区博客帖子，在这里您也可以找到RSS种子。
 
-          There are also many sources of updates available from community [Social Channels](/community/channels). Notably, the Ethereum Classic community [Discord Server](https://ethereumclassic.org/discord) and [/r/ethereumclassic](https://reddit.com/r/ethereumclassic).
+          社区[Social Channels](/community/channels)也有许多更新来源，特别是Ethereum Classic community [Discord Server](https://eysumclusic)。 rg/discord) and [/r/ef/efumclassic](https://reddit.com/r/efumclassic)。
 
-          You can also follow development updates in the [Ethereum Classic Github](https://github.com/ethereumclassic) and [ETC Labs Github](https://github.com/etclabscore) organizations.
+          你也可以在[Etherum Classic Github](https://github.com/efasumclassic)和[ETC Labs Github](https://github.com/etclabscore)组织中关注开发更新。
