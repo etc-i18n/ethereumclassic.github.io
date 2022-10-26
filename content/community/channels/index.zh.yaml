@@ -1,213 +1,112 @@
-__contribute: 1
-__disclaimer: verify
-title: Social Channels
-__contributors:
-  - arvicco
-  - bobsummerwill
-  - dax-classix
-  - gitr0n1n
-  - HebeBlock
-  - IstoraMandiri
-  - matthewjamesr
-  - mikeyb
-  - ProphetDaniel
-  - pyskell
-  - redsn0w0
-  - TheEnthusiasticAs
-  - w1g0
-__updated: 2022-02-22
-seo: A collection of Ethereum Classic chat rooms, Twitter accounts, discussion groups, forums, podcasts, repositories and regional websites.
+title: 社交频道
+seo: Ethereum 经典聊天室、Twitter账户、讨论小组、论坛、播客、仓库和区域网站集合。
 description: |
-  The following is a non-exhaustive list of active Ethereum Classic discussion channels and groups.
+  以下是活跃的Ethereum 经典讨论渠道和小组的非详尽清单。
 
-  The main hub of activity within the ETC community at present is on [Discord](https://ethereumclassic.org/discord).
+  目前ETC 社区内的主要活动中心在 [Discord](https://eferumclassic.org/discord)。
 items:
   Chat Rooms:
-    __type: buttons
-    title: Chat Rooms
+    title: 聊天室
     items:
       chat Discord:
-        __link: https://ethereumclassic.org/discord
-        __icon: discord
         __primary: true
         name: Discord (Community, Global)
       chat Discord Coop:
-        __link: https://discord.gg/5wDyd6u6pU
-        __icon: discord
         __primary: true
         name: Discord (ETC Coop)
       chat Facebook English:
-        __link: https://www.facebook.com/groups/ethereum.hongkong/
-        __icon: facebook
-        name: Facebook (English)
+        name: Facebook (英文)
       chat Facebook Vietnam:
-        __link: http://facebook.com/EthereumClassicVietnam/
-        __icon: facebook
-        name: Facebook (Vietnamese)
+        name: Facebook (越南语)
       chat Kakao Korea:
-        __link: https://open.kakao.com/o/gi4uNJ1
-        name: Kakao (Korean)
+        name: Kakao (韩国)
       chat Slack:
-        __link: https://ethereumclassic.herokuapp.com/
-        __icon: slack
-        name: Slack (English)
+        name: Slack (英文)
       chat WeChat:
-        __link: https://etccooperative.org/nanli777.jpg
         name: WeChat (中文)
   Development Chat:
-    __type: buttons
-    title: Development Chat
+    title: 开发聊天
     items:
       Core-Geth dev:
-        __link: https://gitter.im/core-geth/community
-        __icon: gitter
-        name: Core-Geth
+        name: 核心资源
       ETC Core dev:
-        __link: https://discord.gg/5KwEAdZ
-        __icon: discord
         name: ETC Core
       Hyperledger Besu dev:
-        __link: https://chat.hyperledger.org/
-        name: Hyperledger Besu
+        name: 超音速贝斯文
   Telegram Groups:
-    __type: buttons
-    title: Telegram Groups
+    title: Telegram 群組
     items:
       telegram English:
-        __link: https://t.me/ethclassic
-        __icon: telegram
-        name: English
+        name: Distr.
       telegram Español:
-        __link: https://t.me/ethclassicesp
-        __icon: telegram
-        name: Español
+        name: Español
       telegram Italia:
-        __link: https://t.me/ETC_Italia
-        __icon: telegram
         name: Italia
       telegram Russia:
-        __link: https://t.me/etcru
-        __icon: telegram
-        name: Russia
+        name: Russian
       telegram Viet Nam:
-        __link: https://t.me/ETCVietnam
-        __icon: telegram
         name: Viet Nam
       telegram China:
-        __link: https://t.me/chinaetc
-        __icon: telegram
         name: 中文
   Forums:
-    __type: buttons
-    title: Forums
+    title: 讨论区
     items:
       forum RedditEthereumClassic:
-        __link: https://www.reddit.com/r/EthereumClassic/
-        __icon: reddit
-        name: Reddit r/EthereumClassic
+        name: Reddit r/Etherumsic
       forum BitcoinTalk:
-        __link: https://bitcointalk.org/index.php?topic=5134923
-        __icon: news
-        name: BitcoinTalk
+        name: 比特币Talk
       forum Archived BitcoinTalk:
-        __link: https://bitcointalk.org/index.php?topic=1559630.0
-        __icon: news
-        name: Archived BitcoinTalk
+        name: 已存档比特币Talk
   Media:
-    __type: buttons
-    title: Media
+    title: 媒体
     items:
       media ETCfInv:
-        __link: https://www.youtube.com/playlist?list=PLMBYy3lWO3DkegQkvL23AMnm_JnX-LXW3
-        __icon: youtube
-        name: Ethereum Cassic (ETC) for Investors
+        name: 以太奇为投资者的 Etherum Casicic (ETC)
       media EthereumClassicCC:
-        __link: https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos
-        __icon: youtube
-        name: Ethereum Classic Community Calls
+        name: Ethereum 经典社区呼叫
       media Etherplan:
-        __link: https://www.youtube.com/channel/UC4--zHROGkRT1MadPM4EASA/playlists
-        __icon: youtube
-        name: Etherplan
+        name: 以太计划
       media EVM61:
-        __link: https://www.youtube.com/playlist?list=PLiW3acHwcR6LAa_WS5sFWf1S_GquYVeJb
-        __icon: youtube
         name: EVM61
       media Explore The Chain:
-        __link: https://www.youtube.com/playlist?list=PL8fotqNQa4-UGxH8rCqeHAtOG56OyhZGf
-        __icon: youtube
-        name: Explore The Chain
+        name: 探索链条
       media Let's Talk ETC!:
-        __link: https://www.youtube.com/playlist?list=PLKO8sMfwkZQqGH3Ny2OJ_SRcAvSf_0gx5
-        __icon: youtube
-        name: Let's Talk ETC!
+        name: 让我们说话ETC！
   Twitter Accounts:
-    __type: buttons
-    title: Twitter Accounts
+    title: Twitter 账户
     items:
       twitter China:
-        __link: https://twitter.com/EthereumChina
-        __icon: twitter
-        name: China
+        name: 中国
       twitter English 1:
-        __link: https://twitter.com/ETC_Network
-        __icon: twitter
         __primary: true
         name: "@ETC_Network"
       twitter English 2:
-        __link: https://twitter.com/eth_classic
-        __icon: twitter
         __primary: true
         name: "@eth_classic"
       twitter Español:
-        __link: https://twitter.com/ethclassicesp
-        __icon: twitter
-        name: Español
+        name: Español
       twitter France:
-        __link: https://twitter.com/ETC_France
-        __icon: twitter
-        name: France
+        name: 法国
       twitter Germany:
-        __link: https://twitter.com/GermanyEtc
-        __icon: twitter
-        name: Germany
+        name: 德国
       twitter Italia:
-        __link: https://twitter.com/etcitalia
-        __icon: twitter
         name: Italia
       twitter Japan:
-        __link: https://twitter.com/ETCJapan
-        __icon: twitter
-        name: Japan
+        name: 日本
       twitter Korea 1:
-        __link: https://twitter.com/ethclassic_kor
-        __icon: twitter
         name: Korea
       twitter Korea 2:
-        __link: https://twitter.com/etckorea1
-        __icon: twitter
         name: Korea
       twitter Netherlands:
-        __link: https://twitter.com/etcnetherlands
-        __icon: twitter
-        name: Netherlands
+        name: 荷兰
       twitter Turkey:
-        __link: https://twitter.com/EtcTurkiye
-        __icon: twitter
-        name: Turkey
+        name: 土耳其
       twitter Viet Nam:
-        __link: https://twitter.com/ETCVietNam
-        __icon: twitter
         name: Viet Nam
   Regional Website:
-    __type: buttons
-    title: Regional Website
+    title: 区域网站
     items:
       website ETC Hub:
-        __link: https://etchub.io/
-        __icon: etc
         name: ETCHub.io
       website EthereumClassic.cn:
-        __link: http://ethereumclassic.cn/
-        __icon: etc
         name: EthereumClassic.cn
