@@ -1,119 +1,51 @@
-title: Protocol Upgrades
-__updated: 2022-02-22
-__contribute: 1
-seo: A history of past hard forks; the protocol upgrades that were accepted for Ethereum Classic.
+title: 协议升级
+seo: 过去硬叉的历史；协议升级已被认可为以太基古典。
 description: |
-  Ethereum Classic, despite its histroy, is not against all types of Hard Fork. Far from it; Hard Forking allows the protocol to be upgraded, to fix bugs, and add features that further the goal of enabling developers to "Build Unstoppable Applications".
+  以太古典，尽管历史悠久，但并不反对所有类型的硬叉。 远非如此； 硬解Forcing 允许协议升级，修复缺陷，并添加一些功能，推动实现开发者创建不可阻挡应用程序的目标。
 
-  The types of Hard Fork that Ethereum Classic will never implement are those like [The DAO Fork](/why-classic/genesis), which do not address a defect in or enhancement of the protocol itself, but instead override *Code is Law* by modifying Smart Contracts in the application layer.
+  以太久经典永远不会实现的硬叉类型是那些像[DAO Fork](/why-classic/genesis), 不处理议定书本身缺陷或加强议定书本身的问题， 但通过修改应用程序图层中的智能合同来覆盖*代码是法律*。
 
-  Ethereum Classic strategically maintains maximal compatibility with upstream Ethereum's EVM, which means contracts deployed to ETH can also be deployed to ETC, and Ethereum Classic inherits many valuable innovations born through research on Ethereum.
+  以太空古经典与上游以太空燃气机保持最大兼容性， 这意味着部署到ETH的合同也可以部署到ETC，Ethereum Classic 继承了以Etheresours为基础的许多宝贵创新。
 items:
   forks:
-    title: ETC Fork History
-    __type: timeline
+    title: ETC Fork 历史
     items:
       Frontier:
-        __color: purple
-        __icon: rocket
-        title: Frontier
-        __link: https://blog.ethereum.org/2015/07/22/frontier-is-coming-what-to-expect-and-how-to-prepare/
-        __date: 2015-07-30
-        text: Launched under the slogan "Build Unstoppable Applications", Frontier was a live, but barebones implementation of the Ethereum project. It followed the successful Olympic testing phase. It was intended for technical users, specifically developers. Blocks had a gas limit of 5,000. This ‘thawing’ period enabled miners to start their operations and for early adopters to install their clients without having to ‘rush’.
-        __block: "0"
+        title: 边框
+        text: 在“建造不可阻挡的应用”口号下启动的“边界”是一个活生生的、但却是先行实施以太空为目的的项目，它是在成功的奥林匹克试验阶段之后进行的。 它面向技术用户，特别是开发者。方块的气体限制为5 000个。 这个“缓存”期使矿工能够开始作业，并使早期采用者能够安装他们的客户端而不必“匆忙”。
       Ice Age:
-        title: Ice Age
-        __icon: snowflake
-        __color: blue
-        __link: https://blog.ethereum.org/2015/08/04/the-thawing-frontier/
-        __date: 2015-09-07
-        text: The frontier thawing fork lifted the 5,000 gas limit per block and set the default gas price to 51 gwei. This allowed for transactions – transactions require 21,000 gas.
-        __block: 200,000
+        title: 冰河年龄
+        text: 边防分叉取消了每个区块5 000个天然气上限，将默认天然气价格定在51千瓦。 允许交易 - 交易需要 21 000种天然气。
       Homestead:
-        title: Homestead
-        __icon: home
-        __color: white
-        __link: https://blog.ethereum.org/2016/02/29/homestead-release/
-        __date: 2016-03-14
-        text: The Homestead fork looked to the future. It included several protocol changes and a networking change that gave Ethereum the ability to do further network upgrades.
-        __block: 1,150,000
+        title: 回家
+        text: 家园福址展望未来。 其中包括几项协议修改和网络变更，使以太坊能够进一步进行网络升级。
       Gas Reprice:
-        title: Gas Reprice
-        __icon: gas
-        __color: red
-        __link: /blog/2016-10-17-gas-reprice-hard-fork/
-        __date: 2016-10-24
-        text: ECIP-1015 was Ethereum Classic's First independent protocol upgrade after the DAO Hard Fork, which involed long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks.
-        __block: 2,500,000
+        title: 煤气重新价格
+        text: ECIP-1015是Ethereum Classic在DAO Hard Fork之后的第一次独立协议升级。 这涉及到为减少交易垃圾邮件袭击而对IO重型业务进行的长期气体成本变动。
       Die Hard:
         title: Die Hard
-        __icon: bomb
-        __color: pink
-        __link: /blog/2017-01-17-die-hard-fork-upgrade/
-        __date: 2017-01-13
-        text: The Die Hard fork delayed the difficulty bomb, repriced the EXP opcode and implemented replay protection, setting ETC's Chain ID to 61.
-        __block: 3,000,000
+        text: Die Hard Fork延迟了难度炸弹，重新定价EXP opcode 并实施了重放保护，将ETC Chain ID设置为61。
       Gotham:
-        title: Gotham
-        __icon: chart
-        __color: green
-        __link: /blog/2017-12-11-gotham-hard-fork-upgrade-5m20-era2/
-        __date: 2017-12-11
-        text: ECIP 1017 makes Ethereum Classic more Bitcoin-like by introducing an upper bound on the maximum absolute number of ETC and a method of degraded emission over time.
-        __block: 5,000,000
+        title: 哥塔姆
+        text: ECIP 1017使以太坊经典更像比特币，因为它对最大绝对数和一种随着时间的推移而退化的排放方法施加了上限约束。
       Defuse Difficulty Bomb:
-        title: Defuse Difficulty Bomb
-        __icon: update
-        __color: yellow
-        __link: /blog/2018-05-29-defuse-difficulty-bomb-hard-fork-upgrade/
-        __date: 2018-05-29
-        text: The Difficulty Bomb is delayed, with no other changes.
-        __block: 5,900,000
+        title: 防守难炸弹b
+        text: 难易炸弹已被推迟，没有其他改变。
       Atlantis:
         title: Atlantis
-        __icon: eth
-        __color: purple
-        __link: /blog/2019-09-12-atlantis-hard-fork-upgrade/
-        __date: 2019-09-12
-        text: Enabled the outstanding Ethereum Foundation Spurious Dragon and Byzantium network protocol upgrades on the Ethereum Classic network in a hard-fork code-named Atlantis to enable maximum compatibility across these networks.
-        __block: 8,772,000
+        text: 在一个硬叉名为Atlantis的Etherum码网络上启用以太坊基金会精密龙和Byzantium网络协议升级，以使这些网络能够最大限度地兼容。
       Agharta:
         title: Agharta
-        __icon: eth
-        __color: purple
-        __link: /blog/2020-01-11-agharta-hard-fork-upgrade/
-        __date: 2020-01-11
-        text: Enabled the outstanding Ethereum Foundation Constantinople and Petersburg network protocol upgrades on the Ethereum Classic network in a hard-fork code-named Agharta to allow maximum compatibility across these networks.
-        __block: 9,573,000
+        text: 启用以硬叉名为Agharta的Ethereum Foundation Constantinople and Petersburg网络协议升级以便在这些网络之间实现最大兼容性。
       Phoenix:
-        title: Phoenix
-        __icon: eth
-        __color: purple
-        __link: /blog/2020-06-01-phoenix-hard-fork-upgrade/
-        __date: 2020-06-01
-        text: Enabled the outstanding Ethereum Foundation Istanbul network protocol upgrades on the Ethereum Classic network in a hard-fork code-named Phoenix to enable maximum compatibility across these networks.
-        __block: 10,500,839
+        title: 菲尼克斯
+        text: 在一个硬叉名为Phoenix 的Ethereum Classic 网络上启用杰出的以太坊基金会伊斯坦布尔网络协议升级，以便能够最大限度地兼容这些网络。
       Thanos:
-        title: Thanos
-        __icon: fan
-        __color: green
-        __link: /blog/2020-11-27-thanos-hard-fork-upgrade/
-        __date: 2020-11-28
-        text: ECIP 1099 calibrated the epoch length used in DAG calculations, switching from ETHash to ETCHash, It increased the network's security by allowing GPUs with 4GB of memory to mine ETC.
-        __block: 11,700,000
+        title: 萨诺斯
+        text: ECIP 1099 校准了DAG 计算中使用的教程长度，从ETHash切换到ETCHash。 它允许拥有4GB记忆的GPU进入地雷ETC，从而加强了网络的安全。
       Magneto:
         title: Magneto
-        __icon: eth
-        __color: purple
-        __link: https://medium.com/@stevan.blog/ethereum-classic-magneto-upgrade-announcement-aa48d9606b71
-        __date: 2020-03-21
-        text: Enabled the Ethereum Foundation Berlin network protocol upgrade features, reaching maximum compatibility with Ethereum.
-        __block: 13,189,133
+        text: 启用以太坊基金会柏林网络协议升级功能，与以太坊实现最大兼容性。
       Mistique:
         title: Mystique
-        __icon: eth
-        __color: purple
-        __link: /blog/2022-02-13-mystique-hard-fork-success
-        __date: 2022-02-13
-        text: Enabled the Ethereum Foundation London network protocol upgrade features, maintaining maximum compatibility with Ethereum.
-        __block: 14,502,000
+        text: 启用以太坊基金会伦敦网络协议升级功能，保持最大兼容性。
