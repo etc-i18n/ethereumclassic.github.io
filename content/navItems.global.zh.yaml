@@ -1,182 +1,124 @@
 learn:
-  __showNextNav: 1
-  name: Learn
+  name: 学习
   navItems:
     faqs:
-      __link: /faqs
-      __icon: question
-      name: FAQs
-      description: Frequestly asked questions by various stakeholders
+      name: 常见问题
+      description: 各利益攸关方提出的直接问题
       navItems:
         researchers:
-          __link: /faqs/researchers
-          name: Researchers
-          __icon: search
-          description: Just heard about Classic?
+          name: 研究人员
+          description: 刚刚听到过经典？
         users:
-          __link: /faqs/users
-          name: Users
-          __icon: user
-          description: Want to learn how to use ETC?
+          name: 用户
+          description: 想要学习如何使用ETC？
         investors:
-          __link: /faqs/investors
-          name: Investors
-          __icon: chart
-          description: Interested in buying ETC?
+          name: 投资者
+          description: 有兴趣购买ETC？
         miners:
-          __link: /faqs/miners
-          name: Miners
-          __icon: hardhat
-          description: Need info on how to mine ETC?
+          name: 矿工
+          description: 需要关于如何开采ETC的信息？
         developers:
-          __link: /faqs/developers
-          name: Developers
-          __icon: code
-          description: Want to build on ETC?
+          name: 开发者
+          description: 想要建筑在ETC上吗？
         contributors:
-          __link: /faqs/contributors
-          name: Contributors
-          __icon: users
-          description: Want to help the project?
+          name: 贡献者
+          description: 想要帮助该项目吗？
     whyClassic:
-      __link: /why-classic
-      __icon: etc
-      name: Why Classic?
-      description: Start here to get the lowdown on Etherum Classic's reason for being and unique value proposition
+      name: 为什么是传统的？
+      description: 开始这里来在以太鲁姆古典的理由和独特的价值主张上下调下
       navItems:
         codeIsLaw:
-          __link: /why-classic/code-is-law
-          name: Code is Law
+          name: 代码是法律
         genesis:
-          __link: /why-classic/genesis
-          name: Genesis
+          name: 始发地
         decentralism:
-          __link: /why-classic/decentralism
-          name: Decentralism
+          name: 分权制
         ethBtcEtc:
-          __link: /why-classic/eth-btc-etc
           name: ETH + BTC = ETC
         soundMoney:
-          __link: /why-classic/sound-money
-          name: Sound Money
+          name: 声音钱
         proofOfWork:
-          __link: /why-classic/proof-of-work
-          name: Proof of Work
+          name: 工作证明
     #etcVsEth:
     #__link: /why-classic/etc-vs-eth
     #name: ETC vs ETH
     knowledge:
-      __link: /knowledge
-      __icon: hat
-      name: Knowledge
-      description: Further reading on the foundations that underpin ETC
+      name: 知识
+      description: 进一步阅读ETC所基于的基础
       navItems:
         foundation:
-          __link: /knowledge/foundation
-          name: Foundation
-          description: The core principles that form ETC's solid philosophical base
-          __icon: foundation
+          name: 地基
+          description: 构成ETC坚实哲学基础的核心原则
         theory:
-          __link: /knowledge/theory
-          name: Theory
-          longName: Theory & Research
-          __icon: book
-          description: A deeper dive into the logic of Ethereum Classic with pieces from the community
+          name: 原理
+          longName: 理论与研究
+          description: 使用社区中的碎片更深地潜入以太久经典的逻辑。
         investing:
-          __link: /knowledge/investing
-          name: Investing
-          longName: Investor Resources
-          __icon: chart
-          description: Information about the value proposion of Ethereum Classic and it's potential for sick gains
+          name: 投资
+          longName: 投资者资源
+          description: 关于以太坊经典的价值延伸和它可能带来生病收益的信息
         forks:
-          __link: /knowledge/forks
           name: Forks
-          longName: Protocol Upgrades
-          __icon: codeBranch
-          description: A chronicling of past and future Hard Forks that have added functionality or bugfixes to ETC
+          longName: 协议升级
+          description: 添加功能或缺陷修复到ETC的过去和未来硬盘叉的记录
         history:
-          __link: /knowledge/history
-          name: History
-          longName: Classic History
-          __icon: update
-          description: A timeline of all of the major events in Ethereum Classics up to the present day
+          name: 历史记录
+          longName: 经典历史
+          description: Ethereum Classics 直到今日的所有主要活动时间表
         future:
-          __link: /knowledge/future
-          name: Future
-          longName: Future Classic
-          __icon: etc
-          description: An overview of the decision making process in ETC, and where it might lead the protocol
+          name: 未来
+          longName: 未来经典
+          description: ETC决策过程概览及其可在哪些方面领导协议
     guides:
-      __link: /guides
-      __icon: book
-      name: Guides
-      description: Practical tutorials and walkthroughs for interacting with the network in a number of ways
+      name: 指南
+      description: 以多种方式与网络互动的实用教程和步行路径
       navItems:
         basics:
-          __link: /guides/basics
-          name: Basics
-          longName: The Basics
-          description: FAQs and Video explainers covering Blockchain and ETC 101
-          __icon: question
+          name: 基础知识
+          longName: 基础知识
+          description: 常见问题和视频解释涉及区块链和ETC 101
         metamask:
-          __link: /guides/metamask
-          name: MetaMask
-          longName: Using MetaMask with ETC
-          description: How to configure MetaMask and alternatives to interact with dapps
-          __icon: cursor
+          name: 元蒙版
+          longName: 使用 MetaMask 与 ETC
+          description: 如何配置MetaMask和替代方案与dapps
         development:
-          __link: /guides/development
-          name: Development
-          longName: Developer Guides
-          description: A collection of turorials on how to build dapps on Ethereum Classic
-          __icon: code
+          name: 贸易和发展会议
+          longName: 开发者指南
+          description: 关于如何在以太古经典上构建dapps的海龟集
     videos:
-      __link: /videos
-      __icon: video
       name: ZH VIDEO
-      description: A collection of videos and podcasts to keep you informed on ETC concepts and happenings
+      description: 一系列视频和播客，让您了解ETC的概念和事件
       navItems:
         explainers:
-          __link: /videos/explainers
-          name: Explainers
+          name: 扩展名
           hidden: 0
         discussions:
-          __link: /videos/discussions
-          name: Discussions
+          name: 讨论
           hidden: 1
         trading:
-          __link: /videos/trading
-          name: Trading
+          name: 交易
           hidden: 1
         development:
-          __link: /videos/development
-          name: Development
+          name: 贸易和发展会议
           hidden: 1
         tutorials:
-          __link: /videos/tutorials
-          name: Tutorials
+          name: 教程
           hidden: 1
         mining:
-          __link: /videos/mining
-          name: Mining
+          name: 采矿业：
           hidden: 1
         conferences:
-          __link: /videos/conferences
-          name: Conferences
+          name: 会议
           hidden: 1
           navItems:
             2017:
-              __link: /videos/etc-summit-2017
               name: 2017 Hong Kong
             2018:
-              __link: /videos/etc-summit-2018
               name: 2018 Seoul
             2019:
-              __link: /videos/etc-summit-2019
               name: 2019 Vancouver
         other:
-          __link: /videos/other
-          name: Other
+          name: 其他
           hidden: 1
 #memes:
 #__link: /memes
@@ -194,72 +136,50 @@ learn:
 #__link: /memes/etc
 #name: Etcetera
 play:
-  name: Play
+  name: 播放
   navItems:
     services:
-      __link: /services
-      __icon: cursor
-      name: Services
-      description: Apps, Wallets and Exchanges that intergrate with ETC; 100% unaudited, so watch out for the rug pulls!
+      name: 服务
+      description: 与ETC连接的应用、钱包和交易；100%未审计，所以看一看地块脉冲！
       navItems:
         wallets:
-          __link: /services/wallets
-          name: Wallets
-          description: Software to store and manage ETC, Tokens, NFTs and other assets
-          __icon: coins
+          name: 钱包
+          description: 存储和管理ETC、Token、NFTs和其他资产的软件
         exchanges:
-          __link: /services/exchanges
-          name: Exchanges
-          description: Where to buy and trade ETC
-          __icon: exchange
+          name: 交易
+          description: 购买和交易ETC
         apps:
-          __link: /services/apps
-          name: Apps
-          longName: Apps and Protocol
-          description: Ecosystem of applications that levarage Ethereum Classic
-          __icon: screen
+          name: 应用程序
+          longName: 应用程序和协议
+          description: 4. levarage Ethereum Classic 的各种应用程序的生态环境
           navItems:
             nfts:
-              __link: /services/apps/nfts
               name: NFTs
             games:
-              __link: /services/apps/games
-              name: Games
+              name: 游戏
             identity:
-              __link: /services/apps/identity
-              name: Identity
+              name: 身份
             interoperability:
-              __link: /services/apps/interoperability
-              name: Interoperability
+              name: 互操作性
             finance:
-              __link: /services/apps/finance
-              name: Finance
+              name: A. 财务
             other:
-              __link: /services/apps/other
-              name: Other
+              name: 其他
     community:
-      __link: /community
-      __icon: users
-      name: Community
-      description: If you long for communication with people who are interested in ETC, here's how to find them
+      name: 社区
+      description: 如果你很长时间要与对ETC感兴趣的人沟通，在这里是如何找到他们的
       navItems:
         channels:
-          __link: /community/channels
-          name: Channels
-          longName: Social Media Channels
-          __icon: comments
-          description: A list of accounts, chat rooms and forums to discuss ETC with others
+          name: 频道
+          longName: 社交媒体频道
+          description: 与他人讨论ETC的帐户、聊天室和论坛
         teams:
-          __link: /community/teams
-          name: Teams
-          longName: Developer Teams
-          __icon: users
-          description: Information on who's working on Ethereum Classic
+          name: 团队
+          longName: 开发者团队
+          description: 关于谁在以太坊经典上工作的信息
         events:
-          __link: /community/events
-          name: Events
-          __icon: calendar
-          description: Join the ETC community at regular social events happening throught the year
+          name: 事件
+          description: 加入ETC社区参加全年定期举行的社会活动
     #bounties:
     #__link: /community/bounties
     #name: Bounties
@@ -267,113 +187,72 @@ play:
     #__link: /community/daos
     #name: DAOs
     network:
-      __link: /network
-      __icon: network
-      name: Network
-      description: RPC Endpoints, Explorers, Network Monitors, and other resources for the technically inclined
+      name: 网络
+      description: RPC 端点、探索者、网络监视器和其他技术倾斜的资源
       navItems:
         endpoints:
-          __link: /network/endpoints
-          name: Endpoints
-          longName: RPC Endpoints
-          __icon: ethernet
-          description: Public and private services for communicating with to the ETC network
+          name: 终点
+          longName: RPC 端点
+          description: 与ETC网络通信的公共和私人服务
         explorers:
-          __link: /network/explorers
-          name: Explorers
-          longName: Blockchain Explorers
-          __icon: compass
-          description: Tools to inspect the chain for transactions, blocks, and other insights
+          name: 探险家
+          longName: 区块链探索器
+          description: 查看交易链、方块和其他见解的工具
         monitors:
-          __link: /network/monitors
-          name: Monitors
-          longName: Network Monitors
-          __icon: eye
-          description: Tools for checking the health and status of the network with vairious metrics
+          name: 监视器
+          longName: 网络监视器
+          description: 使用有毒度计的网络健康和状态检查工具
     #statistics:
     #__link: /network/statistics
     #name: Statistics
     mining:
-      __link: /mining
-      __icon: fan
-      name: Mining
-      description: Pools, Software and Hardware requirements will help you mine ETC for fun and profit
+      name: 采矿业：
+      description: 池、软件和硬件要求将帮助您挖掘ETC以获得乐趣和利润。
       navItems:
         hardware:
-          __link: /mining/hardware
-          name: Hardware
-          __icon: server
-          description: Info about what kind of equipment is best to use for profitably mine ETC
+          name: 硬件
+          description: 关于何种设备最适合用于有利润的采矿ETC的信息
         software:
-          __link: /mining/software
-          name: Software
-          longName: Mining Software
-          __icon: hardhat
-          description: A list of tools that can be used to mine ETC on various operating systems
+          name: 软件
+          longName: 挖掘软件
+          description: 可用于在各种操作系统上开采ETC的工具清单
         pools:
-          __link: /mining/pools
-          name: Pools
-          longName: Mining Pools
-          __icon: pool
-          description: Joining a mining pool lets you profit based on hashpower rather than blocks found
+          name: 资源库
+          longName: 矿池子
+          description: 加入矿池可以让你根据哈希力而不是找到的方块获利。
     develop:
-      __link: /development
-      __icon: code
-      name: Development
-      description: Testnets, Tooling, Clients and information on how to contribute to the ETC protocol itself
+      name: 贸易和发展会议
+      description: 测试网、配刀、客户端和如何为ETC 协议本身做出贡献的信息
       navItems:
         clients:
-          __link: /development/clients
-          name: Clients
-          __icon: network
-          description: Client software is the backbone of the network and implements the ETC protocol
+          name: 客户
+          description: 客户软件是网络的主干，执行ETC 协议
         testnets:
-          __link: /development/testnets
           name: Testnets
-          __icon: vial
-          description: Networks for public testing of apps and protocol upgrades before production
+          description: 在生产前公开测试应用和协议升级网络
         tooling:
-          __link: /development/tooling
-          name: Tooling
-          longName: Developer Tooling
-          __icon: wrench
-          description: They say a workman is as good as his tools, so make sure you pick good ones!
+          name: 配刀中
+          longName: 开发者配对
+          description: 他们说工人和他的工具一样好，所以确保你挑选好事！
         repos:
-          __link: /development/repositories
-          name: Repositories
-          __icon: github
-          longName: Git Repositories
-          description: A list of Ethereum Classic related project repos for your viewing pleasure
+          name: 资源库
+          longName: Git 资源库
+          description: 您的观众喜欢的经典项目仓库列表
         ecips:
-          __link: /development/ecips
-          name: ECIPs
-          description: Ethereum Classic Improvement Proposals overview and approved proposals
-          __icon: rocket
+          name: ECIP
+          description: 以太坊经典改进提案概览和核准的提议
 news:
-  __hideMobile: 1
-  __link: /news
-  name: News
+  name: 新闻
 extra:
-  __hideTop: 1
-  name: Extra
+  name: 额外的
   navItems:
     news:
-      __link: /news
-      __icon: news
-      name: News
+      name: 新闻
     blog:
-      __link: /news/tag/blog
-      __icon: blog
-      name: Blog
+      name: 博客
     about:
-      __link: /about
-      __icon: question
-      name: About
+      name: 关于
     rss:
-      __link: /rss.xml
-      __icon: feed
-      name: RSS Feed
+      name: RSS 源
     siteMap:
-      __link: /sitemap
-      __icon: sitemap
       name: Sitemap
