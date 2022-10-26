@@ -1,0 +1,49 @@
+title: ネットワークモニター
+seo: Ethereum Classicネットワークの健全性を確認するためのツール、および発行、トランザクション数、マイニング収益性などの一般的な統計。
+description: |
+  以下は、Ethereum Classicに関連する幅広いメトリックに関する洞察を提供するツールの選択です。 彼らは一緒にネットワークの健全性と状態のフルスペクトル分析を提供します。
+items:
+  monitors:
+    items:
+      2Miners:
+        name: 2鉱夫
+        description: Ethereum Classic統計ダッシュボードは、オンラインノードから直接取得した最も重要なブロックチェーン統計、グラフ、およびその他のパフォーマンス指標を提供します。
+      CoinMetrics:
+        name: CoinMetrics
+        description: 価格、ハッシュレート、アドレス数、トランザクション数などの数多くのメトリックを網羅した詳細な履歴データ。
+      CoinWarz:
+        name: CoinWarz
+        description: Ethereum Classicマイニング情報 - Ethereum Classicマイニング計算機、Ethereum Classicマイニングハードウェアのリスト 歴史的なチャート、Ethereum Classicの難しさ、Ethereum Classicのハッシュレートチャート、および現在のEthereum Classic価格。
+      Emerald Insights:
+        name: エメラルドの洞察
+        description: Emerald Insights は、統計情報を提供する予定の Emerald プロジェクトの一部です。 エメラルドによって使用される暗号通貨に関する監視、および高度な情報。
+      #ETCNodes:
+      #name: ETCNodes
+      #__link: https://etcnodes.org/
+      ForkWatch:
+        name: フォークウォッチ
+        description: ForkWatchはNiceHash市場の特定のアルゴリズムに関する異常を警告するNiceHash監視ツールであり、特にBTC/TH/Dayのレンタル価格が変更された場合に備えています。 これにより、特定のネットワークに対する攻撃に対してマイニングパワーが借りられる可能性がある場合に、特定のコインのステークホルダーが警告されるようになります。
+      MiningPoolStats:
+        name: MiningPoolStats
+        description: ブロック分布、ハッシュレートの履歴など、ETCの採掘プールの状態に関するライブ統計。
+      Nanopool:
+        name: Nanopool
+        description: 歴史的な難易度、難易度、ブロック時間と価格。
+      PoolDetective:
+        name: プールDetective
+        description: 鉱山プールは、作業証明暗号通貨の重要なプレーヤーです。 しかし、彼らが鉱夫に仕事をするように言うことを誰が監視するか? MITのデジタル通貨イニシアティブは、2019年夏にマイニングプールの行動のモニタリングを開始するプロジェクトを開始しました。
+      TokenView:
+        name: トークンビュー
+        description: 標準的な履歴ネットワーク統計。
+      WhatToMine:
+        name: WhatToMine
+        description: Ethereum Classicやその他のチェーンを採掘するための収益性計算。
+      Kotti Stats:
+        name: Kotti 統計
+        description: イーサリアムクラシックKottiテストネットのネットワーク統計。
+      ua-mining:
+        name: ua-mining
+        description: Ethereum Classic統計ダッシュボード。
+      etc-network.info:
+        name: etc-network.info
+        description: etc-network.infoによって提供されるサービスをナビゲートするための小さなサイト。
