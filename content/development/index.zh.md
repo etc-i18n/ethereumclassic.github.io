@@ -1,11 +1,11 @@
 ---
-title: Development
-seo: A collection of resources for developers who are looking to learn more about contributing or deploying applications to Ethereum Classic.
+title: 贸易和发展会议
+seo: 为正在寻找更多关于贡献或部署应用程序的 Ethereum Classic的开发者收集资源。
 updated: 2022-02-22
 ---
 
-This section contains a list of resources that developers planning to contribute or deploy to Ethereum Classic may find useful.
+本节列出了计划贡献或部署到以太坊经典的资源清单。
 
-If you are just getting started with development on Ethereum Classic, check out the [development guides](/guides/development) section.
+如果您刚刚开始在 Ethereum Classic, 请参阅 [开发指南](/guides/development) 部分。
 
-If you have experience developing on Ethereum, you'll be pleased to find out that nearly all the development concepts and tools used with Ethereum are compatible with Ethereum Classic, so your typical workflow is unlikely to change when you deploy to Classic.
+如果你有在以太坊开发的经验， 您将很高兴地发现，以太基姆所使用的几乎所有开发概念和工具都与以太基姆古典兼容。 所以当你部署到古典时，你的典型工作流不大可能改变。
