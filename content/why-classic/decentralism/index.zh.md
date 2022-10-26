@@ -1,222 +1,222 @@
 ---
-title: Decentralism
+title: 分权制
 updated: 2022-02-22
-disclaimer: opinion
-seo: A thesis explaining the decentralist values that underpin Ethereum Classic's principles and core value proposition which enable it to deliver a bright future, in contrast to the dark path of centralization taken by many other blockchains.
+disclaimer: 意 见
+seo: 一篇论文解释了以太基姆古典的原则和核心价值主张为基础的权力下放价值观，使它能够带来光明的未来， 与许多其他区块链走的黑暗的中央集权路径形成对比。
 contributors:
   - "IstoraMandiri"
   - "DonaldMcIntyre"
 ---
 
-## Key Points
+## 关键点
 
-- Decentralism favors decentralization; having fewer single points of failure in a system, making it difficult to capture.
-- In blockchain systems, decentralization is extremely important. To make a blockchain useful, a certain threshold must be met, depending on the application.
-- Many projects use the difficulty of measuring decentralization to obfuscate their true susceptibility to capture.
-- Social and technological layers can be captured through various means, so they must both be decentralized, and should not rely on a central group.
-- Ethereum Classic aims for a _Sovereign Grade_ level of decentralization, meaning that no worldly organization can capture it.
-- Ethereum Classic applies a _principles first approach_, _decentralization maximalism_, _checks and balances_ and _protocol neutrality_ to achieve long term capture prevention.
+- 权力下放有利于权力下放；在一个系统中单一的失败点较少，难以抓住。
+- 在区块链系统中，权力下放极为重要。 要使区块链有用，必须满足某个阈值，这取决于应用程序。
+- 许多项目利用权力下放计量的难度来掩盖它们真正容易被抓获。
+- 社会和技术层面可以通过各种手段来抓住，因此它们都必须放权，而不应依赖一个中心群体。
+- 以太古经典为目标的 _最高分级_ 级权力下放，这意味着世界上没有任何组织能够抓住它。
+- Ethereum Classic 应用 _原理_, _分散最大化_, _制衡_ 和 _协议中立_ 以实现长期预防捕获。
 
-## Introduction
+## 一. 导言
 
-One of the first publications about Ethereum Classic that came out after The DAO Hard fork was [A Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto). In protest of The Fork, it underlined the classic decentralized approach to organizing blockchain projects. This document set the tone for ETC's future development. Since its creation, much has been discovered about the nature of the elusive but vital concept.
+在DAO 硬叉之后首批发行的关于以太坊经典的出版物之一是 [Crypto-Decentralist Manifesto](/blog/2016-07-11-crypto-decentralist-manifesto)。 为了抗议Fork，它强调了组织区块链项目的典型分散办法。 本文件为ETC今后的发展确定了基调。 自成立以来，人们已经发现许多关于难以捉摸但至关重要的概念的性质的问题。
 
-> Decentralized, Immutable, Unstoppable.
+> 分散、不可阻挡。
 > 
-> - Ethereum Classic Website, 2016
+> - Ethereum Classic 网站 2016
 
-This series of buzzwords is a recipe for unlocking the true value potential of blockchain technology. First you need decentralization, which enables immutability, allowing unstoppability, and making possible the [bright future](/why-classic/code-is-law) we discussed earlier.
+这个系列的蜂窝字是解锁区块链技术真正的潜在价值的一种方法。 首先，你需要权力下放，它能够使不可变，允许不可阻挡，并使我们早些时候讨论过的 [光明的未来](/why-classic/code-is-law) 成为可能。
 
-## Quantifying Decentralization
+## 权力下放的数量
 
-> Decentralization is the process by which the activities of an organization, particularly those regarding planning and decision-making, are distributed or delegated away from a central, authoritative location or group.
+> 权力下放是一个组织的活动，特别是有关规划和决策的活动的过程。 • 在中央、权威地点或团体之外进行分配或下放。
 > 
-> - [Wikipedia](https://en.wikipedia.org/wiki/Decentralization)
+> - [维基百科](https://en.wikipedia.org/wiki/Decentralization)
 
-Decentralism favors decentralization, a property that exists in many systems and forms throughout nature. It is not a binary property, but a spectrum that ebbs and flows through time. It's difficult to articulate a hard and fast definition for decentralization in all contexts, but it can be visually understood fairly intuitively.
+权力下放有利于权力下放，这种财产存在于许多制度中，并且在整个自然过程中形成。 它不是一种二元财产，而是一种随着时间推移而减弱和流动的一种光谱。 很难为在所有情况下的权力下放提出一个严格和迅速的定义，但是可以从视觉上对它有相当直观的理解。
 
-![As a system becomes more decentralized, it has fewer choke points, making it harder to capture](./decentralization.jpg)
+![随着一个系统变得更加分散，它有较少的制服点，从而更难捕获。](./decentralization.jpg)
 
-In the realm of blockchain projects, there are many ways of measuring decentralization, with one rough quantification being "the ratio of people needed to be compromised in order to take over the system". That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only required 10% to be compromised.
+在区块链项目方面，有许多衡量权力下放的方法。 一个粗略的量化方法是“为了接管这个系统，需要损害人员的比例”。 That is to say, if an attacker wanted to control or censor a chain, a project that required them to compromise 80% of participants is _more decentralized_ than a project that only required 10% to be compromised.
 
-This measurement is known as the [Nakamoto coefficient](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization), and while it is an excellent conceptual tool, is a fairly low-resolution one-dimensional measurement. In reality, decentralized systems can be designed to make capture less likely by assigning different groups with different responsibilities. Due to their diversity of responsibilities and backgrounds, difficulty in capturing a network then becomes linked not simply to the ratio of people, but a complicated mesh of overlapping strengths and weaknesses of different actors within the system.
+这个测量被称为 [Nakamoto系数](https://minima.global/blog/the-nakamoto-coefficient-an-attempt-to-quantify-decentralization)，虽然它是一个很好的概念工具，但它是一个相当低分辨率的单维度计量。 在现实中，分散的制度可以通过分配不同的责任来减少捕获的可能性。 由于他们的责任和背景多种多样，很难掌握网络，而不仅仅是与人口比例相联系。 但也是系统内不同行为者相互重叠的优势和弱点的复杂轮廓。
 
-For example, in Proof of Work blockchains, an accurate measurement of decentralization would attempt to take into account mining by reward, clients by codebase, developers by commits, exchanges by volume, nodes by count, and ownership by value distribution, etc. But even this more nuanced approach is far from perfect, as a single snapshot measurement does not yield much insight into whether a system can maintain decentralization over time.
+例如，在工作区块链的证明中，准确衡量权力下放将试图以奖励方式考虑采矿问题。 客户端按代码表示, 开发者按提交, 按卷进行交换, 按计数计算的节点和按价值分配的所有权等。 但即使这种更细微差别的做法也远非完美无缺， 作为一种单一的快照测量方法，对于一个系统能否在一段时间内保持权力下放的问题并无多大的了解。
 
-Whichever way it is quantified, attackers that wish to "own" the system have a more difficult job the more decentralized a project is. To defend against take-overs, projects need to reach a sufficient level of decentralization, which means minimizing the number of central points of failure and bottlenecks, which can exist in many places in the system.
+无论以何种方式量化，那些希望“拥有”系统的攻击者的工作都比较困难，一个项目就越分散了。 为了防范接管，项目需要达到足够的权力下放水平。 这意味着最大限度地减少系统内许多地方可能存在的失误和瓶颈中心点的数量。
 
-### The Blockchain Trilemma
+### Blockchain Trilemma
 
-> The underlying structure of decentralized networks comes with unique challenges as compared to centralized networks. As early as the 1980s, computer scientists developed what’s called the CAP theorem to articulate perhaps the most major of these challenges. According to the CAP theorem, decentralized data stores — of which blockchain is an iteration — can only provide two of three guarantees simultaneously: consistency, availability, and partition tolerance (CAP). In the context of modern distributed networks, this theorem has evolved into the blockchain trilemma. This is the popular belief that public blockchains must sacrifice either security, decentralization, or scalability in their infrastructure.
+> 与中央网络相比，分散化网络的基本结构面临着独特的挑战。 早在1980年代，计算机科学家就制定了所谓的联合呼吁程序理论，表达或许是其中最主要的挑战。 根据CAP 理论，分散的数据存储——区块链是其中的一个迭代——只能同时提供三个保证中的两个保证：一致性。 可用性和分区范围 (CAP)。 在现代分布网络中，这种理论已经演变成区块链三角形。 这是人们普遍认为公共区块链必须牺牲安全、权力下放或其基础设施的可扩展性。
 > 
-> - The Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
+> - Blockchain Trilemma, [Gemini.com](https://www.gemini.com/cryptopedia/blockchain-trilemma-decentralization-scalability-definition#section-what-is-the-blockchain-trilemma)
 
-![The Blockchain Trilemma](./trilemma.png)
+![Blockchain Trilemma](./trilemma.png)
 
-The Blockchain Trilemma describes a technological limitation that applies to all blockchain protocols. A similar concept also applies to the social layer of a blockchain project, with a sliding scale of top down vs bottom up decision-making.
+Blockchain Trilemma描述了适用于所有区块链协议的技术限制。 一个类似的概念也适用于区块链项目的社会层，其上下与下层决策的滑动尺度。
 
-Like creating a video game character, all projects must place themselves somewhere in the space of these sociotechnological dimensions, allocating ability points and sacrificing some attributes for others. The selection defines a blockchain's class, abilities and effectiveness in battle.
+像创建一个视频游戏特性一样，所有项目都必须放置在这些社会技术层面的某个地方。 分配技能积分和牺牲一些属性。 选中定义了区块链在战斗中的阶级、能力和有效性。
 
-As we will see, as far as the protocol's attributes and underlying philosophy goes, Ethereum Classic has maxed-out it's decentralization and security, intentionality sacrificing both transaction scalability and top down social organization so that more essential skills can be strengthened.
+正如我们将看到的那样，就协议的属性和基本哲学而言，“以太久经典”已经实现了权力下放和安全。 故意牺牲交易规模和压低社会组织，以便能够加强更重要的技能。
 
-ETC chose to max-out these skills because for a blockchain protocol to scale its base protocol it must make trade-offs in decentralization and security, which may not appear as apparent costs immediately, but in the long run is bound to damage the utility and value of the network. In short, for ETC, scalability is less important than security and decentralization, and this technical trade-off is also mirrored in the social layer; decentralization trumps the expediency of central rule.
+考试和测验中心选择了扩大这些技能，因为区块链协议要扩大其基本协议的规模，就必须在权力下放和安全方面作出权衡。 但从长远来看，必然会损害网络的用途和价值。 简言之，对ETC来说，可扩展性不如安全和权力下放重要，而这种技术上的平衡也反映在社会层面。 权力下放妨碍了中央规则的利弊。
 
-Today, most blockchain projects have abandoned the idea of maxing-out decentralization in exchange for scalability and the benefits of coordinating from a central group. This may well be useful for short term bootstrapping as it allows the funding of extravagant development or marketing budgets, and there is no obvious downside in an environment that is not antagonistic, but unless the project tapers-off this dependence on centralization, which may be impossible due to the incentivization structures it creates, the network is exposed to take-over through the capture of this relatively centralized set up.
+今天，大多数区块链项目都放弃了下放权力的想法，以换取可扩展性和从一个中央小组进行协调的好处。 这很可能有助于短期启动，因为它能够为过度发展或营销预算提供资金。 而且在一个不对立的环境中没有明显的消极作用， 但除非项目减少这种对中央集权的依赖，而中央集权由于奖励结构而可能无法产生， 该网络通过捕获这一相对集中的设置而被接管。
 
-### Sovereign Grade Censorship Resistance
+### 主权等级审查抵制行为
 
-One question that should be asked when evaluating different blockchain projects is "is it decentralized enough?". The answer to this entirely depends on the use case's [threat model](https://en.wikipedia.org/wiki/Threat_model), which depends on what kind of applications need to be run on a given chain. The question can be reframed as "who would want to stop the applications on this chain from running, and can the chain resist their attempts at censorship?".
+在评价不同区块链项目时应该问的一个问题是“它是否已经分散了？”。 这个答案完全取决于使用案例的 [威胁模型](https://en.wikipedia.org/wiki/Threat_model)， 这取决于哪种应用程序需要在指定的链上运行。 这个问题可以恢复为“谁想要阻止这一链上的应用程序运行， 而且链条能够抵制他们进行检查的企图吗？”
 
-For example, in the case of Bitcoin, its main application is the coin itself: digital scarcity and the ability to transfer it without censorship. It competes with many currencies and assets, including the US dollar, and therefore it must withstand attacks from very powerful entities to persist. Many of Bitcoin's [predecessors](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) were shut down because they had central points of failure, and Bitcoin was explicitly designed to circumvent this kind of censorship by being sufficiently decentralized.
+例如，在比特币的情况下，它的主要应用是硬币本身：数字稀缺和不受检查地转移它的能力。 它与包括美元在内的许多货币和资产竞争，因此，它必须经受强大实体的攻击才能持续下去。 许多比特币的 [个前任](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) 因为他们有中心失败点而被关闭。 比特币和比特币的明确设计是为了通过充分分散来规避这种检查。
 
-In contrast, some blockchains require less censorship resistance than Bitcoin and only intend to, for example, enable the transfer of virtual baseball cards, or have other uncontroversial use cases. As no powerful external forces want to stop these applications, censorship resistance is unnecessary. It may even be seen as a benefit if some central party can override the state of the chain in certain circumstances, so having the whole chain operated by a handful of authorities is acceptable for this use case. In these cases, where the use case is not important enough for a well-funded organization to shut down, it might make sense to sacrifice decentralization for scalability, and other non-blockchain technologies may be more appropriate.
+与此相反，某些区块链需要比特币更少的检查抵抗力，并且只是打算这样做。 例如，允许转移虚拟棒球卡，或有其他无争议的使用案例。 由于没有强大的外部力量想要制止这些应用，因此没有必要进行检查检查。 如果某些情况下某些中心方能够推翻这一链条的状态，甚至可能被视为一种好处。 因此，在这种情况下，由少数几个当局管理整个链条是可以接受的。 在这种情况下，使用情况对于资金充足的组织关闭并不重要。 为可扩展性而牺牲权力下放也许是有道理的，其他非区块链技术也许更合适。
 
-Ethereum Classic, even back in 2015 when it was known as Ethereum, set out to achieve ambitions on a level at least as prone to censorship as Bitcoin.
+Ethereum Classic, 即使早在2015年就被称为Etherum, 它旨在实现至少像比特币那样易受检查的目标。
 
-> Ethereum is a decentralized computing platform that executes smart contracts. Applications are ran exactly as programmed without the possibility of censorship, downtime, or third-party interference.
+> 以太坊是一个分散的计算平台，用于执行智能合同。 申请的处理完全按计划进行，没有进行审查、停顿或第三方干预的可能性。
 > 
 > - Ethereum.org, 2015
 
-Ethereum's Smart Contract Platform was designed to not only support Bitcoin's base currency use case, but also any kind of blockchain application. Because of this, it is highly likely to attract attempts at censorship from legacy system incumbents at risk being disrupted.
+Etherum的智能合同平台不仅是为了支持比特币基础货币的使用情况，而且也是为了支持任何类型的区块链应用。 由于这种情况，很可能会吸引那些可能受到干扰的遗留系统的现任人员试图进行审查。
 
-To provide a solution on a global level that would need to stave off attacks from other sovereign institutions such as nation states and multinational organizations, Ethereum, like Bitcoin, would need to reach a level of decentralization that made it impossible for any of these groups censor it; _Sovereign Grade Censorship Resistance_ is required.
+在全球一级提供解决办法，防止遭受民族国家和多国组织等其他主权机构的袭击， 因此，像比特币一样，需要达到一定程度的权力下放，使任何这些群体都无法对其进行审查。 _需要主权等级审查抗性_。
 
-A critical threshold is reached with this level of uncensorability. As no other institution can censor the network, applications become significantly more useful, becoming _trustless_. They no longer rely on the trust or permission of some other company or government to operate, and, on these platforms, it is the users, rather than the providers who get to decide what goes on.
+在这个不可确定性水平上达到了临界值。 由于没有其他机构能够检查网络，应用程序变得更加有用，变得不信任了 __。 他们不再依赖某些其他公司或政府的信任或许可经营。 在这些平台上，决定前进方向的是用户，而不是供应商。
 
-_Code is Law_ can only operate on chains that have achieved _Sovereign Grade Censorship Resistance_. This level is required to prevent other entities from censoring its operation, and this in turn requires the chain to max-out it's decentralization attributes and constantly maintain them without compromise. _Code is Law_ requires _decentralization maximalism_.
+_代码是法律_ 只能在已经达到 _主权等级审查抗性的链条上运行_ 这个级别是为了防止其他实体检查其运作。 而这反过来又要求这一链条最大化它的权力下放属性，并始终不折不扣地保持这些属性。 _代码是法律_ 需要 _放权最大化_。
 
-## Centralization Failure States
+## 集权失败状态
 
-Before we explore the solution to the problem of centralization, we must first understand how a lack of decentralization can quickly regress into full-blown failure.
+在我们探讨集中化问题的解决办法之前，我们必须首先理解缺乏权力下放如何能够迅速倒退到全面失败。
 
-Today, even more so than when Ethereum (Classic) was launched in 2015, it is increasingly apparent that censorship is becoming the weapon of choice of a dying legacy system attempting to cling on to relevance. As these old institutions become increasingly threatened by change, it seems likely that ever-more drastic measures will be taken to defend their position.
+今天比2015年启动以太坊时更加如此。 越来越明显的是，检查制度正在成为试图保持现实意义的濒临死亡的遗留制度的首选武器。 随着这些旧的机构日益受到变革的威胁，似乎有可能采取更加严厉的措施来捍卫它们的立场。
 
-Before the internet and blockchain technology entered the scene, these institutions had reality pretty much on lockdown as society was heavily reliant on centralized control points for value and information transfer, which was readily exploited. With cryptography, Satoshi retorted just in the Nick of time, turning the tables on [the logic of violence](https://cryptonews.net/en/news/bitcoin/2927549/), and providing humanity with a path towards an alternative emergent order.
+在互联网和区块链技术进入场景之前， 由于社会严重依赖中央控制点来进行价值和信息转让，这些机构在很大程度上处于关闭状态。 这种情况很容易被利用。 使用加密技术，Satoshi只是在时间的昵称中反转，将表格转到 [暴力逻辑](https://cryptonews.net/en/news/bitcoin/2927549/)， 并为人类提供一条通向替代性紧急秩序的道路。
 
-As time goes on, the attacks against free, fair and open alternatives to the status quo will ramp up. As a result, the cryptocurrency ecosystem will enter a new phase, a highly antagonistic phase, where the uncensorability of blockchain technology will truly be put to the test, and the central points of failure in cryptocurrency systems that have them will be sought out and exploited. For use cases that incumbents disapprove, only the _Sovereign Grade_ will survive.
+随着时间的推移，对自由、公正和公开的现状替代办法的袭击将会增加。 因此，加密货币生态系统将进入一个新阶段，一个高度对立的阶段。 如果区块链技术的不确定性将真正用于测试。 将寻找和开发加密货币系统的主要故障点。 在任职者不同意的情况下，只有 _最高等级_ 才能生存。
 
-In the future, to maintain utility and value, blockchains must resist a range of social, economic and technological attacks that will be deployed against them. The list of attacks is ever-growing and new forms of attack are sure to be conjured up and countered, but for now, at the very least, the more obvious known failure states must be avoided.
+今后，为了保持效用和价值，区块链必须抵制将对其进行的一系列社会、经济和技术攻击。 袭击清单日益增多，新的袭击形式肯定会受到伤害和打击。 但现在至少必须避免更加明显的失败国家。
 
-### The Ephemeral Foundation
+### 短暂基金会
 
-Historically, the number one cause of death for blockchain projects is when the teams responsible for maintaining them no longer operate. Simply put, if a project depends on a central organizing committee or developer team, it will only last for as long as that organization does.
+历史上，区块链项目的第一个死亡原因是负责维持项目的小组不再运作。 简单地说，如果一个项目依赖一个中央组织委员会或开发者团队，那么它只能持续到该组织所做的时间。
 
-Organizations can cease to operate for many reasons. Be it a simple rugpull, running out of funds, getting hacked, getting hammered by regulators, traffic accidents, or any other reason, these factors are often outside the control of this team, so it is down to luck or the approval of regulators whether a project can survive.
+出于许多原因，各组织可以停止运作。 无论它是一个简单的标尺，资金耗尽，被困住，被监管者阻止，交通事故或任何其他原因。 这些因素往往不在本小组控制范围之内， 因此，项目能否存活取决于运气或管理者的批准。
 
-In many cases, the existence of a central team disincentives others from contributing to a project, as they are not on a level playing field. Third parties will always be second class citizens compared to this central organizing committee, who are calling the shots and disproportionately benefitting from price action in the case of a premine or development tax, which further solidifies reliance on this team to maintain and direct the project, and, at the very least, prevents a natural organizational hierarchy from emerging.
+在许多情况下，中央小组的存在使其他小组不愿为某个项目作出贡献，因为它们并不是在平等的竞争环境中。 与这个中央组织委员会相比，第三方总是二等公民。 - 在征收预开采税或开发税的情况下，要求开枪并从价格行动中获得过多的好处； 它进一步加强了对该小组的依赖，以维持和指导该项目，并至少防止出现自然的组织等级。
 
-This reliance on a central team may provide direction and big budgets in the short term, but it burdens the protocol with a kind of "centralization debt" that is difficult to pay off. Eventually, like all organizations, the central team will cease to operate. Unless the project sheds this reliance, it is likely to become either abandoned or maladapted to life without this group.
+这种对中央小组的依赖可能在短期内提供方向和大量预算。 但它给协议带来了难以偿还的“集中债务”。 最后，同所有组织一样，中央小组将停止运作。 除非该项目打破这种依赖，否则它很可能被遗弃或不适应没有这个群体的生活。
 
-### Meatspace Capture
+### Metatspace 抓取
 
-For high value projects that have an overreliance on centralized teams, as time goes on, a fate far more insidious than mere abandonment becomes increasingly likely. Like clockwork, as with all top-down centralized institutions, they become captured by special interests through various manipulative techniques.
+对于过度依赖中央小组的高价值项目，随着时间的推移，情况将会好转。 一种命运比单纯的放弃更加阴险。 像时钟一样，就像所有自上而下的中央机构一样，它们通过各种操纵手段被特殊利益集团抓获。
 
-Suppose a powerful institution feels threatened by new technology. Rather than stamping it out, which may be impossible, it is far more effective to simply compromise and disrupt its operation by influencing the direction of development in a way that does not fundamentally upset the status quo.
+假定一个强大的机构会受到新技术的威胁。 而不是将它盖上去，而这可能是不可能的。 只要以不从根本上扰乱现状的方式影响发展方向，就更有效果了。
 
-This can be achieved by turning influencers and the leadership of an organization into puppets, whose strings are pulled through a variety of carrots and sticks. Humans are fallible and are susceptible to all degrees of manipulation and extortion; peer pressure, angry mobs, politics, kickbacks, bribes, psyops, honey traps, kompromat, physical threats, imprisonment, or worse.
+要做到这一点，就必须将一个组织的影响者和领导者变成傀儡。 其字符串通过各种胡萝卜和大棒拉动。 人是可怕的，容易受到各种程度的操纵和敲诈； 同伴压力、愤怒的暴民、政治、回扣、贿赂、精神病患、蜂蜜陷阱、番茄、肉体威胁、监禁或更糟。
 
-With enough key targets under the thumb of an attacker, they can control the future of a chain through their authority, making subtle incremental changes that further increase their grip and control over decision-making.
+有了足够的关键目标，他们就能够通过自己的权力来控制连锁的未来。 • 进行微妙的渐进改革，进一步加强对决策的控制和控制。
 
-One of the most problematic elements of this type of failure state is that it can be done in a way that is undetectable. It may be that the level to which a central team is compromised is unknown, and capture only becomes obvious when it is too late to do anything about it.
+这类故障状态中最有问题的因素之一是可以以无法察觉的方式进行。 中央小组受到损害的程度可能不明。 并且捕获只有在太晚的时候才会显现出来。
 
-Even if a centralized team is not overtly compromised, the very potential of this compromise can sow distrust and uneasiness. Conspiracy theories and the questioning of decision-making may undermine a project's leadership and stability if they appear not to be driven by merit alone, and simple divide and conquer tactics deployed against the organizing committee may be enough to paralyze the project.
+即使一个集中的小组没有受到公开的损害，这种妥协的潜力本身也会造成不信任和不安。 阴谋理论和对决策的质疑，如果看来不仅仅是出于优点，可能会损害项目的领导能力和稳定。 对组织委员会采取的简单分裂和征服策略可能足以使项目陷于瘫痪。
 
-This failure state shows an inherent contradiction within any blockchain project that relies on a central organizing committee. While the protocol may be decentralized on paper, in reality the project is beholden to a central group which can and will be bent to the will of anyone who feels that the cost of doing so is worth it.
+这个故障状态显示了依赖中央组织委员会的区块链项目内的内在矛盾。 虽然协议可能是书面上的分散化， 实际上，该项目是由一个中央团体承担的，该团体能够而且将会服从任何人的意愿，他们认为这样做的代价是值得的。
 
 ### Kabuki Coins
 
-Centralization, like gravity, is constantly pulling and looking for any weakness in a sociotechnological structure to find its breaking point. For a system to overcome this force long term, it must ensure that no central point of failure can be exploited, which means designing robust countermeasures that constantly push back against centralization not just in one place but in all areas.
+集中化同重力一样，正在不断地拉动和寻找社会技术结构中的任何弱点，以找到它的突破点。 要想建立一个长期克服这种力量的制度，就必须确保不会利用任何主要的失败点。 这意味着设计强有力的反措施，不仅在一个地方，而且在所有领域，不断阻止中央集权。
 
-Because of this, there is no point in having decentralization in half measures. A chain is only as strong as its weakest link, and a blockchain is only as decentralized as its most centralized bottleneck. For this reason, _all_ parts of a blockchain project, both technically and socially, must strive for _decentralization maximalism_.
+由于这种情况，在半措施中下放权力是没有意义的。 一个链的强度与其最薄弱的环节一样强，一个区块链只是其最集中的瓶颈。 出于这个原因， _一个区块链项目的所有_ 个部分，无论是技术上还是社会上的，都必须努力实现 _放权最大化_。
 
-Unfortunately, within the cryptocurrency ecosystem the importance of _decentralization maximalism_ is not widely understood or adopted, to the point where the term _decentralization theater_ has become a common way to describe many _so-called_ decentralized systems.
+遗憾的是，在加密货币生态系统中， _分散最大化_ 的重要性没有得到广泛理解或采纳。 到了 _权力下放剧院这一术语_ 已经成为描述许多 _所谓的_ 分散化系统的常用方式。
 
-These projects have subtle single points of failure within their systems, but promoters shift the focus to other "decentralized" areas. This is an effective tactic, as proving that a system has potentially capturable central points of failure requires intimate knowledge of the system, and can be very difficult or impossible for the layman, due to the technical skill and insider knowledge required to evaluate properly.
+这些项目在其系统内有微妙的单一失败点，但促进者将重点转移到其他“分散的”领域。 这是一种有效的战术，因为要证明一个系统可能具有潜在的中心故障点，就需要对该系统有深入的了解。 由于适当评价所需的技术技能和内线知识，对非全时工人来说可能非常困难或不可能。
 
-Like the parable of the buildings built on rock and sand, to the untrained eye, two projects may appear to be properly constructed, and under normal conditions they both operate as intended. But under the surface, one project has a fatal flaw that will only lead to ruin in times of stress and will likely end up causing damage to those who expect the project to stand the test of time.
+就像建筑在岩石和沙子上的建筑物一样，对未受过训练的眼睛一样， 有两个项目似乎已经适当建造，在正常情况下，它们都是按预期运作的。 但在表面上， 一个项目有一个致命的缺陷，只会在紧张时期造成破坏，并可能最终对那些期望该项目经受时间检验的人造成损害。
 
-![Blockchains, like buildings, can be built on strong and weak foundations](./rocksand.jpeg)
+![块链像建筑一样，可以建立在牢固和虚弱的地基上](./rocksand.jpeg)
 
-## Classic Problems Require Classic Solutions
+## 经典问题需要经典解决办法
 
-Corruption is a problem as old as civilization. While it might not have reared its ugly head in the cryptocurrency space yet, as the technology becomes more influential, it is bound to attract forces that wish to bridle its power and shape it towards a future where, far from liberating humanity, blockchains become tools for optimizing enslavement.
+腐败是一个与文明一样古老的问题。 虽然它可能还没有在加密货币空间中养成其丑恶的头部，但是随着技术的影响更大， 它必然会吸引那些希望弥合其权力并使之朝着未来方向发展的势力。 区块链远远没有解放人类，成为优化奴役的工具。
 
-In the long run, whatever happens, decentralized blockchains will prevail eventually. Still, if humanity wishes to avoid a dark-ages style period of hampered innovation and stagnation, the word must be spread about the dangers of centralization so that it can be dealt with before they take hold. Luckily, a window of opportunity exists to counter the inevitable ongoing attempts to capture blockchains. For now, projects that strive for _decentralization maximalism_ still exist and are available to those who wish to use them.
+从长远来看，无论发生什么，分散的区块链都最终会占上风。 然而，如果人类希望避免一个黑暗风格的创新和停滞时期， 这个词必须散布在集中化的危险上，以便在集中化之前能够得到处理。 值得庆幸的是，存在着一个机会之窗，用来对付正在不可避免地要夺取区块链的企图。 目前，力求实现 _分散最大化的项目_ 仍然存在，希望使用这些项目的人可以使用这些项目。
 
-While it's still voluntary, rather than relying on authority figures or marketing campaigns, individuals can reason from first principles and reflect on lessons from the past to reach their own conclusions about which blockchains are likely to provide long term value and are worth interacting with.
+虽然它仍然是自愿的，而不是依靠权威人士或营销运动， 个人可以从第一项原则出发，思考过去的教训，得出自己的结论，哪些区块链可能提供长期价值并值得与之互动。
 
-By going back to the roots of blockchain technology, economic theory and the lessons of history, the wisdom in the design decisions behind Bitcoin becomes clear, and this logic can be reapplied to other technological advancements in the space, including Smart Contract Platforms such as Ethereum Classic.
+回到区块链技术、经济理论和历史教训的根基。 比特币背后的设计决定的智慧变得很清楚， 而且这种逻辑可以重新应用于空间的其他技术进步，包括智能合同平台，如“以太空”类课程。
 
-### Principles First
+### 原始原理
 
-While institutions and the humans that make them are fallible, fickle and fragile, ideas are bulletproof. It is self-evident that technology as important and influential as blockchain must be built upon something more than just people. A well-developed philosophy must act as a strong foundation to guide the actions of otherwise capturable bags of meat.
+虽然使它们变得不幸、虚假和脆弱的机构和人是虚假的，但思想却是有弹性的。 不言而喻，与区块链一样重要和有影响力的技术必须建立在不仅仅是人的基础之上。 发展良好的哲学必须成为指导本可捕获的肉袋行动的坚实基础。
 
-Good ideas stand on their own, can be debated in public, and are valid regardless of who proclaims them, making them perfect for constructing a harness to restrain and protect the future of a blockchain project. That is why The Ethereum Classic Foundation is not a *group*, but its *principles*, which come first and inform decision-making.
+好的想法是自立的，可以公开辩论，不管是谁宣布的，都是有效的。 让它们完美地构建一个能够抑制和保护区块链项目的未来。 这就是为什么以太古经典基金会不是 *组*， 但是它的 *原则*, 这些原则首先来指导决策。
 
-Pragmatism is downstream of maintaining and adhering to sound principles, as they enable both practical survivability, long term sustainability, and act as a form of advertising that attracts quality contributors. The principles first approach goes a long way to ensuring that a project can maintain its course for many generations to come, as it is guided not by the ever-changing interests of a central group, but by external philosophical reference points that, even with high a turnover of contributors, can be perpetuated and refined in public to direct the future of the project.
+务实主义是维持和遵守健全原则的下游，因为这些原则使两者都能够实际生存下去。 长期可持续性，并作为吸引高质量贡献者的一种广告形式。 原则首先是确保一个项目能够为子孙后代维持其发展方向的漫长途径。 因为它不是以一个中央团体不断变化的利益为指导， 但根据外部哲学参考资料，即使捐款者更替率很高，也是如此。 这个项目可以长期存在并在公开场合加以改进，以指导项目的未来。
 
-Having no central group to call the shots means that any individual or group can fill any role, as long as they are faithfully interpreting and executing ETC's principles and values, as understood by stakeholders. If some feel that a hard fork diverges from the values they signed up for, they can continue the existing version of the chain. The risk of a chain split means all participants are incentivized to work together to solve differences, and neither side of a debate can overrule the other if the disagreement is unresolvable.
+没有中央团体可以叫喊枪声，意味着任何个人或团体都可以担任任何角色。 只要它们如利害关系方所理解的那样忠实地解释和执行ETC的原则和价值观。 如果有人觉得硬叉与他们所注册的价值之间的差异，它们就可以继续现有的链条版本。 链条分割的风险意味着鼓励所有参与者共同努力解决分歧。 而且如果分歧无法解决，任何一方的辩论都不能推翻另一方。
 
-### Protocol Neutrality
+### 协议中立性
 
-As the night is young in the blockchain game, the problem of [Ephemeral Foundations](#the-ephemeral-foundation) may not be so obvious. Whether conned, crushed, or otherwise captured, the noble intentions that run the show for many blockchain projects are certain to come to an end, and with them, if their chains are not able to shed reliance, so do their ambitions.
+由于在区块链游戏中夜晚， [Ephemal Foundations](#the-ephemeral-foundation) 的问题可能并不那么明显。 许多区块链项目运行的高尚意图，不管是内涵、粉碎还是以其他方式捕获，肯定会结束。 如果他们的链条无法摆脱依赖，他们的野心也是如此。
 
-This problem is made worse when the decision-making systems within a blockchain project rely on a central group for extended periods. Alternative mechanisms for organizing the project are unable to evolve, as decision-making is expected to come from the top down rather than bottom up. As a result, opaque autocracy becomes the standard, which ossifies and becomes fragile, rather than allowing for an anti-fragile open meritocracy to flourish.
+当区块链项目中的决策系统长期依赖一个中央集团时，这个问题就更加严重。 组织该项目的其他机制无法演变，因为决策预计将从上而下而不是从下而来。 其结果是，不透明的专制变成了一种标准，这种标准使人感到虚弱，而不是使反脆弱的公开任人唯贤。
 
-This manifests in a _centralization gravity well_, where reliance on central decision-making snowballs as outside contribution becomes more difficult, so the project relies more and more heavily on top-down leadership, and the cycle repeats.
+这表现为 _集中重力_, 其中更加难以依赖中央决策雪球作为外部贡献而变得更加困难。 因此，项目越来越多地依赖自上而下的领导层，周期又重复。
 
-Because of this, in the future, projects that rely on centralized organizations will one by one fall victim to this reliance, and the truth will be realized that only projects without this reliance can sustain themselves for long periods. As the wild valuations that cryptocurrencies currently enjoy depends on the hope that these projects have some degree of longevity, it will become increasingly evident that only truly decentralized projects are worth contributing money, talent or time to, and the market will reallocate accordingly.
+因此，今后依靠中央组织的项目将逐个成为这种依赖的受害者。 而且事实将会认识到，只有没有这种依赖的项目才能长期维持下去。 鉴于加密货币目前所享受的野蛮估价取决于希望这些项目有一定程度的寿命， 越来越明显的是，只有真正分散化的项目才值得为金钱、人才或时间作出贡献，并且市场将相应地重新分配。
 
-Only the projects with long term value propositions will remain, which means only those that don't rely on central organizing committees will remain. By the same logic, it will become apparent that, all things being equal, the projects perceived to be the least dependent on central groups will attract the most contribution and value.
+只有具有长期价值的项目才会继续存在，这意味着只有那些不依赖中央组织委员会的项目才会存在。 根据同样的逻辑，一切情况显然都是平等的。 被认为最不依赖中央群体的项目将获得最大的贡献和价值。
 
-Instead of relying on unsustainable cash injections from central authorities, projects must evolve to sustain themselves purely on natural contributions, such as those through the _Buy and Contribute_ strategy, whereby individuals buy into a project and economically incentivize themselves to contribute to it.
+项目不应依赖中央当局不可持续的现金注入，而应逐渐发展，以便完全依靠自然捐款。 例如那些通过 _购买并贡献_ 策略的方法， 因此，个人可以买进一个项目，并从经济上鼓励自己为该项目捐款。
 
-This strategy works best when an individual is reaping the full reward of their contribution, which can only happen when a protocol is neutral. Neutral protocols treat all participants on the same equal footing and do not grant any special privileges to specific parties. Decentralized blockchain projects will compete with each other on this basis; only the most neutral projects, those without a Foundation, Dev Tax, or undiluted premine, will attract the type of natural contribution that enables long term sustainability.
+当一个人获得其贡献的充分报酬时，这一战略才能发挥最佳作用，只有当一项协议是中立的情况下才能实现。 中立议定书平等对待所有参与者，不给予特定当事方任何特殊特权。 分散区块链项目将在此基础上相互竞争。 仅仅是最中立的项目，没有基金会、Dev Tax或没有预设的项目， 这将吸引能够长期可持续性的自然贡献。
 
-### Balancing Power
+### 平衡功率
 
-As echoed by the structure of existing institutions such as the government of the United States of America, to rein in bad decision-making and prevent one group from hijacking a system as a whole for selfish interests, a balance of power between different players needs to exist in systems that wish to maintain longevity. This concept is known as _checks and balances_.
+正如美利坚合众国政府等现有机构的结构所反映的那样， • 控制决策不善，防止某一团体为了自私利益劫持整个制度； 需要在希望保持长寿的系统中保持不同角色之间的力量平衡。 这个概念被称为 _抑制和平衡_。
 
-![The US Government is an example of a system that implements checks and balances](./congress.png)
+![美国政府是实行制衡制度的一个例子。](./congress.png)
 
-As with the US Government, checks and balances are an essential feature of Proof of Work blockchains, where three major power groups exist and balance each other's power.
+与美国政府一样，制衡是工作区块链证明的一个重要特征。 在这种情况下，存在三个主要权力集团并平衡彼此的权力。
 
-| Group      | Role                                      | Veto                   |
-| ---------- | ----------------------------------------- | ---------------------- |
-| Developers | Maintain clients and infrastructure       | Stop maintaining code  |
-| Miners     | Provide security against 51% attacks      | Mine a different chain |
-| Financiers | Provide liquidity and finance initiatives | Sell holdings          |
+| 组别  | 作用           | Veto     |
+| --- | ------------ | -------- |
+| 开发者 | 维护客户和基础设施    | 停止维护代码   |
+| 矿工  | 针对51%的攻击提供安全 | 挖一个不同的链接 |
+| 金融商 | 提供流动资金和融资举措  | 出售持有的物品  |
 
-The alignment of three major powers in Proof of Work blockchains provides stability. They each add value to the system in entirely different ways. Each holds the system to account through the power of veto, which ensures that no other groups can screw things up too badly. Whether a government or a blockchain, things tend to go wrong when these checks and balances are interfered with.
+三个主要大国在工作区块链证明方面的结合提供了稳定性。 它们都以完全不同的方式增加了系统的价值。 每个组织都通过否决权追究该系统的责任，因为否决权确保任何其他团体都不能以太差的方式推翻一切。 无论是政府还是区块链，当这些制衡受到干扰时，情况往往是错误的。
 
-Note that this configuration of three is important, as it also means that the collective can overcome consensus issues through a simple majority rule. This odd-number electorate is a common pattern in distributed systems. A deadlock can ensue with only two participants, as no third party is there to resolve the dispute.
+请注意，这一三种组合是重要的，因为它也意味着集体可以通过简单多数规则克服协商一致的问题。 这种奇数选民是分布式制度中常见的一种模式。 只会出现两名参与者的僵局，因为没有第三方解决这一争端。
 
-The result is a symphony of balanced power, held together by competing interests that incentivize either voluntary engagement or ostracism of bad behavior. Miners provide security and get a block reward, which only has value if the network is useful thanks to developers and other providers maintaining the protocol and building out infrastructure, facilitated by traders providing liquidity and investors speculating and funding projects.
+其结果是权力平衡的交响亮，由相互竞争的利益集团把握在一起，这些利益集团要么鼓励自愿参与，要么排斥不良行为。 矿工提供安全并获得区块奖励， 因为开发者和其他提供商维护协议和建立基础设施，只有网络才有价值， 提供流动性和投资者投机和资助项目的贸易商提供了便利。
 
-Like struts holding up the base of a tower, these well-placed incentives rely on each other for support. Together, as long as they are correctly distributed, they can yield a new structure greater than the sum of their parts, and can stand potentially for millennia.
+如同在塔基座上的步行者一样，这些位置良好的奖励措施依靠彼此的支持。 只要正确地分发这些文件，一起， 它们可以产生一种新的结构，这种结构将大于其各部分的总和，并且有可能持续几千年。
 
-On top of this, a diversity of roles makes a system more challenging to take down by encouraging participation from parties with differing interests, profiles, and weaknesses. As multiple layers of defense, the more diverse the pool of participants securing the chain, the harder it is for an attacker to compromise, as a diversity of weaknesses requires a diversity of attacks, and a higher cost is needed to capture the system. Even with the same number of participants, a system with more separation of concerns can be considered more decentralized and difficult to capture because of this diversity.
+除此之外，各种各样的作用使得一种制度更加难以通过鼓励利益不同的各方参与来实现。 2. 概况和弱点。 由于多层防御，保护链安全的参与者越多样化，攻击者就越难让步， 由于薄弱环节多种多样，需要进行多种多样的袭击，需要更高的成本来抓住这一系统。 即使与会者人数相同， 由于这种多样性，可以认为比较分散和难以捕捉的制度更加分散。
 
-The blueprint introduced by Bitcoin was also used by many other cryptocurrencies including Ethereum, which essentially copied the fundamentals, tweaked some variables, and (brilliantly) added a Turing-complete virtual machine, the EVM. Much like an architectural blueprint, encoding the structure of a real world building, it would be seemingly unwise to remove one or more of the crucial struts preventing the structure from collapsing into a centralized mess.
+比特币引进的蓝图也被许多其他加密货币所使用，包括以太坊。 基本上复制了基本原理，调整了一些变量(精彩)，并增加了一个完整的虚拟机，即EVM。 就像一个建筑蓝图，对一个真正的世界大厦的结构进行编码。 去掉一个或多个重要的行经似乎是不明智的，这种行经不会防止结构倒塌成为一个集中的行经。
 
-If a project wants to survive long term, it must have enough of these necessary incentive structure struts to be properly balanced. If Bitcoin is a sturdy tripod made of miners, developers and traders, by sawing off one of these legs, for example, by switching to Proof of Stake and firing the miners, the result is a two-legged barstool; one that can be straddled for a while, but even the faintest breeze will cause it to become a dangerous liability.
+如果一个项目想要长期生存下去，它必须具备这些必要的激励结构的足够数量，以便适当地平衡兼顾。 如果比特币是由矿工、开发商和交易商组成的一个坚固的三角形，可以在其中一个腿上锯下来， 例如，切换到Stake的证明并向矿工开火，结果是一只双腿大棒； 有些人可能会被困一段时间，但即使是最弱的呼吸，也会使它成为一种危险的赔偿责任。
 
-### Decentralization Maximalism
+### 分散式最大化
 
-_Decentralization maximalism_ is the only known mechanism to shore off the forces of centralization long term. It is not a predefined set of rules but a general philosophy or way of thinking that seeks to reduce the number of central points of failure throughout a system.
+_权力下放最大化_ 是唯一一个已知的长期中央集权的机制。 它不是一套预先确定的规则，而是一种一般性的哲学或思维方式，力求减少整个系统失败的中心点数目。
 
-It demands that decentralization be pursued holistically in all areas, in protocol's design, and the social layer, where possible. The goal is to make the protocol secure from take-over and the social layer secure from capture. Satoshi Nakamoto being anonymous and going silent is the classic example of this philosophy being applied to the Bitcoin project, the success of which is wise to emulate.
+它要求在所有领域、在议定书的设计中以及在可能的情况下在社会层面全面实行权力下放。 其目标是使协议不被接管，社会层面不被抓获。 Satoshi Nakamoto是匿名和静音的典型例子，这种哲学正在应用于比特币项目。 它的成功是明智的效仿。
 
-Where it makes sense, by definition, this approach demands no compromise. Even the smallest of sacrifices, infractions, or exceptions should be, unless entirely unavoidable with some overall worthwhile trade-off in the context of known stopping criteria, intolerable. As centralization is difficult to get rid of, it typically accumulates over time and will pile up until the system becomes captured in one way or another.
+根据定义，只要这种做法有意义，就不需要任何妥协。 即使是最起码的牺牲、违法行为或例外情况，也应当是最起码的。 除非在已知的停止标准范围内完全不可避免地进行一些总体上有价值的权衡，否则是不能容忍的。 由于中央集权很难消除， 它通常随着时间的推移而累积，堆积到系统以某种方式捕获为止。
 
-Whatever the crossroad, _decentralization maximalism_ requires eternal vigilance and the knowledge that systems naturally tend towards centralization, so every decision made must consider the cost paid in centralization debt, to keep the system debt-free long term.
+无论交叉路口如何， _最大程度的权力下放_ 要求永远保持警惕，并且了解系统自然趋向于集中化的情况。 因此，作出的每一项决定都必须考虑到集中债务所支付的费用，使该制度保持长期免债。
 
-## Onward
+## 向导
 
-If humanity wishes to avoid another dark age, it must embrace systems that can resist the corrupt forces threatening to capture blockchain technology's future. Only systems that strive for _decentralization maximalism_ can achieve this, but of all blockchain projects that exist today, only a handful recognize this requirement.
+如果人类希望避免另一个黑暗的时代，它就必须接受能够抵制威胁占领区块链技术未来的腐败势力的系统。 只有努力实现 _分散最大化_ 的系统才能实现这个目标。 但在今天存在的所有区块链项目中，只有少数几个项目承认了这个要求。
 
-The innovations that Ethereum brought to the world in the form of a Turing Complete Smart Contract Platform provide a great leap forward in terms of the utility and potential of blockchain uses cases, but as evidenced The DAO Fork and the switch to Proof of Stake, the direction the project is being taken makes it susceptible to capture and unable to achieve _Sovereign Grade Censorship Resistance_.
+以Ting Complete Smart Contract Platform 给世界带来的创新，为区块链使用案例的效用和潜力提供了巨大的飞跃。 但正如所证明的那样，DAO Fork 和切换到利益证明， 项目的方向使得它很容易抓住并无法实现 _主权等级审查抗性_。
 
-In the not too distant future, as attacks against blockchains ramp up, this need will be all too clear. As one by one, so-called decentralized projects reveal their true colors and succumb to corruption in the form of capture by special interests. As a result, only the genuinely decentralized will remain.
+在不太遥远的将来，随着对区块链的攻击激增，这种需要将是非常清楚的。 所谓的分散化项目逐一揭示了其真正的颜色，并以特别利益集团抓获的形式屈从于腐败。 因此，只有真正的权力下放才会继续存在。
 
-By combining the technology of Ethereum with the philosophy of Bitcoin, Ethereum Classic provides a secure, multipurpose, decentralized blockchain, and a free, fair and flourishing alternative to what might be a grim and centralized future.
+通过将以太坊技术与比特币哲学相结合，埃瑟姆经典提供了一个安全、多用途的方法。 分散的区块链和一个自由、公平和繁荣的替代可能是严酷和集中的未来。
