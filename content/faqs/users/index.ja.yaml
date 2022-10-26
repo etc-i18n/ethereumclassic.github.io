@@ -1,0 +1,52 @@
+title: ユーザーに関するよくある質問
+seo: よく寄せられる質問 Ethereum Classicを日々使用してヘルプを探している人のための質問。
+info: ここで質問の答えが見つかりませんか？ETCコミュニティ [discord](https://etherumclassic.org/discord) サーバーで質問してみてください。
+__contribute: true
+description: ETCを送受信したい場合は、Ethereum Classicにデプロイされたアプリケーションの1つを使用してください。 安全に使用する方法を心配しているか、このページはあなたのためです。
+items:
+  questions:
+    items:
+      comparison:
+        question: イーサリアム(ETH)と同じ方法でEthereum Classic(ETC)を使用できますか?
+        answer: |
+          はい、Ethereum Classicは、Ethereumとほぼ同じ方法でエンドユーザーに動作します。 あなたが使用している財布、アプリケーション、交換またはその他のサービスがClassic をサポートしていることを確認する必要があります。
+
+          Ethereum ClassicでMetaMaskを使用できます。
+      metmask:
+        question: MetaMaskでETCを使用するにはどうすればいいですか?
+      explorers:
+        question: Ethereum Classicトランザクションを表示するにはどうすればよいですか?
+        answer: |
+          最も人気があり、機能的なEthereum Classicエクスプローラは [BlockScout](https://blockscout.com/etc/mainnet/)ですが、format@@1(/network/explorers)セクションにはいくつかの選択肢があります。
+      exchange:
+        question: ETCはどのように入手できますか？
+        answer: |
+          Ethereum Classicは、ほぼすべての主要な暗号通貨 [exchange](/services/exchanges)に記載されています。 法定通貨でETCを購入したり、他の暗号通貨を取引することができます。 [exchange]合理的にモダンなグラフィックカードをお持ちの場合は、
+
+          自分で [mine](/mining)することもできます。
+      wallets:
+        question: Ethereum Classicではどのウォレットをお勧めしますか?
+        answer: |
+          ご使用の場合によっては、さまざまな種類のウォレットがあります。詳細については、 [wallets](/services/wallets) セクションをご覧ください。
+      apps:
+        question: Ethereum Classicネットワーク上で実行されているアプリは何ですか?
+        answer: |
+          一元化された取引所、DEX、DeFi、NFT、クロスチェーンブリッジなどのすべてがあります。詳細については、 [services](/services) セクションをご覧ください。
+      defi:
+        question: Ethereum Classicにはデファイはありますか?
+        answer: |
+          そうです。小さく成長している分散型金融エコシステムは、Ethereum Classicに存在します。アップデートについては [finance](/services/apps/finance)アプリカテゴリを参照してください。
+      staking:
+        question: ETCに賭けることはできますか？
+        answer: |
+          いいえ、少なくともプルーフ・オブ・ステークブロックチェーンのようにはありません。 ETCはプルーフ・オブ・ワークブロックチェーンなので、ネットワークにセキュリティを提供するために、ステークではなく、鉱山でのみ使用できます。
+
+          ETCをyeildにローンチできる[lending protocols](/services/apps/finance) がいくつかあります。 しかし、これらはEthereum Classicプロトコル自体の一部ではなく、カウンターパーティーのリスクが伴います。
+      safety:
+        question: Ethereum Classicは51%の攻撃を受けたと聞きました。
+      deposit:
+        question: なぜETCを入金するのにそんなに時間がかかるのですか?
+        answer: |
+          上記の質問で述べたように、51%攻撃への対策として、一部の取引所ではEthereum Classicの非常に長い入金時間があります。 これは、二重支出攻撃の犠牲者であることから交換を守るのに役立ちます。 しかし、ユーザーは、入金を確認するためにもっと時間が必要です。
+
+          ETCのハッシュレートが最近大幅に増加しているため、取引所は入金に必要な確認数を減らす可能性があります。
