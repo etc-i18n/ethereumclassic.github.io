@@ -1,21 +1,157 @@
+title: ウォレット
+seo: ETCを保護するためのウェブウォレット、拡張機能、ソフトウェアウォレット、ハードウェアウォレット、その他の方法。
 items:
   web:
+    title: ウェブウォレット
+    description: これらのWeb3ウォレットは、Webページを使用してアクセスできます。 大量のセキュリティを確保するために使用されるべきではありませんが、ダウンロードなしでETCと簡単にやり取りできます。
     items:
+      MyCrypto:
+        name: MyCrypto
       MyEtherWallet:
+        name: MyEtherWallet
         __primary: true
+      Portis:
+        name: Portis
+      Squarelink:
+        name: スクエアリンク
   browsers:
+    title: 統合されたブラウザウォレット
+    description: これらのWeb3ウォレットはWebブラウザに統合されています。 通常、ブラウザでEthereum Classicのdappsとシームレスにやり取りできるようにするために、アカウント情報をWebサイトに注入します。
     items:
+      Brave:
+        name: ブレイブ
+      MathWallet:
+        name: MathWallet
       MetaMask:
+        name: メタマスク
         __primary: true
+      Nifty Wallet:
+        name: Nifty ウォレット
+      Opera:
+        name: Opera
+      SimpleHold Wallet:
+        name: シンプルホールドウォレット
+      TokenPocket:
+        name: TokenPocket
   hardware:
+    title: ハードウェアウォレット
+    description: ハードウェア財布は、長期保存用に設計された安全な財布です。
     items:
+      Bitski:
+        name: Bitski
+      CoolBitX:
+        name: CoolBitX
+      Ellipal:
+        name: Ellipal
+      HTC Exodus:
+        name: HTC Exodus
+      KeyPal:
+        name: KeyPal
       Ledger:
+        name: Ledger
         __primary: true
+      Parity Signer:
+        name: パリティ署名
+      SafePal:
+        name: SafePal
+      Signatory Client:
+        name: 署名クライアント
       Trezor:
+        name: Trezor
         __primary: true
   software:
+    title: ソフトウェアウォレット
+    description: ソフトウェアウォレットは、短期ストレージ用に設計されたデスクトップまたはモバイルデバイスです。
     items:
+      ABRA:
+        name: ABRA
+      Alpha Wallet:
+        name: アルファウォレット
+      AToken:
+        name: AToken
+      Atomic Wallet:
+        name: アトミックウォレット
+      BTCPOP:
+        name: BTCPOP
+      Button Wallet:
+        name: ボタンウォレット
+      Cobo:
+        name: Cobo
+      Coin Wallet:
+        name: コインウォレット
       Coinbase Wallet:
         __primary: true
+        name: Coinbase ウォレット
+      Coinomi:
+        name: Coinomi
+      Cryptonator:
+        name: Cryptonator
+      Edge:
+        name: エッジ
+      Emerald Wallet:
+        name: エメラルドウォレット
+      Ethos:
+        name: Ethos
+      eToro Wallet:
+        name: eToro Wallet
+      Evercoin:
+        name: Evercoin
+      Exodus:
+        name: Exodus
+      Guarda:
+        name: Guarda
+      HubrisOne:
+        name: HubrisOne
+      Huobi Wallet:
+        name: Huobi Wallet
+      Hebe Wallet:
+        name: Hebe ウォレット
+      Infinito Wallet:
+        name: Infinitoウォレット
+      Jaxx Liberty:
+        name: Jaxx Liberty
+      Mantis Wallet:
+        name: マンティスウォレット
+      MathWallet:
+        name: MathWallet
+      Midas Protocol:
+        name: Midas Protocol
+      Mixin Messenger:
+        name: MixinMessenger
+      Now Wallet:
+        name: 今すぐウォレット
+      Ownbit:
+        name: Ownbit
+      TokenPocket:
+        name: TokenPocket
+      Tokenview:
+        name: トークンビュー
       Trust Wallet:
+        name: ウォレットを信頼する
         __primary: true
+      Trustee Wallet:
+        name: Trusteeウォレット
+      Zelcore Wallet:
+        name: Zelcore ウォレット
+      ZenGo:
+        name: ZenGo
+  other:
+    title: その他のウォレット商品
+    description: これらの製品は、リカバリシードストレージのような暗号ウォレットに無料です。
+    items:
+      BillFodl:
+        name: BillFodl
+      Blockplate:
+        name: ブロックプレート
+      ColdTi:
+        name: ColdTi
+      Crypto Key Stack:
+        name: 暗号キースタック
+      CryptoSteel:
+        name: CryptoSteel
+      CRYPTOTAG:
+        name: CRYPTOTAG
+      Hodlinox:
+        name: Hodlinox
+      Steely:
+        name: Steely
