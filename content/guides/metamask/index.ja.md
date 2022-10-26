@@ -1,130 +1,130 @@
 ---
-title: Using MetaMask with ETC
+title: ETCでメタマスクを使用する
 date: 2021-03-02
 updated: 2022-07-05
 author: Donald McIntyre, Etherplan
-seo: A step-by-step guide covering how to use MetaMask with Ethereum Classic to send ETC and interact with decentralized applications.
-info: This article was [created by Etherplan](https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/). For more Ethereum Classic tutorials, theory, and cryptocurrency concepts, please check out [etherplan.com](https://etherplan.com).
+seo: Ethereum ClassicとMetaMaskを使用してETCを送信し、分散型アプリケーションと対話する方法を説明するステップバイステップガイド。
+info: この記事は Etherplan(https://etherplan.com/2021/03/02/how-to-connect-metamask-to-ethereum-classic/15512/)によって作成されました。 より多くのEthereum Classicのチュートリアル、理論、および暗号通貨の概念については、 [etherplan.com](https://etherplan.com)をご覧ください。
 contributors:
   - DonaldMcIntyre
 ---
 
-import AddNetwork from '../../../src/components/addNetwork.js'
+import AddNetwork from '../../src/components/addNetwork.js'
 
-**⚠️ Update**  
-You can now easily add ETC to MetaMask by clicking "Connect-Wallet" on ChainList:
+**⚠️ 更新**  
+ChainListの「Connect-Wallet」をクリックすると、ETCをMetaMaskに簡単に追加できるようになりました:
 
 <AddNetwork />
 
-You can find this link at the bottom of every page on this website.
+このリンクは、このウェブサイトのすべてのページの下部にあります。
 
 ---
 
-[MetaMask](https://metamask.io) can be used as a wallet to manage your ETC and Tokens, as well as interact with applications that support it. This post explains how to start using MetaMask with the Ethereum Classic (ETC) network.
+[MetaMask](https://metamask.io) は、ETCとトークンを管理したり、それをサポートするアプリケーションと対話するためのウォレットとして使用できます。 この記事では、Ethereum Classic(ETC)ネットワークでMetaMaskの使用を開始する方法を説明します。
 
-You may also consider [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1), a fork of MetaMask that supports ETC out of the box.
+ETCをサポートするMetaMaskのフォークである [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?ucbcb=1)も考慮できます。
 
-## 1. Log Into MetaMask
+## 1. メタマスクにログインする
 
-The first step is to log in to unlock your MetaMask.
+最初のステップは、ログインしてメタマスクのロックを解除することです。
 
-![Step 1](./01.png)
+![ステップ 1](./01.png)
 
-## 2. View Initial Screen
+## 2. 初期画面を表示
 
-You will see your normal initial screen. In this case the default network is Ethereum (ETH) and your account will be shown as usual. As you use other networks, they will show as the default when you unlock your MetaMask if they were the last ones used.
+通常の初期画面が表示されます。 この場合、デフォルトのネットワークはEthereum(ETH)で、アカウントは通常通り表示されます。 他のネットワークを使用している場合、MetaMaskのロックを解除するとデフォルトとして表示されます。
 
-In my case, it shows Ethereum as the initial network, and I have a zero balance in my ETH account `0x48c1...EfF3`.
+私の場合、それは初期のネットワークとしてEthereumを示し、私は私のETHアカウントにゼロバランスを持っています `0x48c1...EF3`.
 
-![Step 2](./02.png)
+![ステップ 2](./02.png)
 
-## 3. Open the Networks Dropdown Menu
+## 3. ネットワークのドロップダウンメニューを開く
 
-The next step is to open the networks dropdown menu. You can do this by clicking on the bar where you see the default network.
+次のステップは、ネットワークのドロップダウンメニューを開くことです。 これを行うには、デフォルトのネットワークを表示するバーをクリックします。
 
-As it may be seen above, the default list of networks is the Ethereum mainnet and its most popular testnets.
+上記のように、ネットワークのデフォルトのリストは、イーサリアムのmainnetとその最も人気のあるtestnetです。
 
-The “Local Host 8545” would be a connection to an Ethereum node if you were running one in your machine.
+マシンで実行している場合、「ローカルホスト8545」はEthereumノードとの接続になります。
 
-“Custom RPC” is the option to add custom networks, in this case ETC.
+「カスタムRPC」は、この場合ETCのカスタムネットワークを追加するオプションです。
 
-“RPC” stands for “remote procedure call”, which is the term for the protocol machines use for programs to call other programs in remote machines.
+「RPC」は「リモートプロシージャコール」の略で、プロトコルマシンがリモートマシンで他のプログラムを呼び出すために使用することを意味します。
 
-![Step 3](./03.png)
+![ステップ 3](./03.png)
 
-## 4. Select Custom RPC
+## 4. カスタムRPCを選択
 
-So, the next step is to click on “Custom RPC”.
+したがって、次のステップは「カスタムRPC」をクリックすることです。
 
-![Step 4](./04.png)
+![ステップ 4](./04.png)
 
-## 5. View the New Network Form
+## 5. 新しいネットワークフォームを表示
 
-After selecting “Custom RPC” you will see the form to add a network. It has a security message at the top and five options with empty fields to enter the new network you want to use:
+「カスタムRPC」を選択すると、ネットワークを追加するフォームが表示されます。 上部にセキュリティメッセージが表示され、空のフィールドがある5つのオプションが表示され、新しいネットワークを使用します。
 
-- Network Name: The name of the network you want to add.
-- New RPC URL: A URL for the network RPC you want to add.
-- Chain ID: The ID to send and direct transactions to the network you want to add.
-- Currency Symbol (optional): The currency symbol of the network you want to add. For example, “ETH” is the symbol for Ethereum, and “ETC” is the symbol for Ethereum Classic.
-- Block Explorer URL (optional): MetaMask has links to blockchain explorers per network to check account history, new transactions sent, and balances on them, so here you would add a block explorer for the network you want to add.
+- ネットワーク名: 追加するネットワークの名前。
+- 新しいRPCURL:追加したいネットワークRPCのURL。
+- チェーン ID: 追加したいネットワークへのトランザクションの送信とダイレクト転送を行うID。
+- 通貨記号 (オプション): 追加するネットワークの通貨記号。 例えば、「ETH」はEthereumのシンボルで、「ETC」はEthereum Classicのシンボルです。
+- ブロックエクスプローラURL(オプション):MetaMaskには、アカウントの履歴を確認するためにネットワークごとのブロックチェーンエクスプローラへのリンクがあります。 新しいトランザクションが送信され、それらの上に残高があります。ここでは、追加したいネットワーク用のブロックエクスプローラを追加します。
 
-![Step 5](./05.png)
+![ステップ 5](./05.png)
 
-## 6. Enter the Ethereum Classic Network Information
+## 6. イーサリアムクラシックネットワーク情報を入力
 
-The next step, is to add Ethereum Classic’s specific information. Below is the network data I used:
+次のステップは、Ethereum Classicの特定の情報を追加することです。 以下は私が使用したネットワークデータです:
 
-- Network Name: `Ethereum Classic`
+- ネットワーク名: `Ethereum Classic`
 - New RPC URL: `https://www.ethercluster.com/etc`
-- Chain ID: `61`
-- Currency Symbol (optional): `ETC`
-- Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
+- チェーン ID: `61`
+- 通貨記号 (オプション): `ETC`
+- Block Explorer URL (オプション): `https://blockscout.com/etc/mainnet/`
 
 For the “RPC URL” I used the one provided for this purpose by the [ETC Cooperative](https://etccooperative.org/), which is from a product they built called [Ethercluster](https://ethercluster.com/)
 
-_[Editor Note] Ethercluster is now operated by [RIVET](https://rivet.cloud/). You can find more RPC Endpoints in the [network](/network/endpoints) section._
+_[Etherclusterは](https://rivet.cloud/) RIVET format@@2によって運用されています。 [ネットワーク](/network/endpoints) セクションには、より多くの RPC エンドポイントがあります。_
 
-The “Chain ID” must be “61” because that is the specific ID of the Ethereum Classic network for sending ETC transactions by wallets and nodes to the operating blockchain.
+「チェーン ID」は「61」でなければなりません。なぜなら、これは、ウォレットとノードでETCトランザクションをオペレーティングブロックチェーンに送信するためのイーサリアム・クラシックネットワークの特定のIDだからです。
 
-Although the “symbol” and “block explorer URL” are optional, I recommend using “ETC” as the symbol because that is the widely known market symbol of the network, and BlockScout as the blockchain explorer because that is the one I usually use (but you can add your preferred one!).
+「シンボル」と「ブロックエクスプローラのURL」はオプションですが。 ネットワークの広く知られているマーケットシンボルであるため、「ETC」をシンボルとして使用することをお勧めします。 ブロックチェーンエクスプローラとしてのBlockScoutは、私が普段使っているものだからです(しかし、あなたの好みのものを追加することができます!)。
 
-Click “save” to add ETC to MetaMask.
+「保存」をクリックしてETCをMetaMaskに追加します。
 
-![Step 6](./06.png)
+![ステップ 6](./06.png)
 
-## 7. View Ethereum Classic in the Networks Dropdown Menu
+## 7. イーサリアムクラシックをネットワークドロップダウンメニューで表示
 
-Once ETC is added, you will see in the networks dropdown menu that it is added to the list of networks.
+ETCが追加されると、ネットワークのドロップダウンメニューでネットワークのリストに追加されることが表示されます。
 
-![Step 7](./07.png)
+![ステップ 7](./07.png)
 
-## 8. You May View Your Same Account but on ETC
+## 8. ETCで同じアカウントを閲覧することができます。
 
-If you go to your account, you will notice that it is the same as your ETH account. In my case, it is the same `0x48c1...EfF3` account.
+アカウントにアクセスすると、ETHアカウントと同じであることがわかります。 私の場合は、同じ `0x48c1...EF3` アカウントです。
 
-This is because both ETH and ETC use the same account format, so accounts on Ethereum may also be used in Ethereum Classic.
+これは、ETHとETCの両方が同じアカウント形式を使用するため、EthereumのアカウントもEthereum Classicで使用することができます。
 
-In fact, you may remember that I had a zero balance in my ETH account, but now a balance of 1 ETC may be seen in the same account, but on Ethereum Classic. This is because I sent 1 ETC to this account in the Ethereum Classic network for this demonstration.
+実際、ETHアカウントにはゼロ残高があったことを覚えているかもしれません。 しかし今では、1 ETCのバランスが同じアカウントで見られるかもしれませんが、Ethereum Classicで見ることができます。 これは、このデモのためにEthereum Classicネットワーク内のこのアカウントに1ETCを送信したためです。
 
-Note also that the ETC network is now the one showing in the networks bar, and the “ETC” symbol is now used to show the balance.
+なお、ETCネットワークは現在ネットワークバーに表示されているものであることに注意してください。 そして、「ETC」記号が残高の表示に使用されるようになりました。
 
-![Step 8](./08.png)
+![ステップ 8](./08.png)
 
-## 9. You May Move Back to Ethereum With the Same Account
+## 9. 同じアカウントでEthereumに戻ることができます
 
-So, as both networks use the same account format you may move back to the Ethereum mainnet and you will be able to see your ETH account with the same number again.
+したがって、両方のネットワークが同じアカウント形式を使用しているため、Ethereumメインネットに戻ることができ、同じ番号でETHアカウントを再度見ることができます。
 
-![Step 9](./09.png)
+![ステップ 9](./09.png)
 
-## 10. You May Move Back to Ethereum Classic With the Same Account
+## 10. 同じアカウントでEthereum Classicに戻ることができます
 
-To use the ETC network, simply select Ethereum Classic again in the networks dropdown menu where you will see your ETC balances again.
+ETCネットワークを使用するには、ETC残高が再び表示されるネットワークドロップダウンメニューでEthereum Classicをもう一度選択します。
 
-![Step 10](./10.png)
+![ステップ 10](./10.png)
 
 //
 
-I wish you success investing in and using ETC!
+私はあなたがETCに投資し、使用する成功を願っています!
 
 ---
 
