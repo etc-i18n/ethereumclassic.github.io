@@ -1,7 +1,7 @@
 ---
 title: 工作证明
 updated: 2022-02-22
-disclaimer: opinion
+disclaimer: 意 见
 seo: 为什么Stake证明并不是希望带来巨大变化的区块链的适当解决方案的论点， 以及为什么工作证明是唯一能够做到的已知协商一致机制。
 ---
 
@@ -108,7 +108,7 @@ Mining, and in turn, Proof of Work, is permissionless, as anyone (or anything) c
 
 Because there are no gatekeepers, Proof of Work consensus mechanisms _can't_ care _how_ hashrate is created, or _who_ contributed. 如果一个链条要保持中立和不被捕获，那么这种质量是必不可少的，因为如果确实存在着守门人。 如果一个链条要保持中立和不被捕获，那么这种质量是必不可少的，因为如果确实存在着守门人。 她们可以基于贡献者的身份或地点拒绝工作。 锁定它们，并通过这样做集中和抓取网络。
 
-Stake系统的证明是 _不是无权限的_ Stake系统的证明是 _不是无权限的_ Stake系统的证明是 _不是无权限的_ The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
+Stake系统的证明是 _不是无权限的_ Stake系统的证明是 _不是无权限的_ Stake系统的证明是 _不是无权限的_ Stake系统的证明是 _不是无权限的_ The only way to acquire currency needed to transact and stake is by _buying_ it from someone who already has said currency; they need _permission_ from someone inside the network to use the network, with existing holders being the gatekeepers.
 
 从某种意义上讲，所有利益攸关网络的验证已经是 _软捕获的_， 作为PoS硬币持有者，可以集体决定(或被胁迫)停止与某一类别或管辖区的用户进行交易， 而且这些用户无论愿意支付何种价格，都无法在网络上进行交易。
 
@@ -140,7 +140,7 @@ This situation is great news for large stakers, but terrible for users who have 
 
 如果攻击者获得33%的有关资产，不一定不到所有硬币的33%，那么利益攸关者链的证据就会永久中断。
 
-> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%. So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%. 虽然每个PS都有不同之处，但通常只有33%能够阻止这一链条，因此无法达成共识并产生新的区块， 不要实际执行双重支出。 为此，您需要花66%的时间。
+> So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%. So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%. 虽然每个PS都有不同之处，但通常只有33%能够阻止这一链条，因此无法达成共识并产生新的区块， 不要实际执行双重支出。 So if the average PoS protocol has 70%+ of it’s tokens staked, you’d need to acquire ~25% of the protocol’s total outstanding tokens to launch an attack. Although every PoS is different, 33% is generally only enough to halt the chain so it can’t come to consensus and produce new blocks, not to actually perform a double spend. For that you’d need a whopping 66%. 虽然每个PS都有不同之处，但通常只有33%能够阻止这一链条，因此无法达成共识并产生新的区块， 不要实际执行双重支出。 为此，您需要花66%的时间。
 > 
 > - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
@@ -152,7 +152,7 @@ Proof of Stake's _33% attack_ is a much bigger problem than Proof of Work's _51%
 
 While 51% attacks in Proof of Work systems can be damaging, they only really directly affect those who are exposed to double spends; mostly exchanges, and not long term holders who do not transact frequently. In contrast, 33% attacks can halt the chain in perpetuity on PoS networks. 与此形成对照的是，33%的袭击能够永久性地阻止PoS网络上的这一链路。 与此形成对照的是，33%的袭击能够永久性地阻止PoS网络上的这一链路。
 
-On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain. On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain. 这个故障状态的唯一解决方案是强硬地把攻击者赶走，它会破坏 _代码是法律_， 击败区块链、增加主观性和进一步集中化链的目的。
+On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain. On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain. On PoS chains, once an attacker achieves a certain threshold of stake, the chain can never recover; as the attacker does not need to commit external resources, they cannot be unseated. The only solution to this failure state is hard-forking away the attacker, which breaks _Code is Law_, defeats the purpose of having a blockchain, adds subjectivity, and further centralizes the chain. 这个故障状态的唯一解决方案是强硬地把攻击者赶走，它会破坏 _代码是法律_， 击败区块链、增加主观性和进一步集中化链的目的。
 
 ### 暂无任何问题
 
