@@ -22,6 +22,18 @@ prev: 前の記事
 contributors: "このページは以下のコントリビューターのおかげで存在します："
 allLanguages: すべての言語
 noResults: 結果がありません
+netlify: このサイトは Netlif によって提供されています
+metaMask: ETCをメタマスクに追加
+helpTranslate: このウェブサイトの翻訳を手伝ってETCをサポートしましょう！
+search:
+  box: 検索
+  noResults: 結果がありません...
+  poweredBy: Powered by Algolia
+  generalInfo: 一般情報
+  blogArticles: ブログ記事
+  videos: 動画
+  applications: アプリケーション
+  newsLinks: ニュースリンク
 ##
 ## Announcement Banner
 announcement:
