@@ -38,3 +38,11 @@ intro:
     Bienvenido, y por favor sea invitado a descubrir el pasado, presente y futuro de Ethereum Classic; es principios, propuesta de valor, comunidad, y más - para entender *por qué Clásic*.
   button:
     text: '¿Por qué Clásica?'
+#Headers
+headings:
+  videos:
+    title: Últimos videos
+    button: Todos los videos
+  apps:
+    title: Últimas aplicaciones
+    button: Todas las aplicaciones
