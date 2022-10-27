@@ -5,7 +5,7 @@ contributors:
   - pyskell
   - IstoraMandiri
 updated: 2022-08-25
-disclaimer: opinion
+disclaimer: 意 见
 seo: 根据其历史原则，概述未来发展路线图和以太西姆经典生态系统的决定情况。
 ---
 

@@ -81,7 +81,7 @@ Un DAO (pronunciado "_Dow_ Jones") o "Organización Autonómica Descentralizada"
 
 La Fundación Ethereum, quien recaudó fondos para crear Ethereum, tenía un Director de Comunicaciones que [anunció](https://blog.ethereum.org/2015/07/30/ethereum-launches/) el bloque Génesis de Ethereum y era un [defensor](https://twitter.com/stephantual/status/711874685156376576) de _Code is Law_. Como muchos otros, la CCO de EF vio el brillante futuro prometido por "Construir aplicaciones imparables", de hecho, fue en última instancia su llamamiento a utilizar este término para promover el proyecto Ethereum.
 
-En noviembre de 2015, el ahora antiguo CCO se reunió con algunos programadores y formó una empresa llamada slock.it. Bloqueo. t quería lanzar no solo _un_ DAO, sino _el_ DAO, que se utilizaría como una especie de fondo de capital de riesgo destinado a proyectos Ethereum. Fue una forma de crecer el ecosistema de Ethereum y los rendimientos netos para los inversores, quién depositaría éter en el contrato de DAO a cambio de tokens de DAO, que permitiría votar a favor y obtener beneficios de las inversiones realizadas por la DAO.
+En noviembre de 2015, el ahora antiguo CCO se reunió con algunos programadores y formó una empresa llamada slock.it. t quería lanzar no solo _un_ DAO, sino _el_ DAO, que se utilizaría como una especie de fondo de capital de riesgo destinado a proyectos Ethereum. Fue una forma de crecer el ecosistema de Ethereum y los rendimientos netos para los inversores, quién depositaría éter en el contrato de DAO a cambio de tokens de DAO, que permitiría votar a favor y obtener beneficios de las inversiones realizadas por la DAO.
 
 ### Crononismo de curador
 
@@ -97,7 +97,7 @@ Los intentos de la Fundación Ethereum de distanciarse de la DAO son importantes
 
 En aquella época, muchos veían a la DAO como una inversión "sin riesgo", ya que no sólo tenía comisarios dignos de confianza. pero los inversores podrían retirar sus fondos de La DAO en el futuro a través de un mecanismo "dividido"; Esta otra vez se vized las contribuciones como los inversionistas podían "opt-out" más tarde, pero sólo tenían una oportunidad de "optin" durante la venta inicial de participantes.
 
-Slock.it lanzó The DAO crowdsale en abril de 2016, y el ETH comenzó a entrar, pero pronto hubo señales de que algo no estaba bien. Durante la venta, reloj. t anunció una propuesta de seguridad [](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d), un curador llamó a un [moratorio](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/), y otro destacado curador dio una [advertencia](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447) y se retiró.
+Slock.it lanzó The DAO crowdsale en abril de 2016, y el ETH comenzó a entrar, pero pronto hubo señales de que algo no estaba bien. t anunció una propuesta de seguridad [](https://medium.com/ursium-blog/dao-security-a-proposal-to-guarantee-the-integrity-of-the-dao-3473899ace9d), un curador llamó a un [moratorio](https://hackingdistributed.com/2016/05/27/dao-call-for-moratorium/), y otro destacado curador dio una [advertencia](https://gavofyork.medium.com/why-ive-resigned-as-a-curator-of-the-dao-238528fbd447) y se retiró.
 
 Pero a pesar de estas advertencias, en el momento en que la venta de crowdsale terminó, la DAO había recaudado un increíble valor de 150 millones de dólares en ET, rompiendo todos los récords del mundo para convertirse en la mayor venta de crowdsale de la historia. Esta cantidad de USD puede no sonar asombrosa según las normas actuales, pero era del 14% de toda la ETE, que valdría alrededor de $70 mil millones en el límite de mercado actual (hasta diciembre de 2021, ETH tenía un precio de ~$4.000).
 
@@ -148,8 +148,7 @@ Mientras se desarrollaba el debate de Fork duro, un grupo de nobles hackers de s
 Antes de que se decidiera un Fork Duro, [confirmó](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4ip04w/) que el 70% de los fondos perdidos ya se habían recuperado de forma segura y que se podía realizar un contra-ataque para que el 30% restante se devolviera o se bloqueara en un punto muerto con The DAO Hacker. Ese 30 % restante podría dividirse y repartirse en la perpetración hasta que una de las partes se rindiera.
 
 > Pero incluso si [un tenedor suave o duro] no es implementado, la comunidad puede impedir que el atacante retire su éter  
-> . .  
-> Una cosa es segura. Esta [counter-attack] puede asegurarse de que el atacante nunca obtiene dinero de esto. A partir de ese momento, las negociaciones pueden continuar con el atacante o puede ocurrir que un tenedor duro reembolse todos los tenedores de Token de DAO.
+> . Esta [counter-attack] puede asegurarse de que el atacante nunca obtiene dinero de esto. A partir de ese momento, las negociaciones pueden continuar con el atacante o puede ocurrir que un tenedor duro reembolse todos los tenedores de Token de DAO.
 > 
 > - [Un contador-ataque DAO, Slock.it](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
 
@@ -183,7 +182,7 @@ En respuesta a esta preocupación, los proforquistas fueron desestimados para mi
 
 A medida que se avecinaba la fecha límite de la Organización para la Agricultura y la Alimentación (FAO), el debate rápidamente se convirtió en un argumento extremadamente tóxico alimentado por los intereses financieros y la angustia de los ácaros. La brecha fue tan intensa que ambas partes lanzaron acusaciones de criminalidad y falta de ética. Todas y todas las tácticas se utilizaron para ganar la lucha, que se convirtió en una batalla casi de vida y muerte.
 
-La triste afectación se vio superada por las amenazas de doxxing y otras formas de represalia contra quienes estaban en contra de un tenedor duro. Las llamadas se realizaron por reloj. t para revelar las identidades de quienes se opusieron al Fork Duro, creando efectos escalofriantes e intimidando a prominentes tenedores contra expresarse:
+La triste afectación se vio superada por las amenazas de doxxing y otras formas de represalia contra quienes estaban en contra de un tenedor duro. t para revelar las identidades de quienes se opusieron al Fork Duro, creando efectos escalofriantes e intimidando a prominentes tenedores contra expresarse:
 
 > Estaría MUY interesado en conocer la identificación de cualquier persona que coordine un esfuerzo para oponerme a un fork duro. Mázame [redacted]@slock.it
 > 
@@ -339,7 +338,7 @@ Al horror de muchos pro-tenedores, después de haber desechado su ETC, el salto 
 
 Pero espere un segundo. ¿Qué pasó con esos fondos que Robin Hwood Group aseguró anteriormente? Como recordatorio rápido, Robin Hwood Group ya había conseguido el 70% de los fondos perdidos, ahora en forma de ETC. Para el 30% restante, habían recibido ayuda de la comunidad para adquirir las "llaves controladoras" de los DAO infantiles. Tenían la opción de mantener un punto muerto de divisiones perpetradas con The DAO Hacker.
 
-Sin embargo, después de la bifurcación, Robin Hood Group (RHG) entregó la rueda (y la custodia de la ETC) a un Grupo de Sombreros Blancos (WHG). Quién llamaba a los tiros para White Hat Group exactamente es desconocido, pero los anuncios de WHG estaban siendo publicados por una empresa llamada Bity, el cual resultó ser [asociado](https://archive.is/3nWU0) con bloqueo. t en ese momento.
+Sin embargo, después de la bifurcación, Robin Hood Group (RHG) entregó la rueda (y la custodia de la ETC) a un Grupo de Sombreros Blancos (WHG). Quién llamaba a los tiros para White Hat Group exactamente es desconocido, pero los anuncios de WHG estaban siendo publicados por una empresa llamada Bity, el cual resultó ser [asociado](https://archive.is/3nWU0) con bloqueo.
 
 En el lado clásico de Ethereum de la división, la decisión fue tomada por RHG/WHG _no_ para mantener su lado del punto muerto, y no transfirieron, a pesar de las peticiones, las llaves DAO Niño a algún otro grupo de confianza para continuar el punto muerto en su nombre.
 
@@ -349,7 +348,7 @@ En el lado clásico de Ethereum de la división, la decisión fue tomada por RHG
 
 La manera en que llegaron a esta decisión no se hizo pública, pero solo se puede suponer que fue parcialmente fatiga, y la esperanza de que el Fork Duro significaría la conclusión de la saga, pero también puede haber sido en parte un juego de teoría de juegos, donde el objetivo no era dar a ETC ninguna legitimidad.
 
-La estrategia de no mostrar ningún preparado fue la mejor manera de reducir las posibilidades de que ocurra una división en cadena en primer lugar. en teoría, actuar como si la cadena inolvidable desapareciera hace que sea más probable que desaparezca, ya que se percibiría que se abandonaría. Se suponía que un Hard Fork era _la manera_ de hacer que los DAO Token Holders enteros sean enteros. y tomar precauciones o perseguir los fondos de la CET socavaría las justificaciones recientes para su aplicación.
+La estrategia de no mostrar ningún preparado fue la mejor manera de reducir las posibilidades de que ocurra una división en cadena en primer lugar. Se suponía que un Hard Fork era _la manera_ de hacer que los DAO Token Holders enteros sean enteros. y tomar precauciones o perseguir los fondos de la CET socavaría las justificaciones recientes para su aplicación.
 
 Sea cual fuere la intención, se permitió a The Hacker's Child DAO alcanzar la fecha límite sin ser redividida, y esta falta de acción significó efectivamente entregar alrededor de 3. millones de ETC a The DAO Hacker, que todavía está bajo su [custodia](https://receipt.emerald.cash/balance/0x5e8f0e63e7614c47079a41ad4c37be7def06df5a) hoy.
 
@@ -428,7 +427,7 @@ Para EthereumTM, los principales problemas permanecen independientemente de si e
 
 ![¿Cuándo deben detenerse las aplicaciones?](./code-isnt-law.jpg)
 
-Me gusta Wile E. Coyote corriendo desde el acantilado, es sólo una cuestión de tiempo para que el repo-man de preguntas sin respuesta venga golpeando en forma de futuras opciones a nivel de DAO Fork. La actual ambigüedad estratégica de EthereumTM hacia _Código es Ley_ puede servir para apaciguar intereses temporalmente, pero en el futuro simplemente causará problemas mucho más significativos a lo largo del camino. al tener una respuesta clara a la pregunta de _Código es Ley_ salvará un montón de problemas.
+Coyote corriendo desde el acantilado, es sólo una cuestión de tiempo para que el repo-man de preguntas sin respuesta venga golpeando en forma de futuras opciones a nivel de DAO Fork. La actual ambigüedad estratégica de EthereumTM hacia _Código es Ley_ puede servir para apaciguar intereses temporalmente, pero en el futuro simplemente causará problemas mucho más significativos a lo largo del camino. al tener una respuesta clara a la pregunta de _Código es Ley_ salvará un montón de problemas.
 
 En contraste con Ethereum Classic, en EthereumTM, la pregunta "¿Cuándo deben detenerse las aplicaciones?" sigue sin respuesta. Por ejemplo, cualquier proceso que determine si los forks deben ocurrir en EthereumTM ha decidido que las víctimas de los ataques de repetición causados por el DAO Hard Fork no deben obtener otro Hard Fork para hacerlos _enteros_ Por no hablar de todos los principales fallos del Contrato Inteligente y Hacks DeFi. Probablemente, permitir _estas_ pérdidas es un nivel de sociopatía aceptable para la brigada _Código no es Ley_ brigada.
 

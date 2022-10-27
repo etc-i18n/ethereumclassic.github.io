@@ -27,7 +27,7 @@ Por lo general, implementar nuevas características requiere un apoyo abrumador 
 
 En lugar de una mentalidad de "moverse rápido y romper cosas", que puede causar daños financieros si las cosas salen mal, las actualizaciones significativas suelen ser mullidas, refinado y probado durante largos periodos antes de ser implementado en el protocolo para que se pueda alcanzar el consenso _antes_ de una bifurcación.
 
-Además, hay que tener cuidado para garantizar que, en la medida de lo posible, eso sea posible. los contratos que fueron implementados ya en 2015 pueden operar de manera fidedigna y que _Código es Ley_ se mantiene.
+los contratos que fueron implementados ya en 2015 pueden operar de manera fidedigna y que _Código es Ley_ se mantiene.
 
 Esto no significa que la CET sea incapaz de innovar de forma oportuna. Un ejemplo es la bifurcación de [Thanos](/knowledge/forks#thanos), que aprovechó el aumento del tamaño de Ethereum del DAG barrido de seguridad permitiendo que una categoría de GPUs de otro modo abandonada minara ETC, que era una mejora de ganancia fácil para Ethereum Classic.
 

@@ -12,8 +12,6 @@ contributors:
 **⚠️ 更新**  
 ChainList の「Connect-Wallet」をクリックすると、ETC を MetaMask に簡単に追加できるようになりました:
 
-<AddNetwork />
-
 このリンクは、このウェブサイトのすべてのページの下部にあります。
 
 ---

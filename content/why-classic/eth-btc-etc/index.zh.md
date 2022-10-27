@@ -1,7 +1,7 @@
 ---
 title: ETH + BTC = ETC
 updated: 2022-02-22
-disclaimer: opinion
+disclaimer: 意 见
 seo: 通过将以太坊的技术与比特币的哲学和安全结合起来， 只有以太坊经典才能提供一个真正分散的智能合同平台。
 ---
 
@@ -32,7 +32,7 @@ seo: 通过将以太坊的技术与比特币的哲学和安全结合起来， �
 
 Ethereum Classic, even more so than Bitcoin itself, exists as an explicit reminder about the importance of decentralist values. There were many who didn't understand their significance at the time, but many others saw the truth that decentralization was the very point, not just an annoying obstacle to overcome. 当时有许多人不理解他们的重要性。 但其他许多人则认为，权力下放本身是问题的关键，而不仅仅是需要克服的烦人的障碍。
 
-Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed. 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。
+Since the chain split, the design choices and philosophy of Ethereum Classic have come to recognize the genius decisions made when constructing the original Bitcoin protocol. As much as possible, ETC emulates this success in the pursuit of decentralism and the real world achievements that followed. 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。 考试和测验委员会在追求权力下放和随后取得的真正世界成就方面尽可能效仿这一成功。
 
 ## 纯洁教概念 2.0
 
@@ -40,7 +40,7 @@ Since the chain split, the design choices and philosophy of Ethereum Classic hav
 
 As explored [earlier](/why-classic/genesis#the-immaculate-conception), Ethereum Classic's creation story is almost certainly impossible to recreate or happen by accident ever again. Not only were the events leading up to its birth extremely improbable, but ETC's very existence now serves as a warning to other projects, which are likely to avoid similar controversial hard forks, or at least only do them while mitigating the possibility of a chain split. 不仅导致其诞生的事件极不可能发生，而且埃塔的存在现在也是对其他项目的警告。 有可能避免类似的有争议的硬叉，或至少只是在减少链分的可能性的同时这样做。
 
-> 没有市场，因而也没有货币价值，所以从一开始就没有因为利润刺激而受到损害。     
+> 没有市场，因而也没有货币价值，所以从一开始就没有因为利润刺激而受到损害。      
 > ...  
 > 其他硬币不属于这种情况[: 除ETC]； 所有发射者都是追求利润， 得到了寻找点位的投资者的支持，并且自然地在眼前也要翻转自己的仓位的嘴上发火烧。
 > 

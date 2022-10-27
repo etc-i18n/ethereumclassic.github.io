@@ -1,6 +1,7 @@
 ---
 updated: 2022-02-22
 contribute: true
+disclaimer: 验证
 title: 事件
 seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all! ETC首脑会议和每周社区呼吁欢迎所有人！ ETC首脑会议和每周社区呼吁欢迎所有人！
 contributors:

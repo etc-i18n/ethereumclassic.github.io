@@ -3,7 +3,7 @@ title: 基础知识
 seo: Ether is Ethereum Classic's native token is a cryptocurrency traded on digital currency exchanges under the ticker symbol ETC. Ether is created as a reward to network nodes for a process known as mining, which validates computations performed on Ethereum Classic's EVM. Ether 是作为对网络节点的奖励创建的，这种过程被称为采矿，它验证了以太空类的EVM进行的计算。
 license: 抄送
 contributors:
-  - developerkevin
+  - 开发人员
   - IstoraMandiri
   - TheEnthusiasticAs
   - gitr0n1n
@@ -21,7 +21,7 @@ In 2016, after a [controversial hard fork](/why-classic/genesis), a new version 
 
 Ethereum Classic is an open source, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions executed on a public Ethereum Virtual Machine (EVM). The Ethereum Classic network consists of developers, miners, businesses, and end user. 它支持经修改的纳卡莫托共识的版本，通过在一个公开的Etherum虚拟机上执行的以交易为基础的状态转换。 它支持经修改的纳卡莫托共识的版本，通过在一个公开的Etherum虚拟机上执行的以交易为基础的状态转换。 以太坊经典网络由开发者、矿工、企业和终端用户组成。
 
-- [What is Ethereum Technology? A Beginner's Explanation in Plain English 英文原始语的解释 英文原始语的解释 英文原始语的解释](https://youtu.be/jxLkbJozKbY)
+- [What is Ethereum Technology? A Beginner's Explanation in Plain English 英文原始语的解释 英文原始语的解释 英文原始语的解释 英文原始语的解释](https://youtu.be/jxLkbJozKbY)
 - [分散Etherum的 Vitalik Buterin 的一切内容 | 破坏SF 2017](https://youtu.be/WSN5BaCzsbo)
 
 ### 什么是区块链？
@@ -47,7 +47,7 @@ Gas is internal transaction pricing mechanism, is used to mitigate spam and allo
 - [Ether vs Gas differ | 程序员解释](https://youtu.be/cZ0rYWJzeow)
 - [天然气价格和交易编号](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/gYK5HwZjAHZuoZXb5FcwcKbGedfX7MbCNt7Dei6oyeM)
 
-### Programming Smart Contracts on Ethereum Classic is identical to how it is done on ETH, as ETC maintains compatibility with the Ethereum EVM. Any contract written for Ethereum can be deployed to ETC. 为以太坊写的任何合同都可以部署到ETC。
+### Ether is Ethereum Classic's native token is a cryptocurrency traded on digital currency exchanges under the ticker symbol **ETC**. Ether is created as a reward to network nodes for a process known as mining, which validates computations performed on Ethereum Classic's EVM. Ether 是作为对网络节点的奖励创建的，这种过程被称为采矿，它验证了以太空类的EVM进行的计算。
 
 了解历史是很重要的。 To understand the relationship it is important to know the history. It is especially important to be familiar with the [DAO attack](http://www.coindesk.com/understanding-dao-hack-journalists) and how the Ethereum Foundation responded to it.
 
@@ -90,7 +90,7 @@ On 11 December 2017, the total supply of Ether (ETC) on Ethereum Classic was har
 
 - [智能合同入门指南](https://youtu.be/RZXJMdAk5zk)
 - [智能合同 - 简单解释](https://youtu.be/ZE2HxTmxfrI)
-- [Smart Contracts - What Are They? (Plus Examples) (加示例) (加示例) (加示例)](https://youtu.be/DhNyD8Cj0dg)
+- [Smart Contracts - What Are They? (Plus Examples) (加示例) (加示例) (加示例) (加示例)](https://youtu.be/DhNyD8Cj0dg)
 - [与无客户端的智能合同互动](https://mirror.xyz/0x4B0728B9B1E45583bFb8bD738C9C6c8906f2841d/AaqF-SX3Fjh_GnxrCaRmk8Us3HWVWN8uxYIcUCHBMak)
 
 ### 什么是舞蹈？
@@ -98,7 +98,7 @@ On 11 December 2017, the total supply of Ether (ETC) on Ethereum Classic was har
 dapp 是一个分散的应用程序，通常由智能合约和前端用户界面组成，可以与这些合约进行交互。
 
 - [什么是梦想？](https://youtu.be/CDQX8inMCt0)
-- [What is a dApp? Decentralized Application on the Blockchain 区块链上分散应用 What is a dApp? Decentralized Application on the Blockchain 区块链上分散应用 区块链上分散应用](https://youtu.be/F50OrwV6Uk8)
+- [What is a dApp? Decentralized Application on the Blockchain 区块链上分散应用 What is a dApp? Decentralized Application on the Blockchain 区块链上分散应用 区块链上分散应用 What is a dApp? Decentralized Application on the Blockchain 区块链上分散应用 区块链上分散应用](https://youtu.be/F50OrwV6Uk8)
 
 ### 如何创建舞蹈？
 

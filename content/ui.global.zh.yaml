@@ -23,6 +23,18 @@ contribute: 如果您想通过添加或更正信息到这个页面做出贡献�
 contributors: "这个页面存在部分感谢以下贡献者："
 allLanguages: 所有语言
 noResults: 无结果
+netlify: 此站点由 Netlif 提供支持
+metaMask: 将ETC添加到MetaMask
+helpTranslate: 支持ETC，帮助翻译这个网站！
+search:
+  box: 搜索
+  noResults: 没有结果...
+  poweredBy: 由 Algolia 支持
+  generalInfo: 一般信息
+  blogArticles: 博客文章
+  videos: 视频
+  applications: 应用程序
+  newsLinks: 新闻链接
 ##
 ## Announcement Banner
 announcement:

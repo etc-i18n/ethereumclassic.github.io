@@ -1,5 +1,5 @@
 billboard:
-  text: "ザ %%$$%% イーサリアム"
+  text: ザ %%$$%% イーサリアム
   randomWords:
     Decentralized: "地方分権化"
     Original: "オリジナル"
@@ -30,3 +30,11 @@ intro:
   title: 止められないアプリケーションを構築
   button:
     text: なぜクラシックなのか？
+#Headers
+headings:
+  videos:
+    title: 最新の動画
+    button: すべての動画
+  apps:
+    title: 最新のアプリケーション
+    button: すべてのアプリ
