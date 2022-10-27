@@ -38,3 +38,11 @@ intro:
     欢迎并请邀请我们发现以太坊传统的过去、现在和未来； 它是原则、宝贵的建议、 社区以及更多的- 了解*为何是传统的*。
   button:
     text: 为什么是传统的？
+#Headers
+headings:
+  videos:
+    title: 最新视频
+    button: 所有视频
+  apps:
+    title: 最新应用程序
+    button: 所有应用程序
