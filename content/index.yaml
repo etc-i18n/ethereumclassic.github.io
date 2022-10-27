@@ -40,6 +40,14 @@ intro:
   button:
     __link: /why-classic
     text: Why Classic?
+# Headers
+headings:
+  videos:
+    title: Latest Videos
+    button: All Videos
+  apps:
+    title: Latest Applications
+    button: All Apps
 # list of contributors that contributed to general web maintenance that is not page specific
 __contributors:
   - flotob

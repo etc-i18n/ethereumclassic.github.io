@@ -14,7 +14,7 @@ import LandingFeature from "./landingFeature";
 
 export default function Landing({
   data: { headlines, videos, apps },
-  i18n: { billboard, intro, feature },
+  i18n: { billboard, intro, feature, headings },
 }) {
   return (
     <>
@@ -41,8 +41,8 @@ export default function Landing({
           </div>
         </div>
         <div tw="grid grid-cols-1 lg:grid-cols-2 gap-16 xl:gap-24">
-          <LandingVideos items={videos.edges} />
-          <LandingApps items={apps.edges} />
+          <LandingVideos items={videos.edges} i18n={headings.videos} />
+          <LandingApps items={apps.edges} i18n={headings.apps} />
         </div>
       </TwContainer>
     </>

@@ -8,6 +8,7 @@ import Icon from "./icon";
 import Fader from "./fader";
 import SearchResults from "./searchAlgoliaResults";
 import Link from "./link";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 // import isSSR from "../utils/isSSR";
 
 const algoliaAppId = process.env.ALGOLIA_APP_ID;
@@ -15,11 +16,12 @@ const algoliaApiKey = process.env.ALGOLIA_SEARCH_KEY;
 const algoliaIndex = process.env.ALGOLIA_MAIN_INDEX || "placeholder";
 
 const SearchBox = connectSearchBox(({ refine }) => {
+  const { ui } = useGlobals();
   const setValueDebounced = useDebounce(refine, 500);
   return (
     <input
       className="peer"
-      placeholder={"Search"}
+      placeholder={ui.search.box}
       aria-label="Search"
       type="search"
       tw="block w-full bg-backdrop-light border pl-10 border-shade-lighter rounded-md py-2 pr-3 text-sm placeholder-shade-light focus:outline-none focus:ring-0 focus:border-shade-light"

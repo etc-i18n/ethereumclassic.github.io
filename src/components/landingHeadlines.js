@@ -6,6 +6,9 @@ import Link from "./link";
 import NewsItem from "./newsItem";
 
 export default function NewsReel({ items }) {
+  if (items.length === 0) {
+    return null;
+  }
   return (
     <div tw="space-y-4">
       <div tw="flex space-x-6">

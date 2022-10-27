@@ -6,8 +6,10 @@ import Icon from "./icon";
 import Link from "./link";
 import PopDownMenu from "./popDownMenu";
 import LocaleButtons from "./localeButtons";
+import { useGlobals } from "../../plugins/translations-plugin/src/components/localizationProvider";
 
 export default function LocaleSelector({ ...props }) {
+  const { ui } = useGlobals();
   return (
     <Popover.Group tw="flex" {...props}>
       <Popover tw="relative" className="group">
@@ -43,9 +45,7 @@ export default function LocaleSelector({ ...props }) {
                     tw="flex-shrink-0 h-7 w-7"
                     aria-hidden="true"
                   />
-                  <span tw="ml-3">
-                    Support ETC by helping to translate this website!
-                  </span>
+                  <span tw="ml-3">{ui.helpTranslate}</span>
                 </Link>
               }
             >
