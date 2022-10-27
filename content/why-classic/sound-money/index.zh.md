@@ -1,7 +1,7 @@
 ---
 title: 声音钱
 updated: 2022-02-22
-disclaimer: opinion
+disclaimer: 意 见
 seo: 一个给它提供价值的有用特征以及一些区块链，包括Ethereum Classic 和 Bitcoin 的概述。 有意将这些特点应用于货币政策，以确保权力下放和长寿。
 ---
 
@@ -26,7 +26,7 @@ Money is the lifeblood that transports energy and information around an economy,
 - **Divisibility:** ETC is divisible up to 18 decimal places. This means that ETC can be split into 1,000,000,000,000,000,000 smaller units if needed. Denominations of ETC can be written in `wei`, the smallest ETC unit currently available. 这意味着，如果需要，ETC可以分成1,000,000,000,000,000,000个较小的单位。 这意味着，如果需要，ETC可以分成1,000,000,000,000,000,000个较小的单位。 ETC 的提名可以在 `wei`中写出，它是目前可以使用的最小的ETC 单位。
 - **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost. 它最终只是信息，因此它可以储存在计算机或数字钱包中， 或甚至离线于纸张或金属。 这使得ETC比像纸币这样易于销毁或丢失的传统货币更持久。
 - **Fungibility:** Each ETC is worth precisely what it’s valued at on the market. One ETC won’t have different values based on previous ETC transactions—unlike some currencies where older bills are often worth less than newer ones. This is called fungibility, and it’s a property ETC shares with physical commodities like gold and silver. 一家电子交易公司不会因以前的电子交易而产生不同的价值——与旧账单价值往往低于较新账单的某些货币不同。 一家电子交易公司不会因以前的电子交易而产生不同的价值——与旧账单价值往往低于较新账单的某些货币不同。 这被称为可换性，它是一个与金银等有形商品共享的财产ETC。
-- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost. 它最终只是信息，因此它可以储存在计算机或数字钱包中， 或甚至离线于纸张或金属。 这使得ETC比像纸币这样易于销毁或丢失的传统货币更持久。
+- **Durability:** ETC is incredibly durable. It is ultimately just information, so it can be stored on a computer or in a digital wallet, or even offline on a piece of paper or metal. This makes ETC much more durable than traditional forms of money like paper currency which can be easily destroyed or lost. 它最终只是信息，因此它可以储存在计算机或数字钱包中， 或甚至离线于纸张或金属。 它最终只是信息，因此它可以储存在计算机或数字钱包中， 或甚至离线于纸张或金属。 这使得ETC比像纸币这样易于销毁或丢失的传统货币更持久。
 - **Portability:** ETC is highly portable. You can carry it on a thumb drive, phone, write it down on paper, or remember it as a seed phrase. 您可以在一台缩略图驱动器、手机、在纸上写下它，或将其记为种子词句。 您可以在一台缩略图驱动器、手机、在纸上写下它，或将其记为种子词句。
 - **Scarcity:** ETC has a finite supply that will be released over time. This makes it scarcer than most other forms of currency. 这比大多数其他形式的货币都要稀少。 这比大多数其他形式的货币都要稀少。
 
@@ -36,14 +36,14 @@ ETC has all the properties of Sound Money. It’s decentralized, uncensorable, d
 
 Ethereum Classic's fixed emission curve was introduced by [ECIP-1017](https://ecips.ethereumclassic.org/ECIPs/ecip-1017). The emission schedule, also known as 5M20, reduces the block reward by 20% every 5,000,000 blocks. Socially, this block reward reduction event has taken the moniker of "The Fifthening." 排放计划也称为5M20，每5,000,000个区块奖励减少20%。 从社会上来说，这个积分奖励减少活动抓住了"第五个"的怪物。
 
-| Est. Est. 日期 Est. 日期 | 5M20 Era | 封禁         | 块奖励       | 总Era Emissions     |
-| -------------------- | -------- | ---------- | --------- | ------------------ |
-| 2015-07-30           | Era 1    | 1          | 5 次会议     | 25,000 000ETC      |
-| 2017-12-11           | Era 2    | 5,000,001  | 4 次 页 次   | 20,000,000 ETC     |
-| 2020-03-17           | Era 3    | 10,000,001 | 3.2 ETC   | 16,000 000ETC      |
-| 2022-04-15           | Era 4    | 15,000,001 | 2.56 ETC  | 12 800 000ETC      |
-| 2024-05-07           | Era 5    | 20,000,001 | 2.048 ETC | 10,240 000ETC      |
-| ~每两年                 | N+1      | N+500,000  | -20%      | 总共~200,000,000 ETC |
+| Est. Est. 日期 Est. 日期 Est. 日期 | 5M20 Era | 封禁         | 块奖励       | 总Era Emissions     |
+| ---------------------------- | -------- | ---------- | --------- | ------------------ |
+| 2015-07-30                   | Era 1    | 1          | 5 次会议     | 25,000 000ETC      |
+| 2017-12-11                   | Era 2    | 5,000,001  | 4 次 页 次   | 20,000,000 ETC     |
+| 2020-03-17                   | Era 3    | 10,000,001 | 3.2 ETC   | 16,000 000ETC      |
+| 2022-04-15                   | Era 4    | 15,000,001 | 2.56 ETC  | 12 800 000ETC      |
+| 2024-05-07                   | Era 5    | 20,000,001 | 2.048 ETC | 10,240 000ETC      |
+| ~每两年                         | N+1      | N+500,000  | -20%      | 总共~200,000,000 ETC |
 
 _注：由于uncrocle率的波动，确切的排放额将略有偏差，但不会有很大的偏差。_
 
