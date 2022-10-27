@@ -12,8 +12,6 @@ contributors:
 **⚠️ Update**  
 Ahora puede agregar fácilmente ETC a la máscara haciendo clic en "Connect-Wallet" en ChainList:
 
-<AddNetwork />
-
 Puede encontrar este enlace en la parte inferior de cada página de este sitio web.
 
 ---
