@@ -26,7 +26,7 @@ Ethereum Classic es una plataforma de computación distribuida basada en blockch
 
 ### ¿Qué es una blockchain?
 
-Un blockchain es un tipo especial de base de datos distribuida. ¡El atributo más significativo de blockchains es que nadie los controla! No hay nadie en que todo el mundo tenga que confiar para gestionarlo. Por eso se les ha dicho que carecen de confianza. Los usuarios presentan tareas en _transacciones_ que se agrupan en _bloques_ que están vinculados juntos para formar _cadenas_.
+Un blockchain es un tipo especial de base de datos distribuida. ¡El atributo más significativo de blockchains es que nadie los controla! No hay nadie en que todo el mundo tenga que confiar para gestionarlo. No hay nadie en que todo el mundo tenga que confiar para gestionarlo. Por eso se les ha dicho que carecen de confianza. Los usuarios presentan tareas en _transacciones_ que se agrupan en _bloques_ que están vinculados juntos para formar _cadenas_.
 
 - [¿Cómo funciona un blockchain - Simplemente Explicado](https://youtu.be/SSo_EIwHSd4)
 - [Blockchain en 7 minutos](https://youtu.be/yubzJw0uiE4)
