@@ -23,7 +23,7 @@ contribute: If you would like to contribute by adding or correcting information 
 contributors: "This page exists thanks in part to the following contributors:"
 allLanguages: All Languages
 noResults: No Results
-netlify: This site is powered by Netlif
+netlify: This site is powered by Netlify
 metaMask: Add ETC to MetaMask
 helpTranslate: Support ETC by helping to translate this website!
 search:
@@ -35,6 +35,9 @@ search:
   videos: Videos
   applications: Applications
   newsLinks: News Links
+  txSearch: Looks you have entered an Ethereum Classic address or transaction.
+  blockScout: "Search Blockscout Explorer:"
+  explorers: ...or check out some other [blockchain explorers](/network/explorers).
 ##
 ## Announcement Banner
 announcement:

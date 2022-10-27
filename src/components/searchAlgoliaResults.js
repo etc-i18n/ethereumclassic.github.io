@@ -97,7 +97,7 @@ export default function SearchResults() {
       {!searching && count === 0 && (
         <div tw="p-6 flex items-center justify-center text-shade-light space-x-3">
           <Icon icon="sad" tw="h-5" />
-          <div>No Results...</div>
+          <div>{i18n.noResults}</div>
         </div>
       )}
       <div tw="overflow-y-auto divide-y divide-solid divide-shade-lightest max-h-[40vh] md:max-h-[70vh]">

@@ -4,6 +4,7 @@ import algoliasearch from "algoliasearch/lite";
 import { useDebounce } from "rooks";
 import { InstantSearch, connectSearchBox } from "react-instantsearch-dom";
 
+import Md from "./markdownDynamic";
 import Icon from "./icon";
 import Fader from "./fader";
 import SearchResults from "./searchAlgoliaResults";
@@ -33,6 +34,9 @@ const SearchBox = connectSearchBox(({ refine }) => {
 });
 
 export default function SearchAgolia({ inline }) {
+  const {
+    ui: { search: i18n },
+  } = useGlobals();
   const [focused, setFocus] = useState(false);
   const [query, setQuery] = useState("");
   const aSearch = useRef(null);
@@ -67,7 +71,7 @@ export default function SearchAgolia({ inline }) {
         }}
       >
         <label htmlFor="search" tw="sr-only">
-          Search
+          {i18n.box}
         </label>
         <div tw="relative">
           <div tw="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
@@ -84,10 +88,7 @@ export default function SearchAgolia({ inline }) {
             <div tw="md:max-w-2xl bg-backdrop-light mx-auto shadow-2xl rounded-2xl overflow-hidden">
               {explorerHint && (
                 <div tw="prose text-center m-8 space-y-8">
-                  <div>
-                    Looks you have entered an Ethereum Classic address or
-                    transaction.
-                  </div>
+                  <div>{i18n.txSearch}</div>
                   <Link
                     iconLeft="search"
                     button
@@ -95,11 +96,13 @@ export default function SearchAgolia({ inline }) {
                     primary
                     to={`https://blockscout.com/etc/mainnet/search-results?q=${query}`}
                   >
-                    Search Blockscout Explorer for {query.slice(0, 7)}...
+                    {i18n.blockScout}
+                    <span tw="ml-2 font-mono bg-secondary-darkest px-1">
+                      {query.slice(0, 7)}..
+                    </span>
                   </Link>
                   <div>
-                    ...or check out some other{" "}
-                    <Link to="/network/explorers">blockchain explorers</Link>.
+                    <Md unwrap>{i18n.explorers}</Md>
                   </div>
                 </div>
               )}
