@@ -34,7 +34,7 @@ After reading ECIP-1000, fork the repository and add your ECIP to it, using the 
 
 - 评价 ECIP-1000。
 - 通过单击右上角的“Fork”解锁仓库.
-- Add your ECIP to your fork of the repository. There is a ECIP markdown template. Add your ECIP to your fork of the repository. There is a ECIP markdown template. Add your ECIP to your fork of the repository. There is a ECIP markdown template. 存在一个 ECIP Markdown 模板。
+- Add your ECIP to your fork of the repository. There is a ECIP markdown template. Add your ECIP to your fork of the repository. There is a ECIP markdown template. Add your ECIP to your fork of the repository. There is a ECIP markdown template. Add your ECIP to your fork of the repository. There is a ECIP markdown template. 存在一个 ECIP Markdown 模板。
 - 提交拉取请求到 EtherumClassic 的 ECIP 仓库.
 
 ECIPs Website: https://ecips.etherumclassic.org/
