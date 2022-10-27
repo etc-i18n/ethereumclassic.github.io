@@ -30,3 +30,11 @@ intro:
   title: 止められないアプリケーションを構築
   button:
     text: なぜクラシックなのか？
+#Headers
+headings:
+  videos:
+    title: 最新の動画
+    button: すべての動画
+  apps:
+    title: 最新のアプリケーション
+    button: すべてのアプリ
