@@ -23,6 +23,18 @@ contribute: Si quieres contribuir agregando o corrigiendo información a esta p�
 contributors: "Esta página existe gracias en parte a los siguientes colaboradores:"
 allLanguages: Todos los idiomas
 noResults: Sin resultados
+netlify: Este sitio está alimentado por Netlif
+metaMask: Añadir ETC a MetaMask
+helpTranslate: '¡Apoya a ETC ayudando a traducir este sitio web!'
+search:
+  box: Buscar
+  noResults: Sin resultados...
+  poweredBy: Desarrollado por Algolia
+  generalInfo: Información General
+  blogArticles: Artículos
+  videos: Vídeo
+  applications: Aplicaciones
+  newsLinks: Enlaces de noticias
 ##
 ## Announcement Banner
 announcement:
