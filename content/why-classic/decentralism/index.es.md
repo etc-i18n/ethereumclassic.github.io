@@ -2,7 +2,7 @@
 title: Descentralismo
 updated: 2022-02-22
 disclaimer: opinion
-seo: Una tesis que explica los valores descentralistas que sustentan los principios y la propuesta de valor central de Ethereum Classic que le permiten ofrecer un futuro brillante. en contraste con el camino oscuro de la centralización tomado por muchos otros blockchains.
+seo: Una tesis que explica los valores descentralistas que sustentan los principios y la propuesta de valor central de Ethereum Classic que le permiten ofrecer un futuro brillante.
 contributors:
   - "IstoraMandiri"
   - "DonaldMcIntyre"
@@ -111,7 +111,7 @@ Esta dependencia de un equipo central puede proporcionar dirección y grandes pr
 
 Para proyectos de alto valor que tienen una excesiva dependencia de equipos centralizados, a medida que pasa el tiempo, Un destino mucho más insidioso que el simple abandono es cada vez más probable. Al igual que el reloj, como todas las instituciones centralizadas de arriba abajo, se ven atraídos por intereses especiales a través de diversas técnicas manipuladoras.
 
-Supongamos que una institución poderosa se siente amenazada por las nuevas tecnologías. En lugar de erradicarla, lo que puede ser imposible. es mucho más eficaz limitarse a comprometer e interrumpir su funcionamiento influyendo en la dirección del desarrollo de un modo que no altere fundamentalmente el statu quo.
+Supongamos que una institución poderosa se siente amenazada por las nuevas tecnologías. es mucho más eficaz limitarse a comprometer e interrumpir su funcionamiento influyendo en la dirección del desarrollo de un modo que no altere fundamentalmente el statu quo.
 
 Esto se puede lograr convirtiendo a los influyentes y el liderazgo de una organización en títeres, cuyas cuerdas se tiran a través de una variedad de zanahorias y palos. Los seres humanos son falibles y son susceptibles a todos los grados de manipulación y extorsión; la presión de los pares, los monstruos enojados, la política, las patadas, los sobornos, los psicológicos y las trampas de la miel, el kompromat, las amenazas físicas, el encarcelamiento o peor.
 
