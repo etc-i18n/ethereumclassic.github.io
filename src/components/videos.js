@@ -5,10 +5,21 @@ import Link from "./link";
 
 import Icon from "./icon";
 import VideosItem from "./videosItem";
+import NoItems from "./noItems";
 
 export default function Videos({ pageContext, data, i18n }) {
   return (
     <>
+      {pageContext.currentPage === 1 && !pageContext.isDefaultLocale && (
+        <Link
+          notLocalized
+          tw="text-sm col-span-full bg-primary-lightest text-primary-neutral border border-primary-lighter hover:bg-primary-lighter hover:text-primary-dark rounded-md flex items-center justify-center space-x-4 p-3"
+          to={pageContext.filterBase}
+        >
+          <Icon icon="language" tw="h-5" />
+          <div>{i18n.changeLanguage}</div>
+        </Link>
+      )}
       {pageContext.currentPage === 1 && pageContext.filter === undefined && (
         <>
           <Link
@@ -23,6 +34,7 @@ export default function Videos({ pageContext, data, i18n }) {
           ))}
         </>
       )}
+      {!data.items.edges.length && <NoItems />}
       {data.items.edges.map(({ node }) => (
         <VideosItem key={node.id} item={node} />
       ))}

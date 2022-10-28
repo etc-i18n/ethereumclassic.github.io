@@ -1,5 +1,6 @@
 billboard:
   text: The %%$$%% Ethereum
+  ## must be kind of short, so they fit on the page
   randomWords:
     Decentralized: "Decentralized"
     Original: "Original"
@@ -24,7 +25,7 @@ feature:
   __icon: question
   title: FAQs
   subtitle: New Section
-  text: Quickly find the answers you are looking for by navigating Frequntly Asked Questions organized by use case.
+  text: Quickly find the answers you are looking for by navigating Frequently Asked Questions organized by use case.
   button: Questions Answered
 ## intro
 intro:

@@ -1,7 +1,6 @@
 ---
 updated: 2022-02-22
 contribute: true
-disclaimer: verify
 title: Events
 seo: An overview of real world and virtual Ethereum Classic related events. ETC Summit and the weekly Community Call are welcome to all!
 contributors:

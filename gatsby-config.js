@@ -148,6 +148,9 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        locales,
+        defaultLocale,
+        emptyi18nPages: { blog: true },
         itemsPerPage: 16 * 3,
         basePath: "news",
         filters: {
@@ -186,6 +189,9 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        locales,
+        defaultLocale,
+        emptyi18nPages: true,
         itemsPerPage: 10 * 3,
         basePath: "videos",
         filters: {
@@ -219,6 +225,7 @@ module.exports = {
     {
       resolve: "pagination-plugin",
       options: {
+        defaultLocale,
         itemsPerPage: 10 * 3,
         basePath: "services/apps",
         filters: {

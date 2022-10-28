@@ -40,6 +40,17 @@ export const pageQuery = graphql`
         }
       }
     }
+    videosEn: allVideosCollection(
+      limit: 3
+      filter: { locale: { eq: "en" }, unlisted: { ne: true } }
+      sort: { fields: [date, title], order: [DESC, ASC] }
+    ) {
+      edges {
+        node {
+          ...VideoDeets
+        }
+      }
+    }
     apps: allServicesAppsCollection(
       limit: 12
       filter: { locale: { eq: $locale }, unlisted: { ne: true } }

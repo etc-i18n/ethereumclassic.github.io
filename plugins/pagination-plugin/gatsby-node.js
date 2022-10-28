@@ -59,6 +59,39 @@ exports.createPages = async ({ graphql }, config) => {
     },
     {}
   );
+  // if we have an option to populate empty i18n pages, map the empty fields from defualt locale to others
+  if (config.emptyi18nPages) {
+    const {
+      total: _total,
+      slugs: _slugs,
+      ...defaultPages
+    } = queried[config.defaultLocale];
+    Object.keys(config.locales)
+      .filter(
+        (locale) =>
+          config.locales[locale].enabled && locale !== config.defaultLocale
+      )
+      .forEach((locale) => {
+        queried[locale] = { total: 0, ...queried[locale] };
+        Object.keys(defaultPages).forEach((type) => {
+          queried[locale][type] = queried[locale][type] || {};
+          Object.keys(queried[config.defaultLocale][type]).forEach((field) => {
+            // skip if config specifies fields
+            if (
+              config.emptyi18nPages !== true &&
+              !config.emptyi18nPages[field]
+            ) {
+              return;
+            }
+            queried[locale][type][field] = {
+              count: 0,
+              ...queried[locale][type][field],
+            };
+          });
+        });
+      });
+    console.log(queried);
+  }
 };
 
 exports.onCreatePage = async (

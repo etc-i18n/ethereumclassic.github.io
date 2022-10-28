@@ -139,31 +139,24 @@ learn:
         explainers:
           __link: /videos/explainers
           name: Explainers
-          hidden: 0
         discussions:
           __link: /videos/discussions
           name: Discussions
-          hidden: 0
         trading:
           __link: /videos/trading
           name: Trading
-          hidden: 0
         development:
           __link: /videos/development
           name: Development
-          hidden: 0
         tutorials:
           __link: /videos/tutorials
           name: Tutorials
-          hidden: 0
         mining:
           __link: /videos/mining
           name: Mining
-          hidden: 0
         conferences:
           __link: /videos/conferences
           name: Conferences
-          hidden: 0
           navItems:
             2017:
               __link: /videos/etc-summit-2017
@@ -177,7 +170,6 @@ learn:
         other:
           __link: /videos/other
           name: Other
-          hidden: 0
     # memes:
     #   __link: /memes
     #   __icon: images
