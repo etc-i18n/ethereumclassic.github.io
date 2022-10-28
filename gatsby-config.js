@@ -52,11 +52,10 @@ module.exports = {
         lastUpdated,
       }),
     },
-    // TODO enable
-    // {
-    //   resolve: "gatsby-plugin-algolia",
-    //   options: require("./configs/search"),
-    // },
+    {
+      resolve: "gatsby-plugin-algolia",
+      options: require("./configs/search"),
+    },
     {
       resolve: "gatsby-plugin-feed",
       options: require("./configs/rss")({ locales, defaultLocale, siteUrl }),
