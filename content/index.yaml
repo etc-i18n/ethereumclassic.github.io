@@ -43,6 +43,9 @@ intro:
     text: Why Classic?
 # Headers
 headings:
+  headlines:
+    title: Headlines
+    button: All News
   videos:
     title: Latest Videos
     button: All Videos

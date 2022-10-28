@@ -21,7 +21,7 @@ export default function Landing({
       <LandingArtwork i18n={billboard} />
       <TwContainer tw="py-24 space-y-24">
         <LandingFeature i18n={feature} />
-        <LandingHeadlines items={headlines.edges} />
+        <LandingHeadlines items={headlines.edges} i18n={headings.headlines} />
         <div tw="grid grid-cols-1 items-center gap-24 md:grid-cols-2">
           <div tw="prose">
             <h3>{intro.title}</h3>
