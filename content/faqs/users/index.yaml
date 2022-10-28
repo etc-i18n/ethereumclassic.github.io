@@ -17,7 +17,9 @@ items:
         answer: |
           Yes, Ethereum Classic operates to the end user in pretty much exactly the same way as Ethereum. You'll just need to make sure the wallet, application, exchange or other service you are using supports Classic.
 
-          You can use MetaMask with Ethereum Classic.
+          Ethereum Classic, being technologically very similar to Ethereum, shares a body of work in user guides, tutorials and walkthroughs that apply to both chains, which is why the [community guides on Ethereum.org](https://ethereum.org/en/learn/) are highly recommended reading.
+
+          You can also use MetaMask with Ethereum Classic.
       metmask:
         question: How do I use ETC with MetaMask?
         answer: |

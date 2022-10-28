@@ -8,16 +8,16 @@ learn:
       name: FAQs
       description: Frequestly asked questions by various stakeholders
       navItems:
-        researchers:
-          __link: /faqs/researchers
-          name: Researchers
-          __icon: search
-          description: Just heard about Classic?
         users:
           __link: /faqs/users
           name: Users
           __icon: user
           description: Want to learn how to use ETC?
+        researchers:
+          __link: /faqs/researchers
+          name: Researchers
+          __icon: search
+          description: Just heard about Classic?
         investors:
           __link: /faqs/investors
           name: Investors
