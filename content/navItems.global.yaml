@@ -106,30 +106,12 @@ learn:
           longName: Future Classic
           __icon: etc
           description: An overview of the decision making process in ETC, and where it might lead the protocol
-    guides:
-      __link: /guides
-      __icon: book
-      name: Guides
-      description: Practical tutorials and walkthroughs for interacting with the network in a number of ways
-      navItems:
-        basics:
-          __link: /guides/basics
-          name: Basics
-          longName: The Basics
-          description: FAQs and Video explainers covering Blockchain and ETC 101
-          __icon: question
         metamask:
-          __link: /guides/metamask
+          __link: /knowledge/metamask
           name: MetaMask
           longName: Using MetaMask with ETC
           description: How to configure MetaMask and alternatives to interact with dapps
           __icon: cursor
-        development:
-          __link: /guides/development
-          name: Development
-          longName: Developer Guides
-          description: A collection of turorials on how to build dapps on Ethereum Classic
-          __icon: code
     videos:
       __link: /videos
       __icon: video
@@ -314,6 +296,12 @@ play:
       name: Development
       description: Testnets, Tooling, Clients and information on how to contribute to the ETC protocol itself
       navItems:
+        development:
+          __link: /development/guides
+          name: Guides
+          longName: Developer Guides
+          description: A collection of turorials on how to build dapps on Ethereum Classic
+          __icon: book
         clients:
           __link: /development/clients
           name: Clients

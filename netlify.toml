@@ -73,9 +73,10 @@
 [[redirects]]
   from = "/development/developer-tools"
   to = "/development/tooling"
-[[redirects]]
-  from = "/development/guides"
-  to = "/guides/development"
+# moved back below
+# [[redirects]]
+#   from = "/development/guides"
+#   to = "/guides/development"
 [[redirects]]
   from = "/development/mining-resources"
   to = "/mining"
@@ -131,3 +132,16 @@
 [[redirects]]
   from = "/news/media"
   to = "/news/tag/news"
+# FAQ Restructure
+[[redirects]]
+  from = "/guides"
+  to = "/faqs"
+[[redirects]]
+  from = "/guides/basics"
+  to = "/faqs/users"
+[[redirects]]
+  from = "/guides/metamask"
+  to = "/knowledge/metamask"
+[[redirects]]
+  from = "/guides/development"
+  to = "/development/guides"
