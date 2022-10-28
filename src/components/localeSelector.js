@@ -33,23 +33,17 @@ export default function LocaleSelector({ ...props }) {
                 />
               </Popover.Button>
             </div>
-            <PopDownMenu
-              left
-              cta={
-                <Link
-                  to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
-                  tw="-m-3 p-3 px-5 flex items-center rounded-md text-sm text-shade-light hover:bg-shade-lightest hover:text-shade-dark"
-                >
-                  <Icon
-                    icon="language"
-                    tw="flex-shrink-0 h-7 w-7"
-                    aria-hidden="true"
-                  />
-                  <span tw="ml-3">{ui.helpTranslate}</span>
-                </Link>
-              }
-            >
+            <PopDownMenu left>
               <LocaleButtons />
+              <Link
+                to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
+                tw="-mx-8 -my-8 -mt-0 p-3 flex text-sm text-shade-light bg-shade-lightest hover:bg-shade-lighter hover:text-shade-dark"
+              >
+                <div tw="flex text-center items-center justify-center mx-auto">
+                  <Icon icon="language" tw="h-7 w-7" />
+                  <div tw="ml-3">{ui.helpTranslate}</div>
+                </div>
+              </Link>
             </PopDownMenu>
           </>
         )}
