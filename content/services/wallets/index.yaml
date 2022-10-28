@@ -32,7 +32,6 @@ description: |
   - If you are accepting ETC for your business, you probably just want to create an [exchange](/services/exchanges) account that you can use to sell it for your local currency.
   - If you are holding larger amounts, it is highly recommended to purchase a [Hardware Wallet](#hardware-wallets).
   - For more advanced use cases, please do your own research and try a few options from below.
-
 items:
   web:
     __type: buttons
@@ -41,17 +40,17 @@ items:
     items:
       MyCrypto:
         __link: https://www.mycrypto.com
-        name: MyCrypto
+        __name: MyCrypto
       MyEtherWallet:
         __link: https://www.myetherwallet.com
-        name: MyEtherWallet
+        __name: MyEtherWallet
         __primary: true
       Portis:
         __link: https://www.portis.io/
-        name: Portis
+        __name: Portis
       Squarelink:
         __link: https://squarelink.com/
-        name: Squarelink
+        __name: Squarelink
   browsers:
     __type: buttons
     title: Browser Integrated Wallets
@@ -59,26 +58,26 @@ items:
     items:
       Brave:
         __link: https://brave.com/
-        name: Brave
+        __name: Brave
       MathWallet:
         __link: https://mathwallet.org/
-        name: MathWallet
+        __name: MathWallet
       MetaMask:
         __link: https://metamask.io/
-        name: MetaMask
+        __name: MetaMask
         __primary: true
       Nifty Wallet:
         __link: https://github.com/poanetwork/nifty-wallet
-        name: Nifty Wallet
+        __name: Nifty Wallet
       Opera:
         __link: https://www.opera.com/crypto
-        name: Opera
+        __name: Opera
       SimpleHold Wallet:
         __link: https://simplehold.io/download
-        name: SimpleHold Wallet
+        __name: SimpleHold Wallet
       TokenPocket:
         __link: https://extension.tokenpocket.pro/
-        name: TokenPocket
+        __name: TokenPocket
   hardware:
     __type: buttons
     title: Hardware Wallets
@@ -86,35 +85,35 @@ items:
     items:
       Bitski:
         __link: https://www.bitski.com/
-        name: Bitski
+        __name: Bitski
       CoolBitX:
         __link: https://www.coolwallet.io/
-        name: CoolBitX
+        __name: CoolBitX
       Ellipal:
         __link: https://www.ellipal.com/
-        name: Ellipal
+        __name: Ellipal
       HTC Exodus:
         __link: https://www.htcexodus.com/
-        name: HTC Exodus
+        __name: HTC Exodus
       KeyPal:
         __link: https://keypal.pro/
-        name: KeyPal
+        __name: KeyPal
       Ledger:
         __link: https://shop.ledger.com/
-        name: Ledger
+        __name: Ledger
         __primary: true
       Parity Signer:
         __link: https://www.parity.io/signer/
-        name: Parity Signer
+        __name: Parity Signer
       SafePal:
         __link: https://www.safepal.io/
-        name: SafePal
+        __name: SafePal
       Signatory Client:
         __link: https://vbstreetz.github.io/signatory-client/
-        name: Signatory Client
+        __name: Signatory Client
       Trezor:
         __link: https://trezor.io/
-        name: Trezor
+        __name: Trezor
         __primary: true
   software:
     __type: buttons
@@ -123,111 +122,111 @@ items:
     items:
       ABRA:
         __link: https://www.abra.com/
-        name: ABRA
+        __name: ABRA
       Alpha Wallet:
         __link: https://alphawallet.com/
-        name: Alpha Wallet
+        __name: Alpha Wallet
       AToken:
         __link: https://www.atoken.com/
-        name: AToken
+        __name: AToken
       Atomic Wallet:
         __link: https://atomicwallet.io/
-        name: Atomic Wallet
+        __name: Atomic Wallet
       BTCPOP:
         __link: https://btcpop.co/
-        name: BTCPOP
+        __name: BTCPOP
       Button Wallet:
         __link: https://buttonwallet.com/
-        name: Button Wallet
+        __name: Button Wallet
       Cobo:
         __link: https://cobo.com/
-        name: Cobo
+        __name: Cobo
       Coin Wallet:
         __link: https://coin.space/
-        name: Coin Wallet
+        __name: Coin Wallet
       Coinbase Wallet:
         __link: https://wallet.coinbase.com/
         __primary: true
-        name: Coinbase Wallet
+        __name: Coinbase Wallet
       Coinomi:
         __link: https://www.coinomi.com/
-        name: Coinomi
+        __name: Coinomi
       Cryptonator:
         __link: https://www.cryptonator.com/
-        name: Cryptonator
+        __name: Cryptonator
       Edge:
         __link: https://edge.app/
-        name: Edge
+        __name: Edge
       Emerald Wallet:
         __link: https://emerald.cash/
-        name: Emerald Wallet
+        __name: Emerald Wallet
       Ethos:
         __link: https://www.ethos.io/universal-wallet/
-        name: Ethos
+        __name: Ethos
       eToro Wallet:
         __link: https://www.etorox.com/crypto-wallet/
-        name: eToro Wallet
+        __name: eToro Wallet
       Evercoin:
         __link: https://evercoin.com
-        name: Evercoin
+        __name: Evercoin
       Exodus:
         __link: https://www.exodus.io/
-        name: Exodus
+        __name: Exodus
       Guarda:
         __link: https://guarda.com/
-        name: Guarda
+        __name: Guarda
       HubrisOne:
         __link: https://hubrisone.com/wallet
-        name: HubrisOne
+        __name: HubrisOne
       Huobi Wallet:
         __link: https://www.huobiwallet.com/
-        name: Huobi Wallet
+        __name: Huobi Wallet
       Hebe Wallet:
         __link: https://hebe.cc/
-        name: Hebe Wallet
+        __name: Hebe Wallet
       Infinito Wallet:
         __link: https://www.infinitowallet.io/
-        name: Infinito Wallet
+        __name: Infinito Wallet
       Jaxx Liberty:
         __link: https://jaxx.io/
-        name: Jaxx Liberty
+        __name: Jaxx Liberty
       Mantis Wallet:
         __link: https://mantisclient.io/#wallet
-        name: Mantis Wallet
+        __name: Mantis Wallet
       MathWallet:
         __link: https://mathwallet.org/
-        name: MathWallet
+        __name: MathWallet
       Midas Protocol:
         __link: https://midasprotocol.io/
-        name: Midas Protocol
+        __name: Midas Protocol
       Mixin Messenger:
         __link: https://mixin.one/messenger
-        name: Mixin Messenger
+        __name: Mixin Messenger
       Now Wallet:
         __link: https://walletnow.app/
-        name: Now Wallet
+        __name: Now Wallet
       Ownbit:
         __link: https://ownbit.io/
-        name: Ownbit
+        __name: Ownbit
       TokenPocket:
         __link: https://tokenpocket.pro/
-        name: TokenPocket
+        __name: TokenPocket
       Tokenview:
         __link: https://tokenview.com/cn/download
-        name: Tokenview
+        __name: Tokenview
       Trust Wallet:
         __link: https://trustwallet.com/ethereum-classic-wallet
-        name: Trust Wallet
+        __name: Trust Wallet
         __primary: true
       Trustee Wallet:
         __link: https://trusteeglobal.com/
-        name: Trustee Wallet
+        __name: Trustee Wallet
       Zelcore Wallet:
         __link: https://zel.network/project/zelcore/
-        name: Zelcore Wallet
+        __name: Zelcore Wallet
       ZenGo:
         __link: https://zengo.com/
-        name: ZenGo
+        __name: ZenGo
   other:
     __type: buttons
     title: Other Wallet Products
@@ -235,25 +234,25 @@ items:
     items:
       BillFodl:
         __link: https://billfodl.com/
-        name: BillFodl
+        __name: BillFodl
       Blockplate:
         __link: https://www.blockplate.com/
-        name: Blockplate
+        __name: Blockplate
       ColdTi:
         __link: https://coldti.com/
-        name: ColdTi
+        __name: ColdTi
       Crypto Key Stack:
         __link: https://cryptokeystack.com/
-        name: Crypto Key Stack
+        __name: Crypto Key Stack
       CryptoSteel:
         __link: https://cryptosteel.com/
-        name: CryptoSteel
+        __name: CryptoSteel
       CRYPTOTAG:
         __link: https://cryptotag.io/
-        name: CRYPTOTAG
+        __name: CRYPTOTAG
       Hodlinox:
         __link: https://hodlinox.com/
-        name: Hodlinox
+        __name: Hodlinox
       Steely:
         __link: https://thesteely.com/
-        name: Steely
+        __name: Steely

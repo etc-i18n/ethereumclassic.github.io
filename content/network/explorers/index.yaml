@@ -22,10 +22,8 @@ items:
     __type: table
     __hideHead: 1
     columnItems:
-      name: {}
-      etc:
+      name:
         __linkRef: etc
-        text: Mainnet
       kotti:
         __linkRef: kotti
         text: Kotti
@@ -34,19 +32,19 @@ items:
         text: Mordor
     items:
       BlockScout:
-        name: BlockScout
+        __name: BlockScout
         __etc: https://blockscout.com/etc/mainnet/
         __kotti: https://blockscout.com/etc/kotti/
         __mordor: https://blockscout.com/etc/mordor/
       ETCBlockExplorer:
-        name: ETCBlockExplorer
+        __name: ETCBlockExplorer
         __etc: https://etcblockexplorer.com/
       OKLink:
-        name: OKLink
+        __name: OKLink
         __etc: https://www.oklink.com/etc
       Tokenview:
-        name: Tokenview
+        __name: Tokenview
         __etc: https://etc.tokenview.com/
       NovaExplorer:
-        name: Nova Explorer
+        __name: Nova Explorer
         __etc: https://explorer.novanetwork.io/?network=Ethereum%20Classic

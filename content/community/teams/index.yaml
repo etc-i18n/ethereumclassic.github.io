@@ -42,132 +42,127 @@ items:
     items:
       Ethereum Foundation:
         __year: 2015
-        name: Ethereum Foundation
-        __className: faded
+        __name: Ethereum Foundation
         __link: https://ethereum.org/
         __twitter: https://twitter.com/ethereum
         __github: https://github.com/ethereum/
       Parity Technologies:
         __year: 2016
-        name: Parity Technologies
-        __className: faded
+        __name: Parity Technologies
         __link: https://parity.io/
         __twitter: https://twitter.com/ParityTech
         __github: https://github.com/paritytech
       ETC Consortium:
         __year: 2016
-        name: ETC Consortium
+        __name: ETC Consortium
         __active: 1
         __link: https://etcconsortium.org/
         __twitter: https://twitter.com/ETCConsortium
       ETCDEV:
         __year: 2016
-        name: ETCDEV
-        __className: faded
+        __name: ETCDEV
         __link: https://etcdevteam.com/
         __twitter: https://twitter.com/getemerald
         __github: https://github.com/ETCDEVTeam/
       Grothendieck:
         __year: 2016
-        name: IOHK Mantis
-        __className: faded
+        __name: IOHK Mantis
         __active: 0
         __link: https://mantisclient.io/
         __twitter: https://twitter.com/Mantis_IO
         __github: https://github.com/input-output-hk/mantis
       ETC Cooperative:
         __year: 2017
-        name: ETC Cooperative
+        __name: ETC Cooperative
         __active: 1
         __link: https://etccooperative.org/
         __twitter: https://twitter.com/ETCCooperative
         __github: https://github.com/ETCCooperative
       Ethereum Commonwealth:
         __year: 2017
-        name: Ethereum Commonwealth
+        __name: Ethereum Commonwealth
         __active: 1
         __link: https://ethereumcommonwealth.github.io/ethereum-commonwealth-website/
         __twitter: https://twitter.com/Dexaran
         __github: https://github.com/EthereumCommonwealth
       Grayscale:
         __year: 2017
-        name: Grayscale
+        __name: Grayscale
         __active: 1
         __link: https://grayscale.co/ethereum-classic-trust/
         __twitter: https://twitter.com/GrayscaleInvest
       commonwealth.gg:
         __year: 2018
-        name: Commonwealth.gg
+        __name: Commonwealth.gg
         __active: 1
         __link: https://commonwealth.gg
         __twitter: https://twitter.com/commonwealthgg
         __github: https://github.com/p3c-bot
       ETC Labs:
         __year: 2018
-        name: ETC Labs
+        __name: ETC Labs
         __active: 1
         __link: https://etclabs.org/
         __twitter: https://twitter.com/etclabs
         __github: https://github.com/etclabscore
       POA Network:
         __year: 2018
-        name: POA Network
+        __name: POA Network
         __active: 1
         __link: https://www.poa.network/
         __twitter: https://twitter.com/poanetwork
         __github: https://github.com/poanetwork
       Chippr Robotics:
         __year: 2019
-        name: Chippr Robotics
+        __name: Chippr Robotics
         __active: 1
         __link: https://chipprbots.com/
         __twitter: https://twitter.com/BotBridgette
         __github: https://github.com/chippr-robootics/
       ETC Core:
         __year: 2019
-        name: ETC Core
+        __name: ETC Core
         __active: 1
         __link: https://etccore.io/
         __twitter: https://twitter.com/etc_core
         __github: https://github.com/etclabscore
       ChainSafe:
         __year: 2019
-        name: ChainSafe
+        __name: ChainSafe
         __active: 1
         __link: https://chainsafe.io/
         __twitter: https://twitter.com/ChainSafeth
         __github: https://github.com/ChainSafe
       Core Paper:
         __year: 2019
-        name: Core Paper
-        __className: faded
+        __name: Core Paper
         __link: https://corepaper.org/
         __twitter: https://twitter.com/corepaper
         __github: https://github.com/corepaper
       Second State:
         __year: 2019
-        name: Second State
+        __name: Second State
         __active: 1
         __link: https://www.secondstate.io/
         __twitter: https://twitter.com/secondstateinc
         __github: https://github.com/second-state
       Byzantine Fault:
         __year: 2020
-        name: Byzantine Fault
+        __name: Byzantine Fault
         __active: 1
         __link: https://byzantine.fault.dev/
         __twitter: https://twitter.com/byzantine_fault
         __github: https://github.com/byz-f
       Gödel Labs:
         __year: 2020
-        name: Gödel Labs
+        __name: Gödel Labs
         __active: 1
         __link: https://www.godel.ai/
         __twitter: https://twitter.com/Goedellabs
         __github: https://github.com/multi-geth/multi-geth
       Storj Labs:
         __year: 2020
-        name: Storj Labs
+        __name: Storj Labs
         __active: 1
         __link: https://storj.io/
         __twitter: https://twitter.com/storjproject
