@@ -42,14 +42,15 @@ search:
 ## Announcement Banner
 announcement:
   __color: green
-  __enabled: 0
-  __landingOnly: 1
-  __icon: bullhorn
+  __enabled: 1
+  __allPages: 0
+  __alli18nPages: 1
+  __icon: language
   text: |
-    Welcome to the recently updated version of the Ethereum Classic website. Your feedback is welcome.
+    This website is now translated into multiple languages through machine learning. Click the globe icon at the top right of the page to change language. If you'd like to help correct translations, please contact us!
   button:
     __link: https://github.com/ethereumclassic/ethereumclassic.github.io
-    text: "Feedback on GitHub"
+    text: "Help Translate"
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord
 socialItems:
