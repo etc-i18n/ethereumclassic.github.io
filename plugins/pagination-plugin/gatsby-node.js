@@ -90,7 +90,6 @@ exports.createPages = async ({ graphql }, config) => {
           });
         });
       });
-    console.log(queried);
   }
 };
 

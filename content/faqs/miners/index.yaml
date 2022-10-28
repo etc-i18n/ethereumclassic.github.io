@@ -3,6 +3,11 @@ seo: Frequently Asked Questions for those looking to mine the Ethereum Classic P
 info: Can't find an answer to your question here? Try asking in the ETC community [discord](https://ethereumclassic.org/discord) server. Specifically, you may find the ETC Discord's `#trading` channel of interest.
 description: Are you a miner or interested in learning how to mine ETC? This page is for you.
 __contribute: true
+__contributors:
+  - developerkevin
+  - IstoraMandiri
+  - TheEnthusiasticAs
+  - gitr0n1n
 items:
   questions:
     __type: questions
@@ -22,7 +27,7 @@ items:
       pools:
         question: What is a mining pool?
         answer: |
-          As Ethereum Classic enjoys a large hashrate, it is very unlikely that a small solo miner will be lucky enough to mine a block on their own. For this reason, unless you have a large mining operation, solo miners usually join a mining pool to recevie a smaller more regular rewards, proportional to the hashrate they contribute.
+          As Ethereum Classic enjoys a large hashrate, it is very unlikely that a small solo miner will be lucky enough to mine a block on their own. For this reason, unless you have a large mining operation, solo miners usually join a mining pool to receive a smaller more regular rewards, proportional to the hashrate they contribute.
       poolsList:
         question: Which mining pools support ETC?
         answer: |
@@ -50,8 +55,8 @@ items:
 
           There are also 3 additional sources of revenue that miners should take into consideration when calculating profitability, which largely depend on network usage:
 
-          - Transaction Fees, which depends on network congestion
-          - Uncle Rate, TODO
+          - Transaction Fees
+          - Uncle Rate
           - MEV (Miner Extractable Value)
       asics:
         question: Is Ethereum Classic's mining algorithm ASIC resitant?
@@ -79,3 +84,9 @@ items:
           While any change to Ethereum Classic is technically *possible*, a switch to Proof of Stake is practically untenable, as a consensus has formed around Proof of Work's superiority in terms of censorship resistance. Any proposal to introduce Proof of Stake on Ethereum Classic would at first be ridiculed, and if forced into the client code, would cause a chain split resulting in two chains. Whatever happens, there will be a version of Ethereum Classic that remained on Proof of Work, making attempts to implement PoS largely fruitless.
 
           You can read more in the [Proof of Work](/why-classic/proof-of-work) section.
+      uncle:
+        question: What is an Uncle?
+        answer: |
+          Several miners compete to submit blocks to the blockchain. Inevitably some miners will lose the competition. The blockchain references the losing blocks to make the blockchain more secure. These losing blocks that contribute to the security of the blockchain are referred to as _uncles_. The term comes from the fact that blocks have preceding _parent_ blocks. The losing blocks are not parents but are still related to the parents. Hence they are like uncles.
+
+          - [All About Ethereum - Uncles](https://youtu.be/iIhxtuIhT_g)

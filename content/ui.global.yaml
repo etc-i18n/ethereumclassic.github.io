@@ -52,6 +52,7 @@ announcement:
   button:
     __link: https://github.com/ethereumclassic/ethereumclassic.github.io
     text: "Help Translate"
+## Footer
 signOff: Made with `<3` for the Original Ethereum Vision
 socialHilight: The ETC community is active on Discord
 socialItems:
@@ -125,3 +126,13 @@ newsTypes:
     name: Video
     prefix: "Video: "
     __icon: video
+## App Modal
+appModal:
+  verifiedContract: Contract
+  openSource: Open Source
+  audit: Audited
+  testSuite: Test Suite
+  ipfsFrontend: IPFS Frontend
+  checkListRating: Trustless Checklist Level
+  warning: "**Warning:** This user-submitted app is NOT vetted and NOT guaranteed to be safe; use at your own risk, and always do your own research!"
+  added: Added
