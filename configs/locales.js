@@ -1,7 +1,7 @@
-// NB: updatae crowdin.config when adding locales
+// remember to update crowdin config
 
+const enabled = false;
 const defaultLocale = "en";
-
 const locales = {
   en: {
     name: "English",
@@ -20,7 +20,7 @@ const locales = {
   },
   es: {
     name: "Español",
-    enabled: true,
+    enabled: false,
     dayJsImport: "es",
   },
   fr: {
@@ -34,12 +34,12 @@ const locales = {
   },
   ja: {
     name: "日本語",
-    enabled: true,
+    enabled: false,
     dayJsImport: "ja",
   },
   ko: {
     name: "한국어",
-    enabled: true,
+    enabled: false,
   },
   nl: {
     name: "Nederlands",
@@ -61,4 +61,9 @@ const locales = {
   },
 };
 
-module.exports = { locales, defaultLocale };
+module.exports = {
+  //  only pass default locale if dsabled
+  locales: !enabled ? { [defaultLocale]: locales[defaultLocale] } : locales,
+  defaultLocale,
+  enabled,
+};

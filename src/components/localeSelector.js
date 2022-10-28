@@ -36,7 +36,7 @@ export default function LocaleSelector({ ...props }) {
             <PopDownMenu left>
               <LocaleButtons />
               <Link
-                to="https://github.com/ethereumclassic/ethereumclassic.github.io#contribute"
+                to="https://github.com/ethereumclassic/ethereumclassic.github.io#translations"
                 tw="-mx-8 -my-8 -mt-0 p-3 flex text-sm text-shade-light bg-shade-lightest hover:bg-shade-lighter hover:text-shade-dark"
               >
                 <div tw="flex text-center items-center justify-center mx-auto">

@@ -11,8 +11,10 @@ import DarkModeSwitcher from "./darkModeSwitcher";
 import TwContainer from "./twContainer";
 import MobileDropdown from "./mobileDropdown.";
 import MobileMenuItems from "./mobileMenuItems";
+import useLocaleItems from "../utils/useLocaleItems";
 
 export default function Header() {
+  const { enabled: i18nEnabled } = useLocaleItems();
   return (
     <div tw="bg-backdrop-light z-50 sticky top-0 shadow-md transition-colors">
       <TwContainer>
@@ -22,11 +24,13 @@ export default function Header() {
           </div>
           <div tw="space-x-4 flex md:hidden">
             <DarkModeSwitcher />
-            <MobileDropdown icon="globe">
-              <div tw="p-4">
-                <LocaleButtons />
-              </div>
-            </MobileDropdown>
+            {i18nEnabled && (
+              <MobileDropdown icon="globe">
+                <div tw="p-4">
+                  <LocaleButtons />
+                </div>
+              </MobileDropdown>
+            )}
             <MobileDropdown icon="search">
               <SearchAlgolia />
             </MobileDropdown>
@@ -40,7 +44,7 @@ export default function Header() {
               <SearchAlgolia />
             </div>
             <DarkModeSwitcher />
-            <LocaleSelector />
+            {i18nEnabled && <LocaleSelector />}
           </div>
         </div>
       </TwContainer>
