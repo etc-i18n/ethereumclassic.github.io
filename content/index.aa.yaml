@@ -1,0 +1,71 @@
+billboard:
+  text: crwdns58070:0crwdne58070:0
+  ## must be kind of short, so they fit on the page
+  randomWords:
+    Decentralized: "crwdns58072:0crwdne58072:0"
+    Original: "crwdns58074:0crwdne58074:0"
+    Veracious: "crwdns58076:0crwdne58076:0"
+    Untainted: "crwdns58078:0crwdne58078:0"
+    Uncensored: "crwdns58080:0crwdne58080:0"
+    Untampered: "crwdns58082:0crwdne58082:0"
+    Immutable: "crwdns58084:0crwdne58084:0"
+    Sound Money: "crwdns58086:0crwdne58086:0"
+    Uncaptured: "crwdns58088:0crwdne58088:0"
+    SovereignGrade: "crwdns58090:0crwdne58090:0"
+    Principled: "crwdns58092:0crwdne58092:0"
+    Unstoppable: "crwdns58094:0crwdne58094:0"
+    Proof of Work: "crwdns58096:0crwdne58096:0"
+    Leaderless: "crwdns58098:0crwdne58098:0"
+    Antifragile: "crwdns58100:0crwdne58100:0"
+    Code is Law: "crwdns58102:0crwdne58102:0"
+    Classic: "crwdns58104:0crwdne58104:0"
+    Permisionless: "crwdns58106:0crwdne58106:0"
+## feature
+feature:
+  __icon: crwdns58108:0crwdne58108:0
+  title: crwdns58110:0crwdne58110:0
+  subtitle: crwdns58112:0crwdne58112:0
+  text: crwdns58114:0crwdne58114:0
+  button: crwdns58116:0crwdne58116:0
+## intro
+intro:
+  title: crwdns58118:0crwdne58118:0
+  content: |
+    crwdns58120:0crwdne58120:0
+  button:
+    __link: crwdns58122:0crwdne58122:0
+    text: crwdns58124:0crwdne58124:0
+#Headers
+headings:
+  headlines:
+    title: crwdns58126:0crwdne58126:0
+    button: crwdns58128:0crwdne58128:0
+  videos:
+    title: crwdns58130:0crwdne58130:0
+    button: crwdns58132:0crwdne58132:0
+  apps:
+    title: crwdns58134:0crwdne58134:0
+    button: crwdns58136:0crwdne58136:0
+#list of contributors that contributed to general web maintenance that is not page specific
+__contributors:
+  - crwdns58138:0crwdne58138:0
+  - crwdns58140:0crwdne58140:0
+  - crwdns58142:0crwdne58142:0
+  - crwdns58144:0crwdne58144:0
+  - crwdns58146:0crwdne58146:0
+  - crwdns58148:0crwdne58148:0
+  - crwdns58150:0crwdne58150:0
+  - crwdns58152:0crwdne58152:0
+  - crwdns58154:0crwdne58154:0
+  - crwdns58156:0crwdne58156:0
+  - crwdns58158:0crwdne58158:0
+  - crwdns58160:0crwdne58160:0
+  - crwdns58162:0crwdne58162:0
+  - crwdns58164:0crwdne58164:0
+  - crwdns58166:0crwdne58166:0
+  - crwdns58168:0crwdne58168:0
+  - crwdns58170:0crwdne58170:0
+  - crwdns58172:0crwdne58172:0
+  - crwdns58174:0crwdne58174:0
+  - crwdns58176:0crwdne58176:0
+  - crwdns58178:0crwdne58178:0
