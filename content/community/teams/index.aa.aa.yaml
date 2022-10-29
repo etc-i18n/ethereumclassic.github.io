@@ -1,0 +1,167 @@
+__contribute: 0
+__updated: crwdns76228:0crwdne76228:0
+title: crwdns76230:0crwdne76230:0
+seo: crwdns76232:0crwdne76232:0
+__contributors:
+  - crwdns76234:0crwdne76234:0
+  - crwdns76236:0crwdne76236:0
+  - crwdns76238:0crwdne76238:0
+  - crwdns76240:0crwdne76240:0
+  - crwdns76242:0crwdne76242:0
+  - crwdns76244:0crwdne76244:0
+  - crwdns76246:0crwdne76246:0
+  - crwdns76248:0crwdne76248:0
+  - crwdns76250:0crwdne76250:0
+  - crwdns76252:0crwdne76252:0
+description: |
+  crwdns76254:0crwdne76254:0
+items:
+  teams:
+    __type: crwdns76256:0crwdne76256:0
+    __sort: 0
+    columnItems:
+      year:
+        name: crwdns76260:0crwdne76260:0
+      name:
+        __linkRef: crwdns76262:0crwdne76262:0
+        name: crwdns76264:0crwdne76264:0
+      social:
+        name: crwdns76266:0crwdne76266:0
+        iconItems:
+          github:
+            __linkRef: crwdns76268:0crwdne76268:0
+            __icon: crwdns76270:0crwdne76270:0
+          twitter:
+            __linkRef: crwdns76272:0crwdne76272:0
+            __icon: crwdns76274:0crwdne76274:0
+      active:
+        __checkRef: crwdns76276:0crwdne76276:0
+        name: crwdns76278:0crwdne76278:0
+    items:
+      Ethereum Foundation:
+        __year: 0
+        __name: crwdns76282:0crwdne76282:0
+        __link: crwdns76284:0crwdne76284:0
+        __twitter: crwdns76286:0crwdne76286:0
+        __github: crwdns76288:0crwdne76288:0
+      Parity Technologies:
+        __year: 0
+        __name: crwdns76292:0crwdne76292:0
+        __link: crwdns76294:0crwdne76294:0
+        __twitter: crwdns76296:0crwdne76296:0
+        __github: crwdns76298:0crwdne76298:0
+      ETC Consortium:
+        __year: 0
+        __name: crwdns76302:0crwdne76302:0
+        __active: 0
+        __link: crwdns76306:0crwdne76306:0
+        __twitter: crwdns76308:0crwdne76308:0
+      ETCDEV:
+        __year: 0
+        __name: crwdns76312:0crwdne76312:0
+        __link: crwdns76314:0crwdne76314:0
+        __twitter: crwdns76316:0crwdne76316:0
+        __github: crwdns76318:0crwdne76318:0
+      Grothendieck:
+        __year: 0
+        __name: crwdns76322:0crwdne76322:0
+        __active: 0
+        __link: crwdns76326:0crwdne76326:0
+        __twitter: crwdns76328:0crwdne76328:0
+        __github: crwdns76330:0crwdne76330:0
+      ETC Cooperative:
+        __year: 0
+        __name: crwdns76334:0crwdne76334:0
+        __active: 0
+        __link: crwdns76338:0crwdne76338:0
+        __twitter: crwdns76340:0crwdne76340:0
+        __github: crwdns76342:0crwdne76342:0
+      Ethereum Commonwealth:
+        __year: 0
+        __name: crwdns76346:0crwdne76346:0
+        __active: 0
+        __link: crwdns76350:0crwdne76350:0
+        __twitter: crwdns76352:0crwdne76352:0
+        __github: crwdns76354:0crwdne76354:0
+      Grayscale:
+        __year: 0
+        __name: crwdns76358:0crwdne76358:0
+        __active: 0
+        __link: crwdns76362:0crwdne76362:0
+        __twitter: crwdns76364:0crwdne76364:0
+      commonwealth.gg:
+        __year: 0
+        __name: crwdns76368:0crwdne76368:0
+        __active: 0
+        __link: crwdns76372:0crwdne76372:0
+        __twitter: crwdns76374:0crwdne76374:0
+        __github: crwdns76376:0crwdne76376:0
+      ETC Labs:
+        __year: 0
+        __name: crwdns76380:0crwdne76380:0
+        __active: 0
+        __link: crwdns76384:0crwdne76384:0
+        __twitter: crwdns76386:0crwdne76386:0
+        __github: crwdns76388:0crwdne76388:0
+      POA Network:
+        __year: 0
+        __name: crwdns76392:0crwdne76392:0
+        __active: 0
+        __link: crwdns76396:0crwdne76396:0
+        __twitter: crwdns76398:0crwdne76398:0
+        __github: crwdns76400:0crwdne76400:0
+      Chippr Robotics:
+        __year: 0
+        __name: crwdns76404:0crwdne76404:0
+        __active: 0
+        __link: crwdns76408:0crwdne76408:0
+        __twitter: crwdns76410:0crwdne76410:0
+        __github: crwdns76412:0crwdne76412:0
+      ETC Core:
+        __year: 0
+        __name: crwdns76416:0crwdne76416:0
+        __active: 0
+        __link: crwdns76420:0crwdne76420:0
+        __twitter: crwdns76422:0crwdne76422:0
+        __github: crwdns76424:0crwdne76424:0
+      ChainSafe:
+        __year: 0
+        __name: crwdns76428:0crwdne76428:0
+        __active: 0
+        __link: crwdns76432:0crwdne76432:0
+        __twitter: crwdns76434:0crwdne76434:0
+        __github: crwdns76436:0crwdne76436:0
+      Core Paper:
+        __year: 0
+        __name: crwdns76440:0crwdne76440:0
+        __link: crwdns76442:0crwdne76442:0
+        __twitter: crwdns76444:0crwdne76444:0
+        __github: crwdns76446:0crwdne76446:0
+      Second State:
+        __year: 0
+        __name: crwdns76450:0crwdne76450:0
+        __active: 0
+        __link: crwdns76454:0crwdne76454:0
+        __twitter: crwdns76456:0crwdne76456:0
+        __github: crwdns76458:0crwdne76458:0
+      Byzantine Fault:
+        __year: 0
+        __name: crwdns76462:0crwdne76462:0
+        __active: 0
+        __link: crwdns76466:0crwdne76466:0
+        __twitter: crwdns76468:0crwdne76468:0
+        __github: crwdns76470:0crwdne76470:0
+      Gödel Labs:
+        __year: 0
+        __name: crwdns76474:0crwdne76474:0
+        __active: 0
+        __link: crwdns76478:0crwdne76478:0
+        __twitter: crwdns76480:0crwdne76480:0
+        __github: crwdns76482:0crwdne76482:0
+      Storj Labs:
+        __year: 0
+        __name: crwdns76486:0crwdne76486:0
+        __active: 0
+        __link: crwdns76490:0crwdne76490:0
+        __twitter: crwdns76492:0crwdne76492:0
+        __github: crwdns76494:0crwdne76494:0
