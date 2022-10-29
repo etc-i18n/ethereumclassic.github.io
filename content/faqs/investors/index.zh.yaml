@@ -5,7 +5,6 @@ __contribute: true
 description: 对投资Ethereum Classic感兴趣，想了解更多关于它的价值主张？下面是一些常见相关问题的答案。
 items:
   questions:
-    __type: questions
     items:
       trade:
         question: 我在哪里可以购买和交易ETC？
