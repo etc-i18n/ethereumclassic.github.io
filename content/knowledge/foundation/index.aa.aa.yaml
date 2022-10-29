@@ -1,0 +1,61 @@
+__contribute: 0
+__contributors:
+  - crwdns77070:0crwdne77070:0
+  - crwdns77072:0crwdne77072:0
+  - crwdns77074:0crwdne77074:0
+  - crwdns77076:0crwdne77076:0
+  - crwdns77078:0crwdne77078:0
+  - crwdns77080:0crwdne77080:0
+  - crwdns77082:0crwdne77082:0
+  - crwdns77084:0crwdne77084:0
+  - crwdns77086:0crwdne77086:0
+  - crwdns77088:0crwdne77088:0
+  - crwdns77090:0crwdne77090:0
+  - crwdns77092:0crwdne77092:0
+  - crwdns77094:0crwdne77094:0
+  - crwdns77096:0crwdne77096:0
+  - crwdns77098:0crwdne77098:0
+  - crwdns77100:0crwdne77100:0
+items:
+  main:
+    __type: crwdns77102:0crwdne77102:0
+    title: crwdns77104:0crwdne77104:0
+    description: crwdns77106:0crwdne77106:0
+    items:
+      Declaration of Independence:
+        name: crwdns77108:0crwdne77108:0
+        __link: crwdns77110:0crwdne77110:0
+        description: crwdns77112:0crwdne77112:0
+      A Crypto-Decentralist Manifesto:
+        name: crwdns77114:0crwdne77114:0
+        __link: crwdns77116:0crwdne77116:0
+        description: crwdns77118:0crwdne77118:0
+      Ethereum Classic Vision:
+        name: crwdns77120:0crwdne77120:0
+        __link: crwdns77122:0crwdne77122:0
+        description: crwdns77124:0crwdne77124:0
+      keepEtcClassic:
+        name: crwdns77126:0crwdne77126:0
+        __link: crwdns77128:0crwdne77128:0
+        description: crwdns77130:0crwdne77130:0
+  past:
+    __type: crwdns77132:0crwdne77132:0
+    title: crwdns77134:0crwdne77134:0
+    description: crwdns77136:0crwdne77136:0
+    items:
+      The idea of Smart Contracts:
+        name: crwdns77138:0crwdne77138:0
+        __link: crwdns77140:0crwdne77140:0
+        description: crwdns77142:0crwdne77142:0
+      Bitcoin A Peer-to-Peer Electronic Cash System:
+        name: "crwdns77144:0crwdne77144:0"
+        __link: crwdns77146:0crwdne77146:0
+        description: crwdns77148:0crwdne77148:0
+      ethWhitepaper:
+        name: "crwdns77150:0crwdne77150:0"
+        __link: crwdns77152:0crwdne77152:0
+        description: crwdns77154:0crwdne77154:0
+      ethYellowPaper:
+        name: "crwdns77156:0crwdne77156:0"
+        __link: crwdns77158:0crwdne77158:0
+        description: crwdns77160:0crwdne77160:0
