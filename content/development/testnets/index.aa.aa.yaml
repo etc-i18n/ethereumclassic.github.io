@@ -1,0 +1,82 @@
+title: crwdns75730:0crwdne75730:0
+__updated: crwdns75732:0crwdne75732:0
+__contribute: 0
+seo: crwdns75736:0crwdne75736:0
+description: |
+  crwdns75738:0[Kovan]crwdne75738:0
+__contributors:
+  - crwdns75740:0crwdne75740:0
+  - crwdns75742:0crwdne75742:0
+items:
+  testnets:
+    __type: crwdns75744:0crwdne75744:0
+    __sort: 0
+    i18n:
+      pow: crwdns75748:0crwdne75748:0
+      poa: crwdns75750:0crwdne75750:0
+      testnet: crwdns75752:0crwdne75752:0
+      experimental: crwdns75754:0crwdne75754:0
+      faucet: crwdns75756:0crwdne75756:0
+    columnItems:
+      name:
+        name: crwdns75758:0crwdne75758:0
+        __linkRef: crwdns75760:0crwdne75760:0
+      faucet:
+        __linkRef: crwdns75762:0crwdne75762:0
+        text: crwdns75764:0crwdne75764:0
+        __icon: crwdns75766:0crwdne75766:0
+      type:
+        name: crwdns75768:0crwdne75768:0
+        __textRef: crwdns75770:0crwdne75770:0
+      miningAlgo:
+        name: crwdns75772:0crwdne75772:0
+      consensusAlgo:
+        __textRef: crwdns75774:0crwdne75774:0
+        name: crwdns75776:0crwdne75776:0
+      networkId:
+        name: crwdns75778:0crwdne75778:0
+      chainId:
+        name: crwdns75780:0crwdne75780:0
+    items:
+      Testnet Kotti:
+        __name: crwdns75782:0crwdne75782:0
+        __chainId: 0
+        __type: crwdns75786:0crwdne75786:0
+        __networkId: 0
+        __link: crwdns75790:0crwdne75790:0
+        __faucet: crwdns75792:0crwdne75792:0
+        __consensusAlgo: crwdns75794:0crwdne75794:0
+        __miningAlgo: crwdns75796:0crwdne75796:0
+      Testnet Mordor:
+        __name: crwdns75798:0crwdne75798:0
+        __chainId: 0
+        __type: crwdns75802:0crwdne75802:0
+        __networkId: 0
+        __link: crwdns75806:0crwdne75806:0
+        __faucet: 'crwdns75808:0crwdne75808:0'
+        __consensusAlgo: crwdns75810:0crwdne75810:0
+        __miningAlgo: crwdns75812:0crwdne75812:0
+      Testnet Astor:
+        __name: crwdns75814:0crwdne75814:0
+        __type: crwdns75816:0crwdne75816:0
+        __link: crwdns75818:0crwdne75818:0
+        __consensusAlgo: crwdns75820:0crwdne75820:0
+        __miningAlgo: crwdns75822:0crwdne75822:0
+      Testnet Helmsdeep:
+        __name: crwdns75824:0crwdne75824:0
+        __type: crwdns75826:0crwdne75826:0
+        __link: crwdns75828:0crwdne75828:0
+        __consensusAlgo: crwdns75830:0crwdne75830:0
+        __miningAlgo: crwdns75832:0crwdne75832:0
+      Testnet Keccak Besu:
+        __name: crwdns75834:0crwdne75834:0
+        __type: crwdns75836:0crwdne75836:0
+        __link: crwdns75838:0crwdne75838:0
+        __consensusAlgo: crwdns75840:0crwdne75840:0
+        __miningAlgo: crwdns75842:0crwdne75842:0
+      Testnet Sagano:
+        __name: crwdns75844:0crwdne75844:0
+        __type: crwdns75846:0crwdne75846:0
+        __link: crwdns75848:0crwdne75848:0
+        __consensusAlgo: crwdns75850:0crwdne75850:0
+        __miningAlgo: crwdns75852:0crwdne75852:0
