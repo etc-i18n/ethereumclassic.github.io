@@ -1,0 +1,202 @@
+__contribute: 0
+__disclaimer: crwdns76726:0crwdne76726:0
+title: crwdns76728:0crwdne76728:0
+seo: crwdns76730:0crwdne76730:0
+description: |
+  crwdns76732:0crwdne76732:0
+__contributors:
+  - crwdns76734:0crwdne76734:0
+  - crwdns76736:0crwdne76736:0
+  - crwdns76738:0crwdne76738:0
+  - crwdns76740:0crwdne76740:0
+items:
+  tutorials:
+    __type: crwdns76742:0crwdne76742:0
+    title: crwdns76744:0crwdne76744:0
+    description: crwdns76746:0crwdne76746:0
+    items:
+      Kotti Testnet Setup Guide:
+        __link: crwdns76748:0crwdne76748:0
+        name: crwdns76750:0crwdne76750:0
+        description: crwdns76752:0crwdne76752:0
+      Signatory Client:
+        __link: crwdns76754:0crwdne76754:0
+        name: crwdns76756:0crwdne76756:0
+        description: crwdns76758:0crwdne76758:0
+      Besu Client Setup Guide:
+        __link: crwdns76760:0crwdne76760:0
+        name: crwdns76762:0crwdne76762:0
+        description: crwdns76764:0crwdne76764:0
+      Raspberry Pi Node Setup Guide:
+        __link: crwdns76766:0crwdne76766:0
+        name: crwdns76768:0crwdne76768:0
+        description: crwdns76770:0crwdne76770:0
+      CryptoZombies:
+        __link: crwdns76772:0crwdne76772:0
+        name: crwdns76774:0crwdne76774:0
+        description: crwdns76776:0crwdne76776:0
+      Hitchhikers Guide to Smart Contracts:
+        __link: crwdns76778:0crwdne76778:0
+        name: crwdns76780:0crwdne76780:0
+        description: crwdns76782:0crwdne76782:0
+      A 101 Noob Intro to Programming Smart Contracts on Ethereum:
+        __link: crwdns76784:0crwdne76784:0
+        name: crwdns76786:0crwdne76786:0
+        description: crwdns76788:0crwdne76788:0
+      Setup MetaMask for Ethereum Classic:
+        __link: crwdns76790:0crwdne76790:0
+        name: crwdns76792:0crwdne76792:0
+        description: crwdns76794:0crwdne76794:0
+      Parity Tutorial:
+        __link: crwdns76796:0crwdne76796:0
+        name: crwdns76798:0crwdne76798:0
+        description: crwdns76800:0crwdne76800:0
+      Start Ethereum DApp Development Career:
+        __link: crwdns76802:0crwdne76802:0
+        name: crwdns76804:0crwdne76804:0
+        description: crwdns76806:0crwdne76806:0
+      Full Stack DApp Tutorial Series:
+        __link: crwdns76808:0crwdne76808:0
+        name: crwdns76810:0crwdne76810:0
+        description: crwdns76812:0crwdne76812:0
+      Ethereum Builders Guide:
+        __link: crwdns76814:0crwdne76814:0
+        name: crwdns76816:0crwdne76816:0
+        description: crwdns76818:0crwdne76818:0
+      Introduction to OpenRPC Webinar:
+        __link: crwdns76820:0crwdne76820:0
+        name: crwdns76822:0crwdne76822:0
+        description: crwdns76824:0crwdne76824:0
+      Learning Solidity Tutorial Series:
+        __link: crwdns76826:0crwdne76826:0
+        name: crwdns76828:0crwdne76828:0
+        description: crwdns76830:0crwdne76830:0
+      End to End DApp Tutorial:
+        __link: crwdns76832:0crwdne76832:0
+        name: crwdns76834:0crwdne76834:0
+        description: crwdns76836:0crwdne76836:0
+      How to write secure smart contracts:
+        __link: crwdns76838:0crwdne76838:0
+        name: crwdns76840:0crwdne76840:0
+        description: crwdns76842:0crwdne76842:0
+      Programming Decentralized Money:
+        __link: crwdns76844:0crwdne76844:0
+        name: crwdns76846:0crwdne76846:0
+        description: crwdns76848:0crwdne76848:0
+      How to create a token and ICO on Ethereum Classic:
+        __link: crwdns76850:0crwdne76850:0
+        name: crwdns76852:0crwdne76852:0
+        description: crwdns76854:0crwdne76854:0
+      How to use Brave Browser with Ethereum dApps:
+        __link: crwdns76856:0crwdne76856:0
+        name: crwdns76858:0crwdne76858:0
+        description: crwdns76860:0crwdne76860:0
+      Vyper and Brownie Contract Development on EVM Chains:
+        __link: crwdns76862:0crwdne76862:0
+        name: crwdns76864:0crwdne76864:0
+        description: crwdns76866:0crwdne76866:0
+      Adventures in Classical Ether:
+        __link: crwdns76868:0crwdne76868:0
+        name: crwdns76870:0crwdne76870:0
+        description: crwdns76872:0crwdne76872:0
+      Kotti Solidity ETC Oh My:
+        __link: crwdns76874:0crwdne76874:0
+        name: crwdns76876:0crwdne76876:0
+        description: crwdns76878:0crwdne76878:0
+      How to contribute to Mordor Testnet:
+        __link: crwdns76880:0crwdne76880:0
+        name: crwdns76882:0crwdne76882:0
+        description: crwdns76884:0crwdne76884:0
+      Migrate to Hyperledger Besu - Switch from OpenEthereum or Multi-Geth:
+        __link: crwdns76886:0crwdne76886:0
+        name: crwdns76888:0crwdne76888:0
+        description: crwdns76890:0crwdne76890:0
+      Ethereum Classic on Raspberry Pi:
+        __link: crwdns76892:0crwdne76892:0
+        name: crwdns76894:0crwdne76894:0
+        description: crwdns76896:0crwdne76896:0
+      Ethercluster An Open-Source Alternative to Infura:
+        __link: crwdns76898:0crwdne76898:0
+        name: crwdns76900:0crwdne76900:0
+        description: crwdns76902:0crwdne76902:0
+      Analyzing Ethereum Classic with Google BigQuery:
+        __link: crwdns76904:0crwdne76904:0
+        name: crwdns76906:0crwdne76906:0
+        description: crwdns76908:0crwdne76908:0
+      Creating Your Own Smart Contract Languages Using LLVM:
+        __link: crwdns76910:0crwdne76910:0
+        name: crwdns76912:0crwdne76912:0
+        description: crwdns76914:0crwdne76914:0
+      ERC20 to ERC223 upgrade path:
+        __link: crwdns76916:0crwdne76916:0
+        name: crwdns76918:0crwdne76918:0
+        description: crwdns76920:0crwdne76920:0
+      Continuity for an Augmented world:
+        __link: crwdns76922:0crwdne76922:0
+        name: crwdns76924:0crwdne76924:0
+        description: crwdns76926:0crwdne76926:0
+      Deployment Automation for Goerli testnet in 10 minutes:
+        __link: crwdns76928:0crwdne76928:0
+        name: crwdns76930:0crwdne76930:0
+        description: crwdns76932:0crwdne76932:0
+      Monitoring in PegaSys Plus:
+        __link: crwdns76934:0crwdne76934:0
+        name: crwdns76936:0crwdne76936:0
+        description: crwdns76938:0crwdne76938:0
+      Using OpenRPC Mock Server to test against an Ethereum JSON-RPC API:
+        __link: crwdns76940:0crwdne76940:0
+        name: crwdns76942:0crwdne76942:0
+        description: crwdns76944:0crwdne76944:0
+      Introduction to Pristine An open standard and template for open-source projects:
+        __link: crwdns76946:0crwdne76946:0
+        name: crwdns76948:0crwdne76948:0
+        description: crwdns76950:0crwdne76950:0
+      Jade Suite Overview and Workshop:
+        __link: crwdns76952:0crwdne76952:0
+        name: crwdns76954:0crwdne76954:0
+        description: crwdns76956:0crwdne76956:0
+      Various Ethereum Solidity Tutorials:
+        __link: crwdns76958:0crwdne76958:0
+        name: crwdns76960:0crwdne76960:0
+        description: crwdns76962:0crwdne76962:0
+  advanced:
+    __type: crwdns76964:0crwdne76964:0
+    title: crwdns76966:0crwdne76966:0
+    description: crwdns76968:0crwdne76968:0
+    items:
+      2018-03-15-signatures:
+        __link: crwdns76970:0crwdne76970:0
+        name: crwdns76972:0crwdne76972:0
+        description: crwdns76974:0crwdne76974:0
+      2018-03-19-rlp:
+        __link: crwdns76976:0crwdne76976:0
+        name: crwdns76978:0crwdne76978:0
+        description: crwdns76980:0crwdne76980:0
+      2018-01-31-difficulty:
+        __link: crwdns76982:0crwdne76982:0
+        name: crwdns76984:0crwdne76984:0
+        description: crwdns76986:0crwdne76986:0
+      2018-01-26-implicit-info:
+        __link: crwdns76988:0crwdne76988:0
+        name: crwdns76990:0crwdne76990:0
+        description: crwdns76992:0crwdne76992:0
+      2017-12-04-light-clients:
+        __link: crwdns76994:0crwdne76994:0
+        name: crwdns76996:0crwdne76996:0
+        description: crwdns76998:0crwdne76998:0
+      2017-04-28-blocks:
+        __link: crwdns77000:0crwdne77000:0
+        name: "crwdns77002:0crwdne77002:0"
+        description: crwdns77004:0crwdne77004:0
+      2017-04-18-keys:
+        __link: crwdns77006:0crwdne77006:0
+        name: "crwdns77008:0crwdne77008:0"
+        description: crwdns77010:0crwdne77010:0
+      2017-03-30-accounts-and-states:
+        __link: crwdns77012:0crwdne77012:0
+        name: crwdns77014:0crwdne77014:0
+        description: crwdns77016:0crwdne77016:0
+      2017-02-10-hashes:
+        __link: crwdns77018:0crwdne77018:0
+        name: "crwdns77020:0crwdne77020:0"
+        description: crwdns77022:0crwdne77022:0
