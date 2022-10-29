@@ -1,0 +1,359 @@
+learn:
+  __showNextNav: 0
+  name: crwdns60948:0crwdne60948:0
+  navItems:
+    faqs:
+      __link: crwdns60950:0crwdne60950:0
+      __icon: crwdns60952:0crwdne60952:0
+      name: crwdns60954:0crwdne60954:0
+      description: crwdns60956:0crwdne60956:0
+      navItems:
+        users:
+          __link: crwdns60958:0crwdne60958:0
+          name: crwdns60960:0crwdne60960:0
+          __icon: crwdns60962:0crwdne60962:0
+          description: crwdns60964:0crwdne60964:0
+        researchers:
+          __link: crwdns60966:0crwdne60966:0
+          name: crwdns60968:0crwdne60968:0
+          __icon: crwdns60970:0crwdne60970:0
+          description: crwdns60972:0crwdne60972:0
+        investors:
+          __link: crwdns60974:0crwdne60974:0
+          name: crwdns60976:0crwdne60976:0
+          __icon: crwdns60978:0crwdne60978:0
+          description: crwdns60980:0crwdne60980:0
+        miners:
+          __link: crwdns60982:0crwdne60982:0
+          name: crwdns60984:0crwdne60984:0
+          __icon: crwdns60986:0crwdne60986:0
+          description: crwdns60988:0crwdne60988:0
+        developers:
+          __link: crwdns60990:0crwdne60990:0
+          name: crwdns60992:0crwdne60992:0
+          __icon: crwdns60994:0crwdne60994:0
+          description: crwdns60996:0crwdne60996:0
+        contributors:
+          __link: crwdns60998:0crwdne60998:0
+          name: crwdns61000:0crwdne61000:0
+          __icon: crwdns61002:0crwdne61002:0
+          description: crwdns61004:0crwdne61004:0
+    whyClassic:
+      __link: crwdns61006:0crwdne61006:0
+      __icon: crwdns61008:0crwdne61008:0
+      name: crwdns61010:0crwdne61010:0
+      description: crwdns61012:0crwdne61012:0
+      navItems:
+        codeIsLaw:
+          __link: crwdns61014:0crwdne61014:0
+          name: crwdns61016:0crwdne61016:0
+        genesis:
+          __link: crwdns61018:0crwdne61018:0
+          name: crwdns61020:0crwdne61020:0
+        decentralism:
+          __link: crwdns61022:0crwdne61022:0
+          name: crwdns61024:0crwdne61024:0
+        ethBtcEtc:
+          __link: crwdns61026:0crwdne61026:0
+          name: crwdns61028:0crwdne61028:0
+        soundMoney:
+          __link: crwdns61030:0crwdne61030:0
+          name: crwdns61032:0crwdne61032:0
+        proofOfWork:
+          __link: crwdns61034:0crwdne61034:0
+          name: crwdns61036:0crwdne61036:0
+    #etcVsEth:
+    #__link: /why-classic/etc-vs-eth
+    #name: ETC vs ETH
+    knowledge:
+      __link: crwdns61038:0crwdne61038:0
+      __icon: crwdns61040:0crwdne61040:0
+      name: crwdns61042:0crwdne61042:0
+      description: crwdns61044:0crwdne61044:0
+      navItems:
+        foundation:
+          __link: crwdns61046:0crwdne61046:0
+          name: crwdns61048:0crwdne61048:0
+          description: crwdns61050:0crwdne61050:0
+          __icon: crwdns61052:0crwdne61052:0
+        theory:
+          __link: crwdns61054:0crwdne61054:0
+          name: crwdns61056:0crwdne61056:0
+          longName: crwdns61058:0crwdne61058:0
+          __icon: crwdns61060:0crwdne61060:0
+          description: crwdns61062:0crwdne61062:0
+        investing:
+          __link: crwdns61064:0crwdne61064:0
+          name: crwdns61066:0crwdne61066:0
+          longName: crwdns61068:0crwdne61068:0
+          __icon: crwdns61070:0crwdne61070:0
+          description: crwdns61072:0crwdne61072:0
+        forks:
+          __link: crwdns61074:0crwdne61074:0
+          name: crwdns61076:0crwdne61076:0
+          longName: crwdns61078:0crwdne61078:0
+          __icon: crwdns61080:0crwdne61080:0
+          description: crwdns61082:0crwdne61082:0
+        history:
+          __link: crwdns61084:0crwdne61084:0
+          name: crwdns61086:0crwdne61086:0
+          longName: crwdns61088:0crwdne61088:0
+          __icon: crwdns61090:0crwdne61090:0
+          description: crwdns61092:0crwdne61092:0
+        future:
+          __link: crwdns61094:0crwdne61094:0
+          name: crwdns61096:0crwdne61096:0
+          longName: crwdns61098:0crwdne61098:0
+          __icon: crwdns61100:0crwdne61100:0
+          description: crwdns61102:0crwdne61102:0
+        metamask:
+          __link: crwdns61104:0crwdne61104:0
+          name: crwdns61106:0crwdne61106:0
+          longName: crwdns61108:0crwdne61108:0
+          description: crwdns61110:0crwdne61110:0
+          __icon: crwdns61112:0crwdne61112:0
+    videos:
+      __link: crwdns61114:0crwdne61114:0
+      __icon: crwdns61116:0crwdne61116:0
+      name: crwdns61118:0crwdne61118:0
+      description: crwdns61120:0crwdne61120:0
+      navItems:
+        explainers:
+          __link: crwdns61122:0crwdne61122:0
+          name: crwdns61124:0crwdne61124:0
+        discussions:
+          __link: crwdns61126:0crwdne61126:0
+          name: crwdns61128:0crwdne61128:0
+        trading:
+          __link: crwdns61130:0crwdne61130:0
+          name: crwdns61132:0crwdne61132:0
+        development:
+          __link: crwdns61134:0crwdne61134:0
+          name: crwdns61136:0crwdne61136:0
+        tutorials:
+          __link: crwdns61138:0crwdne61138:0
+          name: crwdns61140:0crwdne61140:0
+        mining:
+          __link: crwdns61142:0crwdne61142:0
+          name: crwdns61144:0crwdne61144:0
+        conferences:
+          __link: crwdns61146:0crwdne61146:0
+          name: crwdns61148:0crwdne61148:0
+          navItems:
+            2017:
+              __link: crwdns61150:0crwdne61150:0
+              name: crwdns61152:0crwdne61152:0
+            2018:
+              __link: crwdns61154:0crwdne61154:0
+              name: crwdns61156:0crwdne61156:0
+            2019:
+              __link: crwdns61158:0crwdne61158:0
+              name: crwdns61160:0crwdne61160:0
+        other:
+          __link: crwdns61162:0crwdne61162:0
+          name: crwdns61164:0crwdne61164:0
+#memes:
+#__link: /memes
+#__icon: images
+#name: Memes
+#description: Spreading the good word of ETC involves winning the battle of hearts and minds through the whimsicalities of information warfare
+#navItems:
+#mediaKit:
+#__link: /memes/media-kit
+#name: Media Kit
+#charts:
+#__link: /memes/charts
+#name: Charts
+#etc:
+#__link: /memes/etc
+#name: Etcetera
+play:
+  name: crwdns61166:0crwdne61166:0
+  navItems:
+    services:
+      __link: crwdns61168:0crwdne61168:0
+      __icon: crwdns61170:0crwdne61170:0
+      name: crwdns61172:0crwdne61172:0
+      description: crwdns61174:0crwdne61174:0
+      navItems:
+        wallets:
+          __link: crwdns61176:0crwdne61176:0
+          name: crwdns61178:0crwdne61178:0
+          description: crwdns61180:0crwdne61180:0
+          __icon: crwdns61182:0crwdne61182:0
+        exchanges:
+          __link: crwdns61184:0crwdne61184:0
+          name: crwdns61186:0crwdne61186:0
+          description: crwdns61188:0crwdne61188:0
+          __icon: crwdns61190:0crwdne61190:0
+        apps:
+          __link: crwdns61192:0crwdne61192:0
+          name: crwdns61194:0crwdne61194:0
+          longName: crwdns61196:0crwdne61196:0
+          __icon: crwdns61198:0crwdne61198:0
+          description: crwdns61200:0crwdne61200:0
+          navItems:
+            nfts:
+              __link: crwdns61202:0crwdne61202:0
+              name: crwdns61204:0crwdne61204:0
+            games:
+              __link: crwdns61206:0crwdne61206:0
+              name: crwdns61208:0crwdne61208:0
+            identity:
+              __link: crwdns61210:0crwdne61210:0
+              name: crwdns61212:0crwdne61212:0
+            interoperability:
+              __link: crwdns61214:0crwdne61214:0
+              name: crwdns61216:0crwdne61216:0
+            finance:
+              __link: crwdns61218:0crwdne61218:0
+              name: crwdns61220:0crwdne61220:0
+            other:
+              __link: crwdns61222:0crwdne61222:0
+              name: crwdns61224:0crwdne61224:0
+    community:
+      __link: crwdns61226:0crwdne61226:0
+      __icon: crwdns61228:0crwdne61228:0
+      name: crwdns61230:0crwdne61230:0
+      description: crwdns61232:0crwdne61232:0
+      navItems:
+        channels:
+          __link: crwdns61234:0crwdne61234:0
+          name: crwdns61236:0crwdne61236:0
+          longName: crwdns61238:0crwdne61238:0
+          __icon: crwdns61240:0crwdne61240:0
+          description: crwdns61242:0crwdne61242:0
+        teams:
+          __link: crwdns61244:0crwdne61244:0
+          name: crwdns61246:0crwdne61246:0
+          longName: crwdns61248:0crwdne61248:0
+          __icon: crwdns61250:0crwdne61250:0
+          description: crwdns61252:0crwdne61252:0
+        events:
+          __link: crwdns61254:0crwdne61254:0
+          name: crwdns61256:0crwdne61256:0
+          __icon: crwdns61258:0crwdne61258:0
+          description: crwdns61260:0crwdne61260:0
+    #bounties:
+    #__link: /community/bounties
+    #name: Bounties
+    #dao:
+    #__link: /community/daos
+    #name: DAOs
+    network:
+      __link: crwdns61262:0crwdne61262:0
+      __icon: crwdns61264:0crwdne61264:0
+      name: crwdns61266:0crwdne61266:0
+      description: crwdns61268:0crwdne61268:0
+      navItems:
+        endpoints:
+          __link: crwdns61270:0crwdne61270:0
+          name: crwdns61272:0crwdne61272:0
+          longName: crwdns61274:0crwdne61274:0
+          __icon: crwdns61276:0crwdne61276:0
+          description: crwdns61278:0crwdne61278:0
+        explorers:
+          __link: crwdns61280:0crwdne61280:0
+          name: crwdns61282:0crwdne61282:0
+          longName: crwdns61284:0crwdne61284:0
+          __icon: crwdns61286:0crwdne61286:0
+          description: crwdns61288:0crwdne61288:0
+        monitors:
+          __link: crwdns61290:0crwdne61290:0
+          name: crwdns61292:0crwdne61292:0
+          longName: crwdns61294:0crwdne61294:0
+          __icon: crwdns61296:0crwdne61296:0
+          description: crwdns61298:0crwdne61298:0
+    #statistics:
+    #__link: /network/statistics
+    #name: Statistics
+    mining:
+      __link: crwdns61300:0crwdne61300:0
+      __icon: crwdns61302:0crwdne61302:0
+      name: crwdns61304:0crwdne61304:0
+      description: crwdns61306:0crwdne61306:0
+      navItems:
+        hardware:
+          __link: crwdns61308:0crwdne61308:0
+          name: crwdns61310:0crwdne61310:0
+          __icon: crwdns61312:0crwdne61312:0
+          description: crwdns61314:0crwdne61314:0
+        software:
+          __link: crwdns61316:0crwdne61316:0
+          name: crwdns61318:0crwdne61318:0
+          longName: crwdns61320:0crwdne61320:0
+          __icon: crwdns61322:0crwdne61322:0
+          description: crwdns61324:0crwdne61324:0
+        pools:
+          __link: crwdns61326:0crwdne61326:0
+          name: crwdns61328:0crwdne61328:0
+          longName: crwdns61330:0crwdne61330:0
+          __icon: crwdns61332:0crwdne61332:0
+          description: crwdns61334:0crwdne61334:0
+    develop:
+      __link: crwdns61336:0crwdne61336:0
+      __icon: crwdns61338:0crwdne61338:0
+      name: crwdns61340:0crwdne61340:0
+      description: crwdns61342:0crwdne61342:0
+      navItems:
+        development:
+          __link: crwdns61344:0crwdne61344:0
+          name: crwdns61346:0crwdne61346:0
+          longName: crwdns61348:0crwdne61348:0
+          description: crwdns61350:0crwdne61350:0
+          __icon: crwdns61352:0crwdne61352:0
+        clients:
+          __link: crwdns61354:0crwdne61354:0
+          name: crwdns61356:0crwdne61356:0
+          __icon: crwdns61358:0crwdne61358:0
+          description: crwdns61360:0crwdne61360:0
+        testnets:
+          __link: crwdns61362:0crwdne61362:0
+          name: crwdns61364:0crwdne61364:0
+          __icon: crwdns61366:0crwdne61366:0
+          description: crwdns61368:0crwdne61368:0
+        tooling:
+          __link: crwdns61370:0crwdne61370:0
+          name: crwdns61372:0crwdne61372:0
+          longName: crwdns61374:0crwdne61374:0
+          __icon: crwdns61376:0crwdne61376:0
+          description: crwdns61378:0crwdne61378:0
+        repos:
+          __link: crwdns61380:0crwdne61380:0
+          name: crwdns61382:0crwdne61382:0
+          __icon: crwdns61384:0crwdne61384:0
+          longName: crwdns61386:0crwdne61386:0
+          description: crwdns61388:0crwdne61388:0
+        ecips:
+          __link: crwdns61390:0crwdne61390:0
+          name: crwdns61392:0crwdne61392:0
+          description: crwdns61394:0crwdne61394:0
+          __icon: crwdns61396:0crwdne61396:0
+news:
+  __hideMobile: 0
+  __link: crwdns61400:0crwdne61400:0
+  name: crwdns61402:0crwdne61402:0
+extra:
+  __hideTop: 0
+  name: crwdns61406:0crwdne61406:0
+  navItems:
+    news:
+      __link: crwdns61408:0crwdne61408:0
+      __icon: crwdns61410:0crwdne61410:0
+      name: crwdns61412:0crwdne61412:0
+    blog:
+      __link: crwdns61414:0crwdne61414:0
+      __icon: crwdns61416:0crwdne61416:0
+      name: crwdns61418:0crwdne61418:0
+    about:
+      __link: crwdns61420:0crwdne61420:0
+      __icon: crwdns61422:0crwdne61422:0
+      name: crwdns61424:0crwdne61424:0
+    rss:
+      __link: crwdns61426:0crwdne61426:0
+      __icon: crwdns61428:0crwdne61428:0
+      name: crwdns61430:0crwdne61430:0
+    siteMap:
+      __link: crwdns61432:0crwdne61432:0
+      __icon: crwdns61434:0crwdne61434:0
+      name: crwdns61436:0crwdne61436:0
