@@ -22,7 +22,6 @@ billboard:
     Permisionless: "无权限"
 ## feature
 feature:
-  __icon: question
   title: 常见问题
   subtitle: 新部门
   text: 通过浏览按使用情况组织的 "常见问题"，快速找到你正在寻找的答案。
@@ -39,7 +38,6 @@ intro:
 
     欢迎你，并请你发现Ethereum Classic的过去、现在和未来；它的原则、价值主张、社区等等--了解*为什么是Classic*。
   button:
-    __link: /why-classic
     text: 为什么是经典？
 #Headers
 headings:
@@ -52,26 +50,3 @@ headings:
   apps:
     title: 最新应用
     button: 所有应用程序
-#list of contributors that contributed to general web maintenance that is not page specific
-__contributors:
-  - flotob
-  - saturn-network
-  - realcodywburns
-  - Zorlin
-  - cicorias
-  - redsn0w0
-  - pyskell
-  - bobsummerwill
-  - dax-classix
-  - arvicco
-  - ProphetDaniel
-  - lenon461
-  - mikeyb
-  - FlipFloop
-  - brolal
-  - nargotik
-  - q9f
-  - w1g0
-  - IstoraMandiri
-  - TheEnthusiasticAs
-  - gitr0n1n
