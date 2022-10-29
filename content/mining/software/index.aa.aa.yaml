@@ -1,0 +1,173 @@
+title: crwdns80728:0crwdne80728:0
+__updated: crwdns80730:0crwdne80730:0
+__contribute: 0
+seo: crwdns80734:0crwdne80734:0
+description: "crwdns80736:0[ETCHash]crwdne80736:0"
+__contributors:
+  - crwdns80738:0crwdne80738:0
+  - crwdns80740:0crwdne80740:0
+  - crwdns80742:0crwdne80742:0
+items:
+  table:
+    __type: crwdns80744:0crwdne80744:0
+    columnItems:
+      name:
+        name: crwdns80746:0crwdne80746:0
+        __linkRef: crwdns80748:0crwdne80748:0
+      windowsAmd:
+        name: crwdns80750:0crwdne80750:0
+        __checkRef: crwdns80752:0crwdne80752:0
+      windowsNvidia:
+        name: crwdns80754:0crwdne80754:0
+        __checkRef: crwdns80756:0crwdne80756:0
+      linuxAmd:
+        name: crwdns80758:0crwdne80758:0
+        __checkRef: crwdns80760:0crwdne80760:0
+      linuxNvidia:
+        name: crwdns80762:0crwdne80762:0
+        __checkRef: crwdns80764:0crwdne80764:0
+      guide:
+        text: crwdns80766:0crwdne80766:0
+        __linkRef: crwdns80768:0crwdne80768:0
+        __icon: crwdns80770:0crwdne80770:0
+    items:
+      Cruxminer:
+        __name: "crwdns80772:0crwdne80772:0"
+        __link: crwdns80774:0crwdne80774:0
+        __guide: crwdns80776:0crwdne80776:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+      GMiner:
+        __name: "crwdns80782:0crwdne80782:0"
+        __link: crwdns80784:0crwdne80784:0
+        __guide: crwdns80786:0crwdne80786:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      lolMiner:
+        __name: "crwdns80796:0crwdne80796:0"
+        __link: crwdns80798:0crwdne80798:0
+        __guide: crwdns80800:0crwdne80800:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      Nanominer:
+        __name: "crwdns80810:0crwdne80810:0"
+        __link: crwdns80812:0crwdne80812:0
+        __guide: crwdns80814:0crwdne80814:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      NBMiner:
+        __name: "crwdns80824:0crwdne80824:0"
+        __link: crwdns80826:0crwdne80826:0
+        __guide: crwdns80828:0crwdne80828:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      OpenETC Pool:
+        __name: "crwdns80838:0crwdne80838:0"
+        __link: crwdns80840:0crwdne80840:0
+        __guide: crwdns80842:0crwdne80842:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      Phoenix Miner:
+        __name: "crwdns80852:0crwdne80852:0"
+        __link: crwdns80854:0crwdne80854:0
+        __guide: crwdns80856:0crwdne80856:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      SRBMiner-Multi:
+        __name: "crwdns80866:0crwdne80866:0"
+        __link: crwdns80868:0crwdne80868:0
+        __guide: crwdns80870:0crwdne80870:0
+        __windowsAmd: 0
+        __linuxAmd: 0
+      T-Rex Miner:
+        __name: "crwdns80876:0crwdne80876:0"
+        __link: crwdns80878:0crwdne80878:0
+        __guide: crwdns80880:0crwdne80880:0
+        __windowsNvidia: 0
+        __linuxNvidia: 0
+      TeamRedMiner:
+        __name: "crwdns80886:0crwdne80886:0"
+        __link: crwdns80888:0crwdne80888:0
+        __guide: crwdns80890:0crwdne80890:0
+        __windowsAmd: 0
+        __linuxAmd: 0
+      TT-Miner:
+        __name: "crwdns80896:0crwdne80896:0"
+        __link: crwdns80898:0crwdne80898:0
+        __guide: crwdns80900:0crwdne80900:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      AwesomeMiner:
+        __name: "crwdns80910:0crwdne80910:0"
+        __link: crwdns80912:0crwdne80912:0
+        __guide: crwdns80914:0crwdne80914:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      HiveOS:
+        __name: "crwdns80920:0crwdne80920:0"
+        __link: crwdns80922:0crwdne80922:0
+        __guide: crwdns80924:0crwdne80924:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      MinerStat:
+        __name: "crwdns80930:0crwdne80930:0"
+        __link: crwdns80932:0crwdne80932:0
+        __guide: crwdns80934:0crwdne80934:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      MMP OS:
+        __name: "crwdns80944:0crwdne80944:0"
+        __link: crwdns80946:0crwdne80946:0
+        __guide: crwdns80948:0crwdne80948:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      NiceHash:
+        __name: "crwdns80958:0crwdne80958:0"
+        __link: crwdns80960:0crwdne80960:0
+        __guide: crwdns80962:0crwdne80962:0
+        __windowsAmd: 0
+        __windowsNvidia: 0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      PiMPOS:
+        __name: "crwdns80972:0crwdne80972:0"
+        __link: crwdns80974:0crwdne80974:0
+        __guide: crwdns80976:0crwdne80976:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      RaveOS:
+        __name: "crwdns80982:0crwdne80982:0"
+        __link: crwdns80984:0crwdne80984:0
+        __guide: crwdns80986:0crwdne80986:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      SimpleMining:
+        __name: "crwdns80992:0crwdne80992:0"
+        __link: crwdns80994:0crwdne80994:0
+        __guide: crwdns80996:0crwdne80996:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
+      Stratums:
+        __name: "crwdns81002:0crwdne81002:0"
+        __link: crwdns81004:0crwdne81004:0
+        __guide: crwdns81006:0crwdne81006:0
+        __linuxAmd: 0
+        __linuxNvidia: 0
