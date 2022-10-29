@@ -5,7 +5,6 @@ __contribute: true
 description: 想了解如何在Ethereum Classic之上建立一个应用程序或协议？本页是为你准备的。
 items:
   questions:
-    __type: questions
     items:
       types:
         question: 我可以在ETC上构建什么样的应用程序？
