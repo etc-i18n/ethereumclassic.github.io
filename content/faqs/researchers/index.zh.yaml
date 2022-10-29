@@ -5,7 +5,6 @@ description: 如果你刚刚听说过Ethereum Classic并想了解更多，或者
 __contribute: true
 items:
   questions:
-    __type: questions
     items:
       what:
         question: 什么是Ethereum Classic？
