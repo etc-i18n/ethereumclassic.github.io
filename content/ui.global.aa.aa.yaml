@@ -1,0 +1,138 @@
+title: crwdns82946:0crwdne82946:0
+seo: "crwdns82948:0crwdne82948:0"
+#Used by og:locale meta tag https://developer.yoast.com/features/opengraph/api/changing-og-locale-output/
+metaLocale: crwdns82950:0crwdne82950:0
+#Used in the <html> tag https://www.w3schools.com/tags/ref_language_codes.asp
+htmlLang: crwdns82952:0crwdne82952:0
+published: crwdns82954:0crwdne82954:0
+updated: crwdns82956:0crwdne82956:0
+author: crwdns82958:0crwdne82958:0
+timeline:
+  chronological: crwdns82960:0crwdne82960:0
+  reversed: crwdns82962:0crwdne82962:0
+disclaimers:
+  verify:
+    title: crwdns82964:0crwdne82964:0
+    text: crwdns82966:0crwdne82966:0
+  opinion:
+    title: crwdns82968:0crwdne82968:0
+    text: crwdns82970:0crwdne82970:0
+next: crwdns82972:0crwdne82972:0
+prev: crwdns82974:0crwdne82974:0
+contribute: crwdns82976:0[Discord]crwdnd82976:0[GitHub]crwdne82976:0
+contributors: "crwdns82978:0crwdne82978:0"
+allLanguages: crwdns82980:0crwdne82980:0
+noResults: crwdns82982:0crwdne82982:0
+netlify: crwdns82984:0crwdne82984:0
+metaMask: crwdns82986:0crwdne82986:0
+helpTranslate: crwdns82988:0crwdne82988:0
+noItems: crwdns82990:0crwdne82990:0
+search:
+  box: crwdns82992:0crwdne82992:0
+  noResults: crwdns82994:0crwdne82994:0
+  poweredBy: crwdns82996:0crwdne82996:0
+  generalInfo: crwdns82998:0crwdne82998:0
+  blogArticles: crwdns83000:0crwdne83000:0
+  videos: crwdns83002:0crwdne83002:0
+  applications: crwdns83004:0crwdne83004:0
+  newsLinks: crwdns83006:0crwdne83006:0
+  txSearch: crwdns83008:0crwdne83008:0
+  blockScout: "crwdns83010:0crwdne83010:0"
+  explorers: crwdns83012:0crwdne83012:0
+##
+## Announcement Banner
+announcement:
+  __color: crwdns83014:0crwdne83014:0
+  __enabled: 0
+  __allPages: 0
+  __alli18nPages: 0
+  __icon: crwdns83022:0crwdne83022:0
+  text: |
+    crwdns83024:0crwdne83024:0
+  button:
+    __link: 'crwdns83026:0crwdne83026:0'
+    text: "crwdns83028:0crwdne83028:0"
+## Footer
+signOff: crwdns83030:0crwdne83030:0
+socialHilight: crwdns83032:0crwdne83032:0
+socialItems:
+  discord:
+    __link: crwdns83034:0crwdne83034:0
+    __icon: crwdns83036:0crwdne83036:0
+    __hilight: 0
+    name: crwdns83040:0crwdne83040:0
+  discordCoop:
+    __link: crwdns83042:0crwdne83042:0
+    __icon: crwdns83044:0crwdne83044:0
+    name: crwdns83046:0crwdne83046:0
+  githubOrg:
+    __link: crwdns83048:0crwdne83048:0
+    __icon: crwdns83050:0crwdne83050:0
+    name: crwdns83052:0crwdne83052:0
+  githubLabs:
+    __link: crwdns83054:0crwdne83054:0
+    __icon: crwdns83056:0crwdne83056:0
+    name: crwdns83058:0crwdne83058:0
+  reddit:
+    __link: crwdns83060:0crwdne83060:0
+    __icon: crwdns83062:0crwdne83062:0
+    name: crwdns83064:0crwdne83064:0
+  twitter:
+    __link: crwdns83066:0crwdne83066:0
+    __icon: crwdns83068:0crwdne83068:0
+    name: crwdns83070:0crwdne83070:0
+appTypes:
+  finance:
+    __color: crwdns83072:0crwdne83072:0
+    __icon: crwdns83074:0crwdne83074:0
+    name: crwdns83076:0crwdne83076:0
+  games:
+    __icon: crwdns83078:0crwdne83078:0
+    __color: crwdns83080:0crwdne83080:0
+    name: crwdns83082:0crwdne83082:0
+  identity:
+    __icon: crwdns83084:0crwdne83084:0
+    __color: crwdns83086:0crwdne83086:0
+    name: crwdns83088:0crwdne83088:0
+  interoperability:
+    __icon: crwdns83090:0crwdne83090:0
+    __color: crwdns83092:0crwdne83092:0
+    name: crwdns83094:0crwdne83094:0
+  nfts:
+    __icon: crwdns83096:0crwdne83096:0
+    __color: crwdns83098:0crwdne83098:0
+    name: crwdns83100:0crwdne83100:0
+  other:
+    __icon: crwdns83102:0crwdne83102:0
+    __color: crwdns83104:0crwdne83104:0
+    name: crwdns83106:0crwdne83106:0
+appLinks:
+  homepage: crwdns83108:0crwdne83108:0
+  app: crwdns83110:0crwdne83110:0
+  twitter: crwdns83112:0crwdne83112:0
+  github: crwdns83114:0crwdne83114:0
+newsTypes:
+  news:
+    name: crwdns83116:0crwdne83116:0
+    __icon: crwdns83118:0crwdne83118:0
+  blog:
+    name: crwdns83120:0crwdne83120:0
+    __icon: crwdns83122:0crwdne83122:0
+  application:
+    name: crwdns83124:0crwdne83124:0
+    prefix: "crwdns83126:0crwdne83126:0"
+    __icon: crwdns83128:0crwdne83128:0
+  video:
+    name: crwdns83130:0crwdne83130:0
+    prefix: "crwdns83132:0crwdne83132:0"
+    __icon: crwdns83134:0crwdne83134:0
+## App Modal
+appModal:
+  verifiedContract: crwdns83136:0crwdne83136:0
+  openSource: crwdns83138:0crwdne83138:0
+  audit: crwdns83140:0crwdne83140:0
+  testSuite: crwdns83142:0crwdne83142:0
+  ipfsFrontend: crwdns83144:0crwdne83144:0
+  checkListRating: crwdns83146:0crwdne83146:0
+  warning: "crwdns83148:0crwdne83148:0"
+  added: crwdns83150:0crwdne83150:0
