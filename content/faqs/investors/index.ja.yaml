@@ -8,7 +8,7 @@ items:
       trade:
         question: ETCはどこで購入・取引できますか？
         answer: |
-          イーサリアムクラシックは、主要な（そしてマイナーな）取引所のほとんどに上場されており、オンチェーンDEXもあります。詳しくは [exchanges](/services/exchanges) セクションで確認できます。
+          イーサリアムクラシックは、主要な(そしてマイナーな)取引所のほとんどに上場されており、オンチェーンDEXもあります。詳しくは [exchanges](/services/exchanges) セクションで確認できます。
       policy:
         question: ETCの金融政策について教えてください。
         answer: |
