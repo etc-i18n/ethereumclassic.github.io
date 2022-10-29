@@ -5,7 +5,6 @@ __contribute: true
 description: 如果你想了解参与Ethereum Classic社区的情况，你就来对地方了。
 items:
   questions:
-    __type: questions
     items:
       developer:
         question: 我需要成为一名开发人员来为Ethereum Classic做贡献吗？
