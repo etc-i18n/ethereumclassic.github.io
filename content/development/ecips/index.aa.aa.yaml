@@ -1,0 +1,58 @@
+items:
+  table:
+    __type: crwdns76644:0crwdne76644:0
+    number: crwdns76646:0crwdne76646:0
+    author: crwdns76648:0crwdne76648:0
+    columnItems:
+      number:
+        __name: "crwdns76650:0crwdne76650:0"
+        __linkPrefix: crwdns76652:0crwdne76652:0
+      title:
+        name: crwdns76654:0crwdne76654:0
+      author:
+        name: crwdns76656:0crwdne76656:0
+    items:
+      Delay Difficulty Bomb Explosion:
+        __number: "crwdns76658:0crwdne76658:0"
+        title: crwdns76660:0crwdne76660:0
+        __author: crwdns76662:0crwdne76662:0
+      Long-term gas cost changes for IO-heavy operations to mitigate transaction spam attacks:
+        __number: "crwdns76664:0crwdne76664:0"
+        title: crwdns76666:0crwdne76666:0
+        __author: crwdns76668:0crwdne76668:0
+      Monetary Policy and Final Modification to the Ethereum Classic Emission Schedule:
+        __number: "crwdns76670:0crwdne76670:0"
+        title: crwdns76672:0crwdne76672:0
+        __author: crwdns76674:0crwdne76674:0
+      Monetary policy rounding specification:
+        __number: "crwdns76676:0crwdne76676:0"
+        title: crwdns76678:0crwdne76678:0
+        __author: crwdns76680:0crwdne76680:0
+      Remove Difficulty Bomb:
+        __number: "crwdns76682:0crwdne76682:0"
+        title: crwdns76684:0crwdne76684:0
+        __author: crwdns76686:0crwdne76686:0
+      Clique proof-of-authority consensus protocol:
+        __number: "crwdns76688:0crwdne76688:0"
+        title: crwdns76690:0crwdne76690:0
+        __author: crwdns76692:0crwdne76692:0
+      Status Codes:
+        __number: "crwdns76694:0crwdne76694:0"
+        title: crwdns76696:0crwdne76696:0
+        __author: crwdns76698:0crwdne76698:0
+      Atlantis EVM and Protocol Upgrades:
+        __number: "crwdns76700:0crwdne76700:0"
+        title: crwdns76702:0crwdne76702:0
+        __author: crwdns76704:0crwdne76704:0
+      Agharta EVM and Protocol Upgrades:
+        __number: "crwdns76706:0crwdne76706:0"
+        title: crwdns76708:0crwdne76708:0
+        __author: crwdns76710:0crwdne76710:0
+      Phoenix EVM and Protocol Upgrades:
+        __number: "crwdns76712:0crwdne76712:0"
+        title: crwdns76714:0crwdne76714:0
+        __author: crwdns76716:0crwdne76716:0
+      Calibrate Epoch Duration:
+        __number: "crwdns76718:0crwdne76718:0"
+        title: crwdns76720:0crwdne76720:0
+        __author: crwdns76722:0crwdne76722:0
