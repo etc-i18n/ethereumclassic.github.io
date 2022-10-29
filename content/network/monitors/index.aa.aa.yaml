@@ -1,0 +1,76 @@
+title: crwdns77288:0crwdne77288:0
+__updated: crwdns77290:0crwdne77290:0
+__contribute: 0
+seo: crwdns77294:0crwdne77294:0
+description: |
+  crwdns77296:0crwdne77296:0
+__contributors:
+  - crwdns77298:0crwdne77298:0
+  - crwdns77300:0crwdne77300:0
+  - crwdns77302:0crwdne77302:0
+  - crwdns77304:0crwdne77304:0
+  - crwdns77306:0crwdne77306:0
+  - crwdns77308:0crwdne77308:0
+  - crwdns77310:0crwdne77310:0
+  - crwdns77312:0crwdne77312:0
+  - crwdns77314:0crwdne77314:0
+items:
+  monitors:
+    __type: crwdns77316:0crwdne77316:0
+    items:
+      etc-network.info:
+        __name: crwdns77318:0crwdne77318:0
+        __link: crwdns77320:0crwdne77320:0
+        description: crwdns77322:0crwdne77322:0
+      ETCNodes:
+        __name: crwdns77324:0crwdne77324:0
+        __link: crwdns77326:0crwdne77326:0
+        description: crwdns77328:0crwdne77328:0
+      2Miners:
+        __name: crwdns77330:0crwdne77330:0
+        __link: crwdns77332:0crwdne77332:0
+        description: crwdns77334:0crwdne77334:0
+      CoinMetrics:
+        __name: crwdns77336:0crwdne77336:0
+        __link: 'crwdns77338:0crwdne77338:0'
+        description: crwdns77340:0crwdne77340:0
+      CoinWarz:
+        __name: crwdns77342:0crwdne77342:0
+        __link: crwdns77344:0crwdne77344:0
+        description: crwdns77346:0crwdne77346:0
+      Emerald Insights:
+        __name: crwdns77348:0crwdne77348:0
+        __link: crwdns77350:0crwdne77350:0
+        description: crwdns77352:0crwdne77352:0
+      ForkWatch:
+        __name: crwdns77354:0crwdne77354:0
+        __link: crwdns77356:0crwdne77356:0
+        description: crwdns77358:0crwdne77358:0
+      MiningPoolStats:
+        __name: crwdns77360:0crwdne77360:0
+        __link: crwdns77362:0crwdne77362:0
+        description: crwdns77364:0crwdne77364:0
+      Nanopool:
+        __name: crwdns77366:0crwdne77366:0
+        __link: crwdns77368:0crwdne77368:0
+        description: crwdns77370:0crwdne77370:0
+      PoolDetective:
+        __name: crwdns77372:0crwdne77372:0
+        __link: crwdns77374:0crwdne77374:0
+        description: crwdns77376:0crwdne77376:0
+      TokenView:
+        __name: crwdns77378:0crwdne77378:0
+        __link: crwdns77380:0crwdne77380:0
+        description: crwdns77382:0crwdne77382:0
+      WhatToMine:
+        __name: crwdns77384:0crwdne77384:0
+        __link: crwdns77386:0crwdne77386:0
+        description: crwdns77388:0crwdne77388:0
+      Kotti Stats:
+        __name: crwdns77390:0crwdne77390:0
+        __kotti: crwdns77392:0crwdne77392:0
+        description: crwdns77394:0crwdne77394:0
+      ua-mining:
+        __name: crwdns77396:0crwdne77396:0
+        __link: crwdns77398:0crwdne77398:0
+        description: crwdns77400:0crwdne77400:0
