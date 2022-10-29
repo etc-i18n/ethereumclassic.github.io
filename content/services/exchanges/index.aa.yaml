@@ -1,0 +1,475 @@
+__contribute: 0
+__disclaimer: crwdns61876:0crwdne61876:0
+__updated: crwdns61878:0crwdne61878:0
+title: crwdns61880:0crwdne61880:0
+__contributors:
+  - crwdns61882:0crwdne61882:0
+  - crwdns61884:0crwdne61884:0
+  - crwdns61886:0crwdne61886:0
+  - crwdns61888:0crwdne61888:0
+  - crwdns61890:0crwdne61890:0
+  - crwdns61892:0crwdne61892:0
+  - crwdns61894:0crwdne61894:0
+  - crwdns61896:0crwdne61896:0
+  - crwdns61898:0crwdne61898:0
+  - crwdns61900:0crwdne61900:0
+  - crwdns61902:0crwdne61902:0
+  - crwdns61904:0crwdne61904:0
+  - crwdns61906:0crwdne61906:0
+  - crwdns61908:0crwdne61908:0
+seo: crwdns61910:0crwdne61910:0
+description: |
+  crwdns61912:0crwdne61912:0
+items:
+  Trust-Minimizing Exchanges:
+    __type: crwdns61914:0crwdne61914:0
+    title: crwdns61916:0crwdne61916:0
+    description: crwdns61918:0crwdne61918:0
+    items:
+      dYdX:
+        __link: crwdns61920:0crwdne61920:0
+        __name: crwdns61922:0crwdne61922:0
+      ETCSwap:
+        __link: crwdns61924:0crwdne61924:0
+        __name: crwdns61926:0crwdne61926:0
+      Fusion:
+        __link: crwdns61928:0crwdne61928:0
+        __name: crwdns61930:0crwdne61930:0
+      HebeSwap:
+        __link: crwdns61932:0crwdne61932:0
+        __name: crwdns61934:0crwdne61934:0
+      PancakeSwap:
+        __link: crwdns61936:0crwdne61936:0
+        __name: crwdns61938:0crwdne61938:0
+      Soy Finance:
+        __link: crwdns61940:0crwdne61940:0
+        __name: crwdns61942:0crwdne61942:0
+  Centralized Spot Markets:
+    __type: crwdns61944:0crwdne61944:0
+    title: crwdns61946:0crwdne61946:0
+    items:
+      AAX:
+        __link: crwdns61948:0crwdne61948:0
+        __name: crwdns61950:0crwdne61950:0
+      AscendEX:
+        __link: crwdns61952:0crwdne61952:0
+        __name: crwdns61954:0crwdne61954:0
+      Bequant:
+        __link: crwdns61956:0crwdne61956:0
+        __name: crwdns61958:0crwdne61958:0
+      Bibox:
+        __link: crwdns61960:0crwdne61960:0
+        __name: crwdns61962:0crwdne61962:0
+      BigONE:
+        __link: crwdns61964:0crwdne61964:0
+        __name: crwdns61966:0crwdne61966:0
+      Binance:
+        __link: crwdns61968:0crwdne61968:0
+        __name: crwdns61970:0crwdne61970:0
+      Binance TR:
+        __link: crwdns61972:0crwdne61972:0
+        __name: crwdns61974:0crwdne61974:0
+      Binance US:
+        __link: crwdns61976:0crwdne61976:0
+        __name: crwdns61978:0crwdne61978:0
+      BingX:
+        __link: crwdns61980:0crwdne61980:0
+        __name: crwdns61982:0crwdne61982:0
+      Bit-com:
+        __link: crwdns61984:0crwdne61984:0
+        __name: crwdns61986:0crwdne61986:0
+      Bitbns:
+        __link: crwdns61988:0crwdne61988:0
+        __name: crwdns61990:0crwdne61990:0
+      Bitcoin IRA:
+        __link: crwdns61992:0crwdne61992:0
+        __name: crwdns61994:0crwdne61994:0
+      Bitfinex:
+        __link: crwdns61996:0crwdne61996:0
+        __name: crwdns61998:0crwdne61998:0
+      Bitforex:
+        __link: crwdns62000:0crwdne62000:0
+        __name: crwdns62002:0crwdne62002:0
+      Bitget:
+        __link: crwdns62004:0crwdne62004:0
+        __name: crwdns62006:0crwdne62006:0
+      Bithumb:
+        __link: crwdns62008:0crwdne62008:0
+        __name: crwdns62010:0crwdne62010:0
+      BitMart:
+        __link: crwdns62012:0crwdne62012:0
+        __name: crwdns62014:0crwdne62014:0
+      BitMax:
+        __link: crwdns62016:0crwdne62016:0
+        __name: crwdns62018:0crwdne62018:0
+      Bitpanda:
+        __link: crwdns62020:0crwdne62020:0
+        __name: crwdns62022:0crwdne62022:0
+      Bitrue:
+        __link: crwdns62024:0crwdne62024:0
+        __name: crwdns62026:0crwdne62026:0
+      Bittrex:
+        __link: crwdns62028:0crwdne62028:0
+        __name: crwdns62030:0crwdne62030:0
+      Bittrex Global:
+        __link: crwdns62032:0crwdne62032:0
+        __name: crwdns62034:0crwdne62034:0
+      Bitvavo:
+        __link: crwdns62036:0crwdne62036:0
+        __name: crwdns62038:0crwdne62038:0
+      BKEX:
+        __link: crwdns62040:0crwdne62040:0
+        __name: crwdns62042:0crwdne62042:0
+      BTC Markets:
+        __link: crwdns62044:0crwdne62044:0
+        __name: crwdns62046:0crwdne62046:0
+      Bybit:
+        __link: crwdns62048:0crwdne62048:0
+        __name: crwdns62050:0crwdne62050:0
+      BtcTurk:
+        __link: crwdns62052:0crwdne62052:0
+        __name: crwdns62054:0crwdne62054:0
+      CAT.EX:
+        __link: crwdns62056:0crwdne62056:0
+        __name: crwdns62058:0crwdne62058:0
+      Coinbase:
+        __link: crwdns62060:0crwdne62060:0
+        __name: crwdns62062:0crwdne62062:0
+      CoinDCX:
+        __link: crwdns62064:0crwdne62064:0
+        __name: crwdns62066:0crwdne62066:0
+      CoinEx:
+        __link: crwdns62068:0crwdne62068:0
+        __name: crwdns62070:0crwdne62070:0
+      CoinLore:
+        __link: crwdns62072:0crwdne62072:0
+        __name: crwdns62074:0crwdne62074:0
+      Coinone:
+        __link: crwdns62076:0crwdne62076:0
+        __name: crwdns62078:0crwdne62078:0
+      Coinsbit:
+        __link: crwdns62080:0crwdne62080:0
+        __name: crwdns62082:0crwdne62082:0
+      CoinTiger:
+        __link: crwdns62084:0crwdne62084:0
+        __name: crwdns62086:0crwdne62086:0
+      Coinut:
+        __link: crwdns62088:0crwdne62088:0
+        __name: crwdns62090:0crwdne62090:0
+      Crex24:
+        __link: crwdns62092:0crwdne62092:0
+        __name: crwdns62094:0crwdne62094:0
+      Crypto_com:
+        __link: crwdns62096:0crwdne62096:0
+        __name: crwdns62098:0crwdne62098:0
+      DCoin:
+        __link: crwdns62100:0crwdne62100:0
+        __name: crwdns62102:0crwdne62102:0
+      DEX-Trade:
+        __link: crwdns62104:0crwdne62104:0
+        __name: crwdns62106:0crwdne62106:0
+      DigiFinex:
+        __link: crwdns62108:0crwdne62108:0
+        __name: crwdns62110:0crwdne62110:0
+      Digital Financial Exchange:
+        __link: crwdns62112:0crwdne62112:0
+        __name: crwdns62114:0crwdne62114:0
+      DigitalExchange_id:
+        __link: crwdns62116:0crwdne62116:0
+        __name: crwdns62118:0crwdne62118:0
+      eToro:
+        __link: crwdns62120:0crwdne62120:0
+        __name: crwdns62122:0crwdne62122:0
+      eToroX:
+        __link: crwdns62124:0crwdne62124:0
+        __name: crwdns62126:0crwdne62126:0
+      EXMO:
+        __link: crwdns62128:0crwdne62128:0
+        __name: crwdns62130:0crwdne62130:0
+      FatBTC:
+        __link: crwdns62132:0%2Fcrwdne62132:0
+        __name: crwdns62134:0crwdne62134:0
+      FinexBox:
+        __link: crwdns62136:0crwdne62136:0
+        __name: crwdns62138:0crwdne62138:0
+      Gate_io:
+        __link: crwdns62140:0crwdne62140:0
+        __name: crwdns62142:0crwdne62142:0
+      HitBTC:
+        __link: crwdns62144:0crwdne62144:0
+        __name: crwdns62146:0crwdne62146:0
+      Hoo:
+        __link: crwdns62148:0crwdne62148:0
+        __name: crwdns62150:0crwdne62150:0
+      HotBit:
+        __link: crwdns62152:0crwdne62152:0
+        __name: crwdns62154:0crwdne62154:0
+      Huobi Global:
+        __link: crwdns62156:0crwdne62156:0
+        __name: crwdns62158:0crwdne62158:0
+      Independent Reserve:
+        __link: crwdns62160:0crwdne62160:0
+        __name: crwdns62162:0crwdne62162:0
+      Indodax:
+        __link: crwdns62164:0crwdne62164:0
+        __name: crwdns62166:0crwdne62166:0
+      Kanga:
+        __link: crwdns62168:0crwdne62168:0
+        __name: crwdns62170:0crwdne62170:0
+      KickEX:
+        __link: crwdns62172:0crwdne62172:0
+        __name: crwdns62174:0crwdne62174:0
+      Korbit:
+        __link: crwdns62176:0crwdne62176:0
+        __name: crwdns62178:0crwdne62178:0
+      Kraken:
+        __link: crwdns62180:0crwdne62180:0
+        __name: crwdns62182:0crwdne62182:0
+      Kucoin:
+        __link: crwdns62184:0crwdne62184:0
+        __name: crwdns62186:0crwdne62186:0
+      LATOKEN:
+        __link: crwdns62188:0crwdne62188:0
+        __name: crwdns62190:0crwdne62190:0
+      LBank:
+        __link: crwdns62192:0crwdne62192:0
+        __name: crwdns62194:0crwdne62194:0
+      LiteBit:
+        __link: crwdns62196:0crwdne62196:0
+        __name: crwdns62198:0crwdne62198:0
+      LocalTrade:
+        __link: crwdns62200:0crwdne62200:0
+        __name: crwdns62202:0crwdne62202:0
+      Mandala:
+        __link: crwdns62204:0crwdne62204:0
+        __name: crwdns62206:0crwdne62206:0
+      MEXC:
+        __link: crwdns62208:0crwdne62208:0
+        __name: crwdns62210:0crwdne62210:0
+      NovaDAX:
+        __link: crwdns62212:0crwdne62212:0
+        __name: crwdns62214:0crwdne62214:0
+      OceanEx:
+        __link: crwdns62216:0crwdne62216:0
+        __name: crwdns62218:0crwdne62218:0
+      OKCoin:
+        __link: crwdns62220:0crwdne62220:0
+        __name: crwdns62222:0crwdne62222:0
+      OKX:
+        __link: crwdns62224:0crwdne62224:0
+        __name: crwdns62226:0crwdne62226:0
+      OKex Korea:
+        __link: crwdns62228:0crwdne62228:0
+        __name: crwdns62230:0crwdne62230:0
+      P2B:
+        __link: crwdns62232:0crwdne62232:0
+        __name: crwdns62234:0crwdne62234:0
+      Phemex:
+        __link: crwdns62236:0crwdne62236:0
+        __name: crwdns62238:0crwdne62238:0
+      Poloniex:
+        __link: crwdns62240:0crwdne62240:0
+        __name: crwdns62242:0crwdne62242:0
+      ProBit:
+        __link: crwdns62244:0crwdne62244:0
+        __name: crwdns62246:0crwdne62246:0
+      ProBit Global:
+        __link: crwdns62248:0crwdne62248:0
+        __name: crwdns62250:0crwdne62250:0
+      SouthXchange:
+        __link: crwdns62252:0crwdne62252:0
+        __name: crwdns62254:0crwdne62254:0
+      STEX:
+        __link: crwdns62256:0crwdne62256:0
+        __name: crwdns62258:0crwdne62258:0
+      Tidex:
+        __link: crwdns62260:0crwdne62260:0
+        __name: crwdns62262:0crwdne62262:0
+      Tokocrypto:
+        __link: crwdns62264:0crwdne62264:0
+        __name: crwdns62266:0crwdne62266:0
+      Upbit:
+        __link: crwdns62268:0crwdne62268:0
+        __name: crwdns62270:0crwdne62270:0
+      WazirX:
+        __link: crwdns62272:0crwdne62272:0
+        __name: crwdns62274:0crwdne62274:0
+      WhiteBIT:
+        __link: crwdns62276:0crwdne62276:0
+        __name: crwdns62278:0crwdne62278:0
+      YoBit:
+        __link: crwdns62280:0crwdne62280:0
+        __name: crwdns62282:0crwdne62282:0
+      XT-com:
+        __link: crwdns62284:0crwdne62284:0
+        __name: crwdns62286:0crwdne62286:0
+      ZB:
+        __link: crwdns62288:0crwdne62288:0
+        __name: crwdns62290:0crwdne62290:0
+      ZBG:
+        __link: crwdns62292:0crwdne62292:0
+        __name: crwdns62294:0crwdne62294:0
+  Centralized Derivative Markets:
+    __type: crwdns62296:0crwdne62296:0
+    title: crwdns62298:0crwdne62298:0
+    items:
+      AAX_Perp:
+        __link: crwdns62300:0crwdne62300:0
+        __name: crwdns62302:0crwdne62302:0
+      AscendEX_Perp:
+        __link: crwdns62304:0crwdne62304:0
+        __name: crwdns62306:0crwdne62306:0
+      Bibox_Perp:
+        __link: crwdns62308:0crwdne62308:0
+        __name: crwdns62310:0crwdne62310:0
+      Binance_Perp:
+        __link: crwdns62312:0crwdne62312:0
+        __name: crwdns62314:0crwdne62314:0
+      BingX_Perp:
+        __link: crwdns62316:0crwdne62316:0
+        __name: crwdns62318:0crwdne62318:0
+      Bit_com_Perp:
+        __link: crwdns62320:0crwdne62320:0
+        __name: crwdns62322:0crwdne62322:0
+      Bitfinex_Perp:
+        __link: crwdns62324:0crwdne62324:0
+        __name: crwdns62326:0crwdne62326:0
+      Bitget_Perp:
+        __link: crwdns62328:0crwdne62328:0
+        __name: crwdns62330:0crwdne62330:0
+      Bitmart_Perp:
+        __link: crwdns62332:0crwdne62332:0
+        __name: crwdns62334:0crwdne62334:0
+      Bitrue_Perp:
+        __link: crwdns62336:0crwdne62336:0
+        __name: crwdns62338:0crwdne62338:0
+      BTCEX_Perp:
+        __link: crwdns62340:0crwdne62340:0
+        __name: crwdns62342:0crwdne62342:0
+      Bybit_Perp:
+        __link: crwdns62344:0crwdne62344:0
+        __name: crwdns62346:0crwdne62346:0
+      CoinEx_Perp:
+        __link: crwdns62348:0crwdne62348:0
+        __name: crwdns62350:0crwdne62350:0
+      CoinTiger_Perp:
+        __link: crwdns62352:0crwdne62352:0
+        __name: crwdns62354:0crwdne62354:0
+      Crypto-com_Perp:
+        __link: crwdns62356:0crwdne62356:0
+        __name: crwdns62358:0crwdne62358:0
+      Deepcoin_Perp:
+        __link: crwdns62360:0crwdne62360:0
+        __name: crwdns62362:0crwdne62362:0
+      Delta-Exchange_Perp:
+        __link: crwdns62364:0crwdne62364:0
+        __name: crwdns62366:0crwdne62366:0
+      FTX_Perp:
+        __link: crwdns62368:0crwdne62368:0
+        __name: crwdns62370:0crwdne62370:0
+      Gate_Perp:
+        __link: crwdns62372:0crwdne62372:0
+        __name: crwdns62374:0crwdne62374:0
+      Hopex_Perp:
+        __link: crwdns62376:0crwdne62376:0
+        __name: crwdns62378:0crwdne62378:0
+      Huobi_Perp:
+        __link: crwdns62380:0crwdne62380:0
+        __name: crwdns62382:0crwdne62382:0
+      KuCoin_Perp:
+        __link: crwdns62384:0crwdne62384:0
+        __name: crwdns62386:0crwdne62386:0
+      MEXC_Perp:
+        __link: crwdns62388:0crwdne62388:0
+        __name: crwdns62390:0crwdne62390:0
+      OKX_Perp:
+        __link: crwdns62392:0crwdne62392:0
+        __name: crwdns62394:0crwdne62394:0
+      Phemex_Perp:
+        __link: crwdns62396:0crwdne62396:0
+        __name: crwdns62398:0crwdne62398:0
+      Poloniex_Perp:
+        __link: crwdns62400:0crwdne62400:0
+        __name: crwdns62402:0crwdne62402:0
+      Stormgain_Perp:
+        __link: crwdns62404:0crwdne62404:0
+        __name: crwdns62406:0crwdne62406:0
+      WOO-Network_Perp:
+        __link: crwdns62408:0crwdne62408:0
+        __name: crwdns62410:0crwdne62410:0
+  Cross-Chain Swap Exchanges:
+    __type: crwdns62412:0crwdne62412:0
+    title: crwdns62414:0crwdne62414:0
+    description: "crwdns62416:0crwdne62416:0"
+    items:
+      ABRA:
+        __link: crwdns62418:0crwdne62418:0
+        __name: crwdns62420:0crwdne62420:0
+      AtomicWallet:
+        __link: crwdns62422:0crwdne62422:0
+        __name: crwdns62424:0crwdne62424:0
+      BitcoinVN:
+        __link: crwdns62426:0crwdne62426:0
+        __name: crwdns62428:0crwdne62428:0
+      Bitni:
+        __link: crwdns62430:0crwdne62430:0
+        __name: crwdns62432:0crwdne62432:0
+      ChangeAngel:
+        __link: crwdns62434:0crwdne62434:0
+        __name: crwdns62436:0crwdne62436:0
+      ChangeNOW:
+        __link: crwdns62438:0crwdne62438:0
+        __name: crwdns62440:0crwdne62440:0
+      Coinveer:
+        __link: crwdns62442:0crwdne62442:0
+        __name: crwdns62444:0crwdne62444:0
+      Emerald:
+        __link: crwdns62446:0crwdne62446:0
+        __name: crwdns62448:0crwdne62448:0
+      Exodus:
+        __link: crwdns62450:0crwdne62450:0
+        __name: crwdns62452:0crwdne62452:0
+      Exolix:
+        __link: crwdns62454:0crwdne62454:0
+        __name: crwdns62456:0crwdne62456:0
+      FixedFloat:
+        __link: crwdns62458:0crwdne62458:0
+        __name: crwdns62460:0crwdne62460:0
+      SimpleSwap:
+        __link: crwdns62462:0crwdne62462:0
+        __name: crwdns62464:0crwdne62464:0
+      StealthEx:
+        __link: crwdns62466:0crwdne62466:0
+        __name: crwdns62468:0crwdne62468:0
+      SwapSpace:
+        __name: crwdns62470:0crwdne62470:0
+        __link: crwdns62472:0crwdne62472:0
+      SwapSwop:
+        __link: crwdns62474:0crwdne62474:0
+        __name: crwdns62476:0crwdne62476:0
+      Swapzone:
+        __link: crwdns62478:0crwdne62478:0
+        __name: crwdns62480:0crwdne62480:0
+      Switchain:
+        __link: crwdns62482:0crwdne62482:0
+        __name: crwdns62484:0crwdne62484:0
+      Voyager:
+        __link: crwdns62486:0crwdne62486:0
+        __name: crwdns62488:0crwdne62488:0
+      XChange:
+        __link: crwdns62490:0crwdne62490:0
+        __name: crwdns62492:0crwdne62492:0
+  NFT Marketplaces:
+    __type: crwdns62494:0crwdne62494:0
+    title: crwdns62496:0crwdne62496:0
+    description: crwdns62498:0crwdne62498:0
+    items:
+      ClassicArt:
+        __link: crwdns62500:0crwdne62500:0
+        __name: crwdns62502:0crwdne62502:0
+      ETCPlantes:
+        __link: crwdns62504:0crwdne62504:0
+        __name: crwdns62506:0crwdne62506:0
+      Tradim:
+        __link: crwdns62508:0crwdne62508:0
+        __name: crwdns62510:0crwdne62510:0
