@@ -27,12 +27,12 @@ items:
       chat Discord:
         __link: https://ethereumclassic.org/discord
         __icon: discord
-        __primary: 0
+        __primary: 1
         name: crwdns65420:0crwdne65420:0
       chat Discord Coop:
         __link: https://discord.gg/5wDyd6u6pU
         __icon: discord
-        __primary: 0
+        __primary: 1
         name: crwdns65426:0crwdne65426:0
       chat Facebook English:
         __link: https://www.facebook.com/groups/ethereum.hongkong/
@@ -150,12 +150,12 @@ items:
       twitter English 1:
         __link: https://twitter.com/ETC_Network
         __icon: twitter
-        __primary: 0
+        __primary: 1
         name: "crwdns65590:0crwdne65590:0"
       twitter English 2:
         __link: https://twitter.com/eth_classic
         __icon: twitter
-        __primary: 0
+        __primary: 1
         name: "crwdns65596:0crwdne65596:0"
       twitter Español:
         __link: https://twitter.com/ethclassicesp
