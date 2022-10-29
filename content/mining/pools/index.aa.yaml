@@ -52,7 +52,7 @@ items:
       Binance Pool:
         __name: Binance Pool
         __link: https://www.binance.com/en/support/faq/20ba5cf0ce1b4956bda87d8aede5f31d
-        __primary: 0
+        __primary: 1
       BTC.com:
         __name: BTC.com
         __link: https://pool.btc.com/
@@ -74,7 +74,7 @@ items:
       CrazyPool:
         __name: CrazyPool
         __link: https://crazypool.org/
-        __primary: 0
+        __primary: 1
       Cruxpool:
         __name: Cruxpool
         __link: https://www.cruxpool.com/etc/
@@ -96,7 +96,7 @@ items:
       ETC Pool US:
         __name: ETCPool.us
         __link: https://etcpool.us/
-        __primary: 0
+        __primary: 1
       Ethermine:
         __name: Ethermine
         __link: https://etc.ethermine.org/
@@ -114,7 +114,7 @@ items:
       HashBlue:
         __name: HashBlue
         __link: https://hash.blue
-        __primary: 0
+        __primary: 1
       HashCity:
         __name: HashCity
         __link: https://hashcity.org/
