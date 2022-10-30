@@ -76,7 +76,7 @@ El siguiente paso es añadir la información específica de Ethereum Classic. A 
 - Símbolo de moneda (opcional): `ETC`
 - Bloquear la URL del explorador (opcional): `https://blockscout.com/etc/mainnet/`
 
-Para la "URL RPC" utilicé la proporcionada para este propósito por la Cooperativa ETC
+Para la "URL RPC" utilicé la proporcionada para este propósito por [la Cooperativa ETC](https://etccooperative.org/), que es de un producto que construyeron llamado [Ethercluster](https://ethercluster.com/)
 
 _[Nota del editor] Ethercluster es ahora operado por [RIVET](https://rivet.cloud/). Puede encontrar más puntos finales RPC en la sección [network](/network/endpoints) ._
 
