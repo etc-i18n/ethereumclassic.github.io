@@ -200,7 +200,7 @@ Mittlerweile glich die Hard Fork-Debatte eher einem religiösen Kreuzzug ohne je
 
 ### Hergestellter Konsens
 
-Ein Blick auf die DAO-Fork-Debatte auf Reddit zeigt, dass ein beträchtlicher Teil der Ethereum-Gemeinschaft gegen die Hard Fork war, allein aufgrund der [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Dennoch waren einflussreiche Kräfte beteiligt, die der Meinung waren, dass es keine andere Wahl gab, als eine Hard Fork zu fordern, um die finanziellen Interessen zu schützen.
+Ein Blick auf die DAO-Fork-Debatte auf Reddit zeigt, dass ein beträchtlicher Teil der Ethereum-Gemeinschaft gegen die Hard Fork war, allein aufgrund der [upvotes](https://old.reddit.com/r/ethereum/comments/4p7mhc/update_on_the_white_hat_attack/d4iqgx1/) . Dennoch waren einflussreiche Kräfte beteiligt, die der Meinung waren, dass es keine andere Wahl gab, als eine Hard Fork zu fordern, um die finanziellen Interessen zu schützen. Dennoch waren einflussreiche Kräfte beteiligt, die der Meinung waren, dass es keine andere Wahl gab, als eine Hard Fork zu fordern, um die finanziellen Interessen zu schützen.
 
 Leider ist es wahrscheinlich unmöglich, dem _tatsächlichen_ Konsens zu diesem Zeitpunkt auf den Grund zu gehen, da die wichtigsten Diskussionsforen - Reddit und Twitter - sehr anfällig für [Sybil-Angriffe](https://en.wikipedia.org/wiki/Sybil_attack) in Form von Astroturfing waren. Hatte die Hard Fork eine echte Unterstützung durch die Bevölkerung, oder war es nur ein künstlicher Konsens? Wir werden es wahrscheinlich nie erfahren, aber zumindest gab es einen erheblichen Widerstand, und es kann nicht geleugnet werden, dass das, was der Gemeinschaft auferlegt werden sollte, eine _umstrittene Hard Fork_war.
 
@@ -359,9 +359,7 @@ Aber der Spaß hatte gerade erst begonnen.
 
 ### Die gescheiterte Liquidation von ETC
 
- Ohne die DAO-Token-Inhaber zu warnen oder nach ihrer Meinung zu fragen, hinterlegte WHG, nachdem sie zunächst versucht hatte, die Gelder über mehrere Adressen zu schleusen, um die Herkunft der ETC zu verschleiern, etwa 4 Millionen (die Hälfte der 70 %) an mehreren Börsen,
-
-mit der Absicht, diese ETC "im Namen" der DAO-Token-Inhaber in ETH umzuwandeln. 
+Ohne die DAO-Token-Inhaber zu warnen oder nach ihrer Meinung zu fragen, hinterlegte WHG, nachdem sie zunächst versucht hatte, die Gelder über mehrere Adressen zu schleusen, um die Herkunft der ETC zu verschleiern, etwa 4 Millionen (die Hälfte der 70 %) an mehreren Börsen,
 
 ![Zurückgewonnenes ETC wurde getrommelt und an die Börsen geschickt](./whg-funds.png)
 
@@ -376,9 +374,7 @@ Nur die zynischste Sichtweise scheint diese Fragen angemessen zu beantworten, da
 
 Trotz des Versuchs, die wahre Herkunft der ETC zu verschleiern, wurde der Großteil dieser eingezahlten Gelder glücklicherweise von den Börsen eingefroren, und selbst die liquidierten ETC wurden später wieder in ETC umgetauscht, als klar wurde, dass WHG nicht in der Lage sein würde, seinen ursprünglichen Plan umzusetzen.
 
-Obwohl WHG eine [Begründung](https://archive.is/tKKWY) dafür lieferte, warum sie die zurückgeforderten ETC verkaufen wollten, erwiesen sich all diese Ausreden dank der anschließenden Einführung eines Rücknahmevertrags für ETC als unbegründet, was es den DAO-Token-Inhabern schließlich ermöglichte, ihre ETC sicher zurückzuerhalten und selbst zu entscheiden, was sie damit tun wollten.
-
-
+Trotz des Versuchs, die wahre Herkunft der ETC zu verschleiern, wurde der Großteil dieser eingezahlten Gelder glücklicherweise von den Börsen eingefroren, und selbst die liquidierten ETC wurden später wieder in ETC umgetauscht, als klar wurde, dass WHG nicht in der Lage sein würde, seinen ursprünglichen Plan umzusetzen.
 
 ### Replay-Angriffe
 
@@ -392,13 +388,9 @@ Es gab auch dokumentierte Fälle, in denen wiedergegebene Transaktionen böswill
 
 Damals bestand die einzige garantierte Möglichkeit, die Wiederholung von Transaktionen zu verhindern, darin, sicherzustellen, dass die Gelder auf verschiedene Adressen in jeder Kette aufgeteilt wurden, was mit Hilfe eines "Splittervertrags" erreicht werden konnte, was jedoch vor allem für technisch weniger versierte Benutzer lästig war. Einige Monate später wurde eine Lösung auf Protokollebene, [EIP-155](https://eips.ethereum.org/EIPS/eip-155), eingeführt. Aus diesem Grund respektieren EVM-Blockchains jetzt eine `CHAIN_ID`, eine eindeutige Nummer für jede Kette, die beim Signieren von Transaktionen angegeben wird und sie auf anderen Ketten ungültig macht.
 
-
-
 ## Gelernte Lektionen
 
-Seit der Hard Fork und ihren unmittelbaren Auswirkungen im Jahr 2016 hat sich der Staub weitgehend gelegt, die Feindseligkeit ist verflogen, und sowohl Ethereum™ als auch Ethereum Classic haben sich weiterentwickelt und sind auf ihre eigene Weise gewachsen. Die Vergangenheit liegt hinter uns, und die Handlungen einzelner, die in den Strudel geraten sind, sind vergeben. Die praktischen und moralischen Lektionen, die uns die DAO-Gabel gelehrt hat, dürfen nicht vergessen werden, damit ähnliche Debakel in Zukunft vermieden werden können.
-
-
+Seit der Hard Fork und ihren unmittelbaren Auswirkungen im Jahr 2016 hat sich der Staub weitgehend gelegt, die Feindseligkeit ist verflogen, und sowohl Ethereum™ als auch Ethereum Classic haben sich weiterentwickelt und sind auf ihre eigene Weise gewachsen. Die praktischen und moralischen Lektionen, die uns die DAO-Gabel gelehrt hat, dürfen nicht vergessen werden, damit ähnliche Debakel in Zukunft vermieden werden können.
 
 ### Fallen der Koordinierung
 
@@ -418,21 +410,17 @@ Der zentrale Irrglaube, der zu dieser Zeit aufgrund fehlender Referenzen vernün
 
 Wie können Blockchain-Projekte ähnliche Katastrophen in Zukunft vermeiden? Ein starkes philosophisches Fundament bietet ein Gegenmittel für diese und andere verrückte Fragen der Spieltheorie. Die Grundsätze dienen als Bezugspunkt, der die wirtschaftlichen Interessen, die die Gemeinschaften sonst in diese Fallen treiben würden, im Keim ersticken kann. Aus diesem Grund sind Prinzipien wichtig und für Blockchains, die Bestand haben sollen, allem vorangestellt. Sie können die Spielregeln in der Gesellschaft festlegen und eine Kette gegen eine ganze Reihe von unvorhersehbaren Misserfolgen schützen, die auftreten können, wenn diese Regeln nicht eindeutig sind.
 
-
-
 ### Ist der Kodex Gesetz?
 
 Für den Laien vermarktet sich Ethereum™ immer noch über Smart Contracts und die Idee, dass ihr Code die letzte Instanz bei Vertragsinteraktionen sein sollte. "Build Unstoppable Applications" war der Hauptslogan von Ethereum.org bis ins Jahr 2019, viele Jahre nachdem der DAO-Vertrag eingestellt wurde. Es ist klar, dass die Nützlichkeit von Smart Contracts davon abhängt, dass _Code ist Gesetz_ eingehalten wird, da sie sonst willkürlich von äußeren Kräften zensiert werden können.
 
 Die Geschichte von Ethereum™ lässt jedoch auf ein fragwürdiges Verhältnis zum Konzept der Unaufhaltsamkeit schließen und _Code is Law_. Der direkte Widerspruch zu diesem Konzept in der Vergangenheit von Ethereum™ bedeutet, dass sich das Projekt nun in einer schizophrenen Position befindet, in der es gleichzeitig für und gegen die Idee von _Code is Law_ist.
 
-Einige Etherianer sagen, dass die DAO-Fork eine einmalige Sache war, die nie wieder vorkommen wird; Ethereum™ folgt wirklich _Code is Law_, oder zumindest tut es das seit The Fork. Das Problem mit dieser Position ist, dass die Geschichte von Ethereum™ zeigt, dass es, wenn es darauf ankommt, anfällig für Eingriffe ist, die _Code is Law_außer Kraft setzen können.  Wenn etwas _ _Gesetzbuch_außer Kraft setzen kann, haben Sie _Gesetzbuch_nicht, Sie tun nur so, als hätten Sie es vorübergehend. Ob auf philosophischer, sozialer oder finanzieller Ebene, die zentralen Schwachstellen von Ethereum™ haben _bereits_ gezeigt, dass es eingefangen werden kann. 
+Einige Etherianer sagen, dass die DAO-Fork eine einmalige Sache war, die nie wieder vorkommen wird; Ethereum™ folgt wirklich _Code is Law_, oder zumindest tut es das seit The Fork. Das Problem mit dieser Position ist, dass die Geschichte von Ethereum™ zeigt, dass es, wenn es darauf ankommt, anfällig für Eingriffe ist, die _Code is Law_außer Kraft setzen können. Wenn etwas _ _Gesetzbuch_außer Kraft setzen kann, haben Sie _Gesetzbuch_nicht, Sie tun nur so, als hätten Sie es vorübergehend. Ob auf philosophischer, sozialer oder finanzieller Ebene, die zentralen Schwachstellen von Ethereum™ haben _bereits_ gezeigt, dass es eingefangen werden kann.
 
 Andere Vordenker der Ethereum Foundation sagen, dass _Code is Law_ ein [unmenschliches](https://twitter.com/VladZamfir/status/936029138623774721), [soziopathisches](https://medium.com/@Vlad_Zamfir/my-intentions-for-blockchain-governance-801d19d378e5) Konzept ist; zukünftige DAO Fork Level "Korrekturen" _sind_ auf dem Tisch für Ethereum™, und das ist ein Feature, kein Bug. Das Problem mit der _Code isn't Law_ Position ist, dass sie das grundlegende Wertversprechen von Blockchains missversteht, die nützlich sind _weil_ spezielle Interessen sie nicht außer Kraft setzen können. Für alles andere gibt es wesentlich effizientere Möglichkeiten.
 
 Hinzu kommt, dass die DAO-Gabel trotz der bis heute andauernden Verleumdungen objektiv ein gefundenes Fressen war, was den Fall _Code is Law_ nur noch weiter empirisch untermauert. Subjektive Eingriffe in vermeintlich unaufhaltsame Anwendungen sind von Natur aus chaotisch und müssen vermieden werden.
-
-
 
 ### Die Doppelbindung
 
@@ -445,8 +433,6 @@ Wie Wile E. Coyote, der von der Klippe rennt, ist es nur eine Frage der Zeit, bi
 Im Gegensatz zu Ethereum Classic bleibt in Ethereum™ die Frage "Wann sollten Anwendungen gestoppt werden?" unbeantwortet. Zum Beispiel hat der Prozess, der bestimmt, ob Forks in Ethereum™ stattfinden sollen, entschieden, dass die Opfer von Replay-Attacken, die durch die DAO-Hard-Fork verursacht wurden, keine weitere Hard-Fork erhalten sollen, um sie __ ganz zu machen, ganz zu schweigen von all den großen Smart-Contract-Bugs und DeFi-Hacks. Vermutlich ist die Tatsache, dass _diese_ Verluste zulässt, ein Maß an Soziopathie, das für die Brigade _Code is not Law_ akzeptabel ist.
 
 Wenn diese Frage unbeantwortet bleibt, wird das zwangsläufig zu zukünftigen Problemen führen. Das ist der Hauptgrund, warum Ethereum Classic offen für das Prinzip _Code is Law_ eintritt, und zwar unter allen Umständen. Auch wenn diese Position nicht immer die bequemste ist, so ist sie doch die einzige, die alle Beteiligten neutral behandeln kann, philosophisch konsistent bleibt und daher das Potenzial hat, die Zeit zu überdauern.
-
-
 
 ## Schlussfolgerung
 
