@@ -79,9 +79,9 @@ DAO("_Dow_ Jones"로 발음) 또는 "Decentralized Autonomous Organization"은 �
 
 ![도교 상징을 기반으로 The DAO를 위해 제작된 아트워크](./dao.png)
 
-이더리움을 만들기 위해 크라우드세일에서 자금을 모은 이더리움 재단에는 [이더 _창세기 블록을 발표_](https://blog.ethereum.org/2015/07/30/ethereum-launches/)
+이더리움을 만들기 위해 크라우드세일에서 자금을 모은 이더리움 재단에는 [이더 _창세기 블록을 발표_](https://blog.ethereum.org/2015/07/30/ethereum-launches/)</a>
 
-. . 다른 많은 사람들과 마찬가지로 EF의 CCO는 "Unstoppable Applications 구축"이 약속한 밝은 미래를 보았습니다. 실제로 이 용어를 사용하여 Ethereum 프로젝트를 홍보하는 것이 궁극적으로 그들의 요청이었습니다. 
+. . 다른 많은 사람들과 마찬가지로 EF의 CCO는 "Unstoppable Applications 구축"이 약속한 밝은 미래를 보았습니다. 실제로 이 용어를 사용하여 Ethereum 프로젝트를 홍보하는 것이 궁극적으로 그들의 요청이었습니다.</p> 
 
 2015년 11월, 전직 CCO는 일부 코더와 협력하여 slock.it이라는 회사를 설립했습니다. Slock.it은 이더리움 프로젝트를 대상으로 하는 일종의 벤처 캐피탈 펀드로 사용될 _a_ DAO뿐만 아니라 _The_ DAO를 출시하기를 원했습니다. 이더리움 생태계를 성장시키고 DAO 토큰과 교환하여 DAO 계약에 이더를 예치하는 투자자의 순수익을 늘리는 방법으로 제안되었습니다.
 
@@ -293,7 +293,7 @@ Reddit의 The DAO Fork Debate를 보면 이더리움 커뮤니티의 상당 부�
 > 
 > - [폴로닉스](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
 
-어느 쪽이든, 소문과 음모론을 무시하고 증거는 푸딩에 있었다. 하드포크를 추진 보였습니다. 
+어느 쪽이든, 소문과 음모론을 무시하고 증거는 푸딩에 있었다. 하드포크를 추진</a> 보였습니다.</p> 
 
 Child DAO의 분할 기능 마감일이 다가오자 합의가 선언되었고 Ethereum™은 상상할 수 없는 것을 구현합니다. 즉, 게임의 규칙을 변경하여 해킹을 취소하려고 시도하는 하드 포크입니다. forkers가 토론에서 이겼습니다. 또는 적어도 그들은 방법을 얻었습니다. 지금은.
 
