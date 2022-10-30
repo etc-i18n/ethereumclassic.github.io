@@ -159,7 +159,7 @@ Dugoročno gledano, što god se dogodilo, decentralizirani blockchaini će na kr
 
 Iako je to još uvijek dobrovoljno, umjesto da se oslanja na autoritete ili marketinške kampanje, pojedinci mogu razmišljati polazeći od prvih načela i razmišljati o lekcijama iz prošlosti kako bi došli do vlastitih zaključaka o tome koji će lanci blokova vjerojatno pružiti dugoročnu vrijednost i s kojima vrijedi komunicirati.
 
-Iako je to još uvijek dobrovoljno, umjesto da se oslanja na autoritete ili marketinške kampanje, pojedinci mogu razmišljati polazeći od prvih načela i razmišljati o lekcijama iz prošlosti kako bi došli do vlastitih zaključaka o tome koji će lanci blokova vjerojatno pružiti dugoročnu vrijednost i s kojima vrijedi komunicirati.
+Povratkom na korijene blockchain tehnologije, ekonomske teorije i lekcija iz povijesti, mudrost dizajnerskih odluka iza Bitcoina postaje jasna, a ta se logika može ponovno primijeniti na druga tehnološka dostignuća u svemiru, uključujući Smart Contract Platforme kao što je Ethereum klasična.
 
 
 
