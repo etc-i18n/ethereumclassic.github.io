@@ -62,7 +62,7 @@ _Ništa službeno_ izvor je velikog dijela snage projekta Ethereum Classic, ali 
 
 Stav mnogih unutar zajednice Ethereum Classic je da je gore spomenuta [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) nepremostiva, barem u osnovi kasnije. Iz tog razloga, trenutni plan Ethereum Classica ne uključuje egzotičnija "rješenja" koja će Ethereum™ isprobati.
 
-U suštini, ne postoji poznati pristup __ koji bi se mogao primijeniti na osnovni sloj bez ugrožavanja važne sigurnosne pretpostavke, pa je za ETC kao protokol, osim nekog značajnog tehnološkog napretka, najbolje prepustiti aplikacijama ili sekundarnim protokolima za pružanje različitih kompromisa i implementaciju optimizacija ovisno o slučaju upotrebe, dajući korisnicima izbor koji će usvojiti.
+U suštini, ne postoji poznati pristup koji bi se mogao primijeniti na osnovni sloj bez ugrožavanja važne sigurnosne pretpostavke, pa je za ETC kao protokol, osim nekog značajnog tehnološkog napretka, najbolje prepustiti aplikacijama ili sekundarnim protokolima za pružanje različitih kompromisa i implementaciju optimizacija ovisno o slučaju upotrebe, dajući korisnicima izbor koji će usvojiti.
 
 Mnogi u Ethereum Classic zajednici također su oprezni s pokušajima povećanja veličine bloka, zbog štetnih učinaka koji će se vjerojatno pojaviti u budućnosti u smislu "nadutosti" i povećanog vremena _za sinkronizaciju_ i hardverskih zahtjeva, koji, ako se ne označi, može otežati pokretanje Ethereum Classic čvora, što dovodi do centralizacije. Neki tvrde da bi ograničenje blok plina trebalo dodatno smanjiti, dok drugi gledaju prema tehnologijama _Zero Knowledge Proof_ koje mogu smanjiti količinu podataka potrebnu za pohranu u lancu.
 
