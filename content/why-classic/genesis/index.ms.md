@@ -113,7 +113,7 @@ Oleh kerana Ethereum adalah sangat baharu dan amalan terbaik tidak terbentuk sem
 
 Sama seperti kontrak dunia sebenar, syaitan ada dalam butirannya, dan ternyata DAO [dipengaruhi](https://blog.b9lab.com/the-dao-hack-in-eight-minutes-94919018692d) oleh pepijat kemasukan semula. Pada [baris 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) eksploitasi tidak aktif, dan sejumlah besar ETH yang dinaikkan itu sedang duduk di sana menunggu pengaturcara yang bermata tajam untuk menangkap.
 
-Beberapa hari kemudian, seorang atau lebih penyerang mula mengosongkan DAO, dan seperti seutas tali yang diikat pada syiling, menggunakan kontrak yang direka khas untuk berulang kali memanggil fungsi split DAO untuk mengeluarkan lebih banyak ETH daripada yang dimaksudkan oleh pengarang kontraknya __ membenarkan.
+Beberapa hari kemudian, seorang atau lebih penyerang mula mengosongkan DAO, dan seperti seutas tali yang diikat pada syiling, menggunakan kontrak yang direka khas untuk berulang kali memanggil fungsi split DAO untuk mengeluarkan lebih banyak ETH daripada yang dimaksudkan oleh pengarang kontraknya membenarkan.
 
 Hasil daripada The DAO Hack, sejumlah besar ETH telah diekstrak daripada The DAO dengan mengorbankan Pemegang Token DAO (DTH), yang mungkin akan kehilangan banyak pelaburan asal mereka jika tiada apa yang boleh dilakukan untuk menyelamatkannya.
 
