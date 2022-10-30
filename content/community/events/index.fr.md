@@ -12,15 +12,11 @@ La magie opère lorsque les gens se rassemblent et partagent des idées, et les 
 
 ## Appels de la communauté
 
-Tous les jeudis, généralement à 1500 UTC, un chat vocal de groupe a lieu sur le serveur Discord</a> d'Ethereum Classic
-
-. La conférence est diffusée en continu sur [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), mais vous pouvez également nous rejoindre une heure avant le début de la conférence, à 14 heures UTC, pour discuter de manière informelle dans le salon vert.</p> 
+Tous les jeudis, généralement à 1500 UTC, un chat vocal de groupe a lieu sur le serveur Discord d'Ethereum Classic . La conférence est diffusée en continu sur [YouTube](https://www.youtube.com/channel/UCp07VPnC1ejyAp5gMvvA4dw/videos), mais vous pouvez également nous rejoindre une heure avant le début de la conférence, à 14 heures UTC, pour discuter de manière informelle dans le salon vert.
 
 De temps en temps, un invité spécial rejoindra le chat pour des questions et réponses avec la communauté. Ces appels sont généralement enregistrés, et vous pouvez trouver ces enregistrements sur le dépôt des appels communautaires du CTE [](https://github.com/ethereumclassic/community-calls).
 
 Tout le monde, quel que soit son niveau d'implication dans l'ETC, est invité à participer à cette discussion et il y a généralement du temps disponible pour poser des questions si vous souhaitez aborder un sujet.
-
-
 
 ## Sommet de l'ETC
 
@@ -37,8 +33,6 @@ Jusqu'à présent, les sommets suivants ont été organisés :
 - 2017 Hong Kong
 
 Les vidéos des présentations sont disponibles dans la section [Vidéos > Conférences](/videos/conferences) .
-
-
 
 ## Appels de développement de base
 
