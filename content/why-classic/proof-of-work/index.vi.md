@@ -28,7 +28,7 @@ Proof of Work được bảo mật cả về mặt kinh nghiệm và lý thuyế
 
 Proof of Work không được thiết kế để "hoàn hảo" 100% và như với tất cả các hệ thống, nó có một số đảm bảo hạn chế. Nổi tiếng nhất, chuỗi Proof of Work phải chịu các cuộc tấn công *51%*, mà Ethereum Classic đã nhiều lần trở thành nạn nhân của nó, nhưng vẫn tồn tại. Trong các hệ thống PoW, các cuộc tấn công 51% là một tính năng, không phải lỗi và việc chấp nhận chúng là sự đánh đổi cần thiết để cho phép các quy tắc khách quan có thể xác minh bằng máy tính về phiên bản của chuỗi nào được coi là "đúng"; bất kỳ cái nào có tỷ lệ băm nhiều nhất đã đóng góp vào nó, bất kể ai đóng góp tỷ lệ băm đó.
 
-Sự khôn ngoan vượt thời gian của con</em> _nếu nó không bị phá vỡ, đừng sửa nó.</p>
+Sự khôn ngoan vượt thời gian của con _nếu nó không bị phá vỡ, đừng sửa nó.
 
 ## Đồng thuận Thỏa hiệp
 
