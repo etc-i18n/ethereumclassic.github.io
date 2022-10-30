@@ -78,8 +78,6 @@ El siguiente paso es añadir la información específica de Ethereum Classic. A 
 
 Para la "URL RPC" utilicé la proporcionada para este propósito por la Cooperativa ETC
 
-, que es de un producto que construyeron llamado [Ethercluster](https://ethercluster.com/) 
-
 _[Nota del editor] Ethercluster es ahora operado por [RIVET](https://rivet.cloud/). Puede encontrar más puntos finales RPC en la sección [network](/network/endpoints) ._
 
 El "ID de la cadena" debe ser "61" porque ese es el ID específico de la red Ethereum Classic para el envío de transacciones ETC por parte de los monederos y nodos a la blockchain operativa.
@@ -90,15 +88,11 @@ Haz clic en "guardar" para añadir el ETC a MetaMask.
 
 ![Paso 6](./06.png)
 
-
-
 ## Paso 7: Ver Ethereum Classic en el menú desplegable de redes
 
 Una vez añadido el ETC, verás en el menú desplegable de redes que se añade a la lista de redes.
 
 ![Paso 7](./07.png)
-
-
 
 ## Paso 8: Puede ver su misma cuenta pero en ETC
 
@@ -112,15 +106,11 @@ Observe también que la red ETC es ahora la que aparece en la barra de redes, y 
 
 ![Paso 8](./08.png)
 
-
-
 ## Paso 9: Puede volver a Ethereum con la misma cuenta
 
 Así que, como ambas redes utilizan el mismo formato de cuenta, puedes volver a la mainnet de Ethereum y podrás ver tu cuenta de ETH con el mismo número de nuevo.
 
 ![Paso 9](./09.png)
-
-
 
 ## Paso 10: Puedes volver a Ethereum Classic con la misma cuenta
 
@@ -131,8 +121,6 @@ Para utilizar la red ETC, simplemente seleccione de nuevo Ethereum Classic en el
 //
 
 Le deseo que tenga éxito invirtiendo y utilizando el ETC.
-
-
 
 ---
 
