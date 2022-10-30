@@ -7,7 +7,7 @@ seo: Un'argomentazione per spiegare perché Proof of Stake non è una soluzione 
 
 ## Punti chiave
 
-- Ethereum Classic si impegna a rimanere su Proof of Work a tempo indeterminato per perseguire il massimalismo della decentralizzazione __.
+- Ethereum Classic si impegna a rimanere su Proof of Work a tempo indeterminato per perseguire il massimalismo della decentralizzazione.
 - Proof of Work è un meccanismo di consenso collaudato e vero, l'unico conosciuto per fornire _resistenza alla censura di grado sovrano_.
 - La Proof of Stake comporta i noti compromessi in termini di sicurezza, tra cui: complessità aggiuntiva, 33% di attacchi, vulnerabilità alla manipolazione finanziaria, centralizzazione della custodia delle puntate, corsa agli armamenti dell'APR, nulla in gioco, rimozione di controlli ed equilibri e i ricchi diventano più ricchi.
 - In tutta franchezza, la decisione di utilizzare la Proof of Stake è probabilmente motivata da ragioni finanziarie, piuttosto che dalla preoccupazione per l'ambiente.
@@ -108,7 +108,7 @@ Il mining e, di conseguenza, la Proof of Work, sono privi di permessi, in quanto
 
 Poiché non ci sono gatekeeper, i meccanismi di consenso delle Proof of Work _non possono_ preoccuparsi _di come_ viene creato l'hashrate, o _di chi_ ha contribuito. Questa è una qualità essenziale se si vuole che una catena rimanga neutrale e non catturata, perché se i gatekeeper esistessero, sarebbero in grado di rifiutare il lavoro in base all'identità o all'ubicazione di un collaboratore, bloccandolo e, così facendo, centralizzando e catturando la rete.
 
-I sistemi Proof of Stake sono _non_ permissionless. L'unico modo per acquisire la valuta necessaria per le transazioni e le puntate è _acquistarla_ da qualcuno che già possiede tale valuta; per utilizzare la rete è necessario il permesso _di qualcuno all'interno della rete, e i detentori esistenti sono i guardiani.
+I sistemi Proof of Stake sono _non_ permissionless. L'unico modo per acquisire la valuta necessaria per le transazioni e le puntate è _acquistarla_ da qualcuno che già possiede tale valuta; per utilizzare la rete è necessario il permesso di qualcuno all'interno della rete, e i detentori esistenti sono i guardiani.
 
 In un certo senso, tutte le reti Proof of Stake sono già _soft captured_, poiché i possessori di monete PoS potrebbero decidere collettivamente (o essere costretti) di interrompere le transazioni con gli utenti di una particolare classe o giurisdizione, e questi utenti non hanno modo di effettuare transazioni sulla rete indipendentemente dal prezzo che sono disposti a pagare.
 
