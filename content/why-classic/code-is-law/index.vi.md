@@ -50,9 +50,9 @@ Trong khi những hệ thống mới này sẽ mở ra giá trị to lớn cho �
 
 Trong luật _minh bạch và liêm khiết là khu vực pháp lý của Luật_ , những người không thể cung cấp giá trị thực trên một sân chơi bình đẳng sẽ bị tuyệt chủng. Vì lý do này, trong một nỗ lực vô ích để ngăn chặn tiến trình, các blockchain thực sự phi tập trung sẽ gặp phải sự phản kháng đáng kể từ các tổ chức đương nhiệm mà thực tế công bằng hơn này đặt ra một mối đe dọa hiện hữu.
 
-Nếu lịch
+Nếu lịch</a>
 
-là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài. 
+là bất cứ điều gì xảy ra, các nỗ lực sẽ được thực hiện để ngăn chặn việc áp dụng các công nghệ mới trao quyền này. Các dự án không được phân cấp đầy đủ, những dự án không phải là _Cấp_của Chủ quyền, sẽ bị thu phục bởi chính các thể chế mà họ hứa sẽ phá vỡ. Đây là lý do tại sao _Code là Luật_ và mức độ phân quyền cao cần thiết để củng cố nó phải là mục tiêu chính của các blockchain muốn tồn tại và cung cấp giá trị lâu dài.</p> 
 
 
 
@@ -86,4 +86,4 @@ Một số chuỗi đã từ bỏ ý tưởng _Bộ luật là Luật_ hoàn to�
 
 Đáng buồn thay, điều này đúng với người anh em trẻ hơn, mặc dù nặng hơn của ETC, Ethereum ™, một dự án đã từng chia sẻ những nguyên tắc này, nhưng chỉ sau một năm, tách ra, khởi động lại một chuỗi mới với các quy tắc mới, đi xuống một con đường mới và rõ ràng là từ chối _Bộ luật là Luật_.
 
-Để hiểu điều gì đã xảy ra, bây giờ chúng ta phải suy ngẫm về lịch sử được chia sẻ của Ethereum Classic với Ethereum ™ và xem lại sự cố dẫn đến nguồn gốc của ETC.
+Đáng buồn thay, điều này đúng với người anh em trẻ hơn, mặc dù nặng hơn của ETC, Ethereum ™, một dự án đã từng chia sẻ những nguyên tắc này, nhưng chỉ sau một năm, tách ra, khởi động lại một chuỗi mới với các quy tắc mới, đi xuống một con đường mới và rõ ràng là từ chối _Bộ luật là Luật_.
