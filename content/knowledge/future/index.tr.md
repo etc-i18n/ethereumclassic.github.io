@@ -25,7 +25,7 @@ Ethereum Classic, Bitcoin gibi, geleneksel yazılım geliştirme anlamında bir 
 
 Tipik olarak, yeni özelliklerin uygulanması, Ethereum Classic topluluğunun büyük desteğini veya en azından önemli bir muhalefetini gerektirmez, bu da ETC'yi BTC gibi teknolojik gelişiminde oldukça temkinli hale getirir. Hangi yükseltmelerin uygulanacağına dair kararları yönlendiren merkezi bir grup olmadığından, önemli bir geri itme nedeniyle zincirin bölünmesi tehdidi, ETC'deki Hard Fork'ların güvenli, aşamalı ve her şeyden önce tartışmasız olma eğiliminde olduğu anlamına gelir.
 
-İşler ters gittiğinde mali zarara neden olabilecek "hızlı hareket et ve bir şeyleri kır" zihniyetinden ziyade, önemli güncellemeler protokole uygulanmadan önce genellikle uzun süreler boyunca düşünülür, rafine edilir ve test edilir, böylece bir çatallanmadan önce _uygun şekilde fikir birliğine varılabilir.
+İşler ters gittiğinde mali zarara neden olabilecek "hızlı hareket et ve bir şeyleri kır" zihniyetinden ziyade, önemli güncellemeler protokole uygulanmadan önce genellikle uzun süreler boyunca düşünülür, rafine edilir ve test edilir, böylece bir çatallanmadan önce uygun şekilde fikir birliğine varılabilir.
 
 Ayrıca, mümkün olduğunca 2015 yılında devreye alınan sözleşmelerin süreklilik arz etmesine ve _Code is Law_ adresinin korunmasına özen gösterilmektedir.
 
@@ -51,7 +51,7 @@ Son zamanlardaki büyüme kısmen, [videoları](/videos) ve memler oluşturarak 
 
 ### Birleşme
 
-Ethereum™ ana ağ zinciri, bazı küçük gecikmeler yaşamasına rağmen, _The Merge_olarak bilinen Proof of Work'ten Proof of Stake'e geçişi tamamlamaya giderek daha yakın görünmektedir. Ethereum Classic için bu son derece önemli bir olay olacak, çünkü yeni tahliye edilen GPU madencilerinin madencilik yapmak için başka zincirlere bakması muhtemel görünüyor ve Ethereum Classic bariz bir seçim.
+Ethereum™ ana ağ zinciri, bazı küçük gecikmeler yaşamasına rağmen, _The Merge_ olarak bilinen Proof of Work'ten Proof of Stake'e geçişi tamamlamaya giderek daha yakın görünmektedir. Ethereum Classic için bu son derece önemli bir olay olacak, çünkü yeni tahliye edilen GPU madencilerinin madencilik yapmak için başka zincirlere bakması muhtemel görünüyor ve Ethereum Classic bariz bir seçim.
 
 Madencilerin ETH'den ETC'ye geçişi muhtemelen Ethereum Classic ekosistemine yeni bir ilgi dalgası getirecek, ağın güvenliğini artıracak ve benimsenmeyi ve ağ değerini hızlandıracaktır.
 
