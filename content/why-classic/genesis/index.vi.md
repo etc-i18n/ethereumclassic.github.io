@@ -409,13 +409,13 @@ Dù mục đích là gì, The Hacker's Child DAO được phép đến thời h�
 
 Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản</a> nay.
 
-Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay.
+Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản</a> nay.
 
 
 
 ### Thanh lý ETC không thành công
 
-Nếu thay vì triển khai Hard Fork, RHG chỉ đơn giản là tiếp tục bế tắc, không những không cần đến Ethereum Classic, mà những người nắm giữ mã thông báo DAO rất có thể sẽ đòi lại được _thêm_ giá trị, thay vào đó, giá trị này đã bị mất dưới dạng ETC cho The DAO Hacker và làm tổn hại danh tiếng của dự án Ethereum.
+Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay.
 
 ![ETC được xác nhận lại đã bị lật đổ và được gửi đến các sàn giao dịch](./whg-funds.png)
 
