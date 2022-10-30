@@ -9,9 +9,9 @@ seo: Tổng quan về các tính năng hữu ích của tiền mang lại giá t
 
 - Tiền âm thanh là một khái niệm có trước internet, truyền cảm hứng cho việc phát minh ra Bitcoin và công nghệ blockchain.
 - Tiền có thể được coi là hợp lý nếu nó có một số thuộc tính có thể định lượng được và những thuộc tính này được mã hóa thành ETC.
-- Một thuộc tính quan trọng là _độ khan hiếm, mà ETC nhận được_ __ _lai.
+- Một thuộc tính quan trọng là _độ khan hiếm, mà ETC nhận được_ lai.
 - Nếu một dự án không có _nguồn cung tương lai_đã biết trước, những người bảo trì có thể tự ý thổi phồng giá trị của một loại tiền tệ khỏi người nắm giữ.
-- Rủi ro này vẫn tồn tạitất cả các chuỗi không có đường cong phát thải cố định _, bao gồm cả Ethereum ™.
+- Rủi ro này vẫn tồn tại tất cả các chuỗi không có đường cong phát thải cố định, bao gồm cả Ethereum ™.
 
 ## Giới thiệu
 
