@@ -86,4 +86,4 @@ Một số chuỗi đã từ bỏ ý tưởng _Bộ luật là Luật_ hoàn to�
 
 Đáng buồn thay, điều này đúng với người anh em trẻ hơn, mặc dù nặng hơn của ETC, Ethereum ™, một dự án đã từng chia sẻ những nguyên tắc này, nhưng chỉ sau một năm, tách ra, khởi động lại một chuỗi mới với các quy tắc mới, đi xuống một con đường mới và rõ ràng là từ chối _Bộ luật là Luật_.
 
-Đáng buồn thay, điều này đúng với người anh em trẻ hơn, mặc dù nặng hơn của ETC, Ethereum ™, một dự án đã từng chia sẻ những nguyên tắc này, nhưng chỉ sau một năm, tách ra, khởi động lại một chuỗi mới với các quy tắc mới, đi xuống một con đường mới và rõ ràng là từ chối _Bộ luật là Luật_.
+Để hiểu điều gì đã xảy ra, bây giờ chúng ta phải suy ngẫm về lịch sử được chia sẻ của Ethereum Classic với Ethereum ™ và xem lại sự cố dẫn đến nguồn gốc của ETC.
