@@ -76,9 +76,9 @@ Suptilne greške i iskorištavanja teorije igara u lancima blokova izuzetno je t
 
 ### Neravnoteža moći
 
-Kao što je ranije
+Kao što je ranije</a>
 
-uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog. 
+uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog.</p> 
 
 
 
@@ -142,7 +142,7 @@ U Proof of Work, ova vrsta napada je nemoguća zahvaljujući odvojenosti koncern
 
 ### APR utrka u naoružanju
 
-Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju_APR. 
+Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju</em>_APR.</p> 
 
 Na primjer, ako lanac A nudi nagradu za ulog od 12%, zašto bi ulagači uložili nagradu od 3% lanca B, kada bi jednostavno mogli uložiti A i prodati te nagrade za B, na kraju dobiti više B nego što bi dobili da ulože B izravno? Ovo prisiljava lanac B da poveća svoju nagradu, što zatim potiče A da učini isto, i tako dalje.
 
@@ -184,17 +184,17 @@ Obično se tvrdi da je koncept _koji siječe_ rješenje za problem ništa na koc
 
 Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
 
-Za razliku od zlonamjerne vilice Proof of Work gdje bi rudari trošili električnu energiju na rudarenje nove vilice, validatori na ovoj novoj vilici Proof of Stake ne samo da bi je mogli potvrditi jer ništa nije na kocki, nego su i potaknuti da to učine kao što bi moglo završiti kao pobjednički lanac - jedina strana koja ima vrijednost u budućnosti.
+Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
 
 
 
 ### Poremećeno rješavanje sporova
 
-Alternativno, pod pretpostavkom da obje strane podjele _do_ međusobno prepoznaju oštre dokaze, lanac tada ima drugačiji problem: rješavanje legitimnih razlika u mišljenjima koja bi rezultirala podjelom lanca na mrežama dokaza rada.
+Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
 
-Sam Ethereum Classic izvrstan je primjer "krajnjeg mehanizma rješavanja sporova" lanaca dokaza o radu, kako je objašnjeno ništa bolje nego na [web stranici Ethereum.org](https://ethereum.org/en/governance/#dao-fork).
+Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
 
-Iako uvelike ovisi o detaljima implementacije protokola, općenito, Proof of Stake mijenja dinamiku hard forka u korist većinskih dionika u odnosu na autsajdere, au mnogim slučajevima jednostavno uništava lanac underdog-a, prisiljavajući ih na hard fork na novi protokol ako se ne slažu s kontroverznim forkom.
+Za razliku od zlonamjerne vilice Proof of Work gdje bi rudari trošili električnu energiju na rudarenje nove vilice, validatori na ovoj novoj vilici Proof of Stake ne samo da bi je mogli potvrditi jer ništa nije na kocki, nego su i potaknuti da to učine kao što bi moglo završiti kao pobjednički lanac - jedina strana koja ima vrijednost u budućnosti.
 
 Za razliku od Proof of Work, gdje klasični lanac uživa prednost održavanja statusa quo i rudari se moraju aktivno prebaciti na novi fork, na Proof of Stake lancima, većina forkera ima prednost, jer naslijeđena strana kontroverzni fork mora implementirati vlastite obrambene hard forkove kako bi izbjegao da ga većina smanji. Nove vilice uživaju u mogućnosti rezanja ili nesjecanja validatora na starom lancu, optimiziranja kažnjavanja onih koji zaostaju kako bi dobili željeni ishod i manipuliranja ekonomijom odluke o hard forku.
 
@@ -240,6 +240,6 @@ Dobronamjeran ili ne, ovaj golemi ekonomski poticaj objašnjava zašto unatoč g
 
 Usprkos svim poznatim nedostacima, projekti koji se ipak odluče za Proof of Stake moraju biti _izuzetno_ zabrinuti zbog potrošnje energije ili, što je još vjerojatnije, prvenstveno zabrinuti da će ulog donijeti ekonomsku korist sudionicima. Međutim, sama ova zabrinutost je pogrešna, budući da projekt može imati dugoročnu vrijednost samo ako pruža korisnost, što je potkopano centralizacijom i kompromisima koje zahtijeva dokaz o udjelu.
 
-Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije. 
+Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne</em> _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije.</p> 
 
 U svakom slučaju, zbog inherentnih kompromisa potrebnih u sustavima Proof of Stake, to je još jedan znak da _Sovereign Grade Censorship Resistance_ nije prioritet u ovim lancima. Kao takvi, ne mogu se preporučiti za implementacije koje mogu poremetiti moćne institucije.
