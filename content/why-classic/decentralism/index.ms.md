@@ -65,9 +65,9 @@ Hari ini, kebanyakan projek blockchain telah meninggalkan idea untuk memaksimumk
 
 ### Rintangan Penapisan Gred Berdaulat
 
-Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". untuk ini bergantung sepenuhnya pada model ancaman
+Satu soalan yang perlu ditanya apabila menilai projek blockchain yang berbeza ialah "adakah ia cukup terdesentralisasi?". </a>untuk ini bergantung sepenuhnya pada model ancaman
 
-kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantaian tertentu. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?". 
+kes penggunaan, yang bergantung pada jenis aplikasi yang perlu dijalankan pada rantaian tertentu. Persoalannya boleh dirangka semula sebagai "siapa yang mahu menghentikan aplikasi pada rantaian ini daripada berjalan, dan bolehkah rantai itu menentang percubaan mereka untuk penapisan?".</p> 
 
 Sebagai contoh, dalam kes Bitcoin, aplikasi utamanya ialah syiling itu sendiri: kekurangan digital dan keupayaan untuk memindahkannya tanpa penapisan. Ia bersaing dengan banyak mata wang dan aset, termasuk dolar AS, dan oleh itu ia mesti menahan serangan daripada entiti yang sangat berkuasa untuk berterusan. Banyak daripada [pendahulu Bitcoin](https://blog.dassetx.com/the-known-and-possible-influences-of-satoshi-nakamoto-part-1-privately-issued-digital-currencies-before-bitcoin) telah ditutup kerana mereka mempunyai titik utama kegagalan, dan Bitcoin telah direka secara jelas untuk memintas penapisan jenis ini dengan terdesentralisasi yang secukupnya.
 
@@ -159,7 +159,7 @@ Dalam jangka masa panjang, apa sahaja yang berlaku, rantaian blok terdesentralis
 
 Walaupun ia masih secara sukarela, daripada bergantung pada tokoh pihak berkuasa atau kempen pemasaran, individu boleh membuat alasan dari prinsip pertama dan merenung pelajaran dari masa lalu untuk mencapai kesimpulan mereka sendiri tentang rantaian blok mana yang mungkin memberikan nilai jangka panjang dan bernilai berinteraksi dengannya.
 
-Dengan kembali kepada akar teknologi blockchain, teori ekonomi dan pelajaran sejarah, kebijaksanaan dalam keputusan reka bentuk di sebalik Bitcoin menjadi jelas, dan logik ini boleh digunakan semula kepada kemajuan teknologi lain dalam ruang, termasuk Platform Kontrak Pintar seperti Ethereum. Klasik.
+Walaupun ia masih secara sukarela, daripada bergantung pada tokoh pihak berkuasa atau kempen pemasaran, individu boleh membuat alasan dari prinsip pertama dan merenung pelajaran dari masa lalu untuk mencapai kesimpulan mereka sendiri tentang rantaian blok mana yang mungkin memberikan nilai jangka panjang dan bernilai berinteraksi dengannya.
 
 
 
