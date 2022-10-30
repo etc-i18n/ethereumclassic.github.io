@@ -17,9 +17,9 @@ seo: Tổng quan về các tính năng hữu ích của tiền mang lại giá t
 
 Xương sống của các nền kinh tế mạnh, người cung cấp sự ổn định, người khơi dậy ưu tiên [thời gian lành mạnh](https://www.youtube.com/watch?v=k5XbLm3pEfI), người tạo ra sự thịnh vượng. Tiền ảo là liều thuốc giải độc cho nhiều vấn đề do lạm dụng tài chính tập trung trong thế giới rộng lớn hơn và là khái niệm cốt lõi thúc đẩy sự ra đời của Bitcoin.
 
-Từ Trường Kinh tế Áo [, nhiều lý thuyết đằng sau Bitcoin, bao gồm](https://mises.org/topics/bitcoin)
+Từ Trường Kinh tế Áo [, nhiều lý thuyết đằng sau Bitcoin, bao gồm](https://mises.org/topics/bitcoin)</a>
 
-thấy được ý nghĩa triết học của chúng. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương. 
+thấy được ý nghĩa triết học của chúng. Nhiều thập kỷ trước khi Bitcoin được hình dung về mặt công nghệ, các nhà kinh tế học như Ludwig von Mises, Fredreick Hayek và Milton Friedman đã tuyên bố sự nguy hiểm của tiền định danh và lợi thế của các hệ thống tài chính không bị thao túng bởi chính quyền trung ương.</p> 
 
 
 
