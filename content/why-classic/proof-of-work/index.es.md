@@ -20,9 +20,7 @@ A nivel técnico, uno de los mayores diferenciadores entre Ethereum Classic y su
 
 El mecanismo de consenso de una cadena de bloques es su motor. Es la pieza más crítica de la infraestructura tecnológica, de la que depende toda la seguridad, el valor y la utilidad. Al igual que un motor, si deja de funcionar correctamente, todos los demás sistemas que dependen de su funcionamiento se vuelven inútiles o, lo que es peor, un peligro para sus usuarios.
 
-Al igual que con los motores de automóviles, los arquitectos de blockchain disponen de diferentes tipos de mecanismos de consenso a la hora de diseñar un protocolo.  La elección de cuál utilizar revela mucho sobre qué atributos del trilema de la cadena de bloques
-
-se consideran prioritarios. Dado que el mecanismo de consenso de una cadena es tan importante, para los sistemas _Sovereign Grade_ , es lo último que debería estar en el tajo cuando se trata de restricciones de diseño y compensaciones de seguridad. 
+Al igual que con los motores de automóviles, los arquitectos de blockchain disponen de diferentes tipos de mecanismos de consenso a la hora de diseñar un protocolo. La elección de cuál utilizar revela mucho sobre qué atributos del trilema de la cadena de bloques Dado que el mecanismo de consenso de una cadena es tan importante, para los sistemas _Sovereign Grade_ , es lo último que debería estar en el tajo cuando se trata de restricciones de diseño y compensaciones de seguridad.
 
 El primer blockchain popular, Bitcoin, utiliza Proof of Work, un mecanismo de consenso relativamente sencillo y probado que básicamente convierte la electricidad en seguridad. La aplicación de la Prueba de Trabajo como mecanismo de consenso para la ejecución de la cadena de bloques fue la piedra angular que coronó el genial diseño de Bitcoin. Su aplicación resolvió el problema de los generales bizantinos de [](https://en.wikipedia.org/wiki/Byzantine_fault) y proporcionó así una solución descentralizada al doble gasto, un descubrimiento que hizo viable la tecnología blockchain tal y como la conocemos.
 
@@ -32,23 +30,19 @@ La Prueba de Trabajo no está diseñada para ser 100% "perfecta" y, como todos l
 
 Me viene a la mente la sabiduría eterna de _si no está roto, no lo arregles_ y debe haber una razón muy importante para cambiar este estado de cosas.
 
-
-
 ## Consenso comprometido
 
-Un mecanismo de consenso alternativo al Proof of Work que se hizo popular es el Proof of Stake, que se convirtió en una "característica imprescindible" para muchos proyectos de blockchain de segunda generación. En lugar de convertir la electricidad en hachís y seguridad, Proof of Stake se ha descrito como "minería virtual", en la que los stakers bloquean el capital a cambio de la capacidad de crear bloques, y reclaman una recompensa por bloque al hacerlo. 
+Un mecanismo de consenso alternativo al Proof of Work que se hizo popular es el Proof of Stake, que se convirtió en una "característica imprescindible" para muchos proyectos de blockchain de segunda generación. En lugar de convertir la electricidad en hachís y seguridad, Proof of Stake se ha descrito como "minería virtual", en la que los stakers bloquean el capital a cambio de la capacidad de crear bloques, y reclaman una recompensa por bloque al hacerlo.
 
 La principal justificación del PoS es el ecologismo; se esperaba que el PoS fuera capaz de ofrecer las mismas o mejores garantías de seguridad que el PoW sin consumir grandes cantidades de energía.
 
- De entrada, la idea de que Proof of Stake podría proporcionar no sólo las mismas sino _mejores garantías de seguridad que Proof of Work, con no sólo el mismo sino _menos_ gasto de energía, debería haber hecho saltar las alarmas de quienes entienden que _no hay almuerzo gratis_. Sin embargo, para muchos esta verdad esencial se pudo obviar, ya que las circunvalaciones interdisciplinarias de los diferentes sistemas de Prueba de Estabilidad crearon una especie de galope tecnológico [](https://en.wikipedia.org/wiki/Gish_gallop), en el que las correcciones sobre correcciones hicieron que los protocolos de PdS fueran cada vez más complejos y oscuros objetivos móviles que se volvieron difíciles de descifrar, y el mito de _free lunch_ se pasó de largo. 
+De entrada, la idea de que Proof of Stake podría proporcionar no sólo las mismas sino _mejores garantías de seguridad que Proof of Work, con no sólo el mismo sino _menos_ gasto de energía, debería haber hecho saltar las alarmas de quienes entienden que _no hay almuerzo gratis_. Sin embargo, para muchos esta verdad esencial se pudo obviar, ya que las circunvalaciones interdisciplinarias de los diferentes sistemas de Prueba de Estabilidad crearon una especie de galope tecnológico [](https://en.wikipedia.org/wiki/Gish_gallop), en el que las correcciones sobre correcciones hicieron que los protocolos de PdS fueran cada vez más complejos y oscuros objetivos móviles que se volvieron difíciles de descifrar, y el mito de _free lunch_ se pasó de largo.
 
 Nada personifica la naturaleza sutil e insidiosa de la centralización como el mito de la Prueba de Estaca. A primera vista, se trata de un noble intento de corregir los peores aspectos de la tecnología blockchain y hacerla compatible con un futuro sostenible, pero si se examina más de cerca, esta peligrosa idea sacrifica las cualidades más liberadoras de la tecnología a cambio de objetivos menos nobles.
 
 En realidad, la popularidad de Proof of Stake no sólo corre el riesgo de malgastar tiempo y recursos, sino que, si su adopción sigue sin ser cuestionada, Proof of Stake podría condenar el futuro a uno que funcione con sistemas capturados que se hagan pasar por neutrales; donde los desarrollos en el espacio de las criptomonedas no contribuyan al florecimiento humano, sino al poder cada vez mayor de una ultra-élite, a expensas de la utilidad abierta para todos.
 
 En resumen, Proof of Work es un mecanismo de consenso sólido y probado en la batalla que prioriza correctamente la entrega de las cualidades críticas que dan lugar a la utilidad y la propuesta de valor de una cadena de bloques. La prueba de interés, en cambio, sacrifica estos elementos a cambio de priorizar ideales secundarios no críticos, como la reducción de las emisiones de carbono o, más sinceramente, la maximización de los beneficios para las grandes ballenas.
-
-
 
 ## Compromisos de seguridad
 
@@ -59,8 +53,6 @@ Una hoja de cálculo de Google no puede ser atacada en un 51%, pero ¿esto la ha
 En este sentido, Proof of Stake se parece mucho a una hoja de cálculo de Google. La falta de claridad en torno a las garantías de seguridad, y la dificultad para medirlas, hace que incluso los usuarios más técnicos no vean más allá de las afirmaciones de marketing que hacen muchos proyectos de TPV. Como resultado, la verdadera naturaleza de estos sistemas y sus posibles modos de fallo están ofuscados, en comparación con las garantías explícitas, bien entendidas y menos complicadas de los sistemas de Prueba de Trabajo.
 
 Como cada sistema de TPV tiene su propio conjunto de defectos, evaluarlos individualmente es poco práctico. Aún así, algunos problemas generales son más o menos aplicables a todos los sistemas Proof of Stake en comparación con Proof of Work, que se explorarán a continuación para demostrar que las cadenas hacen implícitamente concesiones de seguridad cuando deciden usar PoS sobre PoW.
-
-
 
 ### Seguridad autorreferencial
 
@@ -76,21 +68,15 @@ Esta autorreferencia de la seguridad puede describirse como una especie de máqu
 
 ![Prueba de la máquina de movimiento perpetuo de estacas](./overbalance.jpg)
 
-
-
 ### Complejidad y superficie de ataque
 
 Como ocurre con todos los sistemas de software, la complejidad adicional crea una mayor superficie de ataque que los actores maliciosos pueden aprovechar y explotar, con resultados potencialmente catastróficos. En el contexto de las cadenas de bloques, que son sistemas tanto económicos como de software, este problema se agrava, y muchos de los potenciales exploits que permanecen latentes en dichos sistemas pueden no aparecer hasta que un valor económico significativo esté en riesgo.
 
 Los errores sutiles de la teoría del juego y los exploits en las cadenas de bloques son extremadamente difíciles, en algunos casos imposibles de identificar, probar y eliminar antes de pasar a la producción. Una de las principales defensas es adherirse al sólido principio técnico de [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), un enfoque abandonado por los proyectos Proof of Stake cuando rechazan la simple elegancia Proof of Work y adoptan alternativas más complejas y explotables que ofrecen poco o ningún beneficio pragmático a la red.
 
-
-
 ### Desequilibrio de poder
 
 Como [exploró anteriormente](/why-classic/decentralism/#balancing-power), eliminar a los mineros del modelo socioeconómico de una cadena de bloques elimina una importante fuerza reguladora que, de otro modo, evitaría la captura; mantener la honestidad de otras partes mediante la amenaza de vetar las malas decisiones de la minería selectiva de las cadenas. En las cadenas Proof of Stake, los inversores y los "mineros" (stakers) son el mismo grupo, por lo que cualquier abuso de poder por parte de este grupo queda relativamente sin control, y es probable que la cadena tienda a bifurcarse de forma que beneficie a este grupo a expensas de los demás, como por ejemplo aumentando las recompensas de las apuestas.
-
-
 
 ### El dinero no es poder
 
@@ -102,8 +88,6 @@ Las cadenas Proof of Stake son vulnerables a toda una serie de ataques económic
 
 Las instituciones financieras modernas amenazadas por la tecnología blockchain están seguras de librar una guerra económica contra los Proof of Stake, que no pueden limitarse a jugar con el precio, sino que, al hacerlo, pueden provocar un fallo total del sistema. Mediante la creación de mercados derivados y la manipulación de los precios, los atacantes pueden comprar derechos de voto en la red y obstaculizar o destruir la capacidad de llegar a un consenso mediante ataques de estafa.
 
-
-
 ### El desgaste de los mineros frente a los ricos se hacen más ricos
 
 En los sistemas Proof of Work, además de los costes continuos de electricidad, los mineros deben actualizar continuamente el hardware, gastando recursos adicionales para seguir siendo competitivos. El efecto de esto es que el grupo de individuos que pueden minar de forma rentable está cambiando constantemente. Si un minero es malo en la minería, acabará perdiendo su capacidad de ganarse la vida, ya que será superado por otros mineros.
@@ -112,11 +96,9 @@ Esto es bueno para la descentralización, ya que un grupo de mineros que cambia 
 
 Esta función vital y polifacética está lobotomizada de los sistemas Proof of Stake. En lugar de ello, se sustituye esta lucha constante por la distribución relativamente estática de la cantidad de participación a la que tiene acceso un determinado apostador, con lo que se gana muy poco invirtiendo en innovación u otras externalidades. La cantidad de beneficios o pérdidas de un apostador está totalmente bajo su control y, si no hace nada, puede aumentar continuamente su pila sin riesgo de ser superado por la competencia.
 
-Además, debido a las economías de escala, a las tasas de gas y a la proporción de fondos que hay que apostar en comparación con los fondos que hay que destinar a los gastos cotidianos, en los sistemas Proof of Stake, _los ricos se hacen más ricos_ a un ritmo más rápido _, lo que centraliza la distribución del valor de una red hacia los apostadores más ricos a lo largo del tiempo. 
+Además, debido a las economías de escala, a las tasas de gas y a la proporción de fondos que hay que apostar en comparación con los fondos que hay que destinar a los gastos cotidianos, en los sistemas Proof of Stake, _los ricos se hacen más ricos_ a un ritmo más rápido _, lo que centraliza la distribución del valor de una red hacia los apostadores más ricos a lo largo del tiempo.
 
 Al no haber desgaste para corregir esta tendencia, la falta de rotación en el ecosistema de apuestas significa que un bloque de poder de mega-whales acumula una porción cada vez mayor de todas las redes de Proof of Stake, haciéndolas cada vez más susceptibles de ser tomadas a medida que el coeficiente Nakamoto se acerca a 0. No hay ninguna razón para que las dinastías de apuestas de Proof of Stake que buscan rentas no continúen durante generaciones, ya que los grandes apostadores pasan sus bolsas cada vez más grandes a la siguiente generación, por lo que es sólo cuestión de tiempo que las redes de Proof of Stake sean capturadas explícitamente como el valor de la red y el poder de decidir las bifurcaciones ganadoras se lleva a la cima.
-
-
 
 ### Sin permiso
 
@@ -124,15 +106,13 @@ La ausencia de permisos, como es lógico, es una propiedad que permite a los nue
 
 La minería, y a su vez, la prueba de trabajo, no tiene permisos, ya que cualquiera (o cualquier cosa) puede contribuir con hashrate a la red y tener la misma oportunidad de poder minar un bloque en función del hashrate que aporte. Cada hachís es como un boleto de lotería, y cuantos más boletos se compren, mayor será la probabilidad de encontrar un bloque y obtener esa dulce, dulce recompensa de bloque.
 
- Dado que no hay guardianes, los mecanismos de consenso de la Prueba de Trabajo _no pueden preocuparse por _de cómo se crea_ hashrate, o _de quién ha contribuido_ . Se trata de una cualidad esencial para que una cadena se mantenga neutral y no sea capturada, ya que si existieran guardianes, podrían rechazar el trabajo basándose en la identidad o la ubicación de un colaborador, bloqueándolo y, al hacerlo, centralizando y capturando la red. 
+Dado que no hay guardianes, los mecanismos de consenso de la Prueba de Trabajo _no pueden preocuparse por _de cómo se crea_ hashrate, o _de quién ha contribuido_ . Se trata de una cualidad esencial para que una cadena se mantenga neutral y no sea capturada, ya que si existieran guardianes, podrían rechazar el trabajo basándose en la identidad o la ubicación de un colaborador, bloqueándolo y, al hacerlo, centralizando y capturando la red.
 
 Los sistemas Proof of Stake son _no_ sin permisos. La única forma de adquirir la moneda necesaria para realizar transacciones y apuestas es _comprándola_ a alguien que ya tenga dicha moneda; necesitan _permiso_ de alguien dentro de la red para utilizarla, siendo los titulares existentes los guardianes.
 
 En cierto sentido, todas las redes Proof of Stake son ya _soft captured_, ya que los titulares de monedas PoS podrían decidir colectivamente (o ser coaccionados) dejar de comerciar con usuarios de alguna clase o jurisdicción concreta, y estos usuarios no tienen forma de realizar transacciones en la red independientemente del precio que estén dispuestos a pagar.
 
 Tomemos el ejemplo de una persona de una nación menos desarrollada o aislada con poca o ninguna capacidad de realizar transacciones en dólares; sin acceso al sistema bancario, y por lo tanto la incorporación a través de los intercambios, y sin nadie dispuesto a hacer una transacción OTC en efectivo en su área, siempre pueden adquirir monedas Proof of Work simplemente comprando algún hardware para minarlas. Este mismo usuario está bloqueado en las blockchains Proof of Stake, haciendo que esas redes sean menos accesibles, menos útiles y menos valiosas.
-
-
 
 ### Centralización de las apuestas en las bolsas
 
@@ -148,8 +128,6 @@ Si una aplicación "indeseable" está operando en una gran cadena de Proof of St
 
 En Proof of Work, este tipo de ataque es imposible gracias a la separación de intereses y a la naturaleza geográficamente descentralizada de las fuentes de electricidad.
 
-
-
 ### La carrera armamentística de la APR
 
 Las cadenas Proof of Stake compiten entre sí por el capital líquido de las apuestas que, a diferencia del hardware de minería que está ligado a algoritmos específicos, puede moverse libremente entre _todas las cadenas PoS de_ negociando en mercados abiertos. Esto significa que, con el tiempo, todas las cadenas de Proof of Stake se verán presionadas para aumentar las recompensas de las apuestas y, a su vez, las tasas de inflación, para atraer a un número suficiente de apostantes a su cadena. Como resultado, es probable que una "carrera hacia el fondo" engulla a todas las cadenas de Proof of Stake, ya que entran en una carrera armamentística cada vez mayor _APR_.
@@ -158,21 +136,15 @@ Por ejemplo, si la cadena A ofrece un 12% de recompensa por apostar, ¿por qué 
 
 Esta situación es una gran noticia para los grandes apostadores, pero terrible para los usuarios que tienen una porción relativamente mayor de sus fondos no apostados para usar la red, y que serán gravados con tarifas exorbitantes por simplemente no apostar. No se sabe cómo se desarrollará esto a largo plazo, pero corre el riesgo de dañar la utilidad y el valor de todas las redes de puntos de venta, lo que llevaría a una espiral de degradación cada vez mayor.
 
-
-
 ### 33% Ataques
 
 Las cadenas de Proof of Stake pueden ser interrumpidas permanentemente si un atacante adquiere el 33% de los activos apostados, necesariamente menos del 33% de todas las monedas.
-
-
 
 > Por lo tanto, si el protocolo PoS promedio tiene más del 70% de sus tokens apostados, se necesitaría adquirir ~25% del total de tokens pendientes del protocolo para lanzar un ataque. Aunque cada PoS es diferente, el 33% generalmente sólo es suficiente para detener la cadena para que no pueda llegar a un consenso y producir nuevos bloques, no para realizar realmente un gasto doble. Para eso necesitarías la friolera de un 66%.
 > 
 > - [Viktor Bunin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
 Algunos argumentan que no hay _incentivo económico directo_ para provocar un ataque de este tipo porque el atacante se arriesga a devaluar sus participaciones, lo que puede ser cierto, pero esto es también una admisión de que las cadenas Proof of Stake son susceptibles de detenerse en un 33% a través de _incentivos económicos indirectos_ como la venta en corto. Y lo que es más importante, las cadenas de PdS son susceptibles de sufrir un 33% de ataques por parte de actores como los estados nacionales, en los que los incentivos financieros no son la principal motivación, lo que sugiere que _Resistencia a la censura de grado soberano_ no es objeto de preocupación.
-
-
 
 ### Perpetuo Pwnage puro
 
@@ -182,11 +154,9 @@ Aunque los ataques del 51% en los sistemas Proof of Work pueden ser perjudiciale
 
 En las cadenas PoS, una vez que un atacante alcanza un determinado umbral de participación, la cadena nunca puede recuperarse; como el atacante no necesita comprometer recursos externos, no puede ser desbancado. La única solución a este estado de fallo es el hard-forking para alejar al atacante, lo que rompe _El código es la ley_, derrota el propósito de tener una cadena de bloques, añade subjetividad y centraliza aún más la cadena.
 
-
-
 ### Nada en juego
 
-En Proof of Work, si se produce una bifurcación, los mineros tienen que decidir qué lado de la bifurcación van a minar, ya que hay un coste eléctrico externo asociado a la creación de bloques.  Si los mineros extraen la bifurcación "equivocada", su recompensa carecerá de valor y habrán malgastado la electricidad gastada en la extracción, por lo que deben elegir qué extraer sabiamente; está en juego el coste de la electricidad _. 
+En Proof of Work, si se produce una bifurcación, los mineros tienen que decidir qué lado de la bifurcación van a minar, ya que hay un coste eléctrico externo asociado a la creación de bloques. Si los mineros extraen la bifurcación "equivocada", su recompensa carecerá de valor y habrán malgastado la electricidad gastada en la extracción, por lo que deben elegir qué extraer sabiamente; está en juego el coste de la electricidad _.
 
 En cambio, en Proof of Stake, si se produce una bifurcación, los recursos apostados, al formar parte del estado interno del sistema, se dividen en la bifurcación y se duplican. Los apostadores tienen activos iguales en ambos lados de una bifurcación y están incentivados a validar ambos lados, ya que no están seguros de qué lado prevalecerá. Esto se conoce como el problema de [nada en juego](https://medium.com/coinmonks/understanding-proof-of-stake-the-nothing-at-stake-theory-1f0d71bc027). Es probable que fomente las bifurcaciones haciendo que sea más barato y menos arriesgado realizar bifurcaciones, facilitando el ataque a las cadenas a través de travesuras basadas en bifurcaciones, y complicando el logro de un consenso sobre qué lado de una división es la versión "verdadera".
 
@@ -196,11 +166,9 @@ Un atacante podría impulsar una controvertida bifurcación dura que intencionad
 
 A diferencia de una bifurcación Proof of Work maliciosa, en la que los mineros desperdiciarían electricidad minando la nueva bifurcación, los validadores de esta nueva bifurcación Proof of Stake no sólo podrían validarla, ya que no hay nada en juego, sino que están incentivados a hacerlo, ya que podría acabar siendo la cadena ganadora, la única que tiene valor en el futuro.
 
-
-
 ### Resolución de litigios interrumpida
 
- Alternativamente, suponiendo que ambas partes de una división _reconocen las pruebas de corte de la otra parte, la cadena tiene entonces un problema diferente: la resolución de las diferencias de opinión legítimas que darían lugar a la división de la cadena en las redes de prueba de trabajo. 
+Alternativamente, suponiendo que ambas partes de una división _reconocen las pruebas de corte de la otra parte, la cadena tiene entonces un problema diferente: la resolución de las diferencias de opinión legítimas que darían lugar a la división de la cadena en las redes de prueba de trabajo.
 
 El propio Ethereum Classic es un excelente ejemplo del "mecanismo definitivo de resolución de disputas" de las cadenas Proof of Work, como se explica nada menos que en el sitio web [Ethereum.org](https://ethereum.org/en/governance/#dao-fork).
 
@@ -210,15 +178,11 @@ A diferencia de lo que ocurre en Proof of Work, donde la cadena clásica goza de
 
 _Nota: Las siguientes tres críticas de Proof of Stake son cortesía de [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
 
-
-
 ### Elección subjetiva de la horquilla
 
 La elección de la bifurcación es la regla de decisión que los participantes de la red tienen que utilizar cuando se les presenta más de una cadena al dividirse, cuando se unen por primera vez, o cuando se van y se unen de nuevo. Como señal física externa, PoW permite una clara elección de bifurcación objetiva en forma de "cadena de prueba de trabajo más larga". Es objetivo porque sólo con la potencia de cálculo de toda la red es que se puede establecer la cadena más larga.
 
 Como los sistemas PoS no cuentan con una cantidad tan objetiva para decidir la cadena correcta, tienen que utilizar un proceso de decisión subjetivo por parte de los participantes. Esto significa que necesitan consultar fuera de la cadena con exploradores de bloques, desarrolladores, mineros u otras fuentes para poder decidir qué cadena seguir. Esto se aplica, en el caso de las divisiones, a los nodos participantes en la red, a los nuevos participantes y a los nodos que se van y se vuelven a unir.
-
-
 
 ### Costeabilidad imperdonable
 
@@ -226,15 +190,11 @@ Una de las características físicas básicas del dinero sano es que su producci
 
 Es sencillo verificar objetivamente que el BTC o ETC de un titular no es falso debido a una medida objetiva externa incluida en la cabecera de cada bloque, pero esta prueba no existe en los sistemas Proof of Stake. En los sistemas PoS, dado que la base de datos con las cuentas y los saldos es trivial de escribir por parte de los nodos y los estacadores del sistema, no existe una rentabilidad objetiva, y la verificación de las tenencias de autenticidad es mucho más compleja, propensa a errores y requiere potencialmente un hardware caro.
 
-
-
 ### Trabajo acumulado
 
 Como los mineros en las blockchains PoW trabajan bloque a bloque, ese trabajo no sólo es una barrera para que los nodos deshonestos manipulen los bloques actuales o los más recientes, sino que ese trabajo realmente se acumula a medida que se construye la cadena. Esto significa que los bloques que están enterrados más lejos en la cadena son exponencialmente más difíciles de cambiar o falsificar para los atacantes. Por ejemplo, en el momento de escribir este artículo, se necesitarían 340 días con el 100% de la potencia de hashing actual de la red Bitcoin para poder invertir toda la cadena.
 
 En los ledgers distribuidos PoS, al no utilizar PoW, revertir toda la cadena es trivial en términos de trabajo computacional, por lo que se puede hacer en pocos minutos.
-
-
 
 ## Toallas de hotel
 
@@ -243,8 +203,6 @@ Incluso si el argumento ecologista a favor de Proof of Stake se toma al pie de l
 Pero cuando la afirmación de los ecologistas es _no_ tomada al pie de la letra, la elección de utilizar la prueba de fuego empieza a tener sentido. Al igual que un hotel que pide a sus huéspedes que reutilicen las toallas para "salvar el planeta", la posición ecologista de los PdS es convenientemente una que también enriquece a los poseedores de dichas monedas, que pueden generar ingresos pasivos al apostar. A sus ojos, el staking les permite cosechar las recompensas de proporcionar el mismo servicio que los mineros proporcionarían de otro modo; "minería virtual" sin apenas gastos, salvo el coste de oportunidad de bloquear el stake.
 
 Bienintencionado o no, este enorme incentivo económico explica por qué, a pesar de los descensos de seguridad explorados anteriormente, no es de extrañar que el PoS se haya convertido en una opción tan popular entre los poseedores de criptodivisas y haya conseguido reclutar a muchos ávidos promotores.
-
-
 
 > La prueba de Stake es como si el hotel te pidiera que reutilizaras las toallas para salvar el planeta. En la superficie es con nobles intenciones, pero en realidad les hace ganar dinero y te dan un peor servicio.
 

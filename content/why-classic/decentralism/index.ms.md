@@ -159,7 +159,7 @@ Dalam jangka masa panjang, apa sahaja yang berlaku, rantaian blok terdesentralis
 
 Walaupun ia masih secara sukarela, daripada bergantung pada tokoh pihak berkuasa atau kempen pemasaran, individu boleh membuat alasan dari prinsip pertama dan merenung pelajaran dari masa lalu untuk mencapai kesimpulan mereka sendiri tentang rantaian blok mana yang mungkin memberikan nilai jangka panjang dan bernilai berinteraksi dengannya.
 
-Dengan kembali kepada akar teknologi blockchain, teori ekonomi dan pelajaran sejarah, kebijaksanaan dalam keputusan reka bentuk di sebalik Bitcoin menjadi jelas, dan logik ini boleh digunakan semula kepada kemajuan teknologi lain dalam ruang, termasuk Platform Kontrak Pintar seperti Ethereum. Klasik.
+Walaupun ia masih secara sukarela, daripada bergantung pada tokoh pihak berkuasa atau kempen pemasaran, individu boleh membuat alasan dari prinsip pertama dan merenung pelajaran dari masa lalu untuk mencapai kesimpulan mereka sendiri tentang rantaian blok mana yang mungkin memberikan nilai jangka panjang dan bernilai berinteraksi dengannya.
 
 
 

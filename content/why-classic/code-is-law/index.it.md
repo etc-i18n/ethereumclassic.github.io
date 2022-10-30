@@ -40,7 +40,7 @@ Quando gli individui si impegnano volontariamente con gli Smart Contract su una 
 
 ## Il valore delle blockchain
 
- Riflettendoci, risulta evidente che _Code is Law_ è l'unico _modo in cui gli Smart Contracts possono essere interpretati in modo corretto o utile. Sulle blockchain che non rispettano _Code is Law_, l'esito delle transazioni non è governato dalla scelta individuale attraverso il codice dei contratti, ma in ultima analisi per volere della "governance" del sistema preesistente, compresi tutti gli inconvenienti che l'introduzione di una blockchain avrebbe dovuto alleviare.
+Riflettendoci, risulta evidente che _Code is Law_ è l'unico _modo in cui gli Smart Contracts possono essere interpretati in modo corretto o utile. Sulle blockchain che non rispettano _Code is Law_, l'esito delle transazioni non è governato dalla scelta individuale attraverso il codice dei contratti, ma in ultima analisi per volere della "governance" del sistema preesistente, compresi tutti gli inconvenienti che l'introduzione di una blockchain avrebbe dovuto alleviare.
 
 Per coloro che vogliono "Costruire _Applicazioni inarrestabili_ ", la verità apparente è che _Il codice è legge_ è la cosa che rende preziose le blockchain. È il motivo per cui esistono. Senza _Code is Law_, ci sono modi molto più efficienti per "costruire _applicazioni bloccabili_ ", come Amazon Web Services, quindi perché preoccuparsi di una blockchain?
 

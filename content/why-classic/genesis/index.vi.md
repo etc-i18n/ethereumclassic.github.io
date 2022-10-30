@@ -105,21 +105,19 @@ Nhưng bất chấp những cảnh báo này, vào thời điểm crowdsale kế
 
 Một tuần sau khi crowdsale kết thúc, một nhà nghiên cứu bảo mật
 
-lỗ hổng bảo mật mới mà nhiều nhà phát triển Hợp đồng thông minh trước đây chưa tính đến, cái gọi là "lỗi reentrancy". 
-
-Lỗi có thể xảy ra khi một hợp đồng không cập nhật đúng trạng thái của nó khi các hợp đồng khác tương tác với nó, cho phép những kẻ tấn công thực hiện cùng _các tác giả của hợp đồng. Nó giống như một máy bán hàng tự động không kiểm tra xem một đồng xu đã được đưa vào đúng cách hay chưa; kẻ tấn công có thể buộc một đoạn dây xung quanh đồng xu để kéo nó trở lại và sử dụng chính đồng xu đó để quét tất cả các món quà ngon. 
+Lỗi có thể xảy ra khi một hợp đồng không cập nhật đúng trạng thái của nó khi các hợp đồng khác tương tác với nó, cho phép những kẻ tấn công thực hiện cùng _các tác giả của hợp đồng. Nó giống như một máy bán hàng tự động không kiểm tra xem một đồng xu đã được đưa vào đúng cách hay chưa; kẻ tấn công có thể buộc một đoạn dây xung quanh đồng xu để kéo nó trở lại và sử dụng chính đồng xu đó để quét tất cả các món quà ngon.
 
 Vì Ethereum rất mới và các phương pháp hay nhất chưa được hình thành xung quanh việc phát triển Hợp đồng thông minh, lỗi này khá phổ biến. Một khi tin tức được đưa ra, nhiều hợp đồng đã bị khai thác và tiền bị mất, nhưng may mắn thay, The DAO không bị ảnh hưởng, [theo](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b).
 
-
-
 ### ... và nó đã biến mất
 
-Cũng giống như các hợp đồng trong thế giới thực, ma quỷ nằm ở chi tiết, và hóa ra là The DAO lỗi reentrancy. Trên [dòng 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) , một vụ khai thác nằm im lìm và số lượng ETH huy động được khổng lồ đó đang ngồi đó chờ một lập trình viên tinh mắt đến khai thác. 
+Cũng giống như các hợp đồng trong thế giới thực, ma quỷ nằm ở chi tiết, và hóa ra là The DAO
+
+lỗi reentrancy. Trên [dòng 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) , một vụ khai thác nằm im lìm và số lượng ETH huy động được khổng lồ đó đang ngồi đó chờ một lập trình viên tinh mắt đến khai thác. 
 
 Một vài ngày sau, một hoặc nhiều kẻ tấn công bắt đầu rút ruột The DAO, và giống như một đoạn dây buộc vào đồng xu, sử dụng các hợp đồng được chế tạo đặc biệt để liên tục gọi chức năng phân tách của DAO để lấy đi nhiều ETH hơn so với các tác giả hợp đồng của nó _dự định_ cho phép.
 
-Kết quả của The DAO Hack, một lượng ETH đáng kể đã được khai thác từ The DAO với chi phí của Người nắm giữ mã thông báo DAO (DTH), những người có khả năng mất nhiều khoản đầu tư ban đầu nếu không thể làm gì để giải cứu nó.
+Một vài ngày sau, một hoặc nhiều kẻ tấn công bắt đầu rút ruột The DAO, và giống như một đoạn dây buộc vào đồng xu, sử dụng các hợp đồng được chế tạo đặc biệt để liên tục gọi chức năng phân tách của DAO để lấy đi nhiều ETH hơn so với các tác giả hợp đồng của nó _dự định_ cho phép.
 
 ![Một truyện tranh lan truyền từ năm 2016 mô tả DAO đốt tiền của Ethereum](./oops.jpeg)
 
@@ -218,7 +216,7 @@ Trớ trêu thay, cùng lúc cuộc săn lùng phù thủy này đang diễn ra,
 > 
 > - [Trang web DAO](https://web.archive.org/web/20160622212427/https://daohub.org/manifesto.html)
 
-Hiện tại, cuộc tranh luận Hard Fork giống như một cuộc thập tự chinh tôn giáo không có rào cản hơn là một cuộc thảo luận lành mạnh về những gì có lợi nhất cho dự án Ethereum, nhưng có lẽ nó chưa bao giờ về điều đó để bắt đầu.
+Trớ trêu thay, cùng lúc cuộc săn lùng phù thủy này đang diễn ra, trang web của The DAO, được vận hành bởi slock.it, đã nêu bật các giá trị được cho là của nó:
 
 
 
@@ -287,7 +285,7 @@ Một khẩu súng hút thuốc khác chỉ ra sự thiếu trung lập từ Qu�
 > 
 > - [Poloniex](https://poloniexus.circle.com/press-releases/2016.07.26-responses-to-common-etc-questions/)
 
-Dù bằng cách nào, bỏ qua những tin đồn và thuyết âm mưu, bằng chứng đã nằm trong bánh pudding; những người đã thúc đẩy Hard Fork xuất hiện [rất hài lòng](https://twitter.com/stephantual/status/743764898316877824) với sự "giúp đỡ" của Ethereum Foundation trong việc triển khai một giải pháp hiệu quả như vậy.
+Một khẩu súng hút thuốc khác chỉ ra sự thiếu trung lập từ Quỹ Ethereum xung quanh quyết định fork được chứng minh trong một thông báo từ sàn giao dịch Poloniex, cho thấy rằng EF không chỉ đơn giản là không cảnh báo các sàn giao dịch về khả năng chia tách chuỗi, mà còn riêng tư , đã tích cực hạ thấp tiềm năng của nó, và trái ngược với cuộc thảo luận trên Reddit, tuyên bố rằng cộng đồng Ethereum có rất ít hoặc không quan tâm đến chuỗi chưa được làm việc.
 
 Khi thời hạn phân chia chức năng của Child DAO sắp hết, sự đồng thuận đã được tuyên bố và Ethereum ™ sẽ thực hiện điều không thể tưởng tượng được: Hard Fork để thay đổi các quy tắc của trò chơi để cố gắng hoàn tác vụ hack. Các Forker đã thắng trong cuộc tranh luận; hoặc ít nhất, họ đã làm theo cách của họ. Còn bây giờ.
 
@@ -403,27 +401,27 @@ Về phía Ethereum Classic của sự phân tách, quyết định được đ�
 > 
 > - ["Xem lại DAO", Nghiên cứu BitMEX](https://blog.bitmex.com/revisiting-the-dao/)
 
-Việc họ đi đến quyết định này như thế nào không được công khai, nhưng chỉ có thể cho rằng đó là một phần mệt mỏi, và hy vọng rằng Hard Fork sẽ có nghĩa là kết thúc của câu chuyện, nhưng nó cũng có thể một phần là một trò chơi lý thuyết, trong đó mục tiêu không phải là cung cấp cho ETC bất kỳ tính hợp pháp nào.
+Về phía Ethereum Classic của sự phân tách, quyết định được đưa ra bởi RHG / WHG _không phải là_ để duy trì khía cạnh bế tắc của họ và họ đã không, mặc dù có yêu cầu, chuyển các khóa Child DAO cho một số nhóm đáng tin cậy khác để tiếp tục bế tắc thay mặt họ.
 
 Chiến lược không cho thấy để thực hiện bất kỳ sự chuẩn bị nào là cách tốt nhất để giảm khả năng xảy ra sự phân chia chuỗi ngay từ đầu, vì hành động như thể chuỗi chưa được xử lý sẽ chết, về lý thuyết, sẽ khiến nó có nhiều khả năng chết hơn. nó sẽ được coi là bị bỏ rơi. Hard Fork được cho là _cách_ để tạo ra toàn bộ Người nắm giữ mã thông báo DAO và việc đề phòng hoặc đuổi tiền trên ETC sẽ làm suy yếu các lý do gần đây cho việc triển khai nó.
 
 Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay. 
 
-Nếu thay vì triển khai Hard Fork, RHG chỉ đơn giản là tiếp tục bế tắc, không những không cần đến Ethereum Classic, mà những người nắm giữ mã thông báo DAO rất có thể sẽ đòi lại được _thêm_ giá trị, thay vào đó, giá trị này đã bị mất dưới dạng ETC cho The DAO Hacker và làm tổn hại danh tiếng của dự án Ethereum.
+Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay.
 
-Nhưng niềm vui chỉ mới bắt đầu.
+Nếu thay vì triển khai Hard Fork, RHG chỉ đơn giản là tiếp tục bế tắc, không những không cần đến Ethereum Classic, mà những người nắm giữ mã thông báo DAO rất có thể sẽ đòi lại được _thêm_ giá trị, thay vào đó, giá trị này đã bị mất dưới dạng ETC cho The DAO Hacker và làm tổn hại danh tiếng của dự án Ethereum.
 
 
 
 ### Thanh lý ETC không thành công
 
-Không cần cảnh báo hoặc hỏi ý kiến của Người nắm giữ mã thông báo DAO, WHG, sau khi lần đầu tiên cố gắng "bóp" tiền thông qua một số địa chỉ để làm xáo trộn nguồn của ETC, đã gửi khoảng 4 triệu (một nửa trong số 70%) trên một số sàn giao dịch, [dự định](https://archive.is/tKKWY) chuyển đổi ETC này sang ETH "thay mặt" cho Người nắm giữ mã thông báo DAO.
+Nhưng niềm vui chỉ mới bắt đầu.
 
 ![ETC được xác nhận lại đã bị lật đổ và được gửi đến các sàn giao dịch](./whg-funds.png)
 
 Hành động này đã khép lại thỏa thuận đối với nhiều người nghi ngờ rằng những "kẻ trắng trợn" này không nhất thiết phải hành động trong một thế giới hoàn toàn trắng đen và có động cơ hành động vì lợi ích tốt nhất của Người nắm giữ mã thông báo DAO.
 
-Hành động của họ đặt ra hai câu hỏi:
+Hành động này đã khép lại thỏa thuận đối với nhiều người nghi ngờ rằng những "kẻ trắng trợn" này không nhất thiết phải hành động trong một thế giới hoàn toàn trắng đen và có động cơ hành động vì lợi ích tốt nhất của Người nắm giữ mã thông báo DAO.
 
 - Tại sao không cho Người nắm giữ mã thông báo DAO một lựa chọn trong vấn đề này, hoặc ít nhất là mở một cuộc thảo luận về những gì cần làm? Nhiều người nắm giữ không ủng hộ Hard Fork, chưa nói đến việc muốn chuyển đổi ETC của họ sang ETH. Thật vậy, nhiều người vẫn giữ ETC đó cho đến ngày nay, vì vậy rõ ràng hành động này không thể phù hợp với mong muốn của _tất cả_ Chủ sở hữu mã thông báo DAO.
 - Tại sao lại cố gắng lật đổ ETC? Điều này có vẻ đáng ngờ và không phục vụ mục đích nào khác ngoài việc lừa các sàn giao dịch không gắn cờ các khoản tiền gửi. Nếu tất cả những điều này là hợp pháp, thì điều gì thu được từ sự xáo trộn?
@@ -432,7 +430,7 @@ Chỉ có những quan điểm hoài nghi nhất mới có thể trả lời th�
 
 Rất may, trong một diễn biến đáng xấu hổ khác, mặc dù đã cố gắng che giấu nguồn gốc thực sự của ETC, phần lớn các khoản tiền gửi này đã bị đóng băng bởi các sàn giao dịch và ngay cả ETC đã được thanh lý cuối cùng cũng được giao dịch trở lại ETC sau đó khi nó trở nên rõ ràng rằng WHG sẽ không thể thực hiện kế hoạch ban đầu của họ.
 
-Mặc dù đưa ra lý do lý do tại sao họ muốn bán ETC đã thu hồi, nhưng tất cả những lý do này được cho là vô căn cứ nhờ việc thực hiện Hợp đồng rút tiền sau đó trên ETC, điều này cuối cùng đã cho phép Chủ sở hữu mã thông báo DAO lấy lại ETC của họ một cách an toàn và tự quyết định phải làm gì với nó. 
+Rất may, trong một diễn biến đáng xấu hổ khác, mặc dù đã cố gắng che giấu nguồn gốc thực sự của ETC, phần lớn các khoản tiền gửi này đã bị đóng băng bởi các sàn giao dịch và ngay cả ETC đã được thanh lý cuối cùng cũng được giao dịch trở lại ETC sau đó khi nó trở nên rõ ràng rằng WHG sẽ không thể thực hiện kế hoạch ban đầu của họ.
 
 
 

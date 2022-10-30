@@ -11,7 +11,7 @@ seo: Tổng quan về các tính năng hữu ích của tiền mang lại giá t
 - Tiền có thể được coi là hợp lý nếu nó có một số thuộc tính có thể định lượng được và những thuộc tính này được mã hóa thành ETC.
 - Một thuộc tính quan trọng là _độ khan hiếm, mà ETC nhận được_ __ _lai.
 - Nếu một dự án không có _nguồn cung tương lai_đã biết trước, những người bảo trì có thể tự ý thổi phồng giá trị của một loại tiền tệ khỏi người nắm giữ.
-- Rủi ro này vẫn tồn tạitất cả các chuỗi không có đường cong phát thải cố định _, bao gồm cả Ethereum ™. 
+- Rủi ro này vẫn tồn tạitất cả các chuỗi không có đường cong phát thải cố định _, bao gồm cả Ethereum ™.
 
 ## Giới thiệu
 
