@@ -14,8 +14,8 @@ contributors:
 - En los sistemas blockchain, la descentralización es extremadamente importante. Para que una cadena de bloques sea útil, debe cumplirse un determinado umbral, dependiendo de la aplicación.
 - Muchos proyectos utilizan la dificultad de medir la descentralización para ofuscar su verdadera susceptibilidad a la captura.
 - Las capas sociales y tecnológicas pueden ser captadas por diversos medios, por lo que ambas deben estar descentralizadas y no deben depender de un grupo central.
-- </em> Ethereum Classic aspira a un nivel de descentralización de grado soberano _, lo que significa que ninguna organización mundana puede capturarlo.</li>
-- _Ethereum Classic aplica un enfoque de principios primero_, _maximalismo de descentralización_, _controles y equilibrios_ y _neutralidad del protocolo_ para lograr la prevención de la captura a largo plazo.</ul>
+- Ethereum Classic aspira a un nivel de descentralización de grado soberano _, lo que significa que ninguna organización mundana puede capturarlo.
+- _Ethereum Classic aplica un enfoque de principios primero_, _maximalismo de descentralización_, _controles y equilibrios_ y _neutralidad del protocolo_ para lograr la prevención de la captura a largo plazo.
 
 ## Introducción
 
@@ -65,17 +65,13 @@ Hoy en día, la mayoría de los proyectos de blockchain han abandonado la idea d
 
 ### Resistencia a la censura de grado soberano
 
-Una pregunta que debe hacerse al evaluar diferentes proyectos de blockchain es "¿está suficientemente descentralizado?". </a>La respuesta a esta pregunta depende por completo del modelo de amenaza
+Una pregunta que debe hacerse al evaluar diferentes proyectos de blockchain es "¿está suficientemente descentralizado?". del caso de uso, que depende del tipo de aplicaciones que deben ejecutarse en una cadena determinada. La pregunta puede replantearse como "¿quién querría impedir que las aplicaciones de esta cadena funcionen, y puede la cadena resistir sus intentos de censura?".
 
-del caso de uso, que depende del tipo de aplicaciones que deben ejecutarse en una cadena determinada. La pregunta puede replantearse como "¿quién querría impedir que las aplicaciones de esta cadena funcionen, y puede la cadena resistir sus intentos de censura?".</p> 
-
-Por ejemplo, en el caso de Bitcoin, su principal aplicación es la propia moneda: la escasez digital y la posibilidad de transferirla sin censura. Compite con muchas divisas y activos, incluido el dólar estadounidense, y por ello debe resistir los ataques de entidades muy poderosas para persistir. </a> Muchos de los predecesores de Bitcoin se cerraron porque tenían puntos centrales de fallo, y Bitcoin se diseñó explícitamente para eludir este tipo de censura al estar suficientemente descentralizado.</p> 
+Por ejemplo, en el caso de Bitcoin, su principal aplicación es la propia moneda: la escasez digital y la posibilidad de transferirla sin censura. Compite con muchas divisas y activos, incluido el dólar estadounidense, y por ello debe resistir los ataques de entidades muy poderosas para persistir. Muchos de los predecesores de Bitcoin se cerraron porque tenían puntos centrales de fallo, y Bitcoin se diseñó explícitamente para eludir este tipo de censura al estar suficientemente descentralizado.
 
 En cambio, algunas blockchains requieren menos resistencia a la censura que Bitcoin y sólo pretenden, por ejemplo, permitir la transferencia de tarjetas de béisbol virtuales, o tienen otros casos de uso no controvertidos. Como ninguna fuerza externa poderosa quiere detener estas aplicaciones, la resistencia a la censura es innecesaria. Incluso puede verse como una ventaja que alguna parte central pueda anular el estado de la cadena en determinadas circunstancias, por lo que tener toda la cadena operada por un puñado de autoridades es aceptable para este caso de uso. En estos casos, en los que el caso de uso no es lo suficientemente importante como para que una organización bien financiada cierre, podría tener sentido sacrificar la descentralización por la escalabilidad, y otras tecnologías no relacionadas con la cadena de bloques podrían ser más apropiadas.
 
 Ethereum Classic, ya en 2015, cuando se conocía como Ethereum, se propuso alcanzar ambiciones a un nivel al menos tan propenso a la censura como Bitcoin.
-
-
 
 > Ethereum es una plataforma informática descentralizada que ejecuta contratos inteligentes. Las aplicaciones se ejecutan exactamente como se han programado, sin posibilidad de censura, tiempo de inactividad o interferencia de terceros.
 > 
@@ -89,8 +85,6 @@ Con este nivel de no censura se alcanza un umbral crítico. Como ninguna otra in
 
 _El código es la ley_ sólo puede operar en cadenas que hayan alcanzado _Resistencia a la Censura de Grado Soberano_. Este nivel es necesario para evitar que otras entidades censuren su funcionamiento, y esto a su vez requiere que la cadena maximice sus atributos de descentralización y los mantenga constantemente sin compromiso. _El código es la ley_ requiere _descentralización maximalismo_.
 
-
-
 ## Estados de fracaso de la centralización
 
 Antes de explorar la solución al problema de la centralización, debemos entender primero cómo la falta de descentralización puede retroceder rápidamente hasta el fracaso total.
@@ -103,8 +97,6 @@ A medida que pase el tiempo, se intensificarán los ataques contra las alternati
 
 En el futuro, para mantener su utilidad y valor, las cadenas de bloques deben resistir una serie de ataques sociales, económicos y tecnológicos que se desplegarán contra ellas. La lista de ataques es cada vez mayor y seguro que se conjurarán y contrarrestarán nuevas formas de ataque, pero por ahora, al menos, hay que evitar los estados de fallo conocidos más evidentes.
 
-
-
 ### La Fundación Efímera
 
 Históricamente, la causa número uno de muerte de los proyectos de blockchain es cuando los equipos responsables de su mantenimiento dejan de funcionar. En pocas palabras, si un proyecto depende de un comité organizador central o de un equipo de desarrolladores, sólo durará lo que dure esa organización.
@@ -114,8 +106,6 @@ Las organizaciones pueden dejar de funcionar por muchas razones. Ya sea por un s
 En muchos casos, la existencia de un equipo central desanima a otros a contribuir a un proyecto, ya que no están en igualdad de condiciones. Los terceros siempre serán ciudadanos de segunda clase en comparación con este comité organizador central, que lleva la voz cantante y se beneficia de forma desproporcionada de la acción de los precios en el caso de un impuesto sobre la prima o el desarrollo, lo que consolida aún más la dependencia de este equipo para mantener y dirigir el proyecto y, como mínimo, impide que surja una jerarquía organizativa natural.
 
 Esta dependencia de un equipo central puede proporcionar dirección y grandes presupuestos a corto plazo, pero carga el protocolo con una especie de "deuda de centralización" que es difícil de pagar. Con el tiempo, como todas las organizaciones, el equipo central dejará de funcionar. A menos que el proyecto se desprenda de esta dependencia, es probable que se abandone o se adapte mal a la vida sin este grupo.
-
-
 
 ### Captura del espacio de la carne
 
@@ -133,13 +123,11 @@ Incluso si un equipo centralizado no está abiertamente comprometido, el propio 
 
 Este estado de fracaso muestra una contradicción inherente a cualquier proyecto de blockchain que dependa de un comité organizador central. Aunque el protocolo puede estar descentralizado sobre el papel, en realidad el proyecto está en deuda con un grupo central que puede y se plegará a la voluntad de cualquiera que considere que el coste de hacerlo merece la pena.
 
-
-
 ### Monedas Kabuki
 
 La centralización, como la gravedad, tira constantemente y busca cualquier debilidad en una estructura sociotecnológica para encontrar su punto de ruptura. Para que un sistema supere esta fuerza a largo plazo, debe garantizar que no se pueda explotar ningún punto central de fallo, lo que significa diseñar contramedidas sólidas que hagan retroceder constantemente la centralización no sólo en un lugar sino en todos los ámbitos.
 
-Por ello, no tiene sentido una descentralización a medias. Una cadena es tan fuerte como su eslabón más débil, y una cadena de bloques es tan descentralizada como su cuello de botella más centralizado. </em></em>Por esta razón, _todas las partes de un proyecto de blockchain, tanto técnica como socialmente, deben esforzarse por alcanzar el maximalismo de la descentralización _.</p> 
+Por ello, no tiene sentido una descentralización a medias. Una cadena es tan fuerte como su eslabón más débil, y una cadena de bloques es tan descentralizada como su cuello de botella más centralizado. Por esta razón, _todas las partes de un proyecto de blockchain, tanto técnica como socialmente, deben esforzarse por alcanzar el maximalismo de la descentralización _.
 
 Lamentablemente, dentro del ecosistema de las criptomonedas la importancia de la _maximización de la descentralización_ no es ampliamente comprendida o adoptada, hasta el punto de que el término _teatro de la descentralización_ se ha convertido en una forma común de describir muchos _llamados_ sistemas descentralizados.
 
@@ -148,8 +136,6 @@ Estos proyectos tienen sutiles puntos únicos de fallo dentro de sus sistemas, p
 Al igual que la parábola de los edificios construidos sobre roca y arena, para el ojo inexperto, dos proyectos pueden parecer correctamente construidos y, en condiciones normales, ambos funcionan según lo previsto. Pero bajo la superficie, un proyecto tiene un defecto fatal que sólo le llevará a la ruina en momentos de tensión y que probablemente acabará causando daños a quienes esperan que el proyecto resista la prueba del tiempo.
 
 ![Las cadenas de bloques, como los edificios, pueden construirse sobre cimientos fuertes y débiles](./rocksand.jpeg)
-
-
 
 ## Los problemas clásicos requieren soluciones clásicas
 
@@ -161,8 +147,6 @@ Aunque sigue siendo voluntario, en lugar de confiar en las figuras de autoridad 
 
 Volviendo a las raíces de la tecnología blockchain, la teoría económica y las lecciones de la historia, la sabiduría en las decisiones de diseño detrás de Bitcoin se hace evidente, y esta lógica puede ser reaplicada a otros avances tecnológicos en el espacio, incluyendo las plataformas de contratos inteligentes como Ethereum Classic.
 
-
-
 ### Los principios primero
 
 Mientras que las instituciones y los seres humanos que las forman son falibles, volubles y frágiles, las ideas son a prueba de balas. Es evidente que una tecnología tan importante e influyente como la cadena de bloques debe basarse en algo más que en las personas. Una filosofía bien desarrollada debe servir de base sólida para guiar las acciones de unas bolsas de carne que, por lo demás, son capturables.
@@ -173,15 +157,13 @@ El pragmatismo está en la base del mantenimiento y la adhesión a principios s�
 
 El hecho de que no haya un grupo central que lleve la voz cantante significa que cualquier persona o grupo puede desempeñar cualquier función, siempre que interprete y ejecute fielmente los principios y valores del CFE, tal como los entienden las partes interesadas. Si algunos consideran que una bifurcación dura se aleja de los valores que firmaron, pueden continuar con la versión existente de la cadena. El riesgo de una ruptura en cadena significa que todos los participantes están incentivados a trabajar juntos para resolver las diferencias, y ninguna de las partes de un debate puede anular a la otra si el desacuerdo es irresoluble.
 
-
-
 ### Protocolo de neutralidad
 
 Como la noche es joven en el juego de la cadena de bloques, el problema de [Fundaciones efímeras](#the-ephemeral-foundation) puede no ser tan obvio. Ya sea estafado, aplastado o capturado de otra manera, las nobles intenciones que dirigen el espectáculo de muchos proyectos de blockchain seguramente llegarán a su fin, y con ellos, si sus cadenas no son capaces de desprenderse de la confianza, también lo harán sus ambiciones.
 
 Este problema se agrava cuando los sistemas de toma de decisiones dentro de un proyecto de blockchain dependen de un grupo central durante períodos prolongados. Los mecanismos alternativos para organizar el proyecto no pueden evolucionar, ya que se espera que la toma de decisiones venga de arriba a abajo y no de abajo a arriba. Como resultado, la autocracia opaca se convierte en la norma, que se osifica y se vuelve frágil, en lugar de permitir que florezca una meritocracia abierta antifrágil.
 
-</em>Esto se manifiesta en un pozo de gravedad de centralización _, en el que la dependencia de la toma de decisiones centralizada se convierte en una bola de nieve a medida que la contribución externa se hace más difícil, por lo que el proyecto depende cada vez más del liderazgo descendente, y el ciclo se repite.</p> 
+Esto se manifiesta en un pozo de gravedad de centralización _, en el que la dependencia de la toma de decisiones centralizada se convierte en una bola de nieve a medida que la contribución externa se hace más difícil, por lo que el proyecto depende cada vez más del liderazgo descendente, y el ciclo se repite.
 
 Por ello, en el futuro, los proyectos que dependen de las organizaciones centralizadas serán víctimas de esta dependencia, y se comprobará que sólo los proyectos sin esta dependencia pueden sostenerse durante largos periodos. Dado que las alocadas valoraciones de las que gozan actualmente las criptomonedas dependen de la esperanza de que estos proyectos tengan cierto grado de longevidad, cada vez será más evidente que sólo merece la pena contribuir con dinero, talento o tiempo a los proyectos verdaderamente descentralizados, y el mercado se reasignará en consecuencia.
 
@@ -190,8 +172,6 @@ Sólo permanecerán los proyectos con propuestas de valor a largo plazo, lo que 
 En lugar de depender de las insostenibles inyecciones de dinero de las autoridades centrales, los proyectos deben evolucionar para sostenerse únicamente con las contribuciones naturales, como las que se realizan a través de la estrategia _Buy and Contribute_ , por la que los particulares compran un proyecto y se incentivan económicamente para contribuir a él.
 
 Esta estrategia funciona mejor cuando un individuo recoge toda la recompensa de su contribución, lo que sólo puede ocurrir cuando un protocolo es neutral. Los protocolos neutrales tratan a todos los participantes en igualdad de condiciones y no conceden ningún privilegio especial a determinadas partes. Los proyectos descentralizados de blockchain competirán entre sí sobre esta base; sólo los proyectos más neutrales, los que no tienen una Fundación, un Impuesto al Desarrollo o una prima no diluida, atraerán el tipo de contribución natural que permite la sostenibilidad a largo plazo.
-
-
 
 ### Equilibrar el poder
 
@@ -207,7 +187,6 @@ Al igual que el Gobierno de los Estados Unidos, los controles y equilibrios son 
 | Mineros         | Proporcionar seguridad contra el 51% de los ataques | La mía una cadena diferente |
 | Financieros     | Proporcionar liquidez y financiar iniciativas       | Venta de participaciones    |
 
-
 La alineación de tres grandes poderes en las blockchains Proof of Work proporciona estabilidad. Cada uno de ellos añade valor al sistema de maneras totalmente diferentes. Cada uno de ellos hace que el sistema rinda cuentas mediante el poder de veto, lo que garantiza que ningún otro grupo pueda estropear demasiado las cosas. Ya sea un gobierno o una cadena de bloques, las cosas tienden a ir mal cuando se interfiere en estos controles y equilibrios.
 
 Nótese que esta configuración de tres es importante, ya que también significa que el colectivo puede superar los problemas de consenso mediante una regla de mayoría simple. Este electorado impar es un patrón común en los sistemas distribuidos. Puede producirse un bloqueo con sólo dos participantes, ya que no hay una tercera parte para resolver la disputa.
@@ -222,8 +201,6 @@ El modelo introducido por Bitcoin también fue utilizado por muchas otras cripto
 
 Si un proyecto quiere sobrevivir a largo plazo, debe contar con un número suficiente de estos puntales necesarios de la estructura de incentivos para estar bien equilibrado. Si Bitcoin es un trípode robusto formado por mineros, desarrolladores y comerciantes, al serrar una de estas patas, por ejemplo, cambiando a Proof of Stake y despidiendo a los mineros, el resultado es un taburete de dos patas; uno que se puede montar a horcajadas durante un tiempo, pero incluso la más leve brisa hará que se convierta en un peligroso lastre.
 
-
-
 ### Descentralización Maximalismo
 
 _El maximalismo de la descentralización_ es el único mecanismo conocido para apuntalar las fuerzas de la centralización a largo plazo. No se trata de un conjunto de reglas predefinidas, sino de una filosofía general o una forma de pensar que busca reducir el número de puntos centrales de fallo en todo el sistema.
@@ -234,11 +211,9 @@ Cuando tiene sentido, por definición, este enfoque no exige ningún compromiso.
 
 Cualquiera que sea la encrucijada, _el maximalismo de la descentralización_ requiere una vigilancia eterna y el conocimiento de que los sistemas tienden naturalmente a la centralización, por lo que cada decisión que se tome debe considerar el coste que se paga en deuda de centralización, para mantener el sistema libre de deudas a largo plazo.
 
-
-
 ## Adelante
 
-Si la humanidad desea evitar otra era oscura, debe adoptar sistemas que puedan resistir las fuerzas corruptas que amenazan con capturar el futuro de la tecnología blockchain. </em> Sólo los sistemas que se esfuerzan por alcanzar el maximalismo de la descentralización _pueden lograrlo, pero de todos los proyectos de blockchain que existen hoy en día, sólo un puñado reconoce este requisito.</p> 
+Si la humanidad desea evitar otra era oscura, debe adoptar sistemas que puedan resistir las fuerzas corruptas que amenazan con capturar el futuro de la tecnología blockchain. Sólo los sistemas que se esfuerzan por alcanzar el maximalismo de la descentralización _pueden lograrlo, pero de todos los proyectos de blockchain que existen hoy en día, sólo un puñado reconoce este requisito.
 
 Las innovaciones que Ethereum trajo al mundo en forma de una Plataforma de Contratos Inteligentes Completa de Turing proporcionan un gran salto adelante en términos de utilidad y potencial de los casos de uso de blockchain, pero como evidencian The DAO Fork y el cambio a Proof of Stake, la dirección que está tomando el proyecto lo hace susceptible de ser capturado e incapaz de lograr _Resistencia a la Censura de Grado Soberano_.
 
