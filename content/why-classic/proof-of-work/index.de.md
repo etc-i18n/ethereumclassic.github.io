@@ -7,8 +7,8 @@ seo: Ein Argument dafür, warum Proof of Stake keine geeignete Lösung für Bloc
 
 ## Wichtige Punkte
 
-- Ethereum Classic hat sich verpflichtet, auf unbestimmte Zeit bei Proof of Work zu bleiben, um den _Dezentralisierungs-Maximalismus_zu verfolgen.
-- Proof of Work ist ein bewährter Konsensmechanismus, der einzige, von dem bekannt ist, dass er _souveräne Zensurresistenz_bietet.
+- Ethereum Classic hat sich verpflichtet, auf unbestimmte Zeit bei Proof of Work zu bleiben, um den _Dezentralisierungs-Maximalismus_ zu verfolgen.
+- Proof of Work ist ein bewährter Konsensmechanismus, der einzige, von dem bekannt ist, dass er souveräne Zensurresistenz bietet.
 - Proof of Stake ist mit den bekannten Sicherheitskompromissen verbunden: zusätzliche Komplexität, 33 % Angriffe, Anfälligkeit für finanzielle Manipulationen, Zentralisierung der Verwahrung der Einsätze, APR-Wettrüsten, nichts steht auf dem Spiel, Abschaffung der Kontrollen und des Gleichgewichts, und die Reichen werden reicher.
 - Ehrlich gesagt ist die Entscheidung für den Einsatz von Proof of Stake wahrscheinlich eher finanziell motiviert als der angegebene Grund des Umweltbewusstseins.
 
@@ -36,7 +36,7 @@ Ein alternativer Konsensmechanismus zum Proof of Work, der populär wurde, ist d
 
 Die Hauptbegründung für PoS ist der Umweltschutz; man hoffte, dass PoS die gleichen oder bessere Sicherheitsgarantien als PoW bieten könnte, ohne große Mengen an Energie zu verbrauchen.
 
-Die Vorstellung, dass Proof of Stake nicht nur dieselben, sondern _bessere Sicherheitsgarantien als Proof of Work bieten könnte, und das mit nicht nur demselben, sondern _geringeren_ Energieaufwand, hätte bei denjenigen, die wissen, dass _es so etwas wie ein kostenloses Mittagessen_nicht gibt, sofort die Alarmglocken läuten lassen müssen. Aber für viele konnte diese wesentliche Wahrheit einfach weggewischt werden, da die interdisziplinären Verwicklungen verschiedener Proof-of-Stake-Systeme eine Art technologischen [Galopp](https://en.wikipedia.org/wiki/Gish_gallop)schufen, bei dem Korrekturen über Korrekturen die PoS-Protokolle immer komplexer und undurchsichtiger machten, so dass es schwierig wurde, sie zu entschlüsseln, und der Mythos _free lunch_ wurde weitergeschmuggelt.
+Die Vorstellung, dass Proof of Stake nicht nur dieselben, sondern _bessere Sicherheitsgarantien als Proof of Work bieten könnte, und das mit nicht nur demselben, sondern geringeren_ Energieaufwand, hätte bei denjenigen, die wissen, dass es so etwas wie ein kostenloses Mittagessen_nicht gibt, sofort die Alarmglocken läuten lassen müssen. Aber für viele konnte diese wesentliche Wahrheit einfach weggewischt werden, da die interdisziplinären Verwicklungen verschiedener Proof-of-Stake-Systeme eine Art technologischen [Galopp](https://en.wikipedia.org/wiki/Gish_gallop) schufen, bei dem Korrekturen über Korrekturen die PoS-Protokolle immer komplexer und undurchsichtiger machten, so dass es schwierig wurde, sie zu entschlüsseln, und der Mythos _free lunch_ wurde weitergeschmuggelt.
 
 Nichts verkörpert die subtile und heimtückische Natur der Zentralisierung so sehr wie der Mythos des Pfahlbeweises. Oberflächlich betrachtet handelt es sich um einen noblen Versuch, die schlechtesten Aspekte der Blockchain-Technologie zu korrigieren und sie mit einer nachhaltigen Zukunft kompatibel zu machen, aber bei näherer Betrachtung opfert diese gefährliche Idee die befreiendsten Qualitäten der Technologie im Austausch für weniger als noble Ziele.
 
@@ -48,7 +48,7 @@ Kurz gesagt, Proof of Work ist ein solider, kampferprobter Konsensmechanismus, d
 
 Die Behauptung, dass "Proof of Stake sicherer ist als Proof of Work", ist eine "[nicht einmal falsche](https://en.wikipedia.org/wiki/Not_even_wrong)" Aussage, aufgrund der Nuancen in der Definition von "sicher", und wie man dies mit der Vielzahl von Proof of Stake Systemen, die ihre eigenen wirtschaftlichen, sozialen und technischen Kompromisse haben, in Einklang bringt.
 
-Eine Google-Tabelle kann nicht zu 51 % angegriffen werden, aber ist sie deshalb "sicherer" als Bitcoin? Die Antwort darauf lautet: "Das hängt davon ab, was Sie unter _secure_verstehen". Im Falle von Blockchain-Systemen, wie [](/why-classic/decentralism)erforscht hat, hängt es davon ab, ob ein robustes, dezentralisiertes, erlaubnisfreies System benötigt wird, das dem Test der Zeit standhalten kann und _Sovereign Grade Censorship Resistance_ erreicht. Für _diese_ Art von Sicherheit ist eine Google-Tabelle weit, weit _weniger_ "sicher" als Bitcoin, da sie von einer einzigen Partei, Google, mit null Aufwand übernommen werden kann.
+Eine Google-Tabelle kann nicht zu 51 % angegriffen werden, aber ist sie deshalb "sicherer" als Bitcoin? Die Antwort darauf lautet: "Das hängt davon ab, was Sie unter _secure_ verstehen". Im Falle von Blockchain-Systemen, wie erforscht hat, hängt es davon ab, ob ein robustes, dezentralisiertes, erlaubnisfreies System benötigt wird, das dem Test der Zeit standhalten kann und _Sovereign Grade Censorship Resistance_ erreicht. Für _diese_ Art von Sicherheit ist eine Google-Tabelle weit, weit _weniger_ "sicher" als Bitcoin, da sie von einer einzigen Partei, Google, mit null Aufwand übernommen werden kann.
 
 In diesem Sinne ist der Proof of Stake ähnlich wie eine Google-Tabelle. Die Unklarheit über die Sicherheitsgarantien und die Schwierigkeit, sie zu messen, machen es selbst technisch versierten Nutzern unmöglich, die Marketingaussagen vieler PoS-Projekte zu durchschauen. Infolgedessen werden die wahre Natur dieser Systeme und ihre potenziellen Fehlermöglichkeiten verschleiert, verglichen mit den eindeutigen, gut verstandenen und weniger komplizierten Garantien von Proof-of-Work-Systemen.
 
@@ -76,7 +76,7 @@ Subtile spieltheoretische Bugs und Exploits in Blockchains sind extrem schwierig
 
 ### Ungleichgewicht der Kräfte
 
-Wie [bereits erforscht hat](/why-classic/decentralism/#balancing-power), wird durch die Herausnahme von Minern aus dem sozioökonomischen Modell einer Blockchain eine wichtige regulierende Kraft weggenommen, die andernfalls eine Vereinnahmung verhindern würde; andere Parteien werden durch die Androhung eines Vetos gegen schlechte Entscheidungen durch das selektive Mining von Ketten ehrlich gehalten. Bei Proof of Stake-Ketten sind Investoren und "Miner" (Staker) dieselbe Gruppe, so dass jeglicher Machtmissbrauch durch diese Gruppe relativ unkontrolliert bleibt und die Kette wahrscheinlich dazu neigt, sich auf Kosten anderer in einer Weise zu teilen, die dieser Gruppe zugute kommt, z. B.
+Wie [bereits erforscht hat](/why-classic/decentralism/#balancing-power), wird durch die Herausnahme von Minern aus dem sozioökonomischen Modell einer Blockchain eine wichtige regulierende Kraft weggenommen, die andernfalls eine Vereinnahmung verhindern würde; andere Parteien werden durch die Androhung eines Vetos gegen schlechte Entscheidungen durch das selektive Mining von Ketten ehrlich gehalten. Bei Proof of Stake-Ketten sind Investoren und "Miner" (Staker) dieselbe Gruppe, so dass jeglicher Machtmissbrauch durch diese Gruppe relativ unkontrolliert bleibt und die Kette wahrscheinlich dazu neigt, sich auf Kosten anderer in einer Weise zu teilen, die dieser Gruppe zugute kommt, z. B. durch eine Erhöhung der Stake-Belohnungen.
 
 ### Geld ist nicht Macht
 
@@ -108,7 +108,7 @@ Mining, und damit auch Proof of Work, ist erlaubnisfrei, da jeder (oder alles) H
 
 Da es keine Gatekeeper gibt, können Proof of Work-Konsensmechanismen _sich nicht darum kümmern_ _wie_ Hashrate erzeugt wird, oder _wer_ dazu beigetragen hat. Dies ist eine wesentliche Eigenschaft, wenn eine Kette neutral und nicht vereinnahmt bleiben soll, denn wenn es Gatekeeper gäbe, wären sie in der Lage, Arbeiten aufgrund der Identität oder des Standorts eines Mitwirkenden abzulehnen, ihn auszusperren und damit das Netzwerk zu zentralisieren und zu vereinnahmen.
 
-Proof of Stake Systeme sind _nicht_ erlaubnisfrei. Die einzige Möglichkeit, die für Transaktionen und Einsätze benötigte Währung zu erwerben, besteht darin, __ sie von jemandem zu kaufen, der diese Währung bereits besitzt; sie benötigen _die Erlaubnis_ von jemandem innerhalb des Netzwerks, um das Netzwerk zu nutzen, wobei die bestehenden Inhaber die Torwächter sind.
+Proof of Stake Systeme sind _nicht_ erlaubnisfrei. Die einzige Möglichkeit, die für Transaktionen und Einsätze benötigte Währung zu erwerben, besteht darin, sie von jemandem zu kaufen, der diese Währung bereits besitzt; sie benötigen _die Erlaubnis_ von jemandem innerhalb des Netzwerks, um das Netzwerk zu nutzen, wobei die bestehenden Inhaber die Torwächter sind.
 
 In gewissem Sinne sind alle Proof of Stake-Netzwerke bereits _soft captured_, da die Inhaber von PoS-Münzen kollektiv beschließen könnten (oder gezwungen werden könnten), den Handel mit Nutzern aus einer bestimmten Klasse oder Gerichtsbarkeit einzustellen, und diese Nutzer keine Möglichkeit haben, unabhängig vom Preis, den sie zu zahlen bereit sind, Transaktionen im Netzwerk durchzuführen.
 
@@ -116,7 +116,7 @@ Nehmen wir das Beispiel einer Person aus einer weniger entwickelten oder isolier
 
 ### Zentralisierung der Einsätze an den Börsen
 
-Die hohe technische Hürde und _Angst, beim Betreiben eines Knotens und beim manuellen Einsetzen von Stakes etwas falsch zu machen, macht es für die große Mehrheit der Gelegenheitsbesitzer im Kryptobereich unerreichbar, so dass fast alle zum Einsetzen von Stakes wahrscheinlich Dienste Dritter, in der Regel Börsen, nutzen.
+Die hohe technische Hürde und Angst, beim Betreiben eines Knotens und beim manuellen Einsetzen von Stakes etwas falsch zu machen, macht es für die große Mehrheit der Gelegenheitsbesitzer im Kryptobereich unerreichbar, so dass fast alle zum Einsetzen von Stakes wahrscheinlich Dienste Dritter, in der Regel Börsen, nutzen.
 
 Der Einsatz an Börsen ist aus Sicht der Nutzer eindeutig besser. Es hat den zusätzlichen Vorteil, dass die Nutzer ihre Einsätze sofort und ohne Strafe aufheben können, da ein großer Liquiditätsüberschuss es den Börsen ermöglicht, die Sperrfrist, die die meisten Proof of Stake-Ketten auferlegen, im Namen der Nutzer zu umgehen.
 
@@ -130,7 +130,7 @@ Bei Proof of Work ist diese Art von Angriff dank der Trennung der Konzerne und d
 
 ### Das APR-Wettrüsten
 
-Proof of Stake-Ketten konkurrieren miteinander um liquides Einsatzkapital, das sich im Gegensatz zu Mining-Hardware, die an bestimmte Algorithmen gebunden ist, durch den Handel auf offenen Märkten frei zwischen _allen_ PoS-Ketten bewegen kann. Das bedeutet, dass mit der Zeit alle Proof of Stake-Ketten unter Druck geraten werden, die Einsatzprämien und damit die Inflationsraten zu erhöhen, um genügend Staker für einen Einsatz auf ihrer Kette zu gewinnen. Infolgedessen ist es wahrscheinlich, dass ein "Wettlauf nach unten" alle Proof of Stake-Ketten verschlingt, da sie in ein immer größeres _APR-Wettrüsten_eintreten.
+Proof of Stake-Ketten konkurrieren miteinander um liquides Einsatzkapital, das sich im Gegensatz zu Mining-Hardware, die an bestimmte Algorithmen gebunden ist, durch den Handel auf offenen Märkten frei zwischen _allen_ PoS-Ketten bewegen kann. Das bedeutet, dass mit der Zeit alle Proof of Stake-Ketten unter Druck geraten werden, die Einsatzprämien und damit die Inflationsraten zu erhöhen, um genügend Staker für einen Einsatz auf ihrer Kette zu gewinnen. Infolgedessen ist es wahrscheinlich, dass ein "Wettlauf nach unten" alle Proof of Stake-Ketten verschlingt, da sie in ein immer größeres _APR-Wettrüsten_ eintreten.
 
 Wenn zum Beispiel Kette A eine 12%ige Einsatzprämie anbietet, warum sollten die Spieler dann die 3%ige Prämie von Kette B einsetzen, wenn sie einfach A einsetzen und diese Prämien für B verkaufen könnten, wodurch sie am Ende mehr B hätten, als wenn sie B direkt einsetzen würden? Dies zwingt Kette B dazu, ihre Belohnung zu erhöhen, was wiederum A dazu ermutigt, das Gleiche zu tun, und so weiter.
 
@@ -152,7 +152,7 @@ Der _33%ige Angriff von Proof of Stake_ ist ein viel größeres Problem als der 
 
 Angriffe auf 51 % der Proof-of-Work-Systeme können zwar Schaden anrichten, betreffen aber nur diejenigen, die doppelten Ausgaben ausgesetzt sind, d. h. vor allem Börsen und nicht Langzeitinhaber, die nicht häufig Transaktionen durchführen. Im Gegensatz dazu können 33 % der Angriffe die Kette in PoS-Netzen auf Dauer anhalten.
 
-Bei PoS-Ketten kann sich ein Angreifer, sobald er einen bestimmten Schwellenwert erreicht hat, nicht mehr erholen; da der Angreifer keine externen Ressourcen einsetzen muss, kann er nicht entlarvt werden. Die einzige Lösung für diesen Fehlerzustand ist das Hard-Forking des Angreifers, was _Code is Law_bricht, den Zweck einer Blockchain zunichte macht, Subjektivität hinzufügt und die Kette weiter zentralisiert.
+Bei PoS-Ketten kann sich ein Angreifer, sobald er einen bestimmten Schwellenwert erreicht hat, nicht mehr erholen; da der Angreifer keine externen Ressourcen einsetzen muss, kann er nicht entlarvt werden. Die einzige Lösung für diesen Fehlerzustand ist das Hard-Forking des Angreifers, was _Code is Law_ bricht, den Zweck einer Blockchain zunichte macht, Subjektivität hinzufügt und die Kette weiter zentralisiert.
 
 ### Nichts steht auf dem Spiel
 
@@ -168,7 +168,7 @@ Im Gegensatz zu einer böswilligen Proof-of-Work-Fork, bei der die Miner Strom f
 
 ### Gestörte Streitschlichtung
 
-Angenommen, beide Seiten einer geteilten _erkennen die Slashing Proofs der jeweils anderen Seite an, dann hat die Kette ein anderes Problem: die Lösung legitimer Meinungsverschiedenheiten, die in Proof of Work-Netzwerken zu einer Kettenspaltung führen würden.
+Angenommen, beide Seiten einer geteilten erkennen die Slashing Proofs der jeweils anderen Seite an, dann hat die Kette ein anderes Problem: die Lösung legitimer Meinungsverschiedenheiten, die in Proof of Work-Netzwerken zu einer Kettenspaltung führen würden.
 
 Ethereum Classic selbst ist ein hervorragendes Beispiel für den "ultimativen Streitbeilegungsmechanismus" von Proof of Work-Ketten, wie auf der Website [Ethereum.org](https://ethereum.org/en/governance/#dao-fork)erklärt wird.
 
