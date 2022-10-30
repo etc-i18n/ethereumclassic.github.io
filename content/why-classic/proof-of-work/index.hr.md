@@ -76,11 +76,7 @@ Suptilne greške i iskorištavanja teorije igara u lancima blokova izuzetno je t
 
 ### Neravnoteža moći
 
-Kao što je ranije</a>
-
-uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog.</p> 
-
-
+[Kao što je ranije](/why-classic/decentralism/#balancing-power) uklanjanjem rudara iz socioekonomskog modela lanca blokova oduzima se važna regulatorna sila koja bi inače spriječila hvatanje; održavanje poštenja drugih strana kroz prijetnju stavljanjem veta na loše odluke selektivnim rudarenjem lanaca. Na lancima Proof of Stake, ulagači i "rudari" (stakeri) su ista grupa, tako da svaka zlouporaba moći od strane ove grupe ostaje relativno neprovjerena, a lanac će vjerojatno imati tendenciju račvanja na načine koji idu u korist ovoj grupi na račun drugi, kao što je povećanje nagrada za ulog.
 
 ### Novac nije moć
 
@@ -91,8 +87,6 @@ To je razlog zašto velika potrošnja energije Proof of Work mreža nije "uzalud
 Proof of Stake lanci ranjivi su na čitav niz ekonomskih napada zahvaljujući modernom financijskom oružju i vrijednosti mreže koja je izravno povezana sa sigurnošću kroz ulaganje. Za razliku od rudarskog hardvera i električne energije, kapital se može ispisati iz ničega u fiat sustavima, a resursi se mogu skupiti sa svih strana svijeta pritiskom na gumb. Ekonomske poluge dostupne središnjim bankama i drugim organizacijama koje bi mogle biti ugrožene blockchain tehnologijom goleme su i sofisticirane. Vrijednost svih Proof of Stake mreža zajedno maleni je pad u usporedbi sa širim gospodarstvom, koje ima goleme količine likvidnog kapitala koji može posuditi, iskoristiti i staviti na korištenje od strane jedne tvrtke s čipom na ramenu.
 
 Moderne financijske institucije ugrožene blockchain tehnologijom sigurno će voditi ekonomski rat protiv Proof of Stakea, koji se ne može samo petljati s cijenom, već time potencijalno uzrokuje potpuni kvar sustava. Kroz stvaranje derivativnih tržišta i manipulacije cijenama, napadači mogu kupiti pravo glasa na mreži i ometati ili uništiti mogućnost postizanja konsenzusa putem napada na uloge.
-
-
 
 ### Opadanje rudara protiv Bogati postaju još bogatiji
 
@@ -105,8 +99,6 @@ Ova vitalna i višestruka uloga lobotomizirana je iz sustava Proof of Stake. Umj
 Povrh toga, zbog ekonomije razmjera, naknada za plin i udjela sredstava koja se moraju uložiti u usporedbi sa sredstvima koja su potrebna za svakodnevne životne troškove, u sustavima Proof of Stake, _bogati postaju bogatiji_ na _brža stopa_, koja centralizira distribuciju vrijednosti mreže prema najbogatijim ulagačima tijekom vremena.
 
 Bez opadanja da se ispravi ovaj trend, nedostatak prometa u ekosustavu stakinga znači da moćni blok mega-kitova akumulira sve veći udio svih Proof of Stake mreža, čineći ih sve osjetljivijima na preuzimanje kako se Nakamotov koeficijent približava nuli. . Nema razloga da se rent-seeking Proof of Stake kladioničarske dinastije ne nastave generacijama, budući da veliki stakeri prenose svoje sve veće torbe sljedećoj generaciji, čineći samo pitanjem vremena kada će Proof of Stake mreže biti eksplicitno uhvaćene kao vrijednost u mreži i moć odlučivanja o pobjedničkim forkovima privučeni su na vrh.
-
-
 
 ### Nije bez dopuštenja
 
@@ -122,8 +114,6 @@ U određenom smislu, sve Proof of Stake mreže su već _soft captured_, budući 
 
 Uzmimo za primjer osobu iz manje razvijene ili izolirane nacije s malo ili nimalo mogućnosti obavljanja transakcija u dolarima; bez pristupa bankarskom sustavu, a samim time i uključivanja putem mjenjačnica, i s time da nitko nije voljan obavljati OTC poslove u gotovini u njihovom području, uvijek mogu nabaviti valute s dokazom o radu jednostavnom kupnjom hardvera za rudarenje. Taj isti korisnik je isključen iz blockchaina Proof of Stake, čineći te mreže manje dostupnima, manje korisnima i manje vrijednima.
 
-
-
 ### Centralizacija uloga na burzama
 
 Visoka tehnička barijera i _strah od zabrljanja_ prilikom pokretanja čvora i ručnog udjela čine ga nedostižnim za veliku većinu povremenih vlasnika u kripto prostoru, tako da će gotovo svi vjerojatno koristiti usluge trećih strana, obično burze, za ulog.
@@ -138,31 +128,23 @@ Ako "nepoželjna" aplikacija radi na velikom lancu Proof of Stake, vlada ili mo�
 
 U Proof of Work, ova vrsta napada je nemoguća zahvaljujući odvojenosti koncerna i geografski decentraliziranoj prirodi izvora električne energije.
 
-
-
 ### APR utrka u naoružanju
 
-Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju</em>_APR.</p> 
+Proof of Stake lanci međusobno se natječu za tekući staking kapital koji se, za razliku od hardvera za rudarenje koji je vezan uz specifične algoritme, može slobodno kretati između _i_ PoS lanaca trgovanjem na otvorenim tržištima. To znači da će s vremenom svi lanci Proof of Stake biti pod pritiskom da povećaju nagrade za ulaganje, a time i stope inflacije, kako bi privukli dovoljno ulagača da ulože u njihov lanac. Kao rezultat toga, "utrka prema dnu" će vjerojatno zahvatiti sve lance Proof of Stake, budući da ulaze u sve veću utrku u naoružanju</em>_APR.</p>
 
 Na primjer, ako lanac A nudi nagradu za ulog od 12%, zašto bi ulagači uložili nagradu od 3% lanca B, kada bi jednostavno mogli uložiti A i prodati te nagrade za B, na kraju dobiti više B nego što bi dobili da ulože B izravno? Ovo prisiljava lanac B da poveća svoju nagradu, što zatim potiče A da učini isto, i tako dalje.
 
 Ova situacija je sjajna vijest za velike ulagače, ali užasna za korisnike koji imaju relativno veći dio svojih sredstava koji nisu uloženi za korištenje mreže, te će biti oporezovani pretjeranim naknadama za jednostavno neulaganje. Ne može se znati kako će se to dugoročno odigrati, ali postoji opasnost da se ošteti korisnost i vrijednost svih PoS mreža, što dovodi do smrtonosne spirale sve većeg ponižavanja.
 
-
-
 ### 33% napada
 
 Proof of Stake lanci mogu biti trajno prekinuti ako napadač stekne 33% uložene imovine, nužno manje od 33% svih kovanica.
-
-
 
 > Dakle, ako prosječni PoS protokol ima 70%+ uloženih tokena, trebali biste nabaviti ~25% ukupnih otvorenih tokena protokola da pokrenete napad. Iako je svaki PoS drugačiji, 33% općenito je dovoljno samo za zaustavljanje lanca tako da se ne može postići konsenzus i proizvesti nove blokove, a ne da se zapravo izvrši dvostruka potrošnja. Za to bi vam bilo potrebno nevjerojatnih 66%.
 > 
 > - [Viktor Bunjin](https://viktorbunin.medium.com/proof-of-stakes-security-model-is-being-dramatically-misunderstood-4ed7b19ca419)
 
 Neki tvrde da ne postoji _izravni_ ekonomski poticaj za izazivanje takvog napada jer napadač riskira obezvređivanje svojih posjeda, što bi moglo biti točno, ali ovo je također priznanje da su lanci dokaza o udjelu podložni 33% zaustavljanju putem _neizravnih_ ekonomski poticaji kao što je shorting. Što je još važnije, PoS lanci su osjetljivi na 33% napada od strane aktera kao što su nacionalne države, gdje financijski poticaji nisu primarna motivacija, što sugerira da _Sovereign Grade Censorship Resistance_ nije predmet zabrinutosti.
-
-
 
 ### Perpetually Pure Pwnage
 
@@ -171,8 +153,6 @@ Proof of Stake _33% napad_ puno je veći problem od Proof of Work _51% napada_, 
 Iako napadi od 51% u sustavima dokaza rada mogu biti štetni, oni stvarno izravno utječu samo na one koji su izloženi dvostrukoj potrošnji; uglavnom razmjene, a ne dugoročni vlasnici koji ne obavljaju transakcije često. Nasuprot tome, 33% napadi mogu zauvijek zaustaviti lanac na PoS mrežama.
 
 Na PoS lancima, jednom kada napadač postigne određeni prag uloga, lanac se nikada ne može oporaviti; budući da napadač ne treba angažirati vanjske resurse, oni se ne mogu poništiti. Jedino rješenje za ovo stanje neuspjeha je teško račvanje napadača, što krši _Kod je zakon_, poništava svrhu postojanja blockchaina, dodaje subjektivnost i dalje centralizira lanac.
-
-
 
 ### Ništa na kocki
 
@@ -184,23 +164,19 @@ Obično se tvrdi da je koncept _koji siječe_ rješenje za problem ništa na koc
 
 Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
 
-Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
-
-
+Za razliku od zlonamjerne vilice Proof of Work gdje bi rudari trošili električnu energiju na rudarenje nove vilice, validatori na ovoj novoj vilici Proof of Stake ne samo da bi je mogli potvrditi jer ništa nije na kocki, nego su i potaknuti da to učine kao što bi moglo završiti kao pobjednički lanac - jedina strana koja ima vrijednost u budućnosti.
 
 ### Poremećeno rješavanje sporova
 
-Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
+Alternativno, pod pretpostavkom da obje strane podjele _do_ međusobno prepoznaju oštre dokaze, lanac tada ima drugačiji problem: rješavanje legitimnih razlika u mišljenjima koja bi rezultirala podjelom lanca na mrežama dokaza rada.
 
-Napadač bi se mogao zalagati za kontroverznu tvrdu vilicu koja je namjerno učinila dokaz rezanja vilice nevažećim na staroj verziji lanca, po izboru učinivši obrnuto neistinitim i ponovno uvodeći problem ničega na kocki, istovremeno potičući validatore da potvrde oba lanca, sijući kaos i cijepanje vrijednosti mreže.
+Sam Ethereum Classic izvrstan je primjer "krajnjeg mehanizma rješavanja sporova" lanaca dokaza o radu, kako je objašnjeno ništa bolje nego na [web stranici Ethereum.org](https://ethereum.org/en/governance/#dao-fork).
 
-Za razliku od zlonamjerne vilice Proof of Work gdje bi rudari trošili električnu energiju na rudarenje nove vilice, validatori na ovoj novoj vilici Proof of Stake ne samo da bi je mogli potvrditi jer ništa nije na kocki, nego su i potaknuti da to učine kao što bi moglo završiti kao pobjednički lanac - jedina strana koja ima vrijednost u budućnosti.
+Iako uvelike ovisi o detaljima implementacije protokola, općenito, Proof of Stake mijenja dinamiku hard forka u korist većinskih dionika u odnosu na autsajdere, au mnogim slučajevima jednostavno uništava lanac underdog-a, prisiljavajući ih na hard fork na novi protokol ako se ne slažu s kontroverznim forkom.
 
 Za razliku od Proof of Work, gdje klasični lanac uživa prednost održavanja statusa quo i rudari se moraju aktivno prebaciti na novi fork, na Proof of Stake lancima, većina forkera ima prednost, jer naslijeđena strana kontroverzni fork mora implementirati vlastite obrambene hard forkove kako bi izbjegao da ga većina smanji. Nove vilice uživaju u mogućnosti rezanja ili nesjecanja validatora na starom lancu, optimiziranja kažnjavanja onih koji zaostaju kako bi dobili željeni ishod i manipuliranja ekonomijom odluke o hard forku.
 
 _Napomena: Sljedeće tri kritike o dokazu o udjelu su ljubaznošću [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
-
-
 
 ### Subjektivni izbor vilice
 
@@ -208,23 +184,17 @@ Odabir račvanja pravilo je odluke koje sudionici mreže moraju koristiti kada i
 
 Kako se PoS sustavi ne računaju s tako objektivnom količinom da bi odlučili o ispravnom lancu, oni moraju koristiti subjektivni proces donošenja odluka od strane sudionika. To znači da se trebaju konzultirati izvan lanca s istraživačima blokova, programerima, rudarima ili drugim izvorima kako bi mogli odlučiti koji će lanac slijediti. Ovo se odnosi, u slučaju razdvajanja, na sudjelujuće čvorove u mreži, nove sudionike i čvorove koji napuštaju i ponovno se pridružuju.
 
-
-
 ### Neoprostiva skupoća
 
 Jedna od osnovnih fizičkih značajki zdravog novca je da je njegova proizvodnja vrlo skupa kako bi se jamčilo da se ne može krivotvoriti. PoW osigurava ovu skupoću tokena jer rudari imaju ogromne troškove, u podatkovnim centrima i struji, kako bi mogli graditi blokove. Zbog toga se PoW tokeni, kao $ETC i $BTC, u praksi ne mogu krivotvoriti.
 
 Jednostavno je objektivno provjeriti da vlasnikov BTC ili ETC nije krivotvoren zbog vanjskog objektivnog mjerenja ugrađenog u svako zaglavlje bloka, ali taj dokaz ne postoji u sustavima Proof of Stake. U PoS sustavima, budući da je baza podataka s računima i saldima trivijalna za pisanje od strane čvorova i stakera u sustavu, nema objektivne skupoće, a provjera autentičnosti fondova daleko je složenija, sklona pogreškama i potencijalno zahtijeva skup hardver.
 
-
-
 ### Akumulirani rad
 
 Kako rudari u PoW blockchainovima rade na bazi blok po blok, taj rad nije samo prepreka za nepoštene čvorove da diraju u trenutne ili najnovije blokove, već se taj posao zapravo akumulira kako se lanac gradi. To znači da je blokove koji su zakopani dalje u lancu napadačima eksponencijalno teže promijeniti ili krivotvoriti. Na primjer, u vrijeme pisanja ovog teksta, trebalo bi 340 dana sa 100% trenutne snage raspršivanja u Bitcoin mreži da bi se mogao preokrenuti cijeli lanac.
 
 U PoS distribuiranim knjigama, budući da ne koriste PoW, obrnuti cijeli lanac je trivijalan u smislu računalnog rada, tako da se može učiniti za nekoliko minuta.
-
-
 
 ## Hotelski ručnici
 
@@ -234,12 +204,10 @@ Ali kada se tvrdnja ekologa _, a ne_ uzme zdravo za gotovo, odabir korištenja P
 
 Dobronamjeran ili ne, ovaj golemi ekonomski poticaj objašnjava zašto unatoč gore navedenim smanjenjima sigurnosti, nije čudo što je PoS postao tako popularan izbor među vlasnicima kriptovaluta i uspio je regrutirati mnoge entuzijastične promotore.
 
-
-
 > Proof of Stake je poput hotela koji traži da ponovno upotrijebite ručnike kako biste spasili planet. Naizgled je to iz plemenitih namjera, ali u stvarnosti im zarađuje novac, a vama pruža lošiju uslugu.
 
 Usprkos svim poznatim nedostacima, projekti koji se ipak odluče za Proof of Stake moraju biti _izuzetno_ zabrinuti zbog potrošnje energije ili, što je još vjerojatnije, prvenstveno zabrinuti da će ulog donijeti ekonomsku korist sudionicima. Međutim, sama ova zabrinutost je pogrešna, budući da projekt može imati dugoročnu vrijednost samo ako pruža korisnost, što je potkopano centralizacijom i kompromisima koje zahtijeva dokaz o udjelu.
 
-Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne</em> _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije.</p> 
+Može se dogoditi da vlasnici takvih kovanica vjeruju da pružaju uslugu usporedivu s rudarenjem, ali ne pretvaraju vanjski trošak stvarnog svijeta u sigurnosnu korist, kao kod rudarenja. Umjesto toga, oni ne</em> _vrijednost s drugih mjesta u mreži na sebe oporezujući one koji ne ulažu putem inflacije.</p>
 
 U svakom slučaju, zbog inherentnih kompromisa potrebnih u sustavima Proof of Stake, to je još jedan znak da _Sovereign Grade Censorship Resistance_ nije prioritet u ovim lancima. Kao takvi, ne mogu se preporučiti za implementacije koje mogu poremetiti moćne institucije.
