@@ -105,15 +105,15 @@ Nhưng bất chấp những cảnh báo này, vào thời điểm crowdsale kế
 
 Một tuần sau khi crowdsale kết thúc, một nhà nghiên cứu bảo mật
 
-Lỗi có thể xảy ra khi một hợp đồng không cập nhật đúng trạng thái của nó khi các hợp đồng khác tương tác với nó, cho phép những kẻ tấn công thực hiện cùng _các tác giả của hợp đồng. Nó giống như một máy bán hàng tự động không kiểm tra xem một đồng xu đã được đưa vào đúng cách hay chưa; kẻ tấn công có thể buộc một đoạn dây xung quanh đồng xu để kéo nó trở lại và sử dụng chính đồng xu đó để quét tất cả các món quà ngon.
+Lỗi có thể xảy ra khi một hợp đồng không cập nhật đúng trạng thái của nó khi các hợp đồng khác tương tác với nó, cho phép những kẻ tấn công thực hiện cùng</em> _các tác giả của hợp đồng. Nó giống như một máy bán hàng tự động không kiểm tra xem một đồng xu đã được đưa vào đúng cách hay chưa; kẻ tấn công có thể buộc một đoạn dây xung quanh đồng xu để kéo nó trở lại và sử dụng chính đồng xu đó để quét tất cả các món quà ngon.</p>
 
 Vì Ethereum rất mới và các phương pháp hay nhất chưa được hình thành xung quanh việc phát triển Hợp đồng thông minh, lỗi này khá phổ biến. Một khi tin tức được đưa ra, nhiều hợp đồng đã bị khai thác và tiền bị mất, nhưng may mắn thay, The DAO không bị ảnh hưởng, [theo](https://medium.com/ursium-blog/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b).
 
 ### ... và nó đã biến mất
 
-Cũng giống như các hợp đồng trong thế giới thực, ma quỷ nằm ở chi tiết, và hóa ra là The DAO
+Cũng giống như các hợp đồng trong thế giới thực, ma quỷ nằm ở chi tiết, và hóa ra là The DAO</a>
 
-lỗi reentrancy. Trên [dòng 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) , một vụ khai thác nằm im lìm và số lượng ETH huy động được khổng lồ đó đang ngồi đó chờ một lập trình viên tinh mắt đến khai thác. 
+lỗi reentrancy. Trên [dòng 666](https://github.com/TheDAO/DAO-1.0/blob/master/DAO.sol#L666-L670) , một vụ khai thác nằm im lìm và số lượng ETH huy động được khổng lồ đó đang ngồi đó chờ một lập trình viên tinh mắt đến khai thác.</p> 
 
 Một vài ngày sau, một hoặc nhiều kẻ tấn công bắt đầu rút ruột The DAO, và giống như một đoạn dây buộc vào đồng xu, sử dụng các hợp đồng được chế tạo đặc biệt để liên tục gọi chức năng phân tách của DAO để lấy đi nhiều ETH hơn so với các tác giả hợp đồng của nó _dự định_ cho phép.
 
@@ -125,7 +125,7 @@ Một vài ngày sau, một hoặc nhiều kẻ tấn công bắt đầu rút ru
 
 ### Thay đổi giao dịch
 
-Một điểm quan trọng cần lưu ý ở đây là The DAO Hacker đã không khai thác bất kỳ thứ gì trong giao thức Ethereum cơ bản, vì việc khai thác bị giới hạn trong hợp đồng The DAO. Họ cũng không "phá vỡ các quy tắc" của hợp đồng The DAO, vì họ chỉ tương tác với The DAO theo cách mà các tác giả của nó không lường trước được. Bất kể mục đích _của nó là gì của tác giả, [Điều khoản của](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) đã nói rõ rằng bản thân mã hợp đồng được cho là người phán xét cuối cùng. Theo các tác giả của The DAO, _Bộ luật là Luật_. 
+Một điểm quan trọng cần lưu ý ở đây là The DAO Hacker đã không khai thác bất kỳ thứ gì trong giao thức Ethereum cơ bản, vì việc khai thác bị giới hạn trong hợp đồng The DAO. Họ cũng không "phá vỡ các quy tắc" của hợp đồng The DAO, vì họ chỉ tương tác với The DAO theo cách mà các tác giả của nó không lường trước được. Bất kể mục đích _của nó là gì của tác giả, [Điều khoản</em> của](http://web.archive.org/web/20160501124801/https://daohub.org/explainer.html) đã nói rõ rằng bản thân mã hợp đồng được cho là người phán xét cuối cùng. Theo các tác giả của The DAO, _Bộ luật là Luật_.</p> 
 
 
 
@@ -185,7 +185,7 @@ Một vấn đề rõ ràng đã làm mờ cuộc tranh luận là một động
 
 Một số người ủng hộ đã tin tưởng một cách không chính xác rằng việc cho phép Hacker DAO lấy đi số lượng lớn ETH như vậy sẽ là kết án tương lai của Ethereum, sẽ không thể chịu được một kẻ xấu kiểm soát một lượng tiền lớn như vậy trong Proof of Cổ phần. Điều này đã bị [phủ nhận](https://old.reddit.com/r/ethereum/comments/4rohdy/vlad_zamfirs_thoughts_on_the_hard_fork/d52s60v/) bởi các kiến trúc sư triển khai Proof of Stake của Ethereum, nhưng tuy nhiên đã được phổ biến để hỗ trợ cho một đợt fork và là một huyền thoại vẫn còn tồn tại cho đến ngày nay.
 
-Mặt khác, những người phản đối lập luận rằng "Xây dựng ứng dụng không thể ngăn cản" phải được duy trì và việc thực hiện Hard Fork sẽ không chỉ phá vỡ những lời hứa của dự án Ethereum mà còn đại diện cho [rủi ro đạo đức](https://en.wikipedia.org/wiki/Moral_hazard) đã mở ra cánh cửa để can thiệp trong tương lai. Một số người thậm chí còn cảnh báo rằng bản chất của các blockchain có nghĩa là các Hard Fork gây tranh cãi được đảm bảo dẫn đến việc chia tách chuỗilà _, điều này có thể rất thảm khốc. 
+Mặt khác, những người phản đối lập luận rằng "Xây dựng ứng dụng không thể ngăn cản" phải được duy trì và việc thực hiện Hard Fork sẽ không chỉ phá vỡ những lời hứa của dự án Ethereum mà còn đại diện cho [rủi ro đạo đức](https://en.wikipedia.org/wiki/Moral_hazard) đã mở ra cánh cửa để can thiệp trong tương lai. Một số người thậm chí còn cảnh báo rằng bản chất của các blockchain có nghĩa là các Hard Fork gây tranh cãi được đảm bảo dẫn đến việc chia tách chuỗi</em>là _, điều này có thể rất thảm khốc.</p> 
 
 Những người chống chuyển nhượng cũng nêu ra quan điểm rằng tác động bất lợi của việc triển khai Hard Fork sẽ là gánh nặng không công bằng cho tất cả mọi người trên mạng, bất kể họ có phải là Chủ sở hữu mã thông báo DAO hay không. Ngược lại, những người hưởng lợi từ đợt fork sẽ chỉ là một nhóm nhỏ các bên liên quan. Thực tế "lợi nhuận được tư nhân hóa và lỗ được xã hội hóa" này gợi nhớ đến cuộc khủng hoảng tài chính năm 2008, với Hard Fork được nhiều người gọi là "gói cứu trợ", với nhiều hàm ý khác nhau của nó.
 
@@ -405,17 +405,17 @@ Về phía Ethereum Classic của sự phân tách, quyết định được đ�
 
 Chiến lược không cho thấy để thực hiện bất kỳ sự chuẩn bị nào là cách tốt nhất để giảm khả năng xảy ra sự phân chia chuỗi ngay từ đầu, vì hành động như thể chuỗi chưa được xử lý sẽ chết, về lý thuyết, sẽ khiến nó có nhiều khả năng chết hơn. nó sẽ được coi là bị bỏ rơi. Hard Fork được cho là _cách_ để tạo ra toàn bộ Người nắm giữ mã thông báo DAO và việc đề phòng hoặc đuổi tiền trên ETC sẽ làm suy yếu các lý do gần đây cho việc triển khai nó.
 
-Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay. 
+Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản</a> nay.</p> 
+
+Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản</a> nay.
 
 Dù mục đích là gì, The Hacker's Child DAO được phép đến thời hạn cuối cùng mà không bị chia tách lại, và việc thiếu hành động này có nghĩa là phải giao khoảng 3,5 triệu ETC cho The DAO Hacker, công ty vẫn đang bị họ quản nay.
-
-Nếu thay vì triển khai Hard Fork, RHG chỉ đơn giản là tiếp tục bế tắc, không những không cần đến Ethereum Classic, mà những người nắm giữ mã thông báo DAO rất có thể sẽ đòi lại được _thêm_ giá trị, thay vào đó, giá trị này đã bị mất dưới dạng ETC cho The DAO Hacker và làm tổn hại danh tiếng của dự án Ethereum.
 
 
 
 ### Thanh lý ETC không thành công
 
-Nhưng niềm vui chỉ mới bắt đầu.
+Nếu thay vì triển khai Hard Fork, RHG chỉ đơn giản là tiếp tục bế tắc, không những không cần đến Ethereum Classic, mà những người nắm giữ mã thông báo DAO rất có thể sẽ đòi lại được _thêm_ giá trị, thay vào đó, giá trị này đã bị mất dưới dạng ETC cho The DAO Hacker và làm tổn hại danh tiếng của dự án Ethereum.
 
 ![ETC được xác nhận lại đã bị lật đổ và được gửi đến các sàn giao dịch](./whg-funds.png)
 
@@ -460,7 +460,7 @@ Một điều quan trọng rút ra từ sự thất bại của Ngã ba DAO, mà
 
 Blockchains được thiết kế để giải quyết _vấn đề phối hợp_, như Bitcoin và Ethereum đã làm như vậy bằng cách quản lý, không có gì khác ngoài một giao thức được xác định rõ thực hiện các động lực kinh tế, thu hút hàng triệu cá nhân làm việc cùng nhau và nói tóm lại, thực hiện rất nhiều điều thú vị . Nhưng có vẻ như những cơ chế chính xác này có thể, nếu không được kiểm soát, tự nó biến dạng và biến dạng và mang lại những thứ hoàn toàn khó hiểu.
 
-Nhìn lại, có vẻ như The DAO Hard Fork làví dụ về bẫy phối hợp _, khiến các cá nhân hành động vì lợi ích kinh tế hợp lý tức thời của riêng họ để tham gia vào các hành động mà về tổng thể, tất cả những người có liên quan đều tồi tệ hơn. Với nhận thức sâu sắc, các sự kiện diễn ra không có nhiều ý nghĩa với kết quả tồi tệ, vậy tại sao vào thời điểm đó, không rõ ràng rằng Hard Fork là một ý tưởng tồi? 
+Nhìn lại, có vẻ như The DAO Hard Fork là</em>ví dụ về bẫy phối hợp _, khiến các cá nhân hành động vì lợi ích kinh tế hợp lý tức thời của riêng họ để tham gia vào các hành động mà về tổng thể, tất cả những người có liên quan đều tồi tệ hơn. Với nhận thức sâu sắc, các sự kiện diễn ra không có nhiều ý nghĩa với kết quả tồi tệ, vậy tại sao vào thời điểm đó, không rõ ràng rằng Hard Fork là một ý tưởng tồi?</p> 
 
 Câu trả lời cho điều này rất phức tạp, nhưng một giả thuyết cho rằng suy nghĩ của những người đã thúc đẩy quá nhiệt tình cho Hard Fork đã bị che khuất, sự kết hợp của quyền hạn đặt sai vị trí, tầm nhìn xa kém và có lẽ ảnh hưởng nhất là đã chiếm đoạt được hạch hạnh nhân nhờ áp lực tài chính cực lớn. và đấu đá nội bộ giữa các bộ lạc gây ra bởi các cấu trúc khuyến khích lý thuyết trò chơi xung quanh cuộc tranh luận Hard Fork, vốn không khuyến khích bất kỳ sự lùi bước nào và tác động vào tinh thần chiến binh.
 
@@ -482,7 +482,7 @@ Tuy nhiên, lịch sử của Ethereum ™ cho thấy mối quan hệ đáng ng�
 
 Một số người Etherian nói rằng Ngã ba DAO là một lần duy nhất sẽ không bao giờ xảy ra nữa; Ethereum ™ thực sự tuân theo _Mã là Luật_, hoặc ít nhất nó làm được kể từ The Fork. Vấn đề với vị trí này là, khi nó quan trọng, lịch sử của Ethereum ™ chứng minh rằng nó dễ bị can thiệp có thể vượt quá _Mã là Luật_. Nếu cái gì đó _có thể_ vượt quá _Bộ luật là Luật_, bạn không có _Bộ luật là Luật_, bạn chỉ đang giả vờ có nó tạm thời. Cho dù ở cấp độ triết học, xã hội hay tài chính, các điểm thất bại trọng tâm của Ethereum ™ đều có _và_ cho thấy nó cần được nắm bắt.
 
-Các nhà lãnh đạo tư tưởng khác trong Foundation nói rằng _Code is Law_ là một khái niệm, xã hội vô nhân đạo; "Chỉnh sửa" cấp độ DAO Fork trong tương lai _là_ trên bảng đối với Ethereum ™ và đó là một tính năng, không phải lỗi. Vấn đề với Quy tắc _không phải là vị trí Luật_ là nó hiểu sai đề xuất giá trị cơ bản của các blockchain, vốn hữu ích _vì_ sở thích đặc biệt không thể vượt qua chúng. Đối với mọi thứ khác, có nhiều tùy chọn hiệu quả hơn. 
+Các nhà lãnh đạo tư tưởng khác trong</a> Foundation nói rằng _Code is Law_ là một khái niệm</a>, xã hội vô nhân đạo; "Chỉnh sửa" cấp độ DAO Fork trong tương lai _là_ trên bảng đối với Ethereum ™ và đó là một tính năng, không phải lỗi. Vấn đề với Quy tắc _không phải là vị trí Luật_ là nó hiểu sai đề xuất giá trị cơ bản của các blockchain, vốn hữu ích _vì_ sở thích đặc biệt không thể vượt qua chúng. Đối với mọi thứ khác, có nhiều tùy chọn hiệu quả hơn.</p> 
 
 Trên hết, mặc dù vẫn còn tiếp tục cho đến ngày nay, The DAO Fork là một bữa ăn tối của một con chó khách quan, điều này chỉ bổ sung bằng chứng thực nghiệm hỗ trợ trường hợp Luật _là Luật_. Sự can thiệp chủ quan vào các ứng dụng được cho là không thể ngăn chặn vốn đã lộn xộn và cần phải tránh.
 

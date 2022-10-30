@@ -103,9 +103,9 @@ Pero a pesar de estas advertencias, cuando la crowdsale terminó, The DAO había
 
 ### "No hay fondos en riesgo"
 
- Una semana después de que terminara el crowdsale, un investigador de seguridad reveló públicamente en
+</a> Una semana después de que terminara el crowdsale, un investigador de seguridad reveló públicamente en
 
-un nuevo tipo de vulnerabilidad que muchos desarrolladores de contratos inteligentes no habían tenido en cuenta hasta entonces, el llamado "fallo de reentrada". 
+un nuevo tipo de vulnerabilidad que muchos desarrolladores de contratos inteligentes no habían tenido en cuenta hasta entonces, el llamado "fallo de reentrada".</p> 
 
 El fallo puede producirse cuando un contrato no actualiza correctamente su estado cuando otros contratos interactúan con él, lo que permite a los atacantes ejecutar la misma función muchas veces en contra de la intención __ de los autores del contrato. Es como una máquina expendedora que no comprueba que la moneda se ha introducido correctamente; un atacante puede atar un trozo de cuerda alrededor de la moneda para sacarla y utilizar la misma moneda para barrer todas las deliciosas golosinas.
 
@@ -185,7 +185,7 @@ La comunidad de Ethereum se dividió en dos tribus opuestas: los forkers y los a
 
 Un problema obvio que empañó el debate fue el enorme incentivo financiero para los numerosos poseedores de tokens DAO para apoyar una bifurcación dura. Se les hizo creer erróneamente que esa era la única forma de garantizar la recuperación de su inversión. Además, muchas personalidades influyentes, incluidos los 11 comisarios, habían respaldado el DAO y perderían prestigio si se les veía no hacer todo lo posible para que los inversores a los que influyeron estuvieran satisfechos.
 
-Algunos pro-foreros creían, incorrectamente, que permitir que The DAO Hacker se saliera con la suya con cantidades tan grandes de ETH sería condenar el futuro de Ethereum, que no sería capaz de soportar que un mal actor controlara una reserva tan grande de fondos en Proof of Stake. Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en .  Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Sin embargo, se popularizó para reforzar el apoyo a la bifurcación, y es un mito que aún perdura. 
+Algunos pro-foreros creían, incorrectamente, que permitir que The DAO Hacker se saliera con la suya con cantidades tan grandes de ETH sería condenar el futuro de Ethereum, que no sería capaz de soportar que un mal actor controlara una reserva tan grande de fondos en Proof of Stake. Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Los arquitectos de la implementación del Proof of Stake de Ethereum lo negaron en . Sin embargo, se popularizó para reforzar el apoyo a la bifurcación, y es un mito que aún perdura.
 
 Los anti-fork, por otro lado, argumentaron que "Build Unstoppable Applications" debe mantenerse y que la implementación de un Hard Fork no sólo rompería las promesas hechas por el proyecto Ethereum, sino que representaba un riesgo moral [](https://en.wikipedia.org/wiki/Moral_hazard) que abría la puerta a futuras intervenciones. Algunos incluso advirtieron que la naturaleza de las cadenas de bloques significaba que los controvertidos Hard Forks (bifurcaciones duras) garantizan la división de la cadena __, lo que podría ser catastrófico.
 
