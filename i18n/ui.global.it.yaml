@@ -40,11 +40,14 @@ search:
   txSearch: Sembra che abbiate inserito un indirizzo o una transazione Ethereum Classic.
   blockScout: "Cerca Blockscout Explorer:"
   explorers: ...oppure date un'occhiata ad altri [esploratori di blockchain](/network/esploratori).
+qa:
+  show: Mostra tutte le risposte
+  hide: Nascondi tutte le risposte
 ##
 ## Announcement Banner
 announcement:
   text: |
-    Questo sito web è ora tradotto in più lingue grazie all'apprendimento automatico. Fare clic sull'icona del mappamondo in alto a destra della pagina per cambiare lingua. Se volete contribuire alla correzione delle traduzioni, contattateci!
+    Questo sito Web è ora tradotto in più lingue tramite l'apprendimento automatico. Fare clic sulla bandiera in alto a destra della pagina per cambiare lingua. Se desideri aiutare a correggere le traduzioni, contattaci!
   button:
     text: "Aiuto per la traduzione"
 ## Footer
