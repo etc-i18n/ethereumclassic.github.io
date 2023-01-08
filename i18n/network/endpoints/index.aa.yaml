@@ -1,5 +1,5 @@
 title: crwdns70822:0crwdne70822:0
-__updated: crwdns108565:0crwdne108565:0
+__updated: 2022-12-22
 __contribute: 1
 seo: crwdns70828:0crwdne70828:0
 description: |
@@ -24,49 +24,49 @@ items:
         name: crwdns70854:0crwdne70854:0
     items:
       ETC Cooperative:
-        __rpcUrl: crwdns108569:0crwdne108569:0
-        __link: crwdns108571:0crwdne108571:0
-        __name: crwdns108573:0crwdne108573:0
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ETC Cooperative
       ETC Cooperative (Mordor):
-        __rpcUrl: crwdns108575:0crwdne108575:0
-        __link: crwdns108577:0crwdne108577:0
-        __name: crwdns108579:0crwdne108579:0
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: ETC Cooperative (Mordor)
       HebeBlock:
-        __rpcUrl: crwdns108581:0crwdne108581:0
-        __link: crwdns108583:0crwdne108583:0
-        __name: crwdns108585:0crwdne108585:0
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlock
       ETC-Network.info DE BESU:
-        __rpcUrl: crwdns108587:0crwdne108587:0
-        __link: crwdns108589:0crwdne108589:0
-        __name: crwdns108591:0crwdne108591:0
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
       ETC-Network.info AT BESU:
-        __rpcUrl: crwdns108593:0crwdne108593:0
-        __link: crwdns108595:0crwdne108595:0
-        __name: crwdns108597:0crwdne108597:0
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
       ETC-Network.info DE GETH:
-        __rpcUrl: crwdns108599:0crwdne108599:0
-        __link: crwdns108601:0crwdne108601:0
-        __name: crwdns108603:0crwdne108603:0
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
       ETC-Network.info AT GETH:
-        __rpcUrl: crwdns108605:0crwdne108605:0
-        __link: crwdns108607:0crwdne108607:0
-        __name: crwdns108609:0crwdne108609:0
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
       ETC-Network.info GETH (Mordor):
         __rpcUrl: https://geth-mordor.etc-network.info
         __link: https://www.etc-network.info
         __name: ETC-Network.info GETH (Mordor)
       ETC Planets:
-        __rpcUrl: crwdns108611:0crwdne108611:0
-        __link: crwdns108613:0crwdne108613:0
-        __name: crwdns108615:0crwdne108615:0
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planets RPC
       TokenPocket:
-        __link: crwdns108617:0crwdne108617:0
-        __rpcUrl: crwdns108619:0crwdne108619:0
-        __name: crwdns108621:0crwdne108621:0
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
       Rivet:
-        __link: crwdns108623:0crwdne108623:0
-        __name: crwdns108625:0crwdne108625:0
-        __rpcUrl: crwdns108627:0crwdne108627:0
+        __link: https://rivet.cloud
+        __name: Rivet
+        __rpcUrl: <API Key Required>
       TokenView API:
         __link: https://services.tokenview.com
         __name: TokenView API
