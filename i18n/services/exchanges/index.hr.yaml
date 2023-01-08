@@ -11,7 +11,6 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Razmjene koje smanjuju povjerenje
-    description: Sljedeće burze možda nisu *potpuno* decentralizirane burze, ali rade na manje centraliziran način od centraliziranih odjeljaka u nastavku. Vjerojatno je da ovi proizvodi koriste pametne ugovore bez skrbništva kako bi olakšali razmjenu.
   Centralized Spot Markets:
     title: Centralizirana promptna tržišta
   Centralized Derivative Markets:
