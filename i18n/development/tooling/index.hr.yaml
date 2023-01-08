@@ -59,8 +59,6 @@ items:
         description: BloqCloud pruža visoko optimiziran, uvijek dostupan pristup blockchain mrežama. Povežite se brzo i lako skalirajte na temelju svojih potreba -- bez brige o upravljanju infrastrukturom.
       DappNode:
         description: DAppNode olakšava pokretanje čvorova, DApps i hosting P2P mreža i ekonomija.
-      Ethercluster:
-        description: Ethercluster je otvoreni izvor Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) koji pruža Ethereum Classic (ETC) i Kotti krajnje točke besplatno.
       GetBlock:
         description: GetBlock je usluga koja pruža vezu za glavne čvorove kriptovaluta. Podržavaju takve alate kao što su JSON-RPC, REST i WebSockets, što olakšava izravnu sinkronizaciju s blockchainom. Nema potrebe da sami pokrećete čvor, platforma svojim korisnicima omogućuje povezivanje s blockchainom putem punog čvora bez plaćanja naknade.
       Google BigQuery:
