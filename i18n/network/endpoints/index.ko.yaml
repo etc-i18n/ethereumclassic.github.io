@@ -1,5 +1,16 @@
 title: 퍼블릭 엔드포인트
+__updated: 2022-12-22
 seo: MetaMask 및 기타 응용 프로그램을 통해 ETC와 상호 작용하는 데 사용할 수 있는 RPC(원격 프로시저 호출) 끝점 목록입니다.
+description: |
+  RPC(원격 절차 호출) 엔드포인트는 Ethereum Classic의 게이트웨이이며 ETC 체인과 통신하고 데이터를 읽을 수 있도록 합니다. 신뢰도를 극대화하기 위해 로컬에서 [ETC 클라이언트](/development/clients)를 실행합니다. 로컬 끝점은 일반적으로 `http://localhost:8545`에서 사용할 수 있습니다.
+
+  커뮤니티에 무료로 제공되거나 구독 서비스로 제공되는 공용 Ethereum Classic RPC 끝점도 사용할 수 있습니다. [MetaMask](/guides/metamask)과 같은 지갑을 사용하여 로컬에서 트랜잭션에 서명하고 브로드캐스트할 수 있기 때문에 개인 키의 보관을 유지하면서 퍼블릭 엔드포인트를 사용할 수 있습니다.
+
+  지갑 또는 배포 도구 구성을 업데이트하여 이러한 URL을 사용하여 거래하고 ETC(또는 테스트넷)에 배포할 수 있습니다. Ethereum Classic 메인넷의 체인 ID도 '61'로 변경해야 합니다.
+
+  다른 네트워크에 대한 자세한 내용은 [testnets](/development/testnets) 섹션을 확인하십시오.
+
+  ** [ChainList.org](https://chainlist.org/chain/61)에서 실시간 모니터링되는 ETC RPC 엔드포인트 중 하나를 선택하는 것이 좋습니다.**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: 서비스
       rpcUrl:
         name: RPC URL
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ETC협동조합
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: ETC 협동조합(모르도르)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: 헤베블록
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC 플래닛 RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: 토큰 포켓
+      Rivet:
+        __link: https://rivet.cloud
+        __name: 대갈못
+        __rpcUrl: <API Key Required>
