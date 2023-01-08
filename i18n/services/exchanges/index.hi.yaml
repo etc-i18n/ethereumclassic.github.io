@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: ट्रस्ट-न्यूनतम एक्सचेंज
+    description: निम्नलिखित एक्सचेंज *पूरी तरह* विकेन्द्रीकृत एक्सचेंज नहीं हो सकते हैं, लेकिन नीचे केंद्रीकृत वर्गों की तुलना में कम केंद्रीकृत तरीके से काम करते हैं। यह संभावना है कि ये उत्पाद एक्सचेंजों की सुविधा के लिए गैर-कस्टोडियल स्मार्ट अनुबंधों का उपयोग करते हैं।
   Centralized Spot Markets:
     title: केंद्रीकृत स्पॉट बाजार
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: क्रॉस-चेन स्वैप एक्सचेंज
     description: "*नोट:* क्रॉस-चेन स्वैप एक्सचेंज आमतौर पर केंद्रीकृत एक्सचेंजों की तुलना में खराब दरों की पेशकश करते हैं।"
+    items:
+      Swapika:
+        __name: स्वपिका
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: एनएफटी मार्केटप्लेस
     description: निम्नलिखित एनएफटी मार्केटप्लेस *पूरी तरह से* विकेन्द्रीकृत मार्केटप्लेस नहीं हो सकते हैं।
