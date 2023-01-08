@@ -11,6 +11,10 @@ items:
           Ethereum Classic è quotato praticamente in tutte le principali (e discrete minori) borse e dispone di DEX on-chain. Per saperne di più, consultare la sezione [exchanges](/services/exchanges).
       policy:
         question: Qual è la politica monetaria di ETC?
+        answer: |
+          Simile a Bitcoin, Ethereum Classic ha una curva di emissione fissa, il che significa che puoi prevedere con precisione la quantità totale di ETC esistenti in qualsiasi momento futuro. Ciò impedisce spirali mortali inflazionistiche e rende ETC una forte riserva di valore.
+
+          Maggiori informazioni sulla politica monetaria di ETC nella sezione [Sound Money](/why-classic/sound-money).
       elevator:
         question: Qual è l'elevator pitch di Ethereum Classic?
         answer: |
