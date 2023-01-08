@@ -71,12 +71,12 @@ contributors:
 下一步，是添加 Ethereum Classic 的具体信息。 以下是我使用的网络数据。
 
 - 网络名称。 `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- 新的 RPC URL： `https://etc.rivet.link`
 - 链条编号: `61`
 - 货币符号(可选)。 `ETC`
 - 封锁浏览器的 URL(可选)： `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. 你可以在 [网络](/network/endpoints) 部分找到更多的 RPC 端点。
+对于“RPC URL”，我使用了一家名为 [Rivet](https://rivet.link/)的公司为此目的提供的端点，该公司为此与 [ETC Cooperative](https://etccooperative.org) 签约。 你可以在 [网络](/network/endpoints) 部分找到更多的 RPC 端点。
 
 链 ID "必须是 "61"，因为这是 Ethereum Classic 网络的特定 ID，用于由钱包和节点发送 ETC 交易到运营区块链。
 
