@@ -71,12 +71,12 @@ contributors:
 Το επόμενο βήμα είναι να προσθέσετε τις ειδικές πληροφορίες του Ethereum Classic. Ακολουθούν τα δεδομένα δικτύου που χρησιμοποίησα:
 
 - Όνομα δικτύου: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- Νέα διεύθυνση URL RPC: `https://etc.rivet.link`
 - ID αλυσίδας: `61`
 - Σύμβολο νομίσματος (προαιρετικό): `ETC`
 - Αποκλεισμός διεύθυνσης URL της Εξερεύνησης (προαιρετικό): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Μπορείτε να βρείτε περισσότερα RPC Endpoints στην ενότητα [network](/network/endpoints) .
+Για τη "URL RPC" χρησιμοποίησα το τελικό σημείο που παρέχεται για αυτόν τον σκοπό από μια εταιρεία που ονομάζεται [Rivet](https://rivet.link/), η οποία έχει συναφθεί με το [ETC Cooperative](https://etccooperative.org) για αυτόν τον σκοπό. Μπορείτε να βρείτε περισσότερα RPC Endpoints στην ενότητα [network](/network/endpoints) .
 
 Το "Chain ID" πρέπει να είναι "61", επειδή αυτό είναι το ειδικό αναγνωριστικό του δικτύου Ethereum Classic για την αποστολή συναλλαγών ETC από πορτοφόλια και κόμβους στην αλυσίδα μπλοκ που λειτουργεί.
 
