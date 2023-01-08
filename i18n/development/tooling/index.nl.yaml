@@ -59,8 +59,6 @@ items:
         description: BloqCloud levert sterk geoptimaliseerde, altijd beschikbare toegang tot blockchain-netwerken. Maak snel verbinding en schaal eenvoudig op basis van uw behoeften -- zonder dat u zich zorgen hoeft te maken over het beheer van de infrastructuur.
       DappNode:
         description: DAppNode faciliteert het runnen van nodes, DApps en het hosten van P2P netwerken en economieën.
-      Ethercluster:
-        description: Ethercluster is een open-sourced Ethereum Virtual Machine (EVM) Remote Procedure Call (RPC) die gratis Ethereum Classic (ETC) en Kotti eindpunten biedt.
       GetBlock:
         description: GetBlock is een dienst die verbinding biedt voor de belangrijkste knooppunten van cryptocurrencies. Ze ondersteunen tools als JSON-RPC, REST en WebSockets, wat directe synchronisatie met de blockchain mogelijk maakt. Het is niet nodig om zelf een node te draaien, het platform stelt zijn klanten in staat om via een volledige node verbinding te maken met een blockchain zonder daarvoor een vergoeding te hoeven betalen.
       Google BigQuery:
