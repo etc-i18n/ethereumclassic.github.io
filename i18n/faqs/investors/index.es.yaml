@@ -11,6 +11,10 @@ items:
           Ethereum Classic aparece en la lista de casi todos los intercambios principales (y menores decentes), y tiene DEXs en la cadena. Puedes encontrar más información en la sección [exchanges](/servicios/intercambios).
       policy:
         question: '¿Cuál es la política monetaria de ETC?'
+        answer: |
+          Similar a Bitcoin, Ethereum Classic tiene una curva de emisión fija, lo que significa que puede pronosticar con precisión la cantidad total de ETC existente en cualquier momento en el futuro. Esto evita espirales de muerte inflacionarias y convierte a ETC en una sólida reserva de valor.
+
+          Lea más sobre la política monetaria de ETC en la sección [Sound Money](/why-classic/sound-money).
       elevator:
         question: '¿Cuál es el discurso de ascensor de Ethereum Classic?'
         answer: |
