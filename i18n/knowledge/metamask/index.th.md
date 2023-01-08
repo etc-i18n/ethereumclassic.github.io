@@ -71,12 +71,12 @@ contributors:
 ขั้นตอนต่อไปคือการเพิ่มข้อมูลเฉพาะของ Ethereum Classic ด้านล่างนี้เป็นข้อมูลเครือข่ายที่ฉันใช้:
 
 - ชื่อเครือข่าย: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- URL RPC ใหม่: `https://etc.rivet.link`
 - รหัสเชน: `61`
 - สัญลักษณ์สกุลเงิน (ตัวเลือก): `ETC`
 - Block Explorer URL (ตัวเลือก): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. คุณสามารถค้นหา RPC Endpoints เพิ่มเติมได้ในส่วน [เครือข่าย](/network/endpoints)
+สำหรับ "RPC URL" ฉันใช้ตำแหน่งข้อมูลสำหรับจุดประสงค์นี้โดยบริษัทที่ชื่อว่า [Rivet](https://rivet.link/)ซึ่งทำสัญญาโดย [ETC Cooperative](https://etccooperative.org) เพื่อจุดประสงค์นี้ คุณสามารถค้นหา RPC Endpoints เพิ่มเติมได้ในส่วน [เครือข่าย](/network/endpoints)
 
 “Chain ID” ต้องเป็น “61” เพราะนั่นคือ ID เฉพาะของเครือข่าย Ethereum Classic สำหรับส่งธุรกรรม ETC โดย wallets และ nodes ไปยัง blockchain ปฏิบัติการ
 
