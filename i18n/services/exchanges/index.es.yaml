@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Intercambios que minimizan la confianza
+    description: Los siguientes intercambios pueden no ser *totalmente* intercambios descentralizados, pero operan de una manera menos centralizada que las secciones centralizadas a continuación. Es probable que estos productos utilicen contratos inteligentes sin custodia para facilitar los intercambios.
   Centralized Spot Markets:
     title: Mercados al contado centralizados
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Intercambios de cadenas cruzadas
     description: "*Nota:* Las bolsas de intercambio de cadenas cruzadas suelen ofrecer peores tipos que las bolsas centralizadas."
+    items:
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: Mercados NFT
     description: Los siguientes mercados NFT pueden no ser mercados *totalmente* descentralizados.
