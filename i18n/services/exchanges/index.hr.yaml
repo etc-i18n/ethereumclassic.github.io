@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Razmjene koje smanjuju povjerenje
+    description: Sljedeće burze možda nisu *potpuno* decentralizirane burze, ali rade na manje centraliziran način od centraliziranih odjeljaka u nastavku. Vjerojatno je da ovi proizvodi koriste pametne ugovore bez skrbništva kako bi olakšali razmjenu.
   Centralized Spot Markets:
     title: Centralizirana promptna tržišta
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Cross-Chain Swap razmjene
     description: "*Napomena:* Cross-Chain Swap burze obično nude lošije tečajeve od centraliziranih burzi."
+    items:
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: NFT tržnice
     description: Sljedeća NFT tržišta možda nisu *potpuno* decentralizirana tržišta.
