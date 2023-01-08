@@ -219,8 +219,8 @@ items:
         __name: Signatory
         description: crwdns67036:0crwdne67036:0
       Sidekik:
-        __link: crwdns108543:0crwdne108543:0
-        __name: crwdns108545:0crwdne108545:0
+        __link: https://sidekik.xyz/
+        __name: Sidekik
         description: crwdns108547:0crwdne108547:0
       SOLL:
         __link: https://github.com/second-state/soll
@@ -248,8 +248,8 @@ items:
         __name: DappNode
         description: crwdns67072:0crwdne67072:0
       Rivet:
-        __link: crwdns108549:0crwdne108549:0
-        __name: crwdns108551:0crwdne108551:0
+        __link: https://rivet.link/
+        __name: Rivet
         description: crwdns108553:0crwdne108553:0
       GetBlock:
         __name: GetBlock
