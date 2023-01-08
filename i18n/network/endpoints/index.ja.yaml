@@ -1,5 +1,16 @@
 title: パブリックエンドポイント
+__updated: 2022-12-22
 seo: MetaMaskや他のアプリケーションを介してETCと対話するために使用できるRPC(Remote Procedure Call)エンドポイントのリストです。
+description: |
+  リモート プロシージャ コール (RPC) エンドポイントは、Ethereum Classic へのゲートウェイであり、ETC チェーンと通信してデータを読み取ることができます。信頼性を最大限に高めるには、[ETC クライアント](/development/clients) をローカルで実行します。通常、ローカル エンドポイントは `http://localhost:8545` で利用可能になります。
+
+  パブリック イーサリアム クラシック RPC エンドポイントも利用でき、コミュニティに無料で、またはサブスクリプション サービスとして提供されます。 [MetaMask](/guides/metamask) などのウォレットを使用してローカルでトランザクションに署名してブロードキャストできるため、秘密鍵の管理を維持しながらパブリック エンドポイントを使用できます。
+
+  これらの URL を使用して、ウォレットまたは展開ツールの構成を更新することにより、取引を行い、ETC (またはそのテストネット) に展開できます。また、イーサリアム クラシック メインネットのチェーン ID を「61」に変更してください。
+
+  他のネットワークの詳細については、 [testnets](/development/testnets) セクションを参照してください。
+
+  ** [ChainList.org](https://chainlist.org/chain/61) で、リアルタイムで監視される ETC RPC エンドポイントの 1 つを選択することをお勧めします。**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: サービス
       rpcUrl:
         name: RPC URL
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ETC協同組合
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: ETC協同組合（モルドール）
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: へべブロック
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info べす
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info べす
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC プラネット RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: トークンポケット
+      Rivet:
+        __link: https://rivet.cloud
+        __name: リベット
+        __rpcUrl: <API Key Required>
