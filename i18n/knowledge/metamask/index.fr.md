@@ -71,12 +71,12 @@ Après avoir sélectionné "Custom RPC", vous verrez le formulaire pour ajouter 
 L'étape suivante consiste à ajouter les informations spécifiques à Ethereum Classic. Vous trouverez ci-dessous les données réseau que j'ai utilisées :
 
 - Nom du réseau : `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- Nouvelle URL RPC : `https://etc.rivet.link`
 - ID de la chaîne : `61`
 - Symbole de la monnaie (facultatif) : `ETC`
 - Bloquer l'URL d'Explorer (facultatif) : `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Vous trouverez d'autres points d'extrémité RPC dans la section [network](/network/endpoints) .
+Pour l'URL « RPC », j'ai utilisé le point de terminaison fourni à cet effet par une société appelée [Rivet](https://rivet.link/), contractée par la coopérative [ETC](https://etccooperative.org) à cet effet. Vous trouverez d'autres points d'extrémité RPC dans la section [network](/network/endpoints) .
 
 L'"ID de la chaîne" doit être "61" car il s'agit de l'ID spécifique du réseau Ethereum Classic pour l'envoi des transactions ETC par les portefeuilles et les nœuds à la blockchain opérationnelle.
 
