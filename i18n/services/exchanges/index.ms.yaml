@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Pertukaran Meminimumkan Amanah
+    description: Pertukaran berikut mungkin bukan pertukaran terdesentralisasi *sepenuhnya, tetapi beroperasi dengan cara pemusatan yang kurang daripada bahagian terpusat di bawah. Kemungkinan produk ini menggunakan kontrak pintar bukan jagaan untuk memudahkan pertukaran.
   Centralized Spot Markets:
     title: Pasaran Spot Berpusat
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Pertukaran Swap Rentas Rantaian
     description: "*Nota:* Pertukaran Pertukaran Rentas Rantaian biasanya menawarkan kadar yang lebih teruk daripada Pertukaran Berpusat."
+    items:
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: Pasaran NFT
     description: Pasaran NFT berikut mungkin bukan pasar terdesentralisasi *sepenuhnya.
