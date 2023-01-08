@@ -71,12 +71,12 @@ Selepas memilih "RPC Tersuai" anda akan melihat borang untuk menambah rangkaian.
 Langkah seterusnya, ialah menambah maklumat khusus Ethereum Classic. Di bawah ialah data rangkaian yang saya gunakan:
 
 - Nama Rangkaian: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- URL RPC baharu: `https://etc.rivet.link`
 - ID Rantaian: `61`
 - Simbol Mata Wang (pilihan): `DLL`
 - Sekat URL Penjelajah (pilihan): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Anda boleh menemui lebih banyak Titik Akhir RPC dalam bahagian [rangkaian](/network/endpoints).
+Untuk "URL RPC" saya menggunakan titik akhir yang disediakan untuk tujuan ini oleh firma yang dipanggil [Rivet](https://rivet.link/), yang dikontrak oleh Koperasi [ETC](https://etccooperative.org) untuk tujuan ini. Anda boleh menemui lebih banyak Titik Akhir RPC dalam bahagian [rangkaian](/network/endpoints).
 
 "ID Rantaian" mestilah "61" kerana itu adalah ID khusus rangkaian Ethereum Classic untuk menghantar transaksi ETC melalui dompet dan nod ke blok operasi.
 
