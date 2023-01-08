@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Trust-Minimizing Exchanges
+    description: การแลกเปลี่ยนต่อไปนี้อาจไม่ใช่การแลกเปลี่ยนแบบกระจายอำนาจ *โดยสมบูรณ์ แต่ดำเนินการในลักษณะการรวมศูนย์น้อยกว่าส่วนที่รวมศูนย์ด้านล่าง มีแนวโน้มว่าผลิตภัณฑ์เหล่านี้จะใช้สัญญาอัจฉริยะแบบไม่ต้องดูแลเพื่ออำนวยความสะดวกในการแลกเปลี่ยน
   Centralized Spot Markets:
     title: ตลาดสปอตแบบรวมศูนย์
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: การแลกเปลี่ยนข้ามสายโซ่
     description: "*หมายเหตุ:* การแลกเปลี่ยนข้ามสายโซ่มักจะเสนออัตราที่แย่กว่าการแลกเปลี่ยนแบบรวมศูนย์"
+    items:
+      Swapika:
+        __name: สวาปิกา
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: ตลาด NFT
     description: ตลาดกลาง NFT ต่อไปนี้อาจไม่ใช่ตลาดที่มีการกระจายอำนาจ *อย่างเต็มที่*
