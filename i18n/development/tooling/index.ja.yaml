@@ -59,8 +59,6 @@ items:
         description: BloqCloudは、ブロックチェーンネットワークへの高度に最適化された、常に利用可能なアクセスを提供します。インフラ管理の心配をすることなく、ニーズに合わせて素早く接続し、簡単に拡張できます。
       DappNode:
         description: DAppNodeは、ノード、DAppsの実行、P2Pネットワークと経済のホスティングを容易にします。
-      Ethercluster:
-        description: Etherclusterは、Ethereum Classic(ETC)とKottiのエンドポイントを無償で提供するオープンソースのEthereum Virtual Machine(EVM)リモートプロシージャコール(RPC)である。
       GetBlock:
         description: GetBlockは、主要な暗号通貨のノードへの接続を提供するサービスです。JSON-RPC、REST、WebSocketといったツールをサポートしており、ブロックチェーンとの直接同期を容易にする。自分でノードを動かす必要はなく、このプラットフォームでは、顧客が料金を支払うことなく、フルノードを介してブロックチェーンに接続することができる。
       Google BigQuery:
