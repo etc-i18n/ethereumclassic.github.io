@@ -71,12 +71,12 @@ contributors:
 अगला कदम, एथेरियम क्लासिक की विशिष्ट जानकारी को जोड़ना है। मेरे द्वारा उपयोग किया गया नेटवर्क डेटा नीचे है:
 
 - नेटवर्क का नाम: `एथेरियम क्लासिक`
-- New RPC URL: `https://etc.rivet.link`
+- नया RPC URL: `https://etc.rivet.link`
 - चेन आईडी: `61`
 - मुद्रा प्रतीक (वैकल्पिक): `ईटीसी`
 - ब्लॉक एक्सप्लोरर यूआरएल (वैकल्पिक): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. आप [नेटवर्क](/network/endpoints) खंड में अधिक RPC समापन बिंदु पा सकते हैं।
+"RPC URL" के लिए मैंने इस उद्देश्य के लिए [ETC सहकारी](https://etccooperative.org) द्वारा अनुबंधित [रिवेट](https://rivet.link/)नामक एक फर्म द्वारा इस उद्देश्य के लिए प्रदान किए गए समापन बिंदु का उपयोग किया। आप [नेटवर्क](/network/endpoints) खंड में अधिक RPC समापन बिंदु पा सकते हैं।
 
 "चेन आईडी" "61" होना चाहिए क्योंकि यह ऑपरेटिंग ब्लॉकचैन में वॉलेट और नोड्स द्वारा ईटीसी लेनदेन भेजने के लिए एथेरियम क्लासिक नेटवर्क की विशिष्ट आईडी है।
 
