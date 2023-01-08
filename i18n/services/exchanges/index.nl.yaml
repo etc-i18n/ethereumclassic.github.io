@@ -11,7 +11,6 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Vertrouwen beperkende uitwisselingen
-    description: De volgende exchanges zijn misschien niet *helemaal* gedecentraliseerde exchanges, maar werken op een minder gecentraliseerde manier dan de gecentraliseerde secties hieronder. Waarschijnlijk gebruiken deze producten niet-custodiale smart contracts om uitwisselingen mogelijk te maken.
   Centralized Spot Markets:
     title: Gecentraliseerde spotmarkten
   Centralized Derivative Markets:
