@@ -71,12 +71,12 @@ contributors:
 Следующим шагом будет добавление специфической информации Ethereum Classic. Ниже приведены сетевые данные, которые я использовал:
 
 - Название сети: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- Новый URL RPC: `https://etc.rivet.link`
 - Идентификатор цепи: `61`
 - Символ валюты (необязательно): `ETC`
 - URL-адрес блокирующего проводника (необязательно): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Вы можете найти больше конечных точек RPC в разделе [сеть](/network/endpoints) .
+Для «RPC URL» я использовал конечную точку, предоставленную для этой цели фирмой под названием [Rivet](https://rivet.link/), нанятой для этой цели [ETC Cooperative](https://etccooperative.org). Вы можете найти больше конечных точек RPC в разделе [сеть](/network/endpoints) .
 
 Идентификатор цепи" должен быть "61", поскольку это специфический идентификатор сети Ethereum Classic для отправки транзакций ETC кошельками и узлами на операционный блокчейн.
 
