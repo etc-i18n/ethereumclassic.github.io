@@ -71,12 +71,12 @@ Sau khi chọn “Custom RPC”, bạn sẽ thấy biểu mẫu để thêm mạ
 Bước tiếp theo, là thêm thông tin cụ thể của Ethereum Classic. Dưới đây là dữ liệu mạng tôi đã sử dụng:
 
 - Tên mạng: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- URL RPC mới: `https://etc.rivet.link`
 - ID chuỗi: `61`
 - Ký hiệu tiền tệ (tùy chọn): `ETC`
 - Block Explorer URL (tùy chọn): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Bạn có thể tìm thêm các Điểm cuối RPC trong phần [mạng](/network/endpoints).
+Đối với “URL RPC”, tôi đã sử dụng điểm cuối được cung cấp cho mục đích này bởi một công ty có tên là [Rivet](https://rivet.link/), được ký hợp đồng bởi [ETC HTX](https://etccooperative.org) cho mục đích này. Bạn có thể tìm thêm các Điểm cuối RPC trong phần [mạng](/network/endpoints).
 
 “ID chuỗi” phải là “61” vì đó là ID cụ thể của mạng Ethereum Classic để gửi các giao dịch ETC bằng ví và các nút tới chuỗi khối đang hoạt động.
 
