@@ -7,6 +7,12 @@ items:
     items:
       what:
         question: Što je Ethereum Classic?
+        answer: |
+          Ethereum Classic je Proof of Work Smart Contract Blockchain koji svakome omogućuje izgradnju, implementaciju i korištenje decentraliziranih aplikacija bez dozvole. Ethereum Classic je grassroots open-source projekt koji su izgradili ljudi diljem svijeta bez središnjeg organizacijskog odbora.
+
+          Filozofski, ETC je sličan Bitcoinu, vrednujući ideale decentralizacije, otpora cenzuri i zdravog novca. Tehnološki je sličan Ethereumu, jer upravlja EVM-om (Ethereum Virtual Machine).
+
+          Kombinacija ova dva pristupa stavlja Ethereum Classic u jedinstvenu poziciju, pružajući snažnu decentralističku osnovu ukorijenjenu u cypherpunk idealima zajedno s fleksibilnošću i inovativnošću pametnih ugovora.
       overview:
         question: Je li Ethereum Classic pljačka Ethereuma?
         answer: |
