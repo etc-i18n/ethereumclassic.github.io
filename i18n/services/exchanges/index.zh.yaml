@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: 信任最小化的交流
+    description: 以下交易所可能不是*完全*去中心化的交易所，但与以下中心化部分相比，其中心化程度较低。这些产品很可能使用非托管智能合约来促进交易。
   Centralized Spot Markets:
     title: 集中式现货市场
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: 跨链掉期交易
     description: "*注意：*跨链掉期交易所通常提供比集中式交易所更差的利率。"
+    items:
+      Swapika:
+        __name: 斯皮卡
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: NFT Marketplaces
     description: 以下的NFT市场可能不是*完全的去中心化的市场。
