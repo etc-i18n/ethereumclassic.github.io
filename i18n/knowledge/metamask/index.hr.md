@@ -71,12 +71,12 @@ Nakon odabira “Custom RPC” vidjet ćete obrazac za dodavanje mreže. Ima sig
 Sljedeći korak je dodavanje specifičnih informacija za Ethereum Classic. Ispod su mrežni podaci koje sam koristio:
 
 - Naziv mreže: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- Novi RPC URL: `https://etc.rivet.link`
 - ID lanca: `61`
 - Simbol valute (neobavezno): `ETC`
 - Block Explorer URL (izborno): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Više RPC krajnjih točaka možete pronaći u odjeljku [mreža](/network/endpoints).
+Za "RPC URL" upotrijebio sam krajnju točku koju je za ovu svrhu pružila tvrtka pod nazivom [Rivet](https://rivet.link/), koju je za tu svrhu sklopila [ETC Cooperative](https://etccooperative.org). Više RPC krajnjih točaka možete pronaći u odjeljku [mreža](/network/endpoints).
 
 "Chain ID" mora biti "61" jer je to specifičan ID mreže Ethereum Classic za slanje ETC transakcija novčanicima i čvorovima u operativni blockchain.
 
