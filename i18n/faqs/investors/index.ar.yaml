@@ -11,6 +11,10 @@ items:
           يتم سرد Ethereum Classic إلى حد كبير في كل بورصة رئيسية (وصغرى مناسبة) ، ولها DEXs على السلسلة. يمكنك معرفة المزيد في قسم [exchanges](/ services / exchange).
       policy:
         question: ما هي السياسة النقدية لشركة ETC؟
+        answer: |
+          على غرار Bitcoin ، يعتبر Ethereum Classic منحنى انبعاث ثابت ، مما يعني أنه يمكنك التنبؤ بدقة بالمبلغ الإجمالي لـ ETC الموجود في أي وقت في المستقبل. هذا يمنع دوامات الموت التضخمية ، ويجعل من ETC مخزنًا قويًا للقيمة.
+
+          اقرأ المزيد عن السياسة النقدية لشركة ETC في قسم [Sound Money] (/ why-classic / sound-money).
       elevator:
         question: ما هي درجة المصعد لـ Ethereum Classic؟
         answer: |
