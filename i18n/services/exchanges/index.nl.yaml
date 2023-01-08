@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Vertrouwen beperkende uitwisselingen
+    description: De volgende beurzen zijn mogelijk geen *volledig* gedecentraliseerde beurzen, maar werken op een minder gecentraliseerde manier dan de onderstaande gecentraliseerde secties. Het is waarschijnlijk dat deze producten niet-bewarende slimme contracten gebruiken om uitwisselingen te vergemakkelijken.
   Centralized Spot Markets:
     title: Gecentraliseerde spotmarkten
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Cross-Chain Swap Uitwisselingen
     description: "*Noot:* Cross-Chain Swap Exchanges bieden doorgaans slechtere tarieven dan Centralized Exchanges."
+    items:
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: NFT Marktplaatsen
     description: De volgende NFT marktplaatsen zijn mogelijk niet *volledig* gedecentraliseerd.
