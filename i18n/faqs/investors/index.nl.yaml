@@ -11,6 +11,10 @@ items:
           Ethereum Classic staat vermeld op zowat elke grote (en behoorlijke kleine) beurs, en heeft on-chain DEX'en. Meer informatie vindt u in de sectie [exchanges](/services/exchanges).
       policy:
         question: Wat is het monetaire beleid van ETC?
+        answer: |
+          Net als Bitcoin heeft Ethereum Classic een vaste emissiecurve, wat betekent dat u op elk moment in de toekomst nauwkeurig de totale hoeveelheid ETC kunt voorspellen. Dit voorkomt inflatoire doodsspiralen en maakt van ETC een sterke waardeopslag.
+
+          Lees meer over het monetaire beleid van ETC in de sectie [Sound Money](/why-classic/sound-money).
       elevator:
         question: Wat is de elevator pitch voor Ethereum Classic?
         answer: |
