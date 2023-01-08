@@ -59,8 +59,6 @@ items:
         description: BloqCloud cung cấp quyền truy cập luôn sẵn sàng, được tối ưu hóa cao vào các mạng blockchain. Kết nối nhanh chóng và mở rộng quy mô dễ dàng dựa trên nhu cầu của bạn - mà không phải lo lắng về việc quản lý cơ sở hạ tầng.
       DappNode:
         description: DAppNode tạo điều kiện cho việc chạy các nút, DApp và lưu trữ các mạng và nền kinh tế P2P.
-      Ethercluster:
-        description: Ethercluster là một cuộc gọi thủ tục từ xa (RPC) của Máy ảo Ethereum (EVM) có nguồn mở cung cấp miễn phí các điểm cuối Ethereum Classic (ETC) và Kotti.
       GetBlock:
         description: GetBlock là một dịch vụ cung cấp kết nối cho các nút chính của tiền điện tử. Chúng hỗ trợ các công cụ như JSON-RPC, REST và WebSockets, tạo điều kiện đồng bộ hóa trực tiếp với blockchain. Không cần phải tự mình chạy một nút, nền tảng cho phép khách hàng của mình kết nối với một chuỗi khối thông qua một nút đầy đủ mà không phải trả phí.
       Google BigQuery:
