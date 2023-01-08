@@ -11,7 +11,6 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Pertukaran Meminimumkan Amanah
-    description: Pertukaran berikut mungkin bukan pertukaran terdesentralisasi *sepenuhnya, tetapi beroperasi dengan cara pemusatan yang kurang daripada bahagian terpusat di bawah. Kemungkinan produk ini menggunakan kontrak pintar bukan jagaan untuk memudahkan pertukaran.
   Centralized Spot Markets:
     title: Pasaran Spot Berpusat
   Centralized Derivative Markets:
