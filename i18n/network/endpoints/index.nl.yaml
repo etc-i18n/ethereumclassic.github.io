@@ -1,5 +1,16 @@
 title: Openbare eindpunten
+__updated: 22-12-2022
 seo: Een lijst van Remote Procedure Call (RPC) eindpunten die kunnen worden gebruikt voor interactie met ETC via MetaMask en andere toepassingen.
+description: |
+  Remote Procedure Call (RPC)-eindpunten zijn uw toegangspoort tot Ethereum Classic en stellen u in staat om te communiceren met en gegevens uit de ETC-keten te lezen. Voor maximale betrouwbaarheid voer je lokaal een [ETC Client](/development/clients) uit; een lokaal eindpunt wordt meestal beschikbaar gesteld op `http://localhost:8545`. Er zijn ook openbare
+
+  Classic RPC-eindpunten beschikbaar, die ofwel gratis aan de gemeenschap of als abonnementsservice worden verstrekt. Omdat u transacties lokaal kunt ondertekenen en uitzenden met behulp van een portemonnee zoals [MetaMask](/guides/metamask), kunnen openbare eindpunten worden gebruikt met behoud van uw privésleutels.
+
+  U kunt deze URL's gebruiken om transacties uit te voeren en te implementeren in ETC (of zijn testnetten) door uw portemonnee of implementatietoolconfiguratie bij te werken. Zorg ervoor dat u ook uw Chain ID wijzigt in `61` voor het Ethereum Classic-mainnet.
+
+  Ga voor meer informatie over andere netwerken naar de sectie [testnets](/development/testnets).
+
+  **Het wordt aanbevolen om een van de realtime-gecontroleerde ETC RPC-eindpunten te selecteren boven [ChainList.org](https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: Service
       rpcUrl:
         name: RPC URL
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ETC Coöperatie
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: ETC Coöperatie (Mordor)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlok
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Netwerk.info BESU
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Netwerk.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planeten RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
+      Rivet:
+        __link: https://rivet.cloud
+        __name: Klinknagel
+        __rpcUrl: <API Key Required>
