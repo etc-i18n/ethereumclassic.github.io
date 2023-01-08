@@ -7,6 +7,12 @@ items:
     items:
       what:
         question: Apakah itu Ethereum Classic?
+        answer: |
+          Ethereum Classic ialah Rangkaian Blok Kontrak Pintar Bukti Kerja yang membenarkan sesiapa sahaja membina, menggunakan dan menggunakan aplikasi terdesentralisasi tanpa kebenaran. Ethereum Classic ialah projek sumber terbuka akar umbi yang dibina oleh orang di seluruh dunia tanpa jawatankuasa penganjur pusat.
+
+          Dari segi falsafah, ETC adalah serupa dengan Bitcoin, menghargai cita-cita desentralisasi, rintangan penapisan dan wang yang kukuh. Dari segi teknologi, ia serupa dengan Ethereum, mengendalikan EVM (Mesin Maya Ethereum).
+
+          Menggabungkan kedua-dua pendekatan ini meletakkan Ethereum Classic pada kedudukan yang unik, menyediakan asas desentralis yang kukuh yang berakar umbi dalam cita-cita cypherpunk bersama-sama dengan fleksibiliti dan inovasi Kontrak Pintar.
       overview:
         question: Adakah Ethereum Classic adalah satu rip-off Ethereum?
         answer: |
