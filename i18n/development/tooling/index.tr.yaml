@@ -59,8 +59,6 @@ items:
         description: BloqCloud, blockchain ağlarına yüksek düzeyde optimize edilmiş, her zaman kullanılabilir erişim sağlar. Altyapı yönetimi konusunda endişelenmenize gerek kalmadan hızlı bir şekilde bağlanın ve ihtiyaçlarınıza göre kolayca ölçeklendirin.
       DappNode:
         description: DAppNode, düğümleri, DApp'leri çalıştırmayı ve P2P ağlarını ve ekonomilerini barındırmayı kolaylaştırır.
-      Ethercluster:
-        description: Ethercluster, Ethereum Classic (ETC) ve Kotti uç noktalarını ücretsiz olarak sağlayan açık kaynaklı bir Ethereum Sanal Makinesi (EVM) Uzaktan Prosedür Çağrısıdır (RPC).
       GetBlock:
         description: GetBlock, büyük kripto para birimlerinin düğümleri için bağlantı sağlayan bir hizmettir. Blok zinciri ile doğrudan senkronizasyonu kolaylaştıran JSON-RPC, REST ve WebSockets gibi araçları desteklemektedir. Kendiniz bir node çalıştırmanıza gerek yoktur, platform müşterilerinin bir ücret ödemek zorunda kalmadan tam bir node aracılığıyla bir blok zincirine bağlanmasına olanak tanır.
       Google BigQuery:
