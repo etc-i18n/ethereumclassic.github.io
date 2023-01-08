@@ -12,6 +12,10 @@ items:
           以太坊经典几乎在每一个主要(和体面的小)交易所都有上市，并有链上DEX。你可以在 [exchanges](/services/exchanges)部分了解更多。
       policy:
         question: ETC的货币政策是什么？
+        answer: |
+          类似于比特币，以太坊经典作为一个固定的排放曲线，这意味着你可以准确地预测未来任何时候存在的 ETC 总量。这可以防止通货膨胀死亡螺旋，并使 ETC 成为强大的价值储存手段。
+
+          在 [Sound Money](/why-classic/sound-money) 部分阅读有关 ETC 货币政策的更多信息。
       elevator:
         question: 以太坊经典版的电梯广告是什么？
         answer: |
