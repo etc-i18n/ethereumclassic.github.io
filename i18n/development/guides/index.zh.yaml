@@ -1,5 +1,4 @@
 title: 发展指南
-seo: 为初学者和高级开发人员提供了一些教程和解释，并解释了如何部署到Ethereum Classic。
 description: |
   编写和部署智能合约到Ethereum Classic的过程与Ethereum是一样的。Ethereum Classic的目标之一是保持与ETH的兼容性，因此，任何部署在Ethereum上的合约都可以很容易地重新部署到Ethereum Classic。
 
@@ -80,7 +79,6 @@ items:
         description: 为ETC建立你的第一个智能合约。
       Kotti Solidity ETC Oh My:
         name: Kotti, Solidity, ETC, Oh My!
-        description: 本指南说明了Ethereum Classic的Kotti测试网的初始配置和用于ETC<>ETH兼容的dapp开发的特定版本的Solidity。Kotti是推荐给dapp开发者的测试网。Mordor被推荐用于协议级测试。
       How to contribute to Mordor Testnet:
         name: 如何为魔都测试网做贡献
         description: 本指南将教你如何挖掘测试网ETC并使用Expedition运行你自己的本地区块探索器。Kotti是推荐给dapp开发者的测试网。Mordor被推荐用于协议级测试。
