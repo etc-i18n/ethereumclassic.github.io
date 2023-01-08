@@ -1,5 +1,16 @@
 title: Điểm cuối công khai
+__updated: 2022-12-22
 seo: Danh sách các điểm cuối Cuộc gọi Thủ tục Từ xa (RPC) có thể được sử dụng để tương tác với ETC thông qua MetaMask và các ứng dụng khác.
+description: |
+  Điểm cuối cuộc gọi thủ tục từ xa (RPC) là cổng vào Ethereum Classic của bạn và cho phép bạn giao tiếp và đọc dữ liệu từ chuỗi ETC. Để có độ tin cậy tối đa, bạn chạy [Máy khách ETC](/Development/clients) cục bộ; điểm cuối cục bộ thường được cung cấp tại `http://localhost:8545`.
+
+  Điểm cuối RPC Ethereum Classic công khai cũng có sẵn, được cung cấp miễn phí cho cộng đồng hoặc dưới dạng dịch vụ đăng ký. Vì bạn có thể ký và phát các giao dịch cục bộ bằng cách sử dụng ví như [MetaMask](/guides/metamask), các điểm cuối công khai có thể được sử dụng trong khi duy trì quyền giám sát các khóa riêng tư của bạn.
+
+  Bạn có thể sử dụng các URL này để giao dịch và triển khai tới ETC (hoặc đó là mạng thử nghiệm) bằng cách cập nhật ví hoặc cấu hình công cụ triển khai của bạn. Đảm bảo rằng bạn cũng thay đổi Chain ID của mình thành `61` cho mạng chính Ethereum Classic.
+
+  Để biết thêm thông tin về các mạng khác, hãy xem phần [testnets](/Development/Testnets).
+
+  **Bạn nên chọn một trong các điểm cuối RPC ETC được giám sát theo thời gian thực ở mức [ChainList.org](https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: Dịch vụ
       rpcUrl:
         name: URL RPC
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: Hợp tác xã ETC
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: Hợp tác xã ETC (Mordor)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlock
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info NHẬN
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info NHẬN
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanet.com
+        __name: Hành tinh ETC RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
+      Rivet:
+        __link: https://rivet.cloud
+        __name: đinh tán
+        __rpcUrl: <API Key Required>
