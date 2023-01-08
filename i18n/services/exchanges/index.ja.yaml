@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: 信頼最小限の交換
+    description: 次の取引所は、*完全に* 分散型の取引所ではない可能性がありますが、以下の中央集権化されたセクションよりも集中化されていない方法で運営されています。これらの製品は、交換を容易にするために、非カストディアル スマート コントラクトを使用する可能性があります。
   Centralized Spot Markets:
     title: スポット市場の一元化
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: クロスチェーン・スワップ・エクスチェンジ
     description: "*注：*クロスチェーンスワップ取引所は、通常、集中取引所よりも悪いレートを提供します。"
+    items:
+      Swapika:
+        __name: スワピカ
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: NFTマーケットプレイス
     description: 以下のNFTマーケットプレイスは、*完全*な分散型マーケットプレイスでない場合があります。
