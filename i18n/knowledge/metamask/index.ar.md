@@ -71,12 +71,12 @@ contributors:
 الخطوة التالية هي إضافة معلومات محددة عن Ethereum Classic. فيما يلي بيانات الشبكة التي استخدمتها:
 
 - اسم الشبكة: `Ethereum Classic`
-- New RPC URL: `https://etc.rivet.link`
+- عنوان URL جديد لـ RPC: `https://etc.rivet.link`
 - معرف السلسلة: `61`
 - رمز العملة (اختياري): `ETC`
 - Block Explorer URL (اختياري): `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. يمكنك العثور على المزيد من نقاط نهاية RPC في قسم [شبكة](/network/endpoints).
+بالنسبة إلى "عنوان URL لـ RPC" ، استخدمت نقطة النهاية المقدمة لهذا الغرض من قبل شركة تدعى [Rivet](https://rivet.link/)، متعاقد عليها مع [ETC Cooperative](https://etccooperative.org) لهذا الغرض. يمكنك العثور على المزيد من نقاط نهاية RPC في قسم [شبكة](/network/endpoints).
 
 يجب أن يكون "معرف السلسلة" "61" لأن هذا هو المعرف المحدد لشبكة Ethereum Classic لإرسال معاملات ETC عن طريق المحافظ والعقد إلى blockchain العاملة.
 
