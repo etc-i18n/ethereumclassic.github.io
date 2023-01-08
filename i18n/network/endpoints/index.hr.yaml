@@ -1,5 +1,16 @@
 title: Javne krajnje točke
+__updated: 2022-12-22
 seo: Popis krajnjih točaka Remote Procedure Call (RPC) koje se mogu koristiti za interakciju s ETC-om putem MetaMaska i drugih aplikacija.
+description: |
+  Krajnje točke udaljenog poziva procedure (RPC) vaš su pristupnik Ethereum Classicu i omogućuju vam komunikaciju s ETC lancem i čitanje podataka iz njega. Za maksimalnu pouzdanost, [ETC klijent](/development/clients) pokrećete lokalno; lokalna krajnja točka obično je dostupna na `http://localhost:8545`. Dostupne su i javne krajnje točke
+
+  Classic RPC, besplatno za zajednicu ili kao usluga pretplate. Budući da možete lokalno potpisivati i emitirati transakcije pomoću novčanika kao što je [MetaMask](/guides/metamask), javne krajnje točke mogu se koristiti dok zadržavate nadzor nad vašim privatnim ključevima.
+
+  Možete koristiti ove URL-ove za transakcije i implementaciju na ETC (ili njegove testne mreže) ažuriranjem konfiguracije novčanika ili alata za implementaciju. Provjerite jeste li također promijenili svoj ID lanca na `61` za Ethereum Classic mainnet.
+
+  Za više informacija o drugim mrežama, pogledajte odjeljak [testnets](/development/testnets).
+
+  **Preporučuje se odabrati jednu od ETC RPC krajnjih točaka koje se prate u stvarnom vremenu na [ChainList.org](https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: Servis
       rpcUrl:
         name: RPC URL
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: ENC Zadruga
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: ETC Cooperative (Mordor)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: HebeBlock
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info GETH
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC Planeti RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
+      Rivet:
+        __link: https://rivet.cloud
+        __name: Zakovica
+        __rpcUrl: <API Key Required>
