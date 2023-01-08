@@ -11,10 +11,6 @@ items:
           Ethereum Classic hemen hemen her büyük (ve makul küçük) borsada listelenmiştir ve zincir üzerinde DEX'lere sahiptir. Daha fazlasını [exchanges](/services/exchanges) bölümünde bulabilirsiniz.
       policy:
         question: ETC'nin para politikası nedir?
-        answer: |
-          Bitcoin'e benzer şekilde, Ethereum Classic de sabit bir emisyon eğrisine sahiptir, yani gelecekte herhangi bir noktada var olan toplam ETC miktarını doğru bir şekilde tahmin edebilirsiniz. Bu, enflasyonist ölüm sarmallarını önler ve ETC'yi güçlü bir değer deposu haline getirir.
-
-          ETC'nin para politikası hakkında daha fazla bilgiyi [Sound Money](/why-classic/sound-money) bölümünde bulabilirsiniz.
       elevator:
         question: Ethereum Classic için asansör konuşması nedir?
         answer: |
