@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Trao đổi giảm thiểu đáng tin cậy
+    description: Các sàn giao dịch sau đây có thể không phải là các sàn giao dịch phi tập trung *hoàn toàn*, nhưng hoạt động theo cách ít tập trung hơn so với các phần tập trung bên dưới. Có khả năng các sản phẩm này sử dụng hợp đồng thông minh không giam giữ để tạo điều kiện trao đổi.
   Centralized Spot Markets:
     title: Thị trường giao ngay tập trung
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Trao đổi hoán đổi chuỗi chéo
     description: "* Lưu ý: * Các Sở giao dịch hoán đổi chuỗi chéo thường cung cấp tỷ giá thấp hơn so với Sở giao dịch tập trung."
+    items:
+      Swapika:
+        __name: Hoán đổi
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: Thị trường NFT
     description: Các thị trường NFT sau đây có thể không phải là thị trường phi tập trung * hoàn toàn *.
