@@ -1,5 +1,16 @@
 title: ปลายทางสาธารณะ
+__updated: 2022-12-22
 seo: รายการปลายทาง Remote Procedure Call (RPC) ที่สามารถใช้เพื่อโต้ตอบกับ ETC ผ่าน MetaMask และแอปพลิเคชันอื่นๆ
+description: |
+  จุดสิ้นสุด Remote Procedure Call (RPC) เป็นประตูสู่ Ethereum Classic และอนุญาตให้คุณสื่อสารและอ่านข้อมูลจากเครือข่าย ETC เพื่อความไม่ไว้วางใจสูงสุด คุณเรียกใช้ [ETC Client](/development/clients) ในเครื่อง โดยปกติแล้ว endpoint ในเครื่องจะมีให้ที่ `http://localhost:8545`
+
+  จุดสิ้นสุด Ethereum Classic RPC สาธารณะมีให้ใช้งานฟรีสำหรับชุมชนหรือเป็นบริการสมัครสมาชิก เนื่องจากคุณสามารถลงนามและเผยแพร่ธุรกรรมในเครื่องได้โดยใช้กระเป๋าเงิน เช่น [MetaMask](/guides/metamask) จึงสามารถใช้จุดสิ้นสุดสาธารณะได้ในขณะที่ดูแลคีย์ส่วนตัวของคุณ
+
+  คุณสามารถใช้ URL เหล่านี้เพื่อทำธุรกรรมและปรับใช้กับ ETC (หรือเป็นเครือข่ายทดสอบ) โดยการอัปเดตกระเป๋าเงินหรือการกำหนดค่าเครื่องมือการปรับใช้ อย่าลืมเปลี่ยน Chain ID เป็น '61' สำหรับ Ethereum Classic mainnet ด้วย
+
+  สำหรับข้อมูลเพิ่มเติมเกี่ยวกับเครือข่ายอื่น โปรดดูที่ส่วน [testnets](/การพัฒนา/testnet)
+
+  **ขอแนะนำให้เลือกหนึ่งในจุดสิ้นสุด ETC RPC ที่ตรวจสอบแบบเรียลไทม์ที่ [ChainList.org](https://chainlist.org/chain/61)**
 items:
   endpoints:
     columnItems:
@@ -7,3 +18,44 @@ items:
         name: บริการ
       rpcUrl:
         name: RPC URL
+    items:
+      ETC Cooperative:
+        __rpcUrl: https://etc.rivet.link
+        __link: https://rivet.link
+        __name: สหกรณ์ ETC
+      ETC Cooperative (Mordor):
+        __rpcUrl: https://www.ethercluster.com/mordor
+        __link: https://www.ethercluster.com
+        __name: สหกรณ์ ETC (มอดอร์)
+      HebeBlock:
+        __rpcUrl: https://etc.etcdesktop.com/
+        __link: https://etcdesktop.com/
+        __name: เฮบีบล็อค
+      ETC-Network.info DE BESU:
+        __rpcUrl: https://besu-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info AT BESU:
+        __rpcUrl: https://besu-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info BESU
+      ETC-Network.info DE GETH:
+        __rpcUrl: https://geth-de.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info รับ
+      ETC-Network.info AT GETH:
+        __rpcUrl: https://geth-at.etc-network.info
+        __link: https://www.etc-network.info
+        __name: ETC-Network.info รับ
+      ETC Planets:
+        __rpcUrl: https://rpc.etcplanets.com
+        __link: https://etcplanets.com
+        __name: ETC ดาวเคราะห์ RPC
+      TokenPocket:
+        __link: https://etc.mytokenpocket.vip/
+        __rpcUrl: http://mytokenpocket.vip
+        __name: TokenPocket
+      Rivet:
+        __link: https://rivet.cloud
+        __name: หมุดย้ำ
+        __rpcUrl: <API Key Required>
