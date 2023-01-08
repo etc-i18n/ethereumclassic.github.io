@@ -71,12 +71,12 @@ https://chainlist.org/en/chain/61 の「Connect-Wallet」をクリックする�
 次に、Ethereum Classicの固有の情報を追加します。 以下は、使用したネットワークデータです。
 
 - ネットワーク名 `イーサリアムクラシック`
-- New RPC URL: `https://etc.rivet.link`
+- 新しい RPC URL: `https://etc.rivet.link`
 - チェーン ID： `61`
 - 通貨記号(オプション)。 `ETC`
 - ブロックエクスプローラーURL(オプション)： `https://blockscout.com/etc/mainnet/`
 
-For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。
+「RPC URL」には、この目的のために [ETC Cooperative](https://etccooperative.org) によって契約された [Rivet](https://rivet.link/)という会社によってこの目的のために提供されたエンドポイントを使用しました。 その他のRPCエンドポイントは、 [network](/network/endpoints) セクションに掲載されています。
 
 チェーンID」は、ウォレットやノードによるETC取引を運用中のブロックチェーンに送信するためのイーサリアムクラシックネットワークの固有IDであるため、「61」でなければなりません。
 
