@@ -11,6 +11,10 @@ items:
           Ethereum Classic je naveden na gotovo svakoj većoj (i pristojnoj manjoj) burzi i ima DEX-ove u lancu. Više o tome možete saznati u odjeljku [exchanges](/usluge/mjenjačnice).
       policy:
         question: Koja je monetarna politika ETC-a?
+        answer: |
+          Slično Bitcoinu, Ethereum Classic kao fiksna krivulja emisije, što znači da možete točno predvidjeti ukupnu količinu ETC-a koji postoji u bilo kojem trenutku u budućnosti. To sprječava inflacijske spirale smrti i čini ETC snažnom pohranom vrijednosti.
+
+          Pročitajte više o monetarnoj politici ETC-a u odjeljku [Sound Money](/why-classic/sound-money).
       elevator:
         question: Koja je prednost za Ethereum Classic?
         answer: |
