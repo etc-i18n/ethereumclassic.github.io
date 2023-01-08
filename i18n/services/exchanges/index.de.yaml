@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Vertrauensminimierende Exchanges
+    description: Die folgenden Börsen sind möglicherweise keine *vollständig* dezentralisierten Börsen, sondern arbeiten weniger zentralisiert als die untenstehenden zentralisierten Abschnitte. Es ist wahrscheinlich, dass diese Produkte Smart Contracts ohne Verwahrung verwenden, um den Austausch zu erleichtern.
   Centralized Spot Markets:
     title: Zentralisierte Spotmärkte
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Kettenübergreifende Swap-Tauschbörsen
     description: "*Hinweis:* Cross-Chain-Swap-Börsen bieten in der Regel schlechtere Kurse als zentralisierte Börsen."
+    items:
+      Swapika:
+        __name: Swapika
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: NFT-Marktplätze
     description: Bei den folgenden NFT-Marktplätzen handelt es sich nicht unbedingt um *vollständig* dezentralisierte Marktplätze.
