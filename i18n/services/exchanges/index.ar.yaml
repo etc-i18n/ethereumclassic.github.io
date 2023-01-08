@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: التبادلات وتقليل الثقة
+    description: قد لا تكون التبادلات التالية * بالكامل * تبادلات لامركزية ، ولكنها تعمل بطريقة أقل مركزية من الأقسام المركزية أدناه. من المحتمل أن تستخدم هذه المنتجات عقودًا ذكية غير مقيدة للحرية لتسهيل عمليات التبادل.
   Centralized Spot Markets:
     title: أسواق بقعة مركزية
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: التبادلات عبر السلاسل
     description: "* ملاحظة: * عادةً ما تقدم عمليات التبادل عبر السلاسل أسعارًا أسوأ من التبادلات المركزية."
+    items:
+      Swapika:
+        __name: سوابيكا
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: أسواق NFT
     description: قد لا تكون أسواق NFT التالية أسواق لامركزية * بالكامل *.
