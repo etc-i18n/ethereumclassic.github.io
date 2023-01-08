@@ -11,7 +11,6 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: 信頼最小限の交換
-    description: 以下の取引所は、*完全*な分散型取引所ではないかもしれませんが、以下の中央集権的なセクションよりも中央集権的でない方法で運営されています。これらの製品は、非集権的なスマートコントラクトを使用して、交換を促進していると思われます。
   Centralized Spot Markets:
     title: スポット市場の一元化
   Centralized Derivative Markets:
