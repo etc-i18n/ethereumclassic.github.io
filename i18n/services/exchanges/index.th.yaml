@@ -11,7 +11,6 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Trust-Minimizing Exchanges
-    description: การแลกเปลี่ยนต่อไปนี้อาจไม่ใช่การแลกเปลี่ยนแบบกระจายอำนาจ *ทั้งหมด* แต่ดำเนินการในลักษณะการรวมศูนย์น้อยกว่าส่วนที่รวมศูนย์ด้านล่าง มีแนวโน้มว่าผลิตภัณฑ์เหล่านี้ใช้สัญญาอัจฉริยะที่ไม่อยู่ภายใต้การดูแลเพื่ออำนวยความสะดวกในการแลกเปลี่ยน
   Centralized Spot Markets:
     title: ตลาดสปอตแบบรวมศูนย์
   Centralized Derivative Markets:
