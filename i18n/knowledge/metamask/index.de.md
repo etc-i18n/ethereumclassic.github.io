@@ -71,14 +71,12 @@ Nachdem Sie "Custom RPC" ausgewählt haben, wird das Formular zum Hinzufügen ei
 Der nächste Schritt besteht darin, die spezifischen Informationen von Ethereum Classic hinzuzufügen. Nachstehend finden Sie die von mir verwendeten Netzdaten:
 
 - Name des Netzwerks: `Ethereum Classic`
-- Neue RPC-URL: `https://www.ethercluster.com/etc`
+- New RPC URL: `https://etc.rivet.link`
 - Ketten-ID: `61`
 - Währungssymbol (optional): `ETC`
 - Block Explorer URL (optional): `https://blockscout.com/etc/mainnet/`
 
-Für die "RPC-URL" habe ich die von der [ETC Cooperative](https://etccooperative.org/)für diesen Zweck bereitgestellte URL verwendet, die von einem Produkt namens [Ethercluster](https://ethercluster.com/)stammt.
-
-_[Anmerkung der Redaktion] Ethercluster wird jetzt von [RIVET](https://rivet.cloud/)betrieben. Weitere RPC-Endpunkte finden Sie im Abschnitt [network](/network/endpoints) ._
+For the “RPC URL” I used the endpoint provided for this purpose by a firm called [Rivet](https://rivet.link/), contracted by the [ETC Cooperative](https://etccooperative.org) for this purpose. Weitere RPC-Endpunkte finden Sie im Abschnitt [network](/network/endpoints) .
 
 Die "Chain ID" muss "61" lauten, da dies die spezifische ID des Ethereum Classic-Netzwerks für das Senden von ETC-Transaktionen durch Wallets und Nodes an die laufende Blockchain ist.
 
@@ -86,7 +84,7 @@ Obwohl das "Symbol" und die "URL des Blockchain-Explorers" optional sind, empfeh
 
 Klicken Sie auf "Speichern", um ETC zu MetaMask hinzuzufügen.
 
-![Schritt 6](./06.png)
+![Schritt 6](./06-rivet.png)
 
 ## Schritt 7: Ethereum Classic im Dropdown-Menü der Netzwerke anzeigen
 
