@@ -11,6 +11,7 @@ description: |
 items:
   Trust-Minimizing Exchanges:
     title: Обмены, минимизирующие доверие
+    description: Следующие биржи не могут быть *полностью* децентрализованными биржами, но работают менее централизованно, чем централизованные секции ниже. Вероятно, эти продукты используют смарт-контракты, не связанные с тюремным заключением, для облегчения обмена.
   Centralized Spot Markets:
     title: Централизованные спотовые рынки
   Centralized Derivative Markets:
@@ -18,6 +19,10 @@ items:
   Cross-Chain Swap Exchanges:
     title: Межцепочечные своповые биржи
     description: "*Примечание:* Межцепочечные своп-биржи обычно предлагают худшие ставки, чем централизованные биржи."
+    items:
+      Swapika:
+        __name: Свапика
+        __link: https://swapika.com/exchange-pairs/btc-to-etc
   NFT Marketplaces:
     title: Торговые площадки NFT
     description: Следующие торговые площадки NFT не могут быть *полностью* децентрализованными торговыми площадками.
