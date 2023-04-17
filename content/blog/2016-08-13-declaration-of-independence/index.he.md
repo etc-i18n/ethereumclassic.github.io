@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: הכרזת העצמאות הקלאסית של האת'ריום
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+תן לי לדעת לכל העולם שב-20 ביולי 2016, בבלוק 1,920,000, עמדנו כקהילה של יחידים ריבונים מאוחדים על ידי חזון משותף להמשיך את הבלוקצ'יין המקורי של Ethereum שהוא באמת *נקי מצנזורה, הונאה או צד שלישי הפרעה*. בהבנה שהבלוקצ'יין מייצג אמת מוחלטת, אנו עומדים לצידו, תומכים בחוסר השינוי שלו ובעתידו. איננו מוציאים הצהרה זו בקלות ראש, או ללא מחשבה מוקדמת על ההשלכות של מעשינו.
 
-## Looking Back
+## במבט לאחור
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+יש לציין בהכרת תודה רבה, שאנו מודים על יצירת פלטפורמת הבלוקצ'יין Ethereum על ידי קרן Ethereum והמפתחים המייסדים שלה. בהחלט ניתן לומר ללא התנגדות, שללא העבודה הקשה והמסירות שלהם אנחנו כקהילה לא היינו, איפה שאנחנו נמצאים היום.
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+מתחילתו, ה-Ethereum blockchain הוצג כפלטפורמה מבוזרת ל"אפליקציות הפועלות בדיוק כפי שתוכנתו ללא כל סיכוי להונאה, צנזורה או התערבות של צד שלישי" [1]. היא סיפקה מקום לחיבור חופשי של רעיונות ויישומים מכל העולם ללא חשש מאפליה, ובמקביל גם סיפקה שם בדוי. בפלטפורמה המבוזרת הזו, רבים מאיתנו ראו הבטחה גדולה.
 
-## List of Grievances
+## רשימת התלונות
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+עם זאת, בצער עמוק, היינו כקהילה נאלצנו לארגן באופן ספונטני [2] כדי להגן על פלטפורמת הבלוקצ'יין של Ethereum מפני חבריה המייסדים והארגון עקב שורה ארוכה של התעללות, במיוחד על ידי הנהגת קרן Ethereum. תלונות אלו הן כדלקמן:
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- על שמיהרה ליצור "מזלג רך", שהורכב משינוי מינורי בקוד הבלוקצ'יין של Ethereum במטרה היחידה ליצור רשימה שחורה ולצנזר עסקאות, שבדרך כלל היו מותרות
+- על הזנחת ההשלכות המלאות של "המזלג הרך" על ידי הבלוקצ'יין Ethereum כאזהרה, שהם מפרים את העקרונות והערכים המקודדים בו [3]
+- על יצירת מנגנון הצבעה לא מייצג שנקרא "הצבעה פחמנית", שהם הצהירו בתחילה כי היא "לא רשמית" [4] רק כדי לסתור את ההצהרות הללו יום לפני שהחליטו להקפיד [5]
+- על שמיהרה ליצור "מזלג קשה", שהיה מורכב משינוי מצב לא סדיר בקוד הבלוקצ'יין של Ethereum שהפר את המאפיינים של אי-שינוי, ניתוק וקדושת ספר החשבונות.
+- על ההחלטה בכוונה לא לכלול הגנת משחק חוזר ב"המזלג", פעולה שעלתה ללא צורך בהחלפות ואלפי משתמשים בבעלות החוקית על אסימוני האתר שלהם [6]
 
-## Respecting the Values Essential for Blockchains
+## כיבוד הערכים החיוניים לבלוקצ'יין
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+אפשר לשאול, איזה נזק יכול להיגרם משינוי הקוד של הבלוקצ'יין של Ethereum וחילוץ [7] מחזיקי אסימוני "The DAO", וזו לא שאלה בלתי סבירה. לרבים מאיתנו יש תחושה מולדת של נכון ולא נכון, כך שבמבט ראשון ההצלה של "The DAO" הרגישה נכון. עם זאת, היא הפרה שני היבטים מרכזיים של מה שנותן ערך למזומן לעמית [8] ולמערכות מבוססות חוזים חכמות: ניתנות ובלתי משתנה.
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*חוסר שינוי* פירושו, הבלוקצ'יין בלתי ניתן להפרה. שרק עסקאות תקפות שהוסכם עליהן באמצעות פרוטוקול קריפטוגרפי שנקבע על ידי מתמטיקה מתקבלות על ידי הרשת. בלי זה, תקפותן של כל העסקאות עשויה לבוא בספק, שכן אם הבלוקצ'יין ניתן לשינוי, ניתן לשנות כל עסקה. לא רק שזה משאיר עסקאות פתוחות להונאה, אלא שזה עלול להוות אסון עבור כל יישום מבוזר (Dapps) הפועל על גבי הפלטפורמה.
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*יציבות* היא התכונה של כסף, כאשר יחידה אחת שווה ליחידה אחרת. לדוגמה, יורו שווה יורו נוסף בדיוק כפי שביטקוין שווה ביטקוין אחר. למרבה הצער, ETH כבר לא שווה ETH אחר. ה-ETH של התוקף לכאורה כבר לא היה טוב כמו ה-ETH שלך והיה ראוי לצנזורה, שנחשב הכרחי על ידי רוב כביכול.
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+בסופו של דבר, הפרות אלו בניתנות לשינוי ובלתי ניתנת לשינוי התאפשרו בשל שיפוט המוסר הסובייקטיבי של אלה, שחשו רצון בוער להביא את התוקף לכאורה לדין.
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+עם זאת, בעשותם זאת, הם התפשרו על עמוד ליבה של Ethereum רק כדי לעשות את מה שהם הרגישו לטובת ה"טוב הגדול". בקהילה גלובלית, שבה לכל אדם יש חוקים, מנהגים ואמונות משלו, מי יגיד מה נכון ומה לא? מודאגים מאוד מכך שעקרונות הליבה הללו התעלמו על ידי רבים מהמפתחים של הקרן, וחלק נכבד ממשתתפי Ethereum, אנו, כקהילה, ארגנו ויצרנו קוד של עקרונות לרשת Ethereum Classic.
 
-## The Ethereum Classic Code of Principles
+## קוד העקרונות הקלאסי של Ethereum
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+אנו מאמינים בבלוקצ'יין *מבוזר,* לצנזורה, ללא רשות. אנו מאמינים בחזון המקורי של Ethereum כמחשב עולמי שלא ניתן לכבות, מפעיל חוזים חכמים בלתי הפיכים. אנו מאמינים בהפרדה חזקה של חששות, כאשר מזלגות מערכת של בסיס הקוד אפשריים רק בעת תיקון פגיעויות ברמת הפרוטוקול, באגים או מתן שדרוגי פונקציונליות. אנו מאמינים</em> המקורית של בנייה ותחזוקה של פלטפורמת פיתוח *עמידה לצנזורה, חסרת אמון ובלתי ניתנת לשינוי.</p>
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+כאן כתובים הערכים המוצהרים שלפיהם המשתתפים בקהילת Ethereum Classic מסכימים. אנו מעודדים שהעקרונות הללו לא ישתנו באמצעות צו על ידי כל אדם או סיעה המתיימרים להפעיל כוח, סמכות או אמינות לעשות זאת.
 
-We, as a community agree that:
+אנו, כקהילה מסכימים כי:
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- מטרת Ethereum Classic היא לספק פלטפורמה מבוזרת, המריץ אפליקציות מבוזרות, הפועלות בדיוק כפי שתוכנת ללא כל אפשרות של השבתה *, צנזורה, הונאה או הפרעות של צד שלישי*
+- קוד הוא חוק; לא יהיו שינויים בקוד Ethereum Classic שמפרים את המאפיינים של *חוסר משתנה, משתנה או קדושה* של ספר החשבונות; לא ניתן לבטל או לשנות עסקאות או היסטוריית ספר חשבונות מכל סיבה שהיא
+- מזלגות ו/או שינויים בפרוטוקול הבסיסי יורשו רק לעדכון או שדרוג הטכנולוגיה שבה פועלת Ethereum Classic
+- פיתוח פרויקטים פנימי יכול להיות ממומן על ידי כל אחד, בין אם באמצעות צד שלישי מהימן לבחירתו או ישירות, תוך שימוש במטבע שבחרו על בסיס פרויקט לפי פרוטוקול מימון המונים שקוף, פתוח ומבוזר
+- כל אדם או קבוצת אנשים עשויים להציע שיפורים, שיפורים או שדרוגים לנכסי Ethereum Classic קיימים או מוצעים
+- כל אדם או קבוצת אנשים יכולים להשתמש בפלטפורמה המבוזרת Ethereum Classic כדי לבנות יישומים מבוזרים, לערוך מכירות המונים, ליצור ארגונים או תאגידים אוטונומיים או לכל מטרה אחרת שהם מוצאים לנכון
 
-## Looking Forward
+## מצפה
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+מהסיבות הרבות המפורטות לעיל, בחרנו לשנות את שם הבלוקצ'יין המקורי "Ethereum Classic" עם סמל הטיקר "ETC", כך שהקהילה וכל שאר המשתתפים יוכלו לזהות את פלטפורמת הבלוקצ'יין המקורית, הבלתי ניתנת למזלג וללא שינוי.
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+תודתנו הכנה ביותר מגיעה למפתחים בתוך הקרן ומחוצה לה, שהתנגדו להתערבות בפנקס הבלוקצ'יין של Ethereum ואפשרו לרשת Ethereum Classic לשרוד ולהתקיים.
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+אנו יודעים, ישנם רבים מכם ואנו מברכים אתכם בכל עת להצטרף לקהילה המבוזרת שלנו.
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+אנו נמשיך את חזון הממשל המבוזר עבור הבלוקצ'יין Ethereum Classic ונשמור על התנגדותנו לכל השתלטות מנהיגות ריכוזית, במיוחד על ידי קרן Ethereum וכן המפתחים, שהצהירו שוב ושוב, כי לא יפתחו עוד את רשת Ethereum Classic.
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+כמו כן נתנגד בגלוי ל"עריצות הרוב", ולא נאפשר להתפשר על ערכי השיטה. כקהילה מאוחדת, נמשיך להתארגן להגנה ולקידום, כנדרש, להמשך והבטחתו של הניסוי הגדול הזה. פלטפורמת Ethereum Classic, הקוד והטכנולוגיה שלה, פתוחים כעת לעולם כתוכנת קוד פתוח [9]. כעת הוא זמין באופן חופשי לכל מי שרוצה לשפר ולהתבסס עליו: מחשב עולמי חינמי וחסר אמון באמת, שאנו יחד כקהילה הוכחנו ונמשיך להוכיח שהוא אנטי שביר [10].
 
-~ The Ethereum Classic Community
+~ קהילת האת'ריום הקלאסית
 
 ---
 
-### References
+### הפניות
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. אנטי שביר: "דברים שמרוויחים מהפרעה" מאת נאסים ניקולס טאלב
 
 ---
 
-**PDF Version:**
+**גרסת PDF:**
 
--[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
+-[אנגלית](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[דויטשה](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
