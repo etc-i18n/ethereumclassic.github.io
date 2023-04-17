@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: ประกาศของ Crypto-Decentralist
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![กระจายอำนาจ!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+บล็อกเชนกำลังจะครองโลก มอบกลไกสำหรับขยายความร่วมมือทางสังคมและเศรษฐกิจไปสู่ระดับที่ไม่เคยมีมาก่อน ซึ่งเป็นระดับโลกอย่างแท้จริง ความร่วมมือดังกล่าวจะไม่เพียงเกี่ยวข้องกับมนุษย์ กลุ่ม และสมาคมเท่านั้น แต่ยังรวมถึงตัวแทนเทียมที่เป็นอิสระจำนวนมากขึ้นเรื่อยๆ
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+บล็อกเชนทุกอันสร้างเครือข่ายโซเชียลรอบ ๆ แอปพลิเคชัน โดยมูลค่าเครือข่ายจะเพิ่มขึ้นอย่างทวีคูณตามจำนวนผู้เข้าร่วมตามกฎของรีด ค่านี้ไม่ได้แยกออกมาโดยตัวกลางหรือตัวควบคุม เช่นเดียวกับรุ่นรวมศูนย์ก่อนหน้านี้ แต่จะแบ่งปันระหว่างผู้เข้าร่วมโดยให้แรงจูงใจทางเศรษฐกิจสำหรับความร่วมมือโดยไม่มีการบังคับ
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+บล็อกเชนทั้งหมดไม่ได้ถูกสร้างขึ้นมาเท่ากัน มีลักษณะสำคัญสามประการที่ทำให้ความร่วมมือที่เปิดใช้งานบล็อกเชนปรับขนาดได้: ความเปิดกว้าง ความเป็นกลาง และการเปลี่ยนแปลงไม่ได้
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**ความใจกว้างเป็นสิ่งจำเป็น**. ไม่ต้องบอกว่ากฎของเกมควรเปิดให้ทุกคนเห็นและเข้าใจ ทุกคนควรสามารถเข้าร่วมในเลเยอร์ใดก็ได้ของระบบโดยไม่ต้องขออนุญาตใดๆ ทุกคนควรสามารถใช้เครือข่ายได้ตามกฎ ทุกคนควรสามารถสร้างไคลเอนต์ของตนเองโดยใช้โปรโตคอลแบบเปิด ทุกคนควรมีส่วนร่วมในการรักษาความปลอดภัยของเครือข่าย และอื่นๆ การลงทะเบียน การระบุตัวตน หรือเงื่อนไขเบื้องต้นอื่น ๆ ไม่ควรจำกัดการมีส่วนร่วม ข้อจำกัดดังกล่าวทั้งหมดทำให้เครือข่ายไม่สามารถปรับขนาดได้ และการบังคับใช้ทำให้เกิดความเสี่ยงในการรวมศูนย์
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**ความเป็นกลางเป็นสิ่งจำเป็น**. สิ่งสำคัญสำหรับทุกคนที่เข้าร่วมในความร่วมมือที่เปิดใช้งาน blockchain จะต้องอยู่ในตำแหน่งที่เท่าเทียมกันกับทุกคน ไม่สำคัญว่าคุณจะมีอำนาจทางเศรษฐกิจมากหรือเพียงเล็กน้อย ไม่สำคัญว่าคุณจะเป็นแม่ชีเทเรซ่าผู้ศักดิ์สิทธิ์หรือพ่อค้ายาที่ชั่วร้าย ไม่สำคัญว่าคุณจะเป็นคนหรือตู้เย็น ไม่สำคัญว่าคุณจะเชื่อในอะไร ทฤษฎีการเมืองใดที่คุณยอมรับ หรือว่าคุณเป็นคนที่มีศีลธรรมหรือผิดศีลธรรมหรือไม่ เชื้อชาติ อายุ เพศ อาชีพ สถานะทางสังคม เพื่อนหรือสังกัดของผู้เข้าร่วม สร้างหรือจำลอง เป้าหมาย วัตถุประสงค์หรือความตั้งใจ — สิ่งเหล่านี้ไม่ได้มีความสำคัญต่อบล็อกเชนแม้แต่น้อย กฎของเกมนั้นเหมือนกันทุกประการสำหรับทุกคน หากปราศจากความเป็นกลาง ระบบจะเอนเอียงไปทางผู้เข้าร่วมกลุ่มหนึ่งโดยที่ผู้อื่นต้องเสียไป ในกรณีนั้น มีโอกาสน้อยที่จะได้รับการยอมรับในระดับสากลและเพิ่มมูลค่าเครือข่ายสูงสุดสำหรับทุกคน
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**จำเป็นต้องมีการไม่เปลี่ยนรูป**. บล็อกเชนเป็นเครื่องจักรแห่งความจริงที่เก็บรักษาประวัติศาสตร์เวอร์ชันหนึ่งที่เป็นที่ยอมรับในระดับสากล ซึ่งเป็นลำดับเหตุการณ์ที่ไม่เปลี่ยนรูป สิ่งที่เป็นจริงครั้งเดียวมักจะเป็นจริงเสมอ โดยไม่คำนึงถึงผลประโยชน์ทางการเมืองหรือธุรกิจ และไม่มีการล็อบบี้ใด ๆ ที่สามารถเปลี่ยนแปลงสิ่งนั้นได้ หากไม่สามารถเปลี่ยนแปลงประวัติศาสตร์ได้ ก็จะไม่มีการเสียทรัพยากรไปกับความพยายาม หากมีช่องโหว่ใดๆ กลุ่มผลประโยชน์ที่มีแรงจูงใจและมุ่งมั่นเพียงพอจะใช้ประโยชน์จากช่องโหว่เหล่านั้นโดยทำให้ผู้อื่นเสียประโยชน์ โดยลดมูลค่าเครือข่ายสำหรับทุกคน
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+กฎที่ควบคุมเครือข่าย blockchain นั้นทราบล่วงหน้า พวกเขาเหมือนกันทุกประการสำหรับทุกคนและไม่สามารถเปลี่ยนแปลงได้นอกจากฉันทามติ 100% ใช่ ต้องเป็น 100% เนื่องจากการเปลี่ยนแปลงใด ๆ ต่อกฎของระบบที่ผู้เข้าร่วมบางส่วนไม่เห็นด้วยอย่างเสรีจะทำให้เกิดการแยกเครือข่าย ซึ่งทำให้มูลค่าเครือข่ายลดลงสำหรับทุกคน
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+เป็นไปไม่ได้ที่จะบรรลุคุณลักษณะของบล็อกเชนเหล่านี้โดยปราศจากระบบที่เป็น **แบบกระจายอำนาจอย่างแท้จริง** หากแง่มุมใดของระบบบล็อกเชนอยู่ภายใต้การควบคุมจากส่วนกลาง สิ่งนี้จะแนะนำเวกเตอร์การโจมตีที่เปิดใช้งานการละเมิดคุณลักษณะสำคัญของบล็อกเชนอย่างน้อยหนึ่งอย่าง อาจเป็นไปได้ที่จะจำกัดการมีส่วนร่วม (เช่น โดยการบังคับใช้กฎ AML/KYC) ซึ่งเป็นการละเมิดการเปิดกว้าง อาจเป็นไปได้ที่จะบังคับใช้นโยบายการเลือกปฏิบัติ (เช่น โดยการกรองธุรกรรมที่ "ผิดกฎหมาย") ซึ่งเป็นการละเมิดความเป็นกลาง อาจเป็นไปได้ที่จะเขียนประวัติศาสตร์ของเหตุการณ์ใหม่ (เช่น โดยการยึดหรือ "แจกจ่าย" กองทุน) ซึ่งเป็นการละเมิดการเปลี่ยนแปลงไม่ได้ การแนะนำ chokepoints แบบรวมศูนย์จะสร้างเงื่อนไขเบื้องต้นสำหรับการแนะนำ "ตัวกลางหรือตัวควบคุม blockchain" ที่สามารถสูบฉีดมูลค่าออกจากระบบด้วยค่าใช้จ่ายของผู้เข้าร่วมรายอื่น
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+ดังนั้นการกระจายอำนาจจึงเป็นคุณสมบัติที่สำคัญที่สุดของระบบบล็อกเชน อย่างอื่นขึ้นอยู่กับสิ่งอื่น ด้วยการกระจายอำนาจ บล็อกเชนจะเข้ามาครองโลก หากปราศจากมัน พวกมันจะถูก "กักกัน" และถูกนำไปใช้งานเฉพาะกลุ่ม
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**เรากระจายอำนาจ** มุ่งมั่นที่จะทำให้บล็อกเชนเปิด เป็นกลาง และไม่เปลี่ยนรูป เรามุ่งมั่นที่จะทำให้ระบบ blockchain มีการกระจายอำนาจ ข้อมูลนี้แจ้งการกระทำและจุดยืนของเราต่อการพัฒนาใดๆ ในโลกของ crypto และอื่น ๆ ความพยายามทั้งหมดที่จะละเมิดลักษณะสำคัญของ blockchain ควรได้รับการต่อสู้ การเปลี่ยนแปลงกฎของ blockchain ทั้งหมดที่แนะนำความเสี่ยงของการรวมศูนย์ใหม่หรือเสริมความแข็งแกร่งของกฎที่มีอยู่ควรต่อสู้ ควรสนับสนุนและสนับสนุนเฉพาะการพัฒนาที่เป็นประโยชน์อย่างชัดเจนต่อการกระจายอำนาจหรือเสริมความแข็งแกร่งให้กับคุณลักษณะบล็อกเชนหลักสามประการ การปฏิวัติบล็อกเชนจะไม่รวมศูนย์ ตรวจสอบให้แน่ใจของมัน
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**ต่อไปข้างหน้า.**
 
 ---
 
-**PDF Version:**
+ที่มา: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**เวอร์ชัน PDF:**
+
+- [ภาษาอังกฤษ](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [รัสเซีย](/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [เยอรมัน](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [อิตาเลี่ยน](/A_Crypto-Decentralist_Manifesto_italian.pdf)
