@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: 以太坊经典独立宣言
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+让全世界都知道，在 2016 年 7 月 20 日，在第 1,920,000 个区块，我们作为一个由主权个体组成的社区，为了一个共同的愿景而团结一致，继续真正 *审查、欺诈或第三方的原始以太坊区块链干扰*。 在意识到区块链代表绝对真理的过程中，我们支持它，支持它的不变性和它的未来。 我们不会轻易做出此声明，也不会在没有预先考虑我们行为的后果的情况下做出此声明。
 
-## Looking Back
+## 回头看
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+应该非常感谢地声明，我们感谢以太坊基金会及其创始开发人员创建了以太坊区块链平台。 可以毫无异议地说，没有他们的辛勤工作和奉献精神，我们作为一个社区就不会有今天的成就。
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+从一开始，以太坊区块链就被描述为一个去中心化平台，用于“完全按照编程运行的应用程序，没有任何欺诈、审查或第三方干扰的机会” [1]。 它为来自世界各地的想法和应用程序的自由联合提供了一个场所，而无需担心歧视，同时还提供假名。 在这个分散的平台上，我们中的许多人看到了巨大的希望。
 
-## List of Grievances
+## 申诉清单
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+然而，令人深感遗憾的是，由于长期的滥用行为，特别是以太坊基金会领导层的滥用行为，我们作为一个社区不得不自发组织 [2] 来保护以太坊区块链平台免受其创始成员和组织的侵害。 这些冤情如下：
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- 为了匆忙创建一个“软分叉”，它由以太坊区块链代码的一个小改动组成，其唯一目的是创建黑名单和审查交易，这通常是被允许的
+- 忽视以太坊区块链“软分叉”的全部含义作为警告，他们违反了其中编码的原则和价值观 [3]
+- 用于创建称为“碳投票”的非代表性投票机制，他们最初称其为“非官方” [4] 只是在决定硬分叉前一天与这些声明相矛盾 [5]
+- 因匆忙创建“硬分叉”，该硬分叉由以太坊区块链代码中的不规则状态变化组成，违反了账本的不变性、可替代性和神圣性的特性
+- 故意决定不在“硬分叉”中包含重放保护，这一行为不必要地让交易所和成千上万的用户失去了他们以太币的合法所有权 [6]
 
-## Respecting the Values Essential for Blockchains
+## 尊重区块链所必需的价值观
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+有人可能会问，更改以太坊区块链的代码并救助 [7] “The DAO”代币持有者会有什么危害，这不是一个不合理的问题。 我们中的许多人都有一种与生俱来的是非感，所以乍一看，拯救“The DAO”感觉是对的。 然而，它违反了点对点现金 [8] 和基于智能合约的系统价值的两个关键方面：可替代性和不变性。
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*Immutability* 表示，区块链是不可侵犯的。 只有通过数学确定的加密协议商定的有效交易才会被网络接受。 否则，所有交易的有效性都会受到质疑，因为如果区块链是可变的，任何交易都可能被修改。 这不仅会使交易容易受到欺诈，而且可能会给平台上运行的任何分布式应用程序 (Dapps) 带来灾难。
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*可替代性* 是货币的特征，其中一个单位等于另一个单位。 例如，一个欧元等于另一个欧元，就像一个比特币等于另一个比特币一样。 不幸的是，一个 ETH 不再等于另一个 ETH。 所谓的攻击者的 ETH 不再像你的 ETH 一样好，值得审查，所谓的多数人认为这是必要的。
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+最终，这些对可替代性和不变性的破坏是由于那些强烈希望将所谓的攻击者绳之以法的人的主观道德判断而成为可能的。
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+然而，在这样做的过程中，他们牺牲了以太坊的核心支柱，只是为了做他们认为符合“更大利益”利益的事情。 在全球社会中，每个人都有自己的法律、习俗和信仰，谁能说对与错？ 深感震惊的是，这些核心原则被许多基金会的开发人员和相当大一部分的以太坊参与者所忽视，我们作为一个社区，已经组织并形成了以太坊经典链要遵循的原则代码。
 
-## The Ethereum Classic Code of Principles
+## 以太坊经典准则
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+我们相信 *去中心化、抗审查、无需许可的* 区块链。 我们相信以太坊最初的愿景是一台无法关闭的世界计算机，运行不可逆转的智能合约。 我们相信强烈的关注点分离，只有在修复协议级别的漏洞、错误或提供功能升级时，代码库的系统分支才有可能。 我们相信构建和维护一个 *抗审查、去信任和不可变的* 开发平台的初衷。
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+此处写入了以太坊经典社区参与者同意的声明值。 我们鼓励任何声称行使权力、权威或信誉的个人或派别通过法令改变这些原则。
 
-We, as a community agree that:
+作为一个社区，我们同意：
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- Ethereum Classic 的目的是提供一个去中心化平台，运行去中心化应用程序，这些应用程序完全按照编程执行，没有任何 *时间、审查、欺诈或第三方干扰的可能性*
+- 代码就是法律；不得对以太坊经典代码进行任何违反账本 *不变性、可替代性或神圣性* 属性的更改；交易或分类账历史不能因任何原因被撤销或修改
+- 仅允许对基础协议进行分叉和/或更改以更新或升级 Ethereum Classic 运行的技术
+- 内部项目开发可以由任何人资助，无论是通过他们选择的可信第三方还是直接，在每个项目的基础上使用他们选择的货币并遵循透明、开放和去中心化的众筹协议
+- 任何个人或个人团体都可以对现有或拟议的以太坊经典资产提出改进、增强或升级建议
+- 任何个人或个人团体都可以使用 Ethereum Classic 去中心化平台来构建去中心化应用程序、举行众筹、创建自治组织/公司或他们认为合适的任何其他目的
 
-## Looking Forward
+## 期待
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+基于上述诸多原因，我们选择将原区块链“Ethereum Classic”重命名为“ETC”股票代码，以便社区和所有其他参与者能够识别原始的、未分叉的、不可篡改的区块链平台。
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+我们最诚挚的感谢基金会内外的开发者，他们反对干扰以太坊区块链账本，让以太坊经典链得以生存和生存。
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+我们知道，有很多人，我们随时欢迎您加入我们的去中心化社区。
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+我们将继续 Ethereum Classic 区块链去中心化治理的愿景，并继续反对任何集中式领导接管，尤其是 Ethereum Foundation 和开发商，他们一再声明，他们将不再开发 Ethereum Classic 链。
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+我们同样会公开抵制“多数人的暴政”，不会让体制的价值观受到损害。 作为一个团结的社区，我们将根据需要继续组织防御和进步，以确保这一伟大实验的延续和保障。 Ethereum Classic 平台及其代码和技术现已作为开源软件 [9]向世界开放。 现在，所有希望对其进行改进和构建的人都可以免费使用它：我们作为一个社区一起证明并将继续证明的真正自由且无需信任的世界计算机是抗脆弱的 [10]。
 
-~ The Ethereum Classic Community
+~ 以太坊经典社区
 
 ---
 
-### References
+### 参考
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. 反脆弱：纳西姆·尼古拉斯·塔勒布 (Nassim Nicholas Taleb) 的《从无序中获益的事物》
 
 ---
 
-**PDF Version:**
+**PDF版本：**
 
 -[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
