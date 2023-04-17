@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: بيان Crypto-Decentralist
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![اللامركزية!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+ستسيطر البلوكشين على العالم ، وتوفر آلية لتوسيع نطاق التعاون الاجتماعي والاقتصادي إلى مستوى غير مسبوق - على نطاق عالمي حقيقي. لن يشمل هذا التعاون البشر والجماعات والجمعيات فحسب ، بل سيشمل أيضًا عددًا متزايدًا من الوكلاء المصطنعين المستقلين بشكل متزايد.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+تنشئ كل blockchain شبكة اجتماعية حول تطبيقاتها ، مع زيادة قيمة الشبكة بشكل كبير مع عدد المشاركين وفقًا لقانون Reed. لا يتم استخراج هذه القيمة بواسطة الوسطاء أو وحدات التحكم ، كما هو الحال مع النماذج المركزية السابقة. بدلاً من ذلك ، يتم مشاركتها بين المشاركين ، مما يوفر حوافز اقتصادية للتعاون دون إكراه.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+لم يتم إنشاء جميع سلاسل الكتل على قدم المساواة. هناك ثلاث خصائص رئيسية تجعل التعاون القائم على تقنية blockchain ممكنًا: الانفتاح والحياد والثبات.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**الانفتاح ضروري**. وغني عن القول أن قواعد اللعبة يجب أن تكون مفتوحة لأي شخص ليراها ويفهمها. يجب أن يكون أي شخص قادرًا على المشاركة في أي طبقة من النظام دون طلب أي إذن من أي نوع. يجب أن يكون بإمكان أي شخص استخدام الشبكة وفقًا لقواعدها. يجب أن يكون أي شخص قادرًا على إنشاء عميل خاص به يقوم بتطبيق البروتوكول المفتوح. يجب أن يكون أي شخص قادرًا على المساهمة في أمان الشبكة ، وما إلى ذلك. يجب ألا يحد أي تسجيل أو تحديد هوية أو أي شروط مسبقة أخرى من المشاركة. كل هذه القيود تمنع الشبكة من التوسع ويؤدي تطبيقها إلى مخاطر المركزية.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**الحياد ضروري**. من المهم لأي شخص يشارك في التعاون الممكّن من blockchain أن يكون على قدم المساواة مع أي شخص آخر. لا يهم إذا كنت تمارس قوة اقتصادية ضخمة أو كمية ضئيلة فقط. لا يهم ما إذا كنت قديسة الأم تيريزا أو تاجر مخدرات شرير. لا يهم ما إذا كنت إنسانًا أو ثلاجة. لا يهم ما تؤمن به ، أو النظرية السياسية التي تشترك فيها ، أو ما إذا كنت شخصًا أخلاقيًا أو غير أخلاقي. العرق أو العمر أو الجنس أو المهنة أو المكانة الاجتماعية أو الأصدقاء أو الانتماءات أو صنع أو نموذج أو أهداف أو أغراض أو نوايا المشارك - لا يهم أي من هذا بلوكشين ولو قليلاً. قواعد اللعبة هي نفسها تمامًا للجميع ، هذه الفترة. بدون الحياد ، ينحرف النظام نحو مجموعة واحدة من المشاركين على حساب الآخرين. في هذه الحالة ، من غير المرجح أن تحصل على قبول عالمي وتعظيم قيمة الشبكة للجميع.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**الثبات ضروري**. blockchain هي آلة حقيقة تحافظ على نسخة واحدة مقبولة عالميًا من التاريخ ، تسلسل واحد ثابت للأحداث. ما هو صحيح مرة واحدة دائمًا ما يكون صحيحًا ، بغض النظر عن المصالح السياسية أو التجارية ، ولا يمكن لأي قدر من الضغط أن يغير ذلك. إذا لم يكن من الممكن تغيير التاريخ ، فلن يتم إهدار أي موارد على هذا الجهد. إذا كانت هناك أي ثغرات على الإطلاق ، فعندئذٍ ستستغلها مجموعات المصالح ذات الدوافع الكافية والمصممة على حساب الآخرين ، مما يقلل من قيمة الشبكة للجميع.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+القواعد التي تحكم شبكة blockchain معروفة مسبقًا. إنها متشابهة تمامًا للجميع ولا تخضع للتغيير إلا بإجماع 100٪. نعم ، يجب أن تكون 100٪. لأن أي تغيير في قواعد النظام لا يوافق جميع المشاركين بحرية على إنشاء تقسيم للشبكة ، مما يقلل من قيمة الشبكة للجميع.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+من المستحيل تحقيق خصائص blockchain هذه دون أن يكون النظام **لامركزيًا حقًا**. إذا أصبح أي جانب من جوانب نظام blockchain خاضعًا للتحكم المركزي ، فإن هذا يقدم متجهًا للهجوم يمكّن من انتهاك واحدة أو أكثر من خصائص blockchain الرئيسية. قد يكون من الممكن تقييد المشاركة (مثل فرض قواعد مكافحة غسل الأموال / اعرف عميلك) ، وبالتالي انتهاك الانفتاح. قد يكون من الممكن فرض سياسات تمييزية (مثل تصفية المعاملات "غير القانونية") ، وبالتالي انتهاك الحياد. قد يكون من الممكن إعادة كتابة تاريخ الأحداث (مثل مصادرة أو "إعادة توزيع" الأموال) ، وبالتالي انتهاك الثبات. يؤدي تقديم نقاط الاختناق المركزية إلى إنشاء شرط مسبق لإدخال "وسطاء أو وحدات تحكم blockchain" التي يمكنها سحب القيمة من النظام على حساب المشاركين الآخرين.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+لذا فإن اللامركزية هي أهم ميزة لأنظمة blockchain ، وهي الميزة التي يعتمد عليها كل شيء آخر. مع اللامركزية ، ستتحكم البلوكشين في العالم. بدونها ، سيتم "احتواؤها" وتوجيهها إلى تطبيقات متخصصة.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**نحن اللامركزيون** ملتزمون بالحفاظ على سلاسل الكتل مفتوحة ومحايدة وغير قابلة للتغيير. نحن ملتزمون بالحفاظ على أنظمة blockchain لامركزية. يُعلم هذا جميع تصرفاتنا ومواقفنا تجاه أي تطورات في عالم التشفير وما بعده. يجب محاربة جميع محاولات انتهاك أي من خصائص blockchain الرئيسية. يجب محاربة جميع التغييرات التي تطرأ على قواعد البلوكشين التي تقدم مخاطر مركزية جديدة أو تعزز المخاطر الحالية. يجب فقط دعم وتشجيع التطورات التي تفيد بشكل واضح في اللامركزية أو تعزز خصائص blockchain الرئيسية الثلاثة. لن تكون ثورة blockchain مركزية. دعونا نتأكد من ذلك.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**فصاعدا.**
 
 ---
 
-**PDF Version:**
+المصدر: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+---
+
+**نسخة PDF:**
+
+- [إنجليزي](/A_Crypto-Decentralist_Manifesto.pdf)
+- [تينغ فيت](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [دويتشه](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [ايطالي](/A_Crypto-Decentralist_Manifesto_italian.pdf)
