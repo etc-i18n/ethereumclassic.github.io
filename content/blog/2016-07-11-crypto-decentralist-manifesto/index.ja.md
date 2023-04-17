@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: 暗号分散主義宣言
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![分散化！](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+ブロックチェーンは世界を支配し、社会的および経済的協力を前例のないレベル、つまり真に地球規模に拡大するメカニズムを提供します。 このような協力には、人間、グループ、協会だけでなく、ますます独立性を増している多数の人工エージェントも関与します。
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+すべてのブロックチェーンは、そのアプリケーションを中心にソーシャル ネットワークを作成し、ネットワークの価値は、リードの法則に従って参加者の数とともに指数関数的に増加します。 この値は、以前の集中型モデルのように、仲介者またはコントローラーによって抽出されません。 代わりに、参加者間で共有され、強制されることなく協力するための経済的インセンティブが提供されます。
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+すべてのブロックチェーンが同じように作られているわけではありません。 スケーラブルなブロックチェーン対応の協力を可能にする 3 つの重要な特徴があります。それは、オープン性、中立性、および不変性です。
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**開放性が必要**． 言うまでもなく、ゲームのルールは誰もが見て理解できるように開かれている必要があります。 誰でも許可を求めることなく、システムのどのレイヤーにも参加できる必要があります。 誰もがそのルールに従ってネットワークを使用できる必要があります。 誰でも、オープン プロトコルを実装する独自のクライアントを作成できる必要があります。 誰でもネットワーク セキュリティなどに貢献できる必要があります。 登録、身分証明、またはその他の前提条件によって参加が制限されることはありません。 このようなすべての制限により、ネットワークのスケーリングが妨げられ、その実施により集中化のリスクが生じます。
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**中立性が必要**. ブロックチェーン対応の協力に参加する人は誰でも、他の人と対等な立場に立つことが重要です。 莫大な経済力を行使するか、わずかな量しか行使しないかは問題ではありません。 あなたが聖人のマザー・テレサであろうと、悪質な麻薬の売人であろうと関係ありません。 あなたが人間であろうと冷蔵庫であろうと関係ありません。 あなたが何を信じているか、どの政治理論に同意しているか、あなたが道徳的か不道徳な人かは問題ではありません. 参加者の民族性、年齢、性別、職業、社会的地位、友人や所属、メーカーやモデル、目標、目的や意図など、ブロックチェーンにはまったく関係ありません。 ゲームのルールは誰にとってもまったく同じです。 中立性がなければ、システムは他の参加者を犠牲にして特定の参加者に偏ってしまいます。 その場合、普遍的な受容を得て、すべての人にとってネットワークの価値を最大化する可能性は低くなります.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**不変性が必要**. ブロックチェーンは、普遍的に受け入れられている 1 つのバージョンの歴史、1 つの不変の一連のイベントを保持する真実の機械です。 政治的またはビジネス上の利益に関係なく、かつて真実であったことは常に真実であり、ロビー活動をいくら行ってもそれを変えることはできません。 歴史を変えることができないのであれば、その努力にリソースが無駄になることはありません。 抜け穴が少しでもあると、十分に動機づけられた断固たる利益団体が他の人々を犠牲にしてそれらを悪用し、すべての人にとってのネットワークの価値を低下させます。
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+ブロックチェーン ネットワークを管理するルールは事前にわかっています。 それらは誰にとってもまったく同じであり、100% コンセンサスがある場合を除いて変更されることはありません。 はい、100% である必要があります。 すべての参加者が自由に同意するわけではないシステムのルールへの変更は、ネットワークの分割を作成し、全員のネットワークの価値を低下させるためです。
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+システムが ****分散化されていなければ、これらのブロックチェーンの特性を達成することは不可能です。 ブロックチェーン システムのいずれかの側面が集中管理の対象になると、ブロックチェーンの主要な特性の 1 つまたは複数を侵害できる攻撃ベクトルが導入されます。 (AML/KYC ルールを適用するなどして) 参加を制限できる可能性があり、その結果、オープン性が損なわれます。 （「違法な」取引をフィルタリングするなどして）差別的なポリシーを強制し、中立性を侵害する可能性があります。 イベントの履歴を書き換えることができる可能性があり (資金を没収または「再分配」するなどして)、不変性に違反する可能性があります。 集中型のチョークポイントを導入すると、他の参加者の費用でシステムから価値を吸い上げることができる「ブロックチェーンの仲介者またはコントローラー」を導入するための前提条件が作成されます。
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+したがって、分散化はブロックチェーン システムの最も重要な機能であり、他のすべてが依存する機能です。 分散化により、ブロックチェーンが世界を支配するようになります。 それがなければ、それらは「封じ込め」られ、ニッチなアプリケーションに追いやられてしまいます。
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**私たち分散主義者** ブロックチェーンをオープン、中立、不変に保つことに取り組んでいます。 私たちは、ブロックチェーン システムの分散化を維持することに取り組んでいます。 これは、暗号世界およびそれ以降の開発に対するすべての行動と立場を通知します. ブロックチェーンの主要な特性に違反しようとするすべての試みは、戦う必要があります。 新しい中央集権化のリスクを導入したり、既存のリスクを強化したりするブロックチェーンのルールへのすべての変更と戦わなければなりません。 分散化に明らかに有益であるか、ブロックチェーンの 3 つの主要な特性を強化する開発のみがサポートされ、奨励されるべきです。 ブロックチェーン革命は中央集権化されません。 確かめてみましょう。
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**先へ。**
 
 ---
 
-**PDF Version:**
+ソース: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**PDF バージョン:**
+
+- [英語](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [ランドマーク](/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [ドイツ語](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [イタリアーノ](/A_Crypto-Decentralist_Manifesto_italian.pdf)
