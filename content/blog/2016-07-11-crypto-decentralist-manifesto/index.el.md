@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Ένα Κρυπτο-Αποκεντρικό Μανιφέστο
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Αποκεντρώ!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Τα blockchains πρόκειται να κυβερνήσουν τον κόσμο, παρέχοντας έναν μηχανισμό για την κλιμάκωση της κοινωνικής και οικονομικής συνεργασίας σε ένα άνευ προηγουμένου επίπεδο - μια πραγματικά παγκόσμια κλίμακα. Αυτή η συνεργασία θα περιλαμβάνει όχι μόνο ανθρώπινα όντα, ομάδες και ενώσεις αλλά και ένα αυξανόμενο πλήθος τεχνητών παραγόντων που ολοένα και πιο ανεξάρτητες.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Κάθε blockchain δημιουργεί ένα κοινωνικό δίκτυο γύρω από τις εφαρμογές του, με την αξία του δικτύου να αυξάνεται εκθετικά με τον αριθμό των συμμετεχόντων σύμφωνα με τον νόμο του Reed. Αυτή η τιμή δεν εξάγεται από μεσάζοντες ή ελεγκτές, όπως συμβαίνει με προηγούμενα κεντρικά μοντέλα. Αντίθετα, μοιράζεται μεταξύ των συμμετεχόντων, παρέχοντας οικονομικά κίνητρα για συνεργασία χωρίς εξαναγκασμό.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Δεν δημιουργούνται όλα τα blockchain ίσα. Υπάρχουν τρία βασικά χαρακτηριστικά που καθιστούν δυνατή τη συνεργασία με δυνατότητα κλιμάκωσης μέσω blockchain: ανοιχτότητα, ουδετερότητα και αμετάβλητο.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**Το άνοιγμα είναι απαραίτητο**. Είναι αυτονόητο ότι οι κανόνες του παιχνιδιού πρέπει να είναι ανοιχτοί για να τους δει και να τους καταλάβει ο καθένας. Οποιοσδήποτε θα πρέπει να μπορεί να συμμετέχει σε οποιοδήποτε επίπεδο του συστήματος χωρίς να ζητήσει οποιαδήποτε άδεια. Οποιοσδήποτε θα πρέπει να μπορεί να χρησιμοποιεί το δίκτυο σύμφωνα με τους κανόνες του. Οποιοσδήποτε θα πρέπει να μπορεί να δημιουργήσει τον δικό του πελάτη εφαρμόζοντας το ανοιχτό πρωτόκολλο. Οποιοσδήποτε θα πρέπει να μπορεί να συνεισφέρει στην ασφάλεια του δικτύου και ούτω καθεξής. Καμία εγγραφή, ταυτότητα ή άλλες προϋποθέσεις δεν θα πρέπει να περιορίζουν τη συμμετοχή. Όλοι αυτοί οι περιορισμοί εμποδίζουν την κλιμάκωση του δικτύου και η επιβολή τους δημιουργεί κινδύνους συγκέντρωσης.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**Η ουδετερότητα είναι απαραίτητη**. Είναι σημαντικό για οποιονδήποτε συμμετέχει σε συνεργασία με δυνατότητα blockchain να είναι σε ίση βάση με όλους τους άλλους. Δεν έχει σημασία αν έχετε τεράστια οικονομική ισχύ ή μόνο ένα μικρό ποσό. Δεν έχει σημασία αν είσαι μια αγία Μητέρα Θηρεσία ή ένας μοχθηρός έμπορος ναρκωτικών. Δεν έχει σημασία αν είσαι άνθρωπος ή ψυγείο. Δεν έχει σημασία σε τι πιστεύεις, σε ποια πολιτική θεωρία υποστηρίζεις ή αν είσαι ηθικό ή ανήθικο άτομο. Η εθνικότητα, η ηλικία, το φύλο, το επάγγελμα, η κοινωνική θέση, οι φίλοι ή οι σχέσεις, η ιδιότητα ή το μοντέλο, οι στόχοι, οι σκοποί ή οι προθέσεις ενός συμμετέχοντος — τίποτα από αυτά δεν έχει σημασία για το blockchain. Οι κανόνες του παιχνιδιού είναι ακριβώς ίδιοι για όλους, τελεία. Χωρίς ουδετερότητα, το σύστημα στρέφεται προς ένα σύνολο συμμετεχόντων σε βάρος άλλων. Σε αυτήν την περίπτωση, είναι λιγότερο πιθανό να αποκτήσει καθολική αποδοχή και να μεγιστοποιήσει την αξία του δικτύου για όλους.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**Το αμετάβλητο είναι απαραίτητο**. Το blockchain είναι μια μηχανή αλήθειας που διατηρεί μια παγκοσμίως αποδεκτή εκδοχή της ιστορίας, μια αμετάβλητη ακολουθία γεγονότων. Ό,τι ισχύει μια φορά είναι πάντα αληθινό, ανεξάρτητα από πολιτικά ή επιχειρηματικά συμφέροντα, και κανένα λόμπι δεν μπορεί να το αλλάξει αυτό. Αν απλά δεν είναι δυνατό να αλλάξει η ιστορία, τότε δεν σπαταλούνται πόροι στην προσπάθεια. Εάν υπάρχουν καθόλου κενά, τότε ομάδες συμφερόντων με επαρκή κίνητρα και αποφασιστικότητα θα τα εκμεταλλευτούν εις βάρος άλλων, μειώνοντας την αξία του δικτύου για όλους.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Οι κανόνες που διέπουν το δίκτυο blockchain είναι γνωστοί εκ των προτέρων. Είναι ακριβώς τα ίδια για όλους και δεν υπόκεινται σε αλλαγές παρά μόνο με 100% συναίνεση. Ναι, πρέπει να είναι 100%. Διότι οποιαδήποτε αλλαγή στους κανόνες του συστήματος που δεν συμφωνούν ελεύθερα όλοι οι συμμετέχοντες δημιουργεί ένα διαχωρισμό δικτύου, μειώνοντας την αξία του δικτύου για όλους.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+Είναι αδύνατο να επιτευχθούν αυτά τα χαρακτηριστικά blockchain χωρίς το σύστημα να είναι **πραγματικά αποκεντρωμένο**. Εάν οποιαδήποτε πτυχή του συστήματος blockchain υπόκειται σε κεντρικό έλεγχο, αυτό εισάγει ένα διάνυσμα επίθεσης που επιτρέπει την παραβίαση ενός ή περισσότερων από τα βασικά χαρακτηριστικά του blockchain. Μπορεί να είναι δυνατός ο περιορισμός της συμμετοχής (όπως με την επιβολή κανόνων AML/KYC), παραβιάζοντας έτσι τη διαφάνεια. Μπορεί να είναι δυνατή η επιβολή πολιτικών που εισάγουν διακρίσεις (όπως με το φιλτράρισμα των «παράνομων» συναλλαγών), παραβιάζοντας έτσι την ουδετερότητα. Ενδέχεται να είναι δυνατή η επανεγγραφή της ιστορίας των γεγονότων (όπως η κατάσχεση ή η «αναδιανομή» κεφαλαίων), παραβιάζοντας έτσι το αμετάβλητο. Η εισαγωγή κεντρικών σημείων ασφυξίας δημιουργεί μια προϋπόθεση για την εισαγωγή «μεσάζοντες ή ελεγκτές blockchain» που μπορούν να αποσπάσουν αξία από το σύστημα με έξοδα άλλων συμμετεχόντων.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Έτσι, η αποκέντρωση είναι το πιο σημαντικό χαρακτηριστικό των συστημάτων blockchain, από το οποίο εξαρτώνται όλα τα άλλα. Με την αποκέντρωση, τα blockchains θα κυβερνήσουν τον κόσμο. Χωρίς αυτό, θα «περιοριστούν» και θα οδηγηθούν σε εξειδικευμένες εφαρμογές.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Εμείς οι αποκεντρωτές** δεσμευόμαστε να διατηρούμε τα blockchain ανοιχτά, ουδέτερα και αμετάβλητα. Δεσμευόμαστε να διατηρούμε τα συστήματα blockchain αποκεντρωμένα. Αυτό ενημερώνει όλες τις ενέργειες και τις θέσεις μας απέναντι σε οποιεσδήποτε εξελίξεις στον κόσμο των κρυπτονομισμάτων και όχι μόνο. Θα πρέπει να καταπολεμηθούν όλες οι προσπάθειες παραβίασης οποιουδήποτε από τα βασικά χαρακτηριστικά του blockchain. Όλες οι αλλαγές στους κανόνες ενός blockchain που εισάγουν νέους κινδύνους συγκέντρωσης ή ενισχύουν τους υπάρχοντες θα πρέπει να καταπολεμηθούν. Μόνο οι εξελίξεις που είναι σαφώς επωφελείς για την αποκέντρωση ή την ενίσχυση των τριών βασικών χαρακτηριστικών του blockchain θα πρέπει να υποστηρίζονται και να ενθαρρύνονται. Η επανάσταση του blockchain δεν θα είναι συγκεντρωτική. Ας το βεβαιωθούμε.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**Προς τα εμπρός.**
 
 ---
 
-**PDF Version:**
+Πηγή: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**Έκδοση PDF:**
+
+- [Αγγλικά](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
 - [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [ιταλικό](/A_Crypto-Decentralist_Manifesto_italian.pdf)
