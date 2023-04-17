@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: 加密去中心化宣言
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![去中心化！](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+區塊鏈將統治世界，提供一種機制，將社會和經濟合作擴展到前所未有的水平——真正的全球規模。 這種合作不僅涉及人類、團體和協會，還涉及越來越多越來越獨立的人工智能體。
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+每個區塊鏈都圍繞其應用程序創建一個社交網絡，網絡價值根據里德定律隨著參與者的數量呈指數增長。 與以前的集中式模型一樣，此值不是由中介或控制器提取的。 相反，它在參與者之間共享，在沒有強制的情況下為合作提供經濟激勵。
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+並非所有的區塊鏈都是平等的。 使可擴展的區塊鏈合作成為可能的三個關鍵特徵是：開放性、中立性和不變性。
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**開放是必要的**。 不用說，遊戲規則應該公開給任何人看和理解。 任何人都應該能夠在不請求任何許可的情況下參與系統的任何層。 任何人都應該能夠按照其規則使用網絡。 任何人都應該能夠創建自己的客戶端來實現開放協議。 任何人都應該能夠為網絡安全等做出貢獻。 任何註冊、身份證明或其他先決條件都不應限制參與。 所有這些限制都會阻止網絡擴展，並且它們的實施會產生中心化風險。
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**中立是必要的**。 對於任何參與區塊鏈支持的合作的人來說，與其他人處於平等的地位是很重要的。 無論您擁有巨大的經濟實力還是微不足道的經濟實力，都沒有關係。 無論您是聖潔的特蕾莎修女還是惡毒的毒販，都沒有關係。 不管你是人還是冰箱。 不管你信仰什麼，你贊同什麼政治理論，或者你是一個有道德的人還是不道德的人。 參與者的種族、年齡、性別、職業、社會地位、朋友或從屬關係、品牌或模特、目標、目的或意圖——這些對區塊鏈來說都無關緊要。 遊戲規則對每個人來說都是完全一樣的。 沒有中立性，系統就會以犧牲其他參與者為代價，偏向一組參與者。 在那種情況下，它不太可能獲得普遍接受並為每個人最大化網絡價值。
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**不變性是必要的**。 區塊鍊是一台真相機器，保存著一個普遍接受的歷史版本，一個不變的事件序列。 無論政治或商業利益如何，一旦正確就永遠正確，再多的遊說也無法改變這一點。 如果根本不可能改變歷史，那麼就不會浪費任何資源。 如果存在任何漏洞，那麼有足夠動機和決心的利益集團將以犧牲他人為代價來利用它們，從而降低每個人的網絡價值。
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+管理區塊鍊網絡的規則是事先已知的。 它們對每個人都完全一樣，除非 100% 達成共識，否則不會改變。 是的，它必須是 100%。 因為並非所有參與者都自願同意的系統規則的任何更改都會造成網絡分裂，從而降低每個人的網絡價值。
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+如果系統不 **真正去中心化**，就不可能實現這些區塊鏈特性。 如果區塊鏈系統的任何方面受到集中控制，就會引入一種攻擊媒介，從而能夠違反一個或多個關鍵區塊鏈特徵。 可能會限制參與（例如通過執行 AML/KYC 規則），從而違反開放性。 有可能實施歧視性政策（例如通過過濾“非法”交易），從而違反中立性。 有可能重寫事件的歷史（例如通過沒收或“重新分配”資金），從而違反不變性。 引入集中式阻塞點為引入“區塊鏈中介或控制者”創造了先決條件，後者可以以其他參與者為代價從系統中吸取價值。
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+因此去中心化是區塊鏈系統最重要的特徵，其他一切都依賴於此。 隨著權力下放，區塊鏈將統治世界。 沒有它，它們將被“遏制”並進入利基應用程序。
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**我們去中心化主義者** 致力於保持區塊鏈的開放、中立和不變。 我們致力於保持區塊鏈系統去中心化。 這表明我們對加密世界及其他領域的任何發展採取的所有行動和立場。 應該打擊所有違反任何關鍵區塊鏈特徵的企圖。 所有引入新的中心化風險或加強現有中心化風險的區塊鏈規則變更都應該予以抵制。 只有明顯有利於權力下放或加強區塊鏈三個關鍵特徵的發展才應得到支持和鼓勵。 區塊鏈革命不會是中心化的。 讓我們確定一下。
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**向前。**
 
 ---
 
-**PDF Version:**
+來源：https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+---
+
+**PDF版本：**
+
+- [英語](/A_Crypto-Decentralist_Manifesto.pdf)
+- [越南](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [德國](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [意大利語](/A_Crypto-Decentralist_Manifesto_italian.pdf)
