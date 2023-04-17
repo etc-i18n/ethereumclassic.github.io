@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: एथेरियम क्लासिक स्वतंत्रता की घोषणा
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+पूरी दुनिया को यह बता दें कि 20 जुलाई, 2016 को ब्लॉक 1,920,000 पर, हम संप्रभु व्यक्तियों के एक समुदाय के रूप में मूल एथेरियम ब्लॉकचैन को जारी रखने के लिए एक आम दृष्टि से एकजुट थे जो सेंसरशिप, धोखाधड़ी या तीसरे पक्ष से वास्तव में *मुक्त है। हस्तक्षेप*। यह महसूस करते हुए कि ब्लॉकचेन पूर्ण सत्य का प्रतिनिधित्व करता है, हम इसके साथ खड़े हैं, इसकी अपरिवर्तनीयता और इसके भविष्य का समर्थन करते हैं। हम इस घोषणा को हल्के ढंग से नहीं करते हैं, या हमारे कार्यों के परिणामों के बारे में पहले से सोचे बिना नहीं करते हैं।
 
-## Looking Back
+## पीछे मुड़कर
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+यह बहुत आभार के साथ कहा जाना चाहिए, कि हम एथेरियम फाउंडेशन और इसके संस्थापक डेवलपर्स द्वारा एथेरियम ब्लॉकचैन प्लेटफॉर्म के निर्माण को स्वीकार करते हैं। निश्चित रूप से बिना किसी आपत्ति के यह कहा जा सकता है कि उनकी कड़ी मेहनत और समर्पण के बिना हम एक समुदाय के रूप में वहां नहीं होते जहां हम आज हैं।
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+अपनी स्थापना से, एथेरियम ब्लॉकचैन को "ऐप्लिकेशन के लिए एक विकेन्द्रीकृत मंच के रूप में प्रस्तुत किया गया था जो धोखाधड़ी, सेंसरशिप, या तीसरे पक्ष के हस्तक्षेप के किसी भी अवसर के बिना प्रोग्राम के रूप में चलता है" [1]। इसने भेदभाव के डर के बिना दुनिया भर से विचारों और अनुप्रयोगों के मुक्त सहयोग के लिए एक जगह प्रदान की, जबकि छद्म नाम भी प्रदान किया। इस विकेन्द्रीकृत मंच में, हम में से बहुतों ने महान संभावनाएं देखीं।
 
-## List of Grievances
+## शिकायतों की सूची
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+हालांकि, यह गहरे अफसोस के साथ है कि हमें एक समुदाय के रूप में एथेरियम ब्लॉकचैन प्लेटफॉर्म की रक्षा के लिए इसके संस्थापक सदस्यों और संगठन से अनायास ही [2] का आयोजन करना पड़ा है, विशेष रूप से एथेरियम फाउंडेशन के नेतृत्व द्वारा गालियों की एक लंबी श्रृंखला के कारण। ये शिकायतें इस प्रकार हैं:
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- एक "सॉफ्ट फोर्क" के निर्माण में तेजी लाने के लिए, जिसमें ब्लैकलिस्ट बनाने और लेन-देन को सेंसर करने के एकमात्र उद्देश्य के लिए एथेरियम ब्लॉकचैन कोड में मामूली बदलाव शामिल था, जिसे सामान्य रूप से अनुमति दी गई होगी
+- एथेरियम ब्लॉकचैन द्वारा चेतावनी के रूप में "सॉफ्ट फोर्क" के पूर्ण निहितार्थ की उपेक्षा करने के लिए, कि वे सिद्धांतों और उसमें कोडित मूल्यों का उल्लंघन कर रहे थे [3]
+- "कार्बन वोट" नामक एक अप्रतिनिधि मतदान तंत्र बनाने के लिए, जिसे उन्होंने शुरू में "अनौपचारिक [4] कहा था, केवल हार्ड फोर्क [5]का निर्धारण करने से एक दिन पहले इन बयानों का खंडन करने के लिए
+- एक "कठोर कांटा" के निर्माण के लिए, जिसमें एथेरियम ब्लॉकचैन कोड में एक अनियमित राज्य परिवर्तन शामिल था, जिसने अपरिवर्तनीयता, वैकल्पिकता और खाता बही की पवित्रता के गुणों का उल्लंघन किया
+- "हार्ड फोर्क" में रीप्ले सुरक्षा को जानबूझकर शामिल नहीं करने का निर्णय लेने के लिए, एक ऐसी कार्रवाई जिसमें अनावश्यक रूप से लागत एक्सचेंज और हजारों उपयोगकर्ता अपने ईथर टोकन का सही स्वामित्व रखते हैं [6]
 
-## Respecting the Values Essential for Blockchains
+## ब्लॉकचेन के लिए आवश्यक मूल्यों का सम्मान करना
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+कोई पूछ सकता है, एथेरियम ब्लॉकचैन के कोड को बदलने और [7] "डीएओ" टोकन धारकों को जमानत देने से क्या नुकसान हो सकता है, जो एक अनुचित प्रश्न नहीं है। हममें से कई लोगों में सही और गलत का सहज ज्ञान होता है, इसलिए पहली नज़र में "डीएओ" को बचाना सही लगा। हालाँकि, इसने दो प्रमुख पहलुओं का उल्लंघन किया जो पीयर-टू-पीयर कैश [8] और स्मार्ट कॉन्ट्रैक्ट-आधारित सिस्टम वैल्यू देता है: वैकल्पिकता और अपरिवर्तनीयता।
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*अपरिवर्तनीयता* का अर्थ है, ब्लॉकचेन अनुल्लंघनीय है। गणित द्वारा निर्धारित क्रिप्टोग्राफ़िक प्रोटोकॉल के माध्यम से केवल मान्य लेन-देन ही नेटवर्क द्वारा स्वीकार किए जाते हैं। इसके बिना, सभी लेन-देन की वैधता सवालों के घेरे में आ सकती है, क्योंकि यदि ब्लॉकचेन परिवर्तनशील है, तो किसी भी लेनदेन को संशोधित किया जा सकता है। यह न केवल लेनदेन को धोखाधड़ी के लिए खुला छोड़ देता है, बल्कि यह प्लेटफॉर्म के ऊपर चल रहे किसी भी वितरित एप्लिकेशन (Dapps) के लिए आपदा का कारण बन सकता है।
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*वैकल्पिकता* धन की विशेषता है, जहां एक इकाई दूसरी इकाई के बराबर होती है। उदाहरण के लिए, एक यूरो दूसरे यूरो के बराबर होता है जैसे एक बिटकॉइन दूसरे बिटकॉइन के बराबर होता है। दुर्भाग्य से, एक ईटीएच अब दूसरे ईटीएच के बराबर नहीं है। कथित हमलावर का ETH अब आपके ETH जितना अच्छा नहीं था और सेंसरशिप के योग्य था, तथाकथित बहुमत द्वारा आवश्यक समझा गया।
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+अंततः, वैकल्पिकता और अपरिवर्तनीयता में इन उल्लंघनों को उन लोगों के व्यक्तिपरक नैतिकता निर्णयों द्वारा संभव बनाया गया, जिन्होंने कथित हमलावर को न्याय दिलाने की तीव्र इच्छा महसूस की।
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+हालाँकि, ऐसा करने में, उन्होंने "अधिक अच्छे" के हित में जो महसूस किया, उसे करने के लिए एथेरियम के एक मुख्य स्तंभ से समझौता किया। एक वैश्विक समुदाय में, जहां प्रत्येक व्यक्ति के अपने कानून, रीति-रिवाज और मान्यताएं हैं, कौन कहेगा कि क्या सही है और क्या गलत? गंभीर रूप से चिंतित, कि फाउंडेशन के कई डेवलपर्स द्वारा इन मूल सिद्धांतों की अवहेलना की गई थी, और एथेरियम प्रतिभागियों का एक बड़ा हिस्सा, हमने, एक समुदाय के रूप में, एथेरियम क्लासिक श्रृंखला का पालन करने के लिए सिद्धांतों का एक कोड बनाया और बनाया है।
 
-## The Ethereum Classic Code of Principles
+## सिद्धांतों का एथेरियम क्लासिक कोड
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+हम *विकेंद्रीकृत, सेंसरशिप-प्रतिरोधी, अनुमति रहित* ब्लॉकचेन में विश्वास करते हैं। हम एथेरियम की मूल दृष्टि में विश्व कंप्यूटर के रूप में विश्वास करते हैं जिसे बंद नहीं किया जा सकता है, अपरिवर्तनीय स्मार्ट अनुबंध चला रहा है। हम चिंताओं के एक मजबूत अलगाव में विश्वास करते हैं, जहां प्रोटोकॉल स्तर की कमजोरियों, बगों को ठीक करते समय या कार्यक्षमता उन्नयन प्रदान करते समय कोडबेस के सिस्टम फोर्क्स ही संभव होते हैं। हम *सेंसरशिप-प्रतिरोधी, भरोसेमंद और अपरिवर्तनीय* विकास मंच के निर्माण और रखरखाव के मूल इरादे में विश्वास करते हैं।
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+इसमें वे घोषित मूल्य लिखे गए हैं जिनके द्वारा एथेरियम क्लासिक समुदाय के प्रतिभागी सहमत हैं। हम प्रोत्साहित करते हैं कि इन सिद्धांतों को ऐसा करने के लिए शक्ति, अधिकार या विश्वसनीयता का दावा करने वाले किसी भी व्यक्ति या गुट द्वारा आदेश के माध्यम से नहीं बदला जाना चाहिए।
 
-We, as a community agree that:
+हम, एक समुदाय के रूप में सहमत हैं कि:
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- एथेरियम क्लासिक का उद्देश्य एक विकेन्द्रीकृत मंच प्रदान करना है, जो विकेन्द्रीकृत अनुप्रयोगों को चलाता है, जो *डाउनटाइम, सेंसरशिप, धोखाधड़ी या तीसरे पक्ष के हस्तक्षेप*की किसी भी संभावना के बिना बिल्कुल प्रोग्राम के रूप में निष्पादित होता है।
+- संहिता कानून है; एथेरियम क्लासिक कोड में कोई बदलाव नहीं होगा जो *अपरिवर्तनीयता, वैकल्पिकता, या बहीखाता की पवित्रता* के गुणों का उल्लंघन करता है; लेन-देन या खाता बही इतिहास किसी भी कारण से उलटा या संशोधित नहीं किया जा सकता है
+- फोर्क्स और/या अंतर्निहित प्रोटोकॉल में परिवर्तन की अनुमति केवल उस तकनीक को अपडेट या अपग्रेड करने के लिए दी जाएगी जिस पर एथेरियम क्लासिक संचालित होता है
+- आंतरिक परियोजना विकास को किसी के द्वारा वित्त पोषित किया जा सकता है, चाहे उनकी पसंद के किसी विश्वसनीय तीसरे पक्ष के माध्यम से या सीधे, प्रति परियोजना के आधार पर अपनी पसंद की मुद्रा का उपयोग करके और एक पारदर्शी, खुले और विकेन्द्रीकृत क्राउडफंडिंग प्रोटोकॉल का पालन करते हुए
+- कोई भी व्यक्ति या व्यक्तियों का समूह मौजूदा या प्रस्तावित एथेरियम क्लासिक संपत्तियों में सुधार, संवर्द्धन या उन्नयन का प्रस्ताव कर सकता है
+- कोई भी व्यक्ति या व्यक्तियों का समूह एथेरियम क्लासिक विकेंद्रीकृत प्लेटफॉर्म का उपयोग विकेंद्रीकृत अनुप्रयोगों के निर्माण, क्राउडसेल्स आयोजित करने, स्वायत्त संगठनों / निगमों को बनाने या किसी अन्य उद्देश्य के लिए कर सकता है जो उन्हें उपयुक्त लगता है
 
-## Looking Forward
+## आशा करना
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+ऊपर सूचीबद्ध कई कारणों से, हमने टिकर प्रतीक "ईटीसी" के साथ मूल ब्लॉकचैन "एथेरियम क्लासिक" का नाम बदलना चुना है, ताकि समुदाय और अन्य सभी प्रतिभागी मूल, अनफोर्क्ड और अपरिवर्तनीय ब्लॉकचैन प्लेटफॉर्म की पहचान कर सकें।
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+हम फाउंडेशन के भीतर और बाहर उन डेवलपर्स के लिए सबसे गंभीर आभार व्यक्त करते हैं, जिन्होंने एथेरियम ब्लॉकचैन बहीखाता में हस्तक्षेप करने का विरोध किया और एथेरियम क्लासिक श्रृंखला को जीवित रहने और जीवित रहने में सक्षम बनाया।
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+हम जानते हैं, आप में से बहुत से लोग हैं और हम किसी भी समय हमारे विकेंद्रीकृत समुदाय में शामिल होने के लिए आपका स्वागत करते हैं।
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+हम एथेरियम क्लासिक ब्लॉकचैन के लिए विकेंद्रीकृत शासन की दृष्टि को जारी रखेंगे और किसी भी केंद्रीकृत नेतृत्व के अधिग्रहण के लिए अपना विरोध बनाए रखेंगे, विशेष रूप से एथेरियम फाउंडेशन के साथ-साथ डेवलपर्स, जिन्होंने बार-बार कहा है कि वे अब एथेरियम क्लासिक श्रृंखला का विकास नहीं करेंगे।
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+इसी तरह हम "बहुमत के अत्याचार" का खुलकर विरोध करेंगे और व्यवस्था के मूल्यों से समझौता नहीं होने देंगे। एक संयुक्त समुदाय के रूप में, हम इस भव्य प्रयोग की निरंतरता और आश्वासन के लिए, आवश्यकतानुसार रक्षा और उन्नति के लिए संगठित होते रहेंगे। एथेरियम क्लासिक प्लेटफॉर्म, इसका कोड और तकनीक, अब ओपन सोर्स सॉफ्टवेयर [9]के रूप में दुनिया के लिए खुले हैं। यह अब उन सभी के लिए स्वतंत्र रूप से उपलब्ध है जो इसमें सुधार और निर्माण करना चाहते हैं: वास्तव में एक स्वतंत्र और भरोसेमंद विश्व कंप्यूटर जिसे हम एक समुदाय के रूप में साबित कर चुके हैं और साबित करना जारी रखेंगे कि यह नाजुक [10]है।
 
-~ The Ethereum Classic Community
+~ एथेरियम क्लासिक समुदाय
 
 ---
 
-### References
+### संदर्भ
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. विरोधी नाजुक: नसीम निकोलस तालेब द्वारा "थिंग्स, दैट गेन फ्रॉम डिसऑर्डर"
 
 ---
 
-**PDF Version:**
+**पीडीएफ संस्करण:**
 
--[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
+-[अंग्रेजी](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[रूसी](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[ड्यूश](/ETC_Declaration_of_Independence_german.pdf) -[इटालियनो](/ETC_Declaration_of_Independence_italian.pdf)
