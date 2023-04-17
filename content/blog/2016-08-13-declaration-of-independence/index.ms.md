@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: Pengisytiharan Kemerdekaan Klasik Ethereum
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+Biarkan seluruh dunia diketahui bahawa pada 20 Julai 2016, di blok 1,920,000, kami sebagai komuniti individu yang berdaulat bersatu dengan visi yang sama untuk meneruskan blockchain Ethereum asal yang benar-benar *bebas daripada penapisan, penipuan atau pihak ketiga gangguan*. Dalam menyedari, bahawa blockchain mewakili kebenaran mutlak, kami berpegang teguh padanya, menyokong kebolehubahannya dan masa depannya. Kami tidak membuat pengisytiharan ini dengan mudah, atau tanpa memikirkan akibat daripada tindakan kami.
 
-## Looking Back
+## Melihat ke belakang
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+Perlu dinyatakan dengan penuh rasa terima kasih, bahawa kami mengiktiraf penciptaan platform blockchain Ethereum oleh Yayasan Ethereum dan pemaju pengasasnya. Sudah tentu boleh dikatakan tanpa bantahan, bahawa tanpa kerja keras dan dedikasi mereka, kita sebagai masyarakat tidak akan berada, di mana kita berada hari ini.
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+Sejak penubuhannya, blockchain Ethereum telah dibentangkan sebagai platform terdesentralisasi untuk "aplikasi yang berjalan tepat seperti yang diprogramkan tanpa sebarang kemungkinan penipuan, penapisan, atau gangguan pihak ketiga" [1]. Ia menyediakan tempat untuk pergaulan bebas idea dan aplikasi dari seluruh dunia tanpa rasa takut akan diskriminasi, di samping menyediakan nama samaran. Dalam platform terdesentralisasi ini, ramai di antara kita melihat janji yang hebat.
 
-## List of Grievances
+## Senarai Keluhan
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+Walau bagaimanapun, dengan kekesalan yang mendalam, kami sebagai sebuah komuniti terpaksa secara spontan mengatur [2] untuk mempertahankan platform blockchain Ethereum daripada ahli pengasas dan organisasinya disebabkan oleh penyalahgunaan yang panjang, khususnya oleh kepimpinan Yayasan Ethereum. Keluhan ini adalah seperti berikut:
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- Kerana tergesa-gesa mencipta "garpu lembut", yang terdiri daripada perubahan kecil dalam kod blockchain Ethereum untuk tujuan tunggal mencipta senarai hitam dan menapis transaksi, yang biasanya dibenarkan
+- Kerana mengabaikan implikasi penuh "garpu lembut" oleh blockchain Ethereum sebagai amaran, bahawa mereka melanggar prinsip dan nilai yang dikodkan di dalamnya [3]
+- Untuk mewujudkan mekanisme pengundian tidak mewakili yang dipanggil "undi karbon", yang pada mulanya mereka nyatakan sebagai "tidak rasmi" [4] hanya untuk bercanggah dengan kenyataan ini sehari sebelum memutuskan untuk hard fork [5]
+- Kerana tergesa-gesa mencipta "garpu keras," yang terdiri daripada perubahan keadaan yang tidak teratur dalam kod blockchain Ethereum yang melanggar sifat kebolehubahan, ketergantungan, dan kesucian lejar
+- Untuk membuat keputusan dengan sengaja untuk tidak memasukkan perlindungan ulangan dalam "garpu keras", tindakan yang menyebabkan pertukaran kos yang tidak perlu dan beribu-ribu pengguna pemilikan sah token Eter mereka [6]
 
-## Respecting the Values Essential for Blockchains
+## Menghormati Nilai Penting untuk Rantaian Sekat
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+Seseorang mungkin bertanya, apakah kemudaratan yang boleh dilakukan daripada menukar kod blockchain Ethereum dan menyelamatkan [7] pemegang token "DAO", yang bukan soalan yang tidak munasabah. Ramai di antara kita mempunyai perasaan semula jadi tentang betul dan salah, jadi pada pandangan pertama menyelamatkan "The DAO" terasa betul. Walau bagaimanapun, ia melanggar dua aspek utama yang memberikan wang tunai [8] dan nilai sistem berasaskan kontrak pintar: kebolehfungsian dan ketakbolehubah.
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*Ketidakbolehubahan* bermakna, blockchain tidak boleh dilanggar. Bahawa hanya transaksi sah yang dipersetujui melalui protokol kriptografi yang ditentukan oleh matematik sahaja diterima oleh rangkaian. Tanpa ini, kesahihan semua urus niaga boleh menjadi persoalan, kerana jika rantaian blok boleh berubah, sebarang transaksi boleh diubah suai. Ini bukan sahaja menyebabkan urus niaga terbuka kepada penipuan, tetapi ia mungkin mendatangkan bencana untuk mana-mana aplikasi yang diedarkan (Dapps) yang berjalan di atas platform.
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*Kebolehfungsian* ialah ciri wang, di mana satu unit sama dengan unit yang lain. Sebagai contoh, Euro bersamaan dengan Euro lain seperti Bitcoin sama dengan Bitcoin lain. Malangnya, ETH tidak lagi menyamai ETH yang lain. ETH penyerang yang dikatakan tidak lagi sebaik ETH anda dan layak ditapis, yang dianggap perlu oleh majoriti yang dipanggil.
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+Akhirnya, pelanggaran dalam ketergantungan dan kebolehubahan ini dimungkinkan oleh pertimbangan moral subjektif mereka, yang merasakan keinginan yang membara untuk membawa penyerang yang dikatakan ke muka pengadilan.
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+Walau bagaimanapun, dengan berbuat demikian, mereka berkompromi dengan tiang teras Ethereum hanya untuk melakukan apa yang mereka rasakan demi kepentingan "kebaikan yang lebih besar". Dalam komuniti global, di mana setiap individu mempunyai undang-undang, adat, dan kepercayaan mereka sendiri, siapa yang boleh mengatakan apa yang betul dan salah? Amat bimbang, bahawa prinsip teras ini telah diabaikan oleh kebanyakan pembangun Yayasan, dan sebahagian besar peserta Ethereum, kami, sebagai sebuah komuniti, telah mengatur dan membentuk kod prinsip untuk diikuti untuk rantaian Ethereum Classic.
 
-## The Ethereum Classic Code of Principles
+## Kod Prinsip Klasik Ethereum
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+Kami percaya pada *blok terdesentralisasi, tahan penapisan, tanpa kebenaran*. Kami percaya pada visi asal Ethereum sebagai komputer dunia yang tidak boleh ditutup, menjalankan kontrak pintar yang tidak dapat dipulihkan. Kami percaya pada pemisahan kebimbangan yang kukuh, di mana garpu sistem pangkalan kod hanya boleh dilakukan, apabila membetulkan kelemahan tahap protokol, pepijat atau menyediakan peningkatan fungsi. Kami percaya pada niat asal untuk membina</em> *tahan penapisan, tidak amanah dan tidak berubah.</p>
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+Di sini ditulis nilai yang diisytiharkan oleh peserta dalam komuniti Ethereum Classic bersetuju. Kami menggalakkan agar prinsip ini tidak diubah melalui edik oleh mana-mana individu atau puak yang mendakwa menggunakan kuasa, kuasa atau kredibiliti untuk berbuat demikian.
 
-We, as a community agree that:
+Kami, sebagai komuniti bersetuju bahawa:
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- tujuan Ethereum Classic adalah untuk menyediakan platform terdesentralisasi, yang menjalankan aplikasi terdesentralisasi, yang melaksanakan betul-betul seperti yang diprogramkan tanpa sebarang kemungkinan masa henti *, penapisan, penipuan atau gangguan pihak ketiga*
+- kod adalah undang-undang; tiada perubahan pada kod Ethereum Classic yang melanggar sifat *kebolehubah, ketergantungan atau kesucian* lejar; urus niaga atau sejarah lejar tidak boleh atas sebarang sebab boleh diterbalikkan atau diubah suai
+- garpu dan/atau perubahan pada protokol asas hanya dibenarkan untuk mengemas kini atau menaik taraf teknologi di mana Ethereum Classic beroperasi
+- pembangunan projek dalaman boleh dibiayai oleh sesiapa sahaja, sama ada melalui pihak ketiga yang dipercayai pilihan mereka atau secara langsung, menggunakan mata wang pilihan mereka berdasarkan setiap projek dan mengikut protokol crowdfunding yang telus, terbuka dan terdesentralisasi
+- mana-mana individu atau kumpulan individu boleh mencadangkan penambahbaikan, peningkatan atau peningkatan kepada aset Ethereum Classic sedia ada atau yang dicadangkan
+- mana-mana individu atau kumpulan individu boleh menggunakan platform terdesentralisasi Ethereum Classic untuk membina aplikasi terdesentralisasi, mengadakan jualan ramai, mewujudkan organisasi / syarikat autonomi atau untuk sebarang tujuan lain yang mereka anggap sesuai
 
-## Looking Forward
+## Memandang ke Hadapan
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+Atas sebab-sebab yang disenaraikan di atas, kami telah memilih untuk menamakan semula blockchain asal "Ethereum Classic" dengan simbol ticker "ETC", supaya komuniti dan semua peserta lain boleh mengenal pasti platform blockchain yang asal, tidak bercabang dan tidak berubah.
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+Ucapan terima kasih kami yang paling tulus ditujukan kepada pembangun di dalam dan di luar Yayasan, yang menentang campur tangan dengan lejar blockchain Ethereum dan membolehkan rantaian Ethereum Classic bertahan dan terus hidup.
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+Kami tahu, terdapat ramai di antara anda dan kami mengalu-alukan anda pada bila-bila masa untuk menyertai komuniti terdesentralisasi kami.
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+Kami akan meneruskan visi tadbir urus terdesentralisasi untuk blockchain Ethereum Classic dan mengekalkan penentangan kami terhadap sebarang pengambilalihan kepimpinan berpusat, terutamanya oleh Yayasan Ethereum serta pembangun, yang telah berulang kali menyatakan, bahawa mereka tidak lagi akan membangunkan rantaian Ethereum Classic.
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+Kami juga akan secara terbuka menentang "kezaliman majoriti," dan tidak akan membenarkan nilai sistem dikompromi. Sebagai sebuah komuniti yang bersatu, kami akan terus menganjurkan untuk pertahanan dan kemajuan, seperti yang diperlukan, untuk kesinambungan dan jaminan percubaan besar ini. Platform Ethereum Classic, kod dan teknologinya, kini dibuka kepada dunia sebagai perisian Sumber Terbuka [9]. Ia kini tersedia secara percuma untuk semua yang ingin menambah baik dan membinanya: komputer dunia yang benar-benar bebas dan tidak boleh dipercayai yang kita bersama-sama sebagai sebuah komuniti telah buktikan dan akan terus buktikan adalah anti-rapuh [10].
 
-~ The Ethereum Classic Community
+~ Komuniti Klasik Ethereum
 
 ---
 
-### References
+### Rujukan
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. Anti-rapuh: "Perkara, Yang Keuntungan daripada Gangguan" oleh Nassim Nicholas Taleb
 
 ---
 
-**PDF Version:**
+**Versi PDF:**
 
--[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
+-[Bahasa Inggeris](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
