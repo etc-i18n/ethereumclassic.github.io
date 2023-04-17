@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Manifesto Crypto-Decentralist
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,39 +12,39 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Desentralisasi!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Rantaian sekat akan memerintah dunia, menyediakan mekanisme untuk meningkatkan kerjasama sosial dan ekonomi ke tahap yang tidak pernah berlaku sebelum ini — skala yang benar-benar global. Kerjasama sedemikian akan melibatkan bukan sahaja manusia, kumpulan dan persatuan tetapi juga semakin ramai agen buatan yang semakin bebas.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Setiap blockchain mencipta rangkaian sosial di sekeliling aplikasinya, dengan nilai rangkaian berkembang pesat dengan bilangan peserta mengikut Undang-undang Reed. Nilai ini tidak diekstrak oleh pengantara atau pengawal, seperti model terpusat sebelumnya. Sebaliknya, ia dikongsi di kalangan peserta, memberikan insentif ekonomi untuk kerjasama tanpa paksaan.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Tidak semua blockchain dicipta sama. Terdapat tiga ciri utama yang membolehkan kerjasama yang dibolehkan blockchain boleh skala mungkin: keterbukaan, berkecuali dan tidak berubah.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**Keterbukaan adalah perlu**. Tidak perlu dikatakan bahawa peraturan permainan harus terbuka untuk dilihat dan difahami oleh sesiapa sahaja. Sesiapa sahaja sepatutnya boleh mengambil bahagian dalam mana-mana lapisan sistem tanpa meminta sebarang kebenaran. Sesiapa sahaja harus boleh menggunakan rangkaian mengikut peraturannya. Sesiapa sahaja sepatutnya boleh mencipta klien mereka sendiri yang melaksanakan protokol terbuka. Sesiapa sahaja sepatutnya boleh menyumbang kepada keselamatan rangkaian, dan sebagainya. Tiada pendaftaran, pengenalan atau prasyarat lain harus mengehadkan penyertaan. Semua batasan sedemikian menghalang rangkaian daripada berskala dan penguatkuasaannya mewujudkan risiko pemusatan.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**Berkecuali adalah perlu**. Adalah penting bagi sesiapa yang mengambil bahagian dalam kerjasama yang dibolehkan blokchain untuk berada pada kedudukan yang sama dengan orang lain. Tidak kira sama ada anda mempunyai kuasa ekonomi yang besar atau hanya sejumlah kecil. Tidak kira sama ada anda seorang Mother Theresa yang suci atau pengedar dadah yang ganas. Tidak kira sama ada anda manusia atau peti sejuk. Tidak kira apa yang anda percayai, apa teori politik yang anda langgan, atau sama ada anda seorang yang bermoral atau tidak bermoral. Etnik, umur, jantina, profesion, kedudukan sosial, rakan atau gabungan, pembuatan atau model, matlamat, tujuan atau niat seseorang peserta — tidak ada satu pun perkara ini penting bagi blokchain walaupun sedikit. Peraturan permainan adalah sama untuk semua orang, tempoh. Tanpa berkecuali, sistem condong ke arah satu set peserta dengan mengorbankan orang lain. Dalam kes itu, kemungkinan besar untuk mendapat penerimaan sejagat dan memaksimumkan nilai rangkaian untuk semua orang.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**Kebolehubahan adalah perlu**. Blockchain ialah mesin kebenaran yang memelihara satu versi sejarah yang diterima secara universal, satu urutan peristiwa yang tidak boleh diubah. Apa yang benar sekali sentiasa benar, tanpa mengira kepentingan politik atau perniagaan, dan tidak ada jumlah melobi yang boleh mengubahnya. Sekiranya tidak mungkin untuk mengubah sejarah, maka tiada sumber yang sia-sia untuk usaha itu. Sekiranya terdapat sebarang kelemahan sama sekali, maka kumpulan minat yang cukup bermotivasi dan ditentukan akan mengeksploitasinya dengan mengorbankan orang lain, mengurangkan nilai rangkaian untuk semua orang.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Peraturan yang mengawal rangkaian blockchain diketahui terlebih dahulu. Mereka adalah sama untuk semua orang dan tidak tertakluk kepada perubahan selain dengan 100% konsensus. Ya, mesti 100%. Kerana sebarang perubahan pada peraturan sistem yang tidak semua peserta bersetuju secara bebas untuk mencipta pemisahan rangkaian, mengurangkan nilai rangkaian untuk semua orang.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+Adalah mustahil untuk mencapai ciri-ciri rantaian blok ini tanpa sistem **benar-benar terdesentralisasi**. Jika mana-mana aspek sistem rantaian menjadi tertakluk kepada kawalan berpusat, ini memperkenalkan vektor serangan yang membolehkan pelanggaran satu atau lebih ciri rantaian kunci utama. Anda mungkin boleh mengehadkan penyertaan (seperti dengan menguatkuasakan peraturan AML/KYC), dengan itu melanggar keterbukaan. Dasar diskriminasi mungkin boleh dikuatkuasakan (seperti dengan menapis transaksi "haram"), dengan itu melanggar neutraliti. Anda mungkin boleh menulis semula sejarah peristiwa (seperti dengan merampas atau "mengagihkan semula" dana), sekali gus melanggar ketidakbolehubah. Memperkenalkan titik pencekik berpusat mewujudkan prasyarat untuk pengenalan "perantara atau pengawal rantaian" yang boleh menyedut nilai keluar daripada sistem dengan perbelanjaan peserta lain.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Jadi desentralisasi adalah ciri paling penting dalam sistem blockchain, yang bergantung kepada segala-galanya. Dengan desentralisasi, rantaian blok akan datang untuk memerintah dunia. Tanpa itu, mereka akan "dikandung" dan dilatih ke dalam aplikasi khusus.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Kami decentralists** komited untuk memastikan blockchain terbuka, neutral dan tidak berubah. Kami komited untuk memastikan sistem blockchain tidak berpusat. Ini memaklumkan semua tindakan dan kedudukan kami terhadap sebarang perkembangan dalam dunia crypto dan seterusnya. Semua percubaan untuk melanggar mana-mana ciri-ciri blockchain utama harus diperangi. Semua perubahan kepada peraturan blockchain yang memperkenalkan risiko pemusatan baharu atau mengukuhkan yang sedia ada harus dilawan. Hanya perkembangan yang jelas memberi manfaat kepada desentralisasi atau mengukuhkan tiga ciri blockchain utama harus disokong dan digalakkan. Revolusi blockchain tidak akan berpusat. Mari pastikan ia.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**Seterusnya.**
 
 ---
 
-**PDF Version:**
+Sumber: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**Versi PDF:**
+
+- [Inggeris](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
 - [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
