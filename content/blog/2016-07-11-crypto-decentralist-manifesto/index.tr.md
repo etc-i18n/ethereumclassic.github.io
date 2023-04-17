@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Kripto Merkeziyetçi Bir Manifesto
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Merkeziyetsizleştirin!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Blok zincirleri, sosyal ve ekonomik işbirliğini benzeri görülmemiş bir düzeye, gerçekten küresel bir ölçeğe ölçeklendirmek için bir mekanizma sağlayarak dünyaya hükmedecek. Bu tür bir işbirliği yalnızca insanları, grupları ve dernekleri değil, aynı zamanda giderek artan sayıda bağımsız yapay aracıları da içerecektir.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Her blok zinciri, Reed Yasasına göre katılımcı sayısıyla katlanarak büyüyen ağ değeriyle, uygulamaları etrafında bir sosyal ağ oluşturur. Bu değer, önceki merkezi modellerde olduğu gibi aracılar veya denetleyiciler tarafından çıkarılmaz. Bunun yerine, zorlama olmaksızın işbirliği için ekonomik teşvikler sağlayarak katılımcılar arasında paylaşılır.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Tüm blok zincirleri eşit yaratılmamıştır. Ölçeklenebilir blockchain özellikli işbirliğini mümkün kılan üç temel özellik vardır: açıklık, tarafsızlık ve değişmezlik.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**Açıklık gereklidir**. Oyunun kurallarının herkesin görmesi ve anlaması için açık olması gerektiğini söylemeye gerek yok. Herkes, herhangi bir izin istemeden sistemin herhangi bir katmanına katılabilmelidir. Herkes ağı kurallarına uygun olarak kullanabilmelidir. Açık protokolü uygulayan herkes kendi istemcisini oluşturabilmelidir. Herkes ağ güvenliğine vb. katkıda bulunabilmelidir. Hiçbir kayıt, kimlik veya diğer ön koşullar katılımı sınırlamamalıdır. Tüm bu sınırlamalar, ağın ölçeklenmesini engeller ve bunların uygulanması, merkezileştirme riskleri oluşturur.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**Tarafsızlık gereklidir**. Blockchain etkin iş birliğine katılan herkesin diğer herkesle eşit düzeyde olması önemlidir. Büyük bir ekonomik güce sahip olmanız ya da sadece küçük bir miktara sahip olmanız fark etmez. Rahibe Teresa ya da kötü niyetli bir uyuşturucu satıcısı olmanız fark etmez. İnsan ya da buzdolabı olman fark etmez. Neye inandığınız, hangi siyasi teoriye bağlı olduğunuz veya ahlaklı ya da ahlaksız bir insan olmanız önemli değil. Bir katılımcının etnik kökeni, yaşı, cinsiyeti, mesleği, sosyal durumu, arkadaşları veya bağlantıları, markası veya modeli, hedefleri, amaçları veya niyetleri - bunların hiçbiri blok zinciri için biraz bile önemli değil. Oyunun kuralları herkes için tamamen aynıdır, nokta. Tarafsızlık olmadan, sistem diğerlerinin pahasına bir grup katılımcıya doğru eğilir. Bu durumda, evrensel kabul görme ve herkes için ağ değerini en üst düzeye çıkarma olasılığı daha düşüktür.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**Değişmezlik gereklidir**. Blockchain, tarihin evrensel olarak kabul edilen bir versiyonunu, değişmez bir olay dizisini koruyan bir hakikat makinesidir. Siyasi veya ticari çıkarlar ne olursa olsun, bir kez doğru olan her zaman doğrudur ve hiçbir lobicilik bunu değiştiremez. Geçmişi değiştirmek basitçe mümkün değilse, çaba için hiçbir kaynak boşa harcanmaz. Herhangi bir boşluk varsa, o zaman yeterince motive olmuş ve kararlı çıkar grupları, başkalarının pahasına bunlardan yararlanacak ve herkes için ağ değerini azaltacaktır.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Blockchain ağını yöneten kurallar önceden bilinmektedir. Herkes için tamamen aynıdır ve %100 fikir birliği dışında değişikliğe tabi değildir. Evet, %100 olması gerekir. Çünkü sistem kurallarında tüm katılımcıların özgürce kabul etmediği herhangi bir değişiklik, bir ağ bölünmesi yaratır ve herkes için ağ değerini azaltır.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+Sistem gerçekten merkezi olmayan ****olmadan bu blockchain özelliklerini elde etmek imkansızdır. Blockchain sisteminin herhangi bir yönü merkezi kontrole tabi olursa, bu, bir veya daha fazla kilit blockchain özelliğinin ihlal edilmesini sağlayan bir saldırı vektörü ortaya çıkarır. Katılımı sınırlandırmak (örneğin AML/KYC kurallarını uygulayarak) mümkün olabilir, böylece açıklık ihlal edilebilir. Ayrımcı politikaların uygulanması ("yasa dışı" işlemlerin filtrelenmesi gibi), böylece tarafsızlığın ihlal edilmesi mümkün olabilir. Olayların tarihini yeniden yazmak (örneğin, fonlara el koymak veya "yeniden dağıtmak" gibi), böylece değişmezliği ihlal etmek mümkün olabilir. Merkezi geçiş noktalarının tanıtılması, diğer katılımcıların pahasına sistemden değer çekebilen "blok zinciri aracılarının veya denetleyicilerinin" tanıtılması için bir ön koşul oluşturur.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Dolayısıyla ademi merkeziyetçilik, blockchain sistemlerinin en önemli özelliğidir ve diğer her şey buna bağlıdır. Ademi merkeziyet ile blok zincirleri dünyaya hükmedecek. Bu olmadan, "kontrol altına alınacak" ve niş uygulamalara yönlendirileceklerdir.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Biz merkeziyetçiler** blok zincirlerini açık, tarafsız ve değişmez tutmaya kararlıyız. Blockchain sistemlerini merkezi olmayan bir şekilde tutmaya kararlıyız. Bu, kripto dünyası ve ötesindeki herhangi bir gelişmeye yönelik tüm eylemlerimizi ve pozisyonlarımızı bilgilendirir. Kilit blok zinciri özelliklerinden herhangi birini ihlal etmeye yönelik tüm girişimlerle mücadele edilmelidir. Bir blok zincirinin kurallarında yeni merkezileşme riskleri getiren veya mevcut olanları güçlendiren tüm değişikliklerle mücadele edilmelidir. Yalnızca ademi merkeziyetçilik için açıkça faydalı olan veya üç temel blockchain özelliğini güçlendiren gelişmeler desteklenmeli ve teşvik edilmelidir. Blockchain devrimi merkezileştirilmeyecek. Bundan emin olalım.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**İleri.**
 
 ---
 
-**PDF Version:**
+Kaynak: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**PDF Sürümü:**
+
+- [İngilizce](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [Almanca](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [İtalyanca](/A_Crypto-Decentralist_Manifesto_italian.pdf)
