@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: 이더리움 클래식 독립 선언문
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+2016년 7월 20일 블록 1,920,000에서 우리는 주권 개인의 커뮤니티로서 검열, 사기 또는 제3자로부터 *으로 자유로운 원래 이더리움 블록체인을 지속하기 위해 공통의 비전으로 통합되었음을 전 세계에 알립니다. 간섭*. 블록체인이 절대적인 진실을 나타낸다는 사실을 깨닫고 우리는 블록체인의 불변성과 미래를 지지하며 지지합니다. 우리는 이 선언을 가볍게 또는 우리 행동의 결과에 대한 사전 고려 없이 선언하지 않습니다.
 
-## Looking Back
+## 다시 찾고
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+이더리움 재단과 창립 개발자들이 이더리움 블록체인 플랫폼을 만든 것을 인정한다는 사실에 큰 감사를 표해야 합니다. 그들의 수고와 헌신이 없었다면 오늘날 우리가 있는 공동체로서의 우리는 없었을 것이라고 분명히 말할 수 있습니다.
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+처음부터 이더리움 블록체인은 "사기, 검열 또는 제3자의 간섭 없이 프로그래밍된 대로 정확하게 실행되는 애플리케이션"을 위한 분산형 플랫폼으로 제시되었습니다 [1]. 가명을 제공하면서 차별에 대한 두려움 없이 전 세계의 아이디어와 응용 프로그램을 자유롭게 연결할 수 있는 장소를 제공했습니다. 이 분산형 플랫폼에서 우리 중 많은 사람들이 큰 가능성을 보았습니다.
 
-## List of Grievances
+## 고충 목록
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+그러나 커뮤니티로서 특히 이더리움 재단의 리더십에 의한 장기간의 남용으로 인해 창립 구성원과 조직으로부터 이더리움 블록체인 플랫폼을 방어하기 위해 자발적으로 [2] 조직해야 했던 것은 깊은 유감입니다. 이러한 불만 사항은 다음과 같습니다.
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- 블랙리스트 작성 및 거래 검열 목적으로만 이더리움 블록체인 코드를 약간 변경하여 일반적으로 허용되었을 "소프트 포크"의 생성을 서두르기 위해
+- [3]
+- 그들이 초기에 "비공식적"이라고 언급한 "탄소 투표"라는 대표성이 없는 투표 메커니즘을 만들기 위해 [4] 하드 포크를 결정하기 하루 전에 이러한 진술과 모순됨 [5]
+- 이더리움 블록체인 코드의 불규칙한 상태 변경으로 구성되어 불변성, 대체 가능성 및 원장의 신성함의 속성을 위반한 "하드 포크" 생성을 서두르기 위해
+- "하드 포크"에 재생 보호를 포함하지 않기로 고의적으로 결정한 경우, 불필요하게 교환 비용이 발생하고 수천 명의 사용자가 Ether 토큰의 정당한 소유권을 갖게 된 조치 [6]
 
-## Respecting the Values Essential for Blockchains
+## 블록체인에 필수적인 가치 존중
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+누군가는 이더리움 블록체인의 코드를 변경하고 [7] "The DAO" 토큰 보유자를 구제함으로써 어떤 피해를 입을 수 있는지 물을 수 있습니다. 이는 불합리한 질문이 아닙니다. 우리 중 많은 사람들이 선천적으로 옳고 그름에 대한 감각을 가지고 있기 때문에 언뜻보기에 "The DAO"를 구하는 것이 옳다고 느꼈습니다. 그러나 P2P 현금 [8] 과 스마트 계약 기반 시스템의 가치를 부여하는 두 가지 주요 측면인 대체 가능성과 불변성을 위반했습니다.
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*불변성* 블록체인이 불가침임을 의미합니다. 수학에 의해 결정된 암호화 프로토콜을 통해 합의된 유효한 거래만 네트워크에서 수락됩니다. 이것이 없으면 블록체인이 변경 가능하면 모든 트랜잭션이 수정될 수 있기 때문에 모든 트랜잭션의 유효성에 의문이 생길 수 있습니다. 이로 인해 거래가 사기에 노출될 뿐만 아니라 플랫폼 위에서 실행되는 모든 분산 애플리케이션(Dapps)에 재앙을 초래할 수 있습니다.
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*대체 가능성* 한 단위가 다른 단위와 같은 화폐의 특징입니다. 예를 들어, 비트코인이 다른 비트코인과 같듯이 유로는 또 다른 유로와 같습니다. 불행히도 ETH는 더 이상 다른 ETH와 같지 않습니다. 혐의를 받는 공격자의 ETH는 더 이상 귀하의 ETH만큼 좋지 않았고 소위 다수에 의해 필요하다고 간주되는 검열의 가치가 있었습니다.
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+궁극적으로 이러한 대체 가능성과 불변성의 위반은 혐의를 받는 공격자를 처벌하려는 불타는 열망을 느꼈던 사람들의 주관적인 도덕성 판단에 의해 가능해졌습니다.
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+그러나 그렇게 함으로써 그들은 "더 큰 이익"에 이익이 된다고 생각하는 것을 하기 위해 이더리움의 핵심 기둥을 손상시켰습니다. 개인마다 고유한 법과 관습, 신념이 있는 지구촌 사회에서 누가 옳고 그름을 말할 수 있겠습니까? 이러한 핵심 원칙이 재단의 많은 개발자들과 상당 부분의 이더리움 참가자들에 의해 무시되었다는 사실에 깊은 경각심을 느꼈고, 커뮤니티로서 우리는 이더리움 클래식 체인을 위해 따라야 할 원칙 코드를 조직하고 형성했습니다.
 
-## The Ethereum Classic Code of Principles
+## 이더리움 클래식 원칙 강령
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+우리는 *탈중앙화, 검열 방지, 무허가* 블록체인을 믿습니다. 우리는 되돌릴 수 없는 스마트 계약을 실행하면서 종료할 수 없는 세계 컴퓨터로서의 이더리움의 원래 비전을 믿습니다. 우리는 프로토콜 수준의 취약성, 버그를 수정하거나 기능 업그레이드를 제공할 때 코드베이스의 시스템 포크만 가능한 강력한 관심사 분리를 믿습니다. 우리는 검열에 저항하고 신뢰할 수 없으며 변경할 수 없는 *개발 플랫폼* 구축하고 유지하려는 원래 의도를 믿습니다.
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+여기에는 Ethereum Classic 커뮤니티 내의 참가자가 동의하는 선언된 값이 기록되어 있습니다. 우리는 권력, 권위 또는 신용을 휘두른다고 주장하는 개인이나 파벌의 칙령을 통해 이러한 원칙을 변경하지 말 것을 권장합니다.
 
-We, as a community agree that:
+커뮤니티로서 우리는 다음에 동의합니다.
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- Ethereum Classic의 목적은 *타임, 검열, 사기 또는 제3자의 개입 가능성 없이 프로그래밍된 대로 정확하게 실행되는 분산형 애플리케이션을 실행하는 분산형 플랫폼을 제공하는 것입니다*
+- 코드는 법입니다. 원장의 *불변성, 대체 가능성 또는 신성* 속성을 위반하는 Ethereum Classic 코드에 대한 변경이 없어야 합니다. 거래 또는 원장 기록은 어떤 이유로든 취소하거나 수정할 수 없습니다.
+- 기본 프로토콜에 대한 포크 및/또는 변경은 Ethereum Classic이 작동하는 기술을 업데이트하거나 업그레이드하는 경우에만 허용됩니다.
+- 내부 프로젝트 개발은 프로젝트별로 선택한 통화를 사용하고 투명하고 개방적이며 분산된 크라우드 펀딩 프로토콜에 따라 신뢰할 수 있는 제3자를 선택하거나 직접적으로 누구든지 자금을 지원할 수 있습니다.
+- 모든 개인 또는 개인 그룹은 기존 또는 제안된 Ethereum Classic 자산에 대한 개선, 향상 또는 업그레이드를 제안할 수 있습니다.
+- 모든 개인 또는 개인 그룹은 이더리움 클래식 분산 플랫폼을 사용하여 분산 응용 프로그램을 구축하고 크라우드 세일을 개최하며 자율 조직/기업을 만들거나 적합하다고 생각하는 기타 목적을 위해 사용할 수 있습니다.
 
-## Looking Forward
+## 기대
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+위에 나열된 여러 가지 이유로 우리는 커뮤니티와 다른 모든 참가자가 원래의 포크되지 않은 불변 블록체인 플랫폼을 식별할 수 있도록 원래 블록체인 "Ethereum Classic"의 이름을 티커 기호 "ETC"로 변경하기로 결정했습니다.
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+이더리움 블록체인 원장을 방해하는 것을 반대하고 이더리움 클래식 체인이 살아남고 살아갈 수 있도록 해준 재단 안팎의 개발자들에게 가장 진심으로 감사드립니다.
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+우리는 여러분이 많다는 것을 알고 있으며 탈중앙화된 커뮤니티에 가입하기 위해 언제든지 여러분을 환영합니다.
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+우리는 이더리움 클래식 블록체인에 대한 분산형 거버넌스의 비전을 계속 유지하고, 특히 이더리움 재단과 개발자들이 더 이상 이더리움 클래식 체인을 개발하지 않겠다고 반복적으로 언급한 중앙 집중식 리더십 인수에 대한 반대를 유지할 것입니다.
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+우리는 마찬가지로 "다수의 횡포"에 공개적으로 저항하고 시스템의 가치가 타협되는 것을 허용하지 않을 것입니다. 연합된 커뮤니티로서 우리는 이 거대한 실험의 지속과 보장을 위해 필요에 따라 방어와 발전을 위해 계속 조직할 것입니다. Ethereum Classic 플랫폼, 코드 및 기술은 이제 오픈 소스 소프트웨어 [9]로 세상에 공개됩니다. 이제 이를 개선하고 구축하고자 하는 모든 사람이 무료로 사용할 수 있습니다. 우리가 커뮤니티로서 함께 증명했고 앞으로도 계속 증명할 진정으로 자유롭고 신뢰할 수 없는 세계 컴퓨터는 깨지기 쉬운 [10]입니다.
 
-~ The Ethereum Classic Community
+~ 이더리움 클래식 커뮤니티
 
 ---
 
-### References
+### 참조
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. 안티프래질: 나심 니콜라스 탈레브의 "무질서에서 얻는 것"
 
 ---
 
-**PDF Version:**
+**PDF 버전:**
 
--[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
+-[영어](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
