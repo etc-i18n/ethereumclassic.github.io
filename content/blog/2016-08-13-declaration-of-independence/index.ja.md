@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: イーサリアムクラシックの独立宣言
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+2016 年 7 月 20 日、ブロック 1,920,000 で、検閲、詐欺、または第三者から *に解放された元の Ethereum ブロックチェーンを継続するという共通のビジョンによって、主権者のコミュニティとして団結したことを全世界に知らせましょう。干渉*． ブロックチェーンが絶対的な真実を表していることを理解することで、私たちはそれを支持し、その不変性と未来をサポートします。 私たちは、軽々しく、または私たちの行動の結果を事前に考慮せずに、この宣言を行いません.
 
-## Looking Back
+## 思い返す
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+イーサリアム財団とその創設者によるイーサリアム ブロックチェーン プラットフォームの作成に感謝することは、大きな感謝の意を表します。 彼らの勤勉さと献身がなければ、コミュニティとしての私たちの今日の姿はなかったでしょう。
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+当初から、イーサリアム ブロックチェーンは、「詐欺、検閲、または第三者の干渉の可能性なしに、プログラムどおりに正確に実行されるアプリケーション」のための分散型プラットフォームとして提示されました [1]。 それは、仮名を提供しながらも、差別を恐れることなく、世界中からアイデアやアプリケーションを自由に関連付けるための場所を提供しました。 この分散型プラットフォームでは、私たちの多くが大きな期待を寄せていました。
 
-## List of Grievances
+## 苦情一覧
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+しかし、非常に遺憾ながら、特にイーサリアム財団のリーダーシップによる長い一連の悪用により、創設メンバーと組織からイーサリアム ブロックチェーン プラットフォームを守るために、私たちコミュニティは自発的に [2] を組織しなければなりませんでした。 これらの苦情は次のとおりです。
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- ブラックリストの作成とトランザクションの検閲のみを目的としたイーサリアム ブロックチェーン コードのマイナーな変更で構成される「ソフト フォーク」の作成を急いだことに対して
+- イーサリアム ブロックチェーンによる「ソフト フォーク」の完全な影響を警告として無視し、そこにコード化された原則と価値観に違反していたことに対して [3]
+- 「炭素投票」と呼ばれる代表的ではない投票メカニズムを作成したことに対して、彼らは最初に「非公式」であると述べた [4] ハードフォークを決定する前日にこれらの声明に反論するだけだった [5]
+- イーサリアム ブロックチェーン コードの不変性、代替可能性、台帳の神聖さの特性に違反する不規則な状態変化からなる「ハード フォーク」の作成を急いだことに対して
+- 「ハードフォーク」にリプレイ保護を含めないことを故意に決定したことに対して、不必要に取引所と何千人ものユーザーにイーサトークンの正当な所有権を犠牲にした行動 [6]
 
-## Respecting the Values Essential for Blockchains
+## ブロックチェーンに不可欠な価値を尊重する
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+イーサリアム ブロックチェーンのコードを変更し、 [7] 「The DAO」トークン所有者を救済することで、どのような害が生じる可能性があるかを尋ねる人もいるかもしれませんが、これは不合理な質問ではありません。 私たちの多くは生来の善悪の感覚を持っているので、一見すると「The DAO」を救うことは正しいと感じました。 しかし、それは、ピアツーピアのキャッシュ [8] とスマート コントラクト ベースのシステムの価値の 2 つの重要な側面である、代替性と不変性に違反しています。
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*不変性* 、ブロックチェーンが不可侵であることを意味します。 数学によって決定された暗号化プロトコルを介して合意された有効なトランザクションのみがネットワークによって受け入れられます。 これがないと、すべてのトランザクションの有効性が疑問視される可能性があります。なぜなら、ブロックチェーンが可変である場合、トランザクションは変更される可能性があるからです。 これにより、トランザクションが不正にさらされるだけでなく、プラットフォーム上で実行されている分散アプリケーション (Dapps) に災害が発生する可能性があります。
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*Fungibility* 、1 つの単位が別の単位に等しいという、お金の特徴です。 たとえば、ビットコインが別のビットコインに等しいのと同じように、ユーロは別のユーロに等しい. 残念ながら、ETH はもはや別の ETH と同等ではありません。 疑わしい攻撃者の ETH はもはやあなたの ETH ほどではなく、検閲に値するものであり、いわゆる過半数によって必要であると見なされました。
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+最終的に、これらの代替可能性と不変性の侵害は、攻撃者とされる者を裁判にかけたいという燃えるような願望を感じた人々の主観的な道徳的判断によって可能になりました。
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+しかし、そうすることで、彼らは「大義」の利益になると感じたことをするためだけに、イーサリアムの中核となる柱を妥協しました. それぞれの個人が独自の法律、慣習、信念を持っているグローバル コミュニティでは、何が正しくて何が間違っていると誰が言えますか? これらの核となる信条が財団の開発者の多くとかなりの部分のイーサリアム参加者によって無視されていることに深く憂慮し、私たちはコミュニティとして、イーサリアム クラシック チェーンが従うべき原則のコードを組織し、形成しました。
 
-## The Ethereum Classic Code of Principles
+## 原則のイーサリアムクラシックコード
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+私たちは、 *化された、検閲に強い、無許可の* ブロックチェーンを信じています。 私たちは、元のイーサリアムのビジョンを、シャットダウンすることができず、元に戻せないスマートコントラクトを実行する世界のコンピューターとして信じています。 私たちは、プロトコル レベルの脆弱性やバグを修正する場合、または機能のアップグレードを提供する場合にのみ、コードベースのシステム フォークが可能であるという懸念事項の強力な分離を信じています。 私たちは、検閲に強く、トラストレスで不変の *開発プラットフォームを* し維持するという当初の意図を信じています。
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+ここには、イーサリアム クラシック コミュニティ内の参加者が同意する宣言された値が書かれています。 これらの原則は、権力、権限、または信頼性を行使すると主張する個人または派閥による勅令によって変更されないことをお勧めします。
 
-We, as a community agree that:
+私たちは、コミュニティとして次のことに同意します。
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- イーサリアム クラシックの目的は、分散型アプリケーションを実行する分散型プラットフォームを提供することです。これは、 *ダウンタイム、検閲、詐欺、または第三者の干渉の可能性なしにプログラムどおりに実行されます*
+- コードは法律です。台帳の *不変性、代替可能性、または神聖性* 特性に違反する Ethereum Classic コードへの変更があってはなりません。トランザクションまたは元帳の履歴は、いかなる理由でも取り消しまたは変更することはできません
+- 基になるプロトコルのフォークおよび/または変更は、イーサリアム クラシックが動作するテクノロジーの更新またはアップグレードのためにのみ許可されます。
+- 社内プロジェクトの開発は、信頼できる第三者を介して、または直接、プロジェクトごとに選択した通貨を使用し、透明でオープンで分散型のクラウドファンディング プロトコルに従って、誰でも資金を提供できます。
+- 個人または個人のグループは、既存または提案された Ethereum Classic アセットの改善、拡張、またはアップグレードを提案することができます
+- 個人または個人のグループは、Ethereum Classic 分散型プラットフォームを使用して、分散型アプリケーションの構築、クラウドセールの開催、自律的な組織/企業の作成、または適切と思われるその他の目的のために使用できます。
 
-## Looking Forward
+## 楽しみにしている
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+上記の多くの理由により、コミュニティと他のすべての参加者が元のフォークされていない不変のブロックチェーン プラットフォームを識別できるように、元のブロックチェーン「イーサリアム クラシック」の名前をティッカー シンボル「ETC」に変更することにしました。
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+イーサリアム ブロックチェーン台帳への干渉に反対し、イーサリアム クラシック チェーンの存続と存続を可能にした、財団内外の開発者に心から感謝します。
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+多くの方がいらっしゃることは承知しており、分散型コミュニティへの参加をいつでも歓迎します。
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+私たちは、イーサリアム クラシック ブロックチェーンの分散型ガバナンスのビジョンを継続し、特にイーサリアム ファウンデーションや、イーサリアム クラシック チェーンを開発しないと繰り返し述べてきた開発者による、中央集権的なリーダーシップの乗っ取りに反対し続けます。
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+同様に、私たちは「多数派の専制政治」に公然と抵抗し、システムの価値が損なわれることを許しません。 団結したコミュニティとして、この壮大な実験の継続と保証のために、必要に応じて防御と進歩のために組織し続けます。 イーサリアム クラシック プラットフォーム、そのコードとテクノロジーは、オープン ソース ソフトウェアとして世界に公開されています [9]。 それを改善し、構築したいすべての人が無料で利用できるようになりました。真に自由でトラストレスな世界のコンピューターは、コミュニティとして私たちが一緒に証明し、 [10]も壊れにくいことを証明し続けます。
 
-~ The Ethereum Classic Community
+~ イーサリアム クラシック コミュニティ
 
 ---
 
-### References
+### 参考文献
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. 反脆弱性：ナシーム・ニコラス・タレブによる「障害から得られるもの」
 
 ---
 
-**PDF Version:**
+**PDF バージョン:**
 
--[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
+-[英語](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
