@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: מניפסט קריפטו-מבוזר
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![לְבַזֵר!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+בלוקצ'יין עומדים לשלוט בעולם, לספק מנגנון להגדלת שיתוף הפעולה החברתי והכלכלי לרמה חסרת תקדים - בקנה מידה גלובלי באמת. שיתוף פעולה כזה יכלול לא רק בני אדם, קבוצות ועמותות, אלא גם מספר הולך וגדל של סוכנים מלאכותיים יותר ויותר עצמאיים.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+כל בלוקצ'יין יוצר רשת חברתית סביב האפליקציות שלו, כאשר ערך הרשת גדל באופן אקספוננציאלי עם מספר המשתתפים בהתאם לחוק ריד. ערך זה אינו מופק על ידי מתווכים או בקרים, כמו במודלים מרכזיים קודמים. במקום זאת, הוא משותף בין המשתתפים, ומספק תמריצים כלכליים לשיתוף פעולה ללא כפייה.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+לא כל הבלוקצ'יין נוצרו שווים. ישנם שלושה מאפיינים מרכזיים המאפשרים שיתוף פעולה המאפשר בלוקצ'יין ניתן להרחבה: פתיחות, ניטרליות ואי-שינוי.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**פתיחות הכרחית**. מובן מאליו שחוקי המשחק צריכים להיות פתוחים לכל אחד לראות ולהבין. כל אחד צריך להיות מסוגל להשתתף בכל שכבה של המערכת מבלי לבקש רשות כלשהי. כל אחד צריך להיות מסוגל להשתמש ברשת בהתאם לכללים שלה. כל אחד צריך להיות מסוגל ליצור לקוח משלו תוך יישום הפרוטוקול הפתוח. כל אחד צריך להיות מסוגל לתרום לאבטחת הרשת, וכן הלאה. אין רישום, זיהוי או תנאים מוקדמים אחרים צריכים להגביל את ההשתתפות. כל המגבלות הללו מונעות מהרשת להתרחב ואכיפתן יוצרת סיכוני ריכוזיות.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**ניטרליות נחוצה**. חשוב שכל מי שמשתתף בשיתוף פעולה מבוסס בלוקצ'יין יהיה שווה ערך עם כולם. זה לא משנה אם יש לך כוח כלכלי עצום או רק כמות זעירה. זה לא משנה אם אתה אמא תרזה הקדושה או סוחר סמים אכזרי. זה לא משנה אם אתה בן אדם או מקרר. זה לא משנה במה אתה מאמין, לאיזו תיאוריה פוליטית אתה מנוי, או אם אתה אדם מוסרי או לא מוסרי. מוצאו האתני, הגיל, המין, המקצוע, המעמד החברתי, החברים או ההשתייכות, המותג או הדגם, המטרות, המטרות או הכוונות של משתתף - כל זה לא משנה ל-blockchain אפילו קצת. כללי המשחק זהים לחלוטין לכולם, נקודה. ללא ניטרליות, המערכת מוטה לקבוצה אחת של משתתפים על חשבון אחרים. במקרה כזה, סביר להניח שהוא יזכה לקבלה אוניברסלית ולמקסם את ערך הרשת עבור כולם.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**יש צורך בחוסר משתנה**. הבלוקצ'יין הוא מכונת אמת המשמרת גרסה אחת מקובלת אוניברסלית של ההיסטוריה, רצף אחד בלתי משתנה של אירועים. מה שנכון פעם הוא תמיד נכון, ללא קשר לאינטרסים פוליטיים או עסקיים, ושום לובינג לא יכול לשנות זאת. אם פשוט לא ניתן לשנות את ההיסטוריה, אז לא מבזבזים משאבים על המאמץ. אם יש פרצות בכלל, אז קבוצות אינטרס מספיקות עם מוטיבציה ונחושות ינצלו אותן על חשבון אחרים, ויפחיתו את ערך הרשת לכולם.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+הכללים המסדירים את רשת הבלוקצ'יין ידועים מראש. הם זהים לחלוטין עבור כולם ואינם נתונים לשינוי מלבד עם 100% קונצנזוס. כן, זה חייב להיות 100%. מכיוון שכל שינוי בכללי המערכת שלא כל המשתתפים מסכימים לו באופן חופשי יוצר פיצול רשת, ומפחית את ערך הרשת לכולם.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+אי אפשר להשיג את מאפייני הבלוקצ'יין האלה בלי שהמערכת תהיה **מבוזרת באמת**. אם היבט כלשהו של מערכת הבלוקצ'יין הופך להיות נתון לשליטה מרכזית, הדבר מציג וקטור התקפה המאפשר הפרה של אחד או יותר ממאפייני הבלוקצ'יין המרכזיים. ייתכן שניתן להגביל את ההשתתפות (כגון על ידי אכיפת כללי AML/KYC), ובכך להפר את הפתיחות. ייתכן שניתן יהיה לאכוף מדיניות מפלה (כגון באמצעות סינון עסקאות "לא חוקיות"), ובכך להפר את הנייטרליות. ייתכן שניתן יהיה לשכתב את ההיסטוריה של האירועים (כגון על ידי החרמה או "חלוקה מחדש" של כספים), ובכך להפר את חוסר השינוי. הכנסת נקודות חנק מרכזיות יוצרת תנאי מוקדם להכנסת "מתווכי בלוקצ'יין או בקרים" שיכולים לשאוב ערך מהמערכת על חשבון משתתפים אחרים.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+אז ביזור הוא התכונה החשובה ביותר של מערכות בלוקצ'יין, זו שכל השאר תלוי בה. עם הביזור, הבלוקצ'יין יבואו לשלוט בעולם. בלעדיו, הם "יוכלו" ויעברו מסילה ליישומי נישה.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**אנו מביזרי** מחויבים לשמור על רשתות בלוקצ'יין פתוחות, ניטרליות ובלתי ניתנות לשינוי. אנו מחויבים לשמור על מערכות בלוקצ'יין מבוזרות. זה מודיע על כל הפעולות והעמדות שלנו כלפי כל התפתחויות בעולם הקריפטו ומחוצה לו. יש להילחם בכל הניסיונות להפר כל אחד ממאפייני הבלוקצ'יין המרכזיים. יש להילחם בכל השינויים בכללי הבלוקצ'יין שמכניסים סיכוני ריכוזיות חדשים או מחזקים את הקיימים. יש לתמוך ולעודד רק פיתוחים שמועילים בבירור לביזור או מחזקים את שלושת מאפייני הבלוקצ'יין המרכזיים. מהפכת הבלוקצ'יין לא תהיה מרוכזת. בואו נוודא את זה.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**הָלְאָה.**
 
 ---
 
-**PDF Version:**
+מקור: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**גרסת PDF:**
+
+- [אנגלית](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [דויטשה](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [איטליאנו](/A_Crypto-Decentralist_Manifesto_italian.pdf)
