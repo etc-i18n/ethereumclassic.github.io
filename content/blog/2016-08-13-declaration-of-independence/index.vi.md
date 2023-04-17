@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: Tuyên ngôn độc lập cổ điển Ethereum
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+Hãy để cả thế giới biết rằng vào ngày 20 tháng 7 năm 2016, tại khối 1.920.000, chúng tôi với tư cách là một cộng đồng gồm các cá nhân có chủ quyền đã đoàn kết với nhau bởi một tầm nhìn chung để tiếp tục chuỗi khối Ethereum ban đầu thực sự *bị kiểm duyệt, lừa đảo hoặc bên thứ ba nhiễu*. Khi nhận ra rằng chuỗi khối đại diện cho sự thật tuyệt đối, chúng tôi ủng hộ nó, hỗ trợ tính bất biến và tương lai của nó. Chúng tôi không đưa ra tuyên bố này một cách nhẹ nhàng, hoặc không lường trước được hậu quả của hành động của mình.
 
-## Looking Back
+## Nhìn phía sau
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+Cần phải bày tỏ lòng biết ơn sâu sắc rằng chúng tôi thừa nhận việc tạo ra nền tảng chuỗi khối Ethereum bởi Ethereum Foundation và các nhà phát triển sáng lập của nó. Chắc chắn có thể nói mà không phản đối rằng nếu không có sự làm việc chăm chỉ và cống hiến của họ thì chúng ta với tư cách là một cộng đồng sẽ không có được ngày hôm nay.
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+Ngay từ khi mới thành lập, chuỗi khối Ethereum đã được trình bày dưới dạng một nền tảng phi tập trung dành cho “các ứng dụng chạy chính xác như được lập trình mà không có bất kỳ cơ hội gian lận, kiểm duyệt hoặc can thiệp nào của bên thứ ba” [1]. Nó cung cấp một nơi để liên kết miễn phí các ý tưởng và ứng dụng từ khắp nơi trên thế giới mà không sợ bị phân biệt đối xử, đồng thời cung cấp bút danh. Trong nền tảng phi tập trung này, nhiều người trong chúng tôi đã thấy nhiều hứa hẹn.
 
-## List of Grievances
+## Danh sách Khiếu nại
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+Tuy nhiên, với sự tiếc nuối sâu sắc, chúng tôi với tư cách là một cộng đồng đã phải tự tổ chức [2] để bảo vệ nền tảng chuỗi khối Ethereum khỏi các thành viên và tổ chức sáng lập của nó do một chuỗi dài lạm dụng, đặc biệt là bởi sự lãnh đạo của Ethereum Foundation. Những khiếu nại này như sau:
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- Vì đã gấp rút tạo ra một “soft fork”, bao gồm một thay đổi nhỏ trong mã chuỗi khối Ethereum với mục đích duy nhất là tạo danh sách đen và kiểm duyệt các giao dịch, điều mà thông thường sẽ được cho phép
+- Vì đã bỏ qua ý nghĩa đầy đủ của “soft fork” bởi chuỗi khối Ethereum như một lời cảnh báo, rằng họ đã vi phạm các nguyên tắc và giá trị được mã hóa trong đó [3]
+- Để tạo ra một cơ chế bỏ phiếu không đại diện được gọi là “bỏ phiếu carbon”, mà ban đầu họ tuyên bố là “không chính thức” [4] chỉ để mâu thuẫn với những tuyên bố này một ngày trước khi quyết định hard fork [5]
+- Vì đã vội vàng tạo ra một “hard fork”, bao gồm một thay đổi trạng thái bất thường trong mã chuỗi khối Ethereum, vi phạm các thuộc tính về tính bất biến, tính có thể thay thế và tính tôn nghiêm của sổ cái
+- Vì đã cố ý quyết định không bao gồm tính năng bảo vệ phát lại trong “hard fork”, một hành động gây ra những trao đổi tốn kém không cần thiết và hàng nghìn người dùng có quyền sở hữu hợp pháp đối với mã thông báo Ether của họ [6]
 
-## Respecting the Values Essential for Blockchains
+## Tôn trọng các giá trị cần thiết cho chuỗi khối
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+Người ta có thể hỏi, việc thay đổi mã của chuỗi khối Ethereum và giải cứu [7] người nắm giữ mã thông báo “The DAO” có thể gây ra tác hại gì, đây không phải là một câu hỏi vô lý. Nhiều người trong chúng ta bẩm sinh đã có cảm giác đúng sai nên thoạt nhìn đã cảm thấy việc giải cứu "The DAO" là đúng. Tuy nhiên, [8] đã vi phạm hai khía cạnh chính của những gì mang lại giá trị cho hệ thống dựa trên hợp đồng thông minh và tiền mặt ngang hàng: tính linh hoạt và tính bất biến.
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*Bất biến* có nghĩa là, chuỗi khối là bất khả xâm phạm. Chỉ những giao dịch hợp lệ được thỏa thuận thông qua một giao thức mã hóa được xác định bằng toán học mới được mạng chấp nhận. Nếu không có điều này, tính hợp lệ của tất cả các giao dịch có thể bị nghi ngờ, vì nếu chuỗi khối có thể thay đổi được, thì bất kỳ giao dịch nào cũng có thể bị sửa đổi. Điều này không chỉ khiến các giao dịch dễ bị lừa đảo mà còn có thể gây ra thảm họa cho bất kỳ ứng dụng phân tán (Dapps) nào chạy trên nền tảng.
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*Tính có thể thay thế* là đặc tính của tiền, trong đó đơn vị này bằng đơn vị khác. Chẳng hạn, một Euro bằng một Euro khác giống như một Bitcoin bằng một Bitcoin khác. Thật không may, một ETH không còn bằng một ETH nữa. ETH của kẻ tấn công bị cáo buộc không còn tốt như ETH của bạn và đáng bị kiểm duyệt, được coi là cần thiết bởi đa số.
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+Cuối cùng, những vi phạm về tính có thể thay thế và tính bất biến này đã có thể xảy ra do những đánh giá đạo đức chủ quan của những người cảm thấy khao khát cháy bỏng đưa kẻ bị cáo buộc tấn công ra trước công lý.
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+Tuy nhiên, khi làm như vậy, họ đã xâm phạm một trụ cột cốt lõi của Ethereum chỉ để làm những gì họ cảm thấy là vì lợi ích của “những điều tốt đẹp hơn”. Trong một cộng đồng toàn cầu, nơi mỗi cá nhân có luật lệ, phong tục và tín ngưỡng riêng, ai có thể nói điều gì là đúng và sai? Được cảnh báo sâu sắc rằng những nguyên lý cốt lõi này đã bị nhiều nhà phát triển của Tổ chức và một bộ phận đáng kể những người tham gia Ethereum coi thường, chúng tôi, với tư cách là một cộng đồng, đã tổ chức và hình thành một bộ quy tắc nguyên tắc để tuân theo chuỗi Ethereum Classic.
 
-## The Ethereum Classic Code of Principles
+## Quy tắc nguyên tắc Ethereum Classic
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+Chúng tôi tin vào *blockchain phi tập trung, chống kiểm duyệt,* blockchain. Chúng tôi tin vào tầm nhìn ban đầu về Ethereum như một máy tính thế giới không thể tắt, chạy các hợp đồng thông minh không thể đảo ngược. Chúng tôi tin tưởng vào sự tách biệt mạnh mẽ giữa các mối quan tâm, trong đó chỉ có thể thực hiện các nhánh hệ thống của cơ sở mã, khi khắc phục các lỗ hổng, lỗi ở cấp độ giao thức hoặc cung cấp các bản nâng cấp chức năng. Chúng tôi tin tưởng vào mục đích ban đầu là xây dựng và duy trì</em> nền tảng phát triển *chống kiểm duyệt, không tin cậy và không thay đổi.</p>
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+Dưới đây là các giá trị được khai báo mà những người tham gia trong cộng đồng Ethereum Classic đồng ý. Chúng tôi khuyến khích rằng những nguyên tắc này không bị thay đổi thông qua sắc lệnh bởi bất kỳ cá nhân hoặc phe phái nào tuyên bố sử dụng quyền lực, thẩm quyền hoặc uy tín để làm như vậy.
 
-We, as a community agree that:
+Chúng tôi, với tư cách là một cộng đồng đồng ý rằng:
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- Mục đích của Ethereum Classic là cung cấp một nền tảng phi tập trung, chạy các ứng dụng phi tập trung, hoạt động chính xác như được lập trình mà không có bất kỳ khả năng nào về thời gian *hoạt động, kiểm duyệt, gian lận hoặc sự can thiệp của bên thứ ba*
+- mã là luật; sẽ không có thay đổi nào đối với mã Ethereum Classic vi phạm các thuộc tính *tính bất biến, tính có thể thay thế hoặc tính tôn nghiêm* của sổ cái; giao dịch hoặc lịch sử sổ cái không thể đảo ngược hoặc sửa đổi vì bất kỳ lý do gì
+- fork và/hoặc thay đổi đối với giao thức cơ bản sẽ chỉ được phép cập nhật hoặc nâng cấp công nghệ mà Ethereum Classic vận hành
+- phát triển dự án nội bộ có thể được tài trợ bởi bất kỳ ai, cho dù thông qua bên thứ ba đáng tin cậy do họ lựa chọn hay trực tiếp, sử dụng loại tiền họ chọn trên cơ sở từng dự án và tuân theo giao thức huy động vốn cộng đồng minh bạch, công khai và phi tập trung
+- bất kỳ cá nhân hoặc nhóm cá nhân nào cũng có thể đề xuất các cải tiến, cải tiến hoặc nâng cấp đối với các tài sản Ethereum Classic hiện có hoặc được đề xuất
+- bất kỳ cá nhân hoặc nhóm cá nhân nào cũng có thể sử dụng nền tảng phi tập trung Ethereum Classic để xây dựng các ứng dụng phi tập trung, tổ chức bán hàng cộng đồng, tạo các tổ chức / tập đoàn tự trị hoặc cho bất kỳ mục đích nào khác mà họ cho là phù hợp
 
-## Looking Forward
+## Nhìn về phía trước
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+Vì nhiều lý do được liệt kê ở trên, chúng tôi đã chọn đổi tên chuỗi khối ban đầu là “Ethereum Classic” bằng ký hiệu đánh dấu “ETC”, để cộng đồng và tất cả những người tham gia khác có thể xác định nền tảng chuỗi khối ban đầu, chưa phân nhánh và không thể thay đổi.
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+Lòng biết ơn chân thành nhất của chúng tôi dành cho những nhà phát triển trong và ngoài Quỹ, những người đã phản đối việc can thiệp vào sổ cái chuỗi khối Ethereum và giúp chuỗi Ethereum Classic tồn tại và tồn tại.
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+Chúng tôi biết, có rất nhiều người trong số các bạn và chúng tôi luôn chào đón bạn tham gia cộng đồng phi tập trung của chúng tôi bất cứ lúc nào.
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+Chúng tôi sẽ tiếp tục tầm nhìn về quản trị phi tập trung cho chuỗi khối Ethereum Classic và duy trì sự phản đối của chúng tôi đối với bất kỳ sự tiếp quản lãnh đạo tập trung nào, đặc biệt là bởi Ethereum Foundation cũng như các nhà phát triển, những người đã nhiều lần tuyên bố rằng họ sẽ không phát triển chuỗi Ethereum Classic nữa.
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+Tương tự như vậy, chúng tôi sẽ công khai chống lại “sự chuyên chế của đa số” và sẽ không cho phép các giá trị của hệ thống bị tổn hại. Là một cộng đồng thống nhất, chúng tôi sẽ tiếp tục tổ chức để phòng thủ và tiến bộ, theo yêu cầu, để tiếp tục và đảm bảo cho cuộc thử nghiệm vĩ đại này. Nền tảng Ethereum Classic, mã và công nghệ của nó hiện được mở cho thế giới dưới dạng phần mềm Nguồn mở [9]. Nó hiện có sẵn miễn phí cho tất cả những ai muốn cải thiện và xây dựng dựa trên nó: một máy tính thế giới thực sự tự do và không cần tin cậy mà chúng ta cùng với tư cách là một cộng đồng đã chứng minh và sẽ tiếp tục chứng minh là chống mong manh [10].
 
-~ The Ethereum Classic Community
+~ Cộng đồng cổ điển Ethereum
 
 ---
 
-### References
+### Người giới thiệu
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. Chống mong manh: “Những thứ đạt được từ sự rối loạn” của Nassim Nicholas Taleb
 
 ---
 
-**PDF Version:**
+**Phiên bản PDF:**
 
 -[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
