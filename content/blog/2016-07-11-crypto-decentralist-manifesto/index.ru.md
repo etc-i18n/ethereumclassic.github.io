@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Крипто-децентралистский манифест
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Децентрализовать!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Блокчейны будут править миром, предоставляя механизм масштабирования социального и экономического сотрудничества до беспрецедентного уровня — поистине глобального масштаба. В таком сотрудничестве будут участвовать не только люди, группы и ассоциации, но и растущее число все более независимых искусственных агентов.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Каждый блокчейн создает социальную сеть вокруг своих приложений, ценность которой экспоненциально растет с увеличением числа участников в соответствии с законом Рида. Это значение не извлекается посредниками или контроллерами, как в предыдущих централизованных моделях. Вместо этого он распределяется между участниками, предоставляя экономические стимулы для сотрудничества без принуждения.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Не все блокчейны одинаковы. Есть три ключевые характеристики, которые делают возможным масштабируемое сотрудничество на основе блокчейна: открытость, нейтральность и неизменность.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**Открытость необходима**. Само собой разумеется, что правила игры должны быть открыты для всех, чтобы их можно было увидеть и понять. Любой должен иметь возможность участвовать в любом уровне системы, не спрашивая никакого разрешения. Любой человек должен иметь возможность пользоваться сетью в соответствии с ее правилами. Любой должен иметь возможность создать свой собственный клиент, реализующий открытый протокол. Каждый должен иметь возможность внести свой вклад в сетевую безопасность и так далее. Никакая регистрация, идентификация или другие предварительные условия не должны ограничивать участие. Все такие ограничения препятствуют масштабированию сети, а их применение создает риски централизации.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**Нейтралитет необходим**. Для любого, кто участвует в сотрудничестве с использованием блокчейна, важно быть на равных со всеми остальными. Неважно, обладаете ли вы огромной экономической силой или лишь незначительной. Неважно, святая вы Мать Тереза или злобный торговец наркотиками. Неважно, человек ты или холодильник. Неважно, во что вы верите, какую политическую теорию вы поддерживаете, нравственный вы человек или аморальный. Этническая принадлежность участника, возраст, пол, профессия, социальное положение, друзья или принадлежность, марка или модель, цели, намерения или намерения — ничто из этого не имеет ни малейшего значения для блокчейна. Правила игры абсолютно одинаковы для всех, и точка. Без нейтралитета система склоняется к одному набору участников за счет других. В этом случае маловероятно, что она получит всеобщее признание и максимизирует ценность сети для всех.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**Необходима неизменность**. Блокчейн — это машина правды, сохраняющая одну общепринятую версию истории, одну неизменную последовательность событий. То, что верно один раз, остается правдой всегда, независимо от политических или деловых интересов, и никакое лоббирование не может этого изменить. Если просто невозможно изменить историю, то никакие ресурсы не тратятся впустую. Если вообще есть какие-то лазейки, то достаточно мотивированные и целеустремленные группы будут использовать их за счет других, уменьшая ценность сети для всех.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Правила, регулирующие сеть блокчейн, известны заранее. Они одинаковы для всех и не подлежат изменению, кроме как при 100% консенсусе. Да, должно быть 100%. Потому что любое изменение правил системы, на которое добровольно соглашаются не все участники, приводит к расколу сети, уменьшая ценность сети для всех.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+Невозможно достичь этих характеристик блокчейна без **децентрализованной системы**. Если какой-либо аспект системы блокчейна становится объектом централизованного контроля, это создает вектор атаки, позволяющий нарушить одну или несколько ключевых характеристик блокчейна. Возможно ограничение участия (например, путем применения правил AML/KYC), тем самым нарушая открытость. Может оказаться возможным применять дискриминационную политику (например, путем фильтрации «незаконных» транзакций), тем самым нарушая нейтральность. Возможно, удастся переписать историю событий (например, путем конфискации или «перераспределения» средств), нарушив таким образом неизменность. Введение централизованных узких мест создает предпосылки для введения «посредников или контролеров блокчейна», которые могут выкачивать ценность из системы за счет других участников.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Таким образом, децентрализация — самая важная особенность блокчейн-систем, от которой зависит все остальное. С децентрализацией блокчейны станут править миром. Без этого они будут «сдерживаться» и направляться в нишевые приложения.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Мы, децентралисты** стремимся к тому, чтобы блокчейны оставались открытыми, нейтральными и неизменными. Мы стремимся к тому, чтобы системы блокчейна были децентрализованными. Это информирует обо всех наших действиях и позициях в отношении любых событий в криптомире и за его пределами. Следует пресекать все попытки нарушить любую из ключевых характеристик блокчейна. Следует бороться со всеми изменениями в правилах блокчейна, которые создают новые риски централизации или усиливают существующие. Следует поддерживать и поощрять только те разработки, которые явно полезны для децентрализации или усиления трех ключевых характеристик блокчейна. Блокчейн-революция не будет централизованной. Убедимся в этом.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**Вперед.**
 
 ---
 
-**PDF Version:**
+Источник: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+---
+
+**PDF-версия:**
+
+- [Английский](/A_Crypto-Decentralist_Manifesto.pdf)
+- [Тионг Вьет](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [немецкий](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [итальянский](/A_Crypto-Decentralist_Manifesto_italian.pdf)
