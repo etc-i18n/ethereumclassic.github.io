@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Un manifesto cripto-decentralista
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Decentrare!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Le blockchain domineranno il mondo, fornendo un meccanismo per portare la cooperazione sociale ed economica a un livello senza precedenti: una scala veramente globale. Tale cooperazione coinvolgerà non solo gli esseri umani, i gruppi e le associazioni, ma anche una moltitudine crescente di agenti artificiali sempre più indipendenti.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Ogni blockchain crea un social network attorno alle sue applicazioni, con un valore di rete che cresce in modo esponenziale con il numero di partecipanti in accordo con la Legge di Reed. Questo valore non viene estratto da intermediari o controllori, come nei precedenti modelli centralizzati. Al contrario, è condiviso tra i partecipanti, fornendo incentivi economici per la cooperazione senza coercizione.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Non tutte le blockchain sono uguali. Ci sono tre caratteristiche chiave che rendono possibile una cooperazione scalabile abilitata dalla blockchain: apertura, neutralità e immutabilità.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**L'apertura è necessaria**. Inutile dire che le regole del gioco dovrebbero essere aperte a chiunque possa vederle e comprenderle. Chiunque dovrebbe essere in grado di partecipare a qualsiasi livello del sistema senza chiedere alcun permesso. Chiunque dovrebbe essere in grado di utilizzare la rete in conformità con le sue regole. Chiunque dovrebbe essere in grado di creare il proprio client implementando il protocollo aperto. Chiunque dovrebbe essere in grado di contribuire alla sicurezza della rete e così via. Nessuna registrazione, identificazione o altra precondizione dovrebbe limitare la partecipazione. Tutte queste limitazioni impediscono la scalabilità della rete e la loro applicazione crea rischi di centralizzazione.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**La neutralità è necessaria**. È importante che chiunque partecipi alla cooperazione abilitata alla blockchain sia su un piano di parità con tutti gli altri. Non importa se eserciti un enorme potere economico o solo una piccola quantità. Non importa se sei una santa Madre Teresa o un feroce spacciatore. Non importa se sei un essere umano o un frigorifero. Non importa in cosa credi, a quale teoria politica sottoscrivi o se sei una persona morale o immorale. L'etnia, l'età, il sesso, la professione, la posizione sociale, gli amici o le affiliazioni di un partecipante, la marca o il modello, gli obiettivi, gli scopi o le intenzioni di un partecipante: nulla di tutto ciò ha importanza per la blockchain. Le regole del gioco sono esattamente le stesse per tutti, punto. Senza neutralità, il sistema è sbilanciato verso un gruppo di partecipanti a scapito degli altri. In tal caso, è meno probabile ottenere l'accettazione universale e massimizzare il valore della rete per tutti.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**L'immutabilità è necessaria**. La blockchain è una macchina della verità che conserva una versione della storia universalmente accettata, una sequenza immutabile di eventi. Ciò che è vero una volta è sempre vero, indipendentemente dagli interessi politici o commerciali, e nessuna quantità di lobbying può cambiarlo. Se semplicemente non è possibile cambiare la storia, allora nessuna risorsa viene sprecata per lo sforzo. Se ci sono scappatoie, gruppi di interesse sufficientemente motivati e determinati le sfrutteranno a spese di altri, diminuendo il valore della rete per tutti.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Le regole che regolano la rete blockchain sono note in anticipo. Sono esattamente gli stessi per tutti e non sono soggetti a modifiche se non con il 100% di consenso. Sì, deve essere al 100%. Perché qualsiasi modifica alle regole del sistema che non tutti i partecipanti accettano liberamente crea una divisione della rete, diminuendo il valore della rete per tutti.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+È impossibile raggiungere queste caratteristiche blockchain senza che il sistema sia **veramente decentralizzato**. Se qualsiasi aspetto del sistema blockchain diventa soggetto a controllo centralizzato, questo introduce un vettore di attacco che consente la violazione di una o più delle caratteristiche chiave della blockchain. Potrebbe essere possibile limitare la partecipazione (ad esempio applicando le regole AML/KYC), violando così la trasparenza. Potrebbe essere possibile applicare politiche discriminatorie (ad esempio filtrando le transazioni "illegali"), violando così la neutralità. Potrebbe essere possibile riscrivere la storia degli eventi (ad esempio confiscando o “ridistribuendo” fondi), violando così l'immutabilità. L'introduzione di punti di strozzatura centralizzati crea una precondizione per l'introduzione di "intermediari o controllori della blockchain" che possono sottrarre valore dal sistema a spese di altri partecipanti.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Quindi il decentramento è la caratteristica più importante dei sistemi blockchain, quella da cui dipende tutto il resto. Con il decentramento, le blockchain arriveranno a governare il mondo. Senza di essa, saranno "contenute" e trasferite in applicazioni di nicchia.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Noi decentralisti** ci impegniamo a mantenere le blockchain aperte, neutre e immutabili. Ci impegniamo a mantenere i sistemi blockchain decentralizzati. Questo informa tutte le nostre azioni e posizioni nei confronti di eventuali sviluppi nel mondo delle criptovalute e oltre. Tutti i tentativi di violare una qualsiasi delle caratteristiche chiave della blockchain dovrebbero essere combattuti. Tutte le modifiche alle regole di una blockchain che introducono nuovi rischi di centralizzazione o rafforzano quelli esistenti dovrebbero essere combattute. Dovrebbero essere sostenuti e incoraggiati solo gli sviluppi che sono chiaramente vantaggiosi per il decentramento o che rafforzano le tre caratteristiche chiave della blockchain. La rivoluzione blockchain non sarà centralizzata. Assicuriamoci.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**Avanti.**
 
 ---
 
-**PDF Version:**
+Fonte: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
+---
+
+**Versione PDF:**
+
+- [Inglese](/A_Crypto-Decentralist_Manifesto.pdf)
 - [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
-- [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
+- [russo](/A_Crypto-Decentralist_Manifesto_russian.pdf)
 - [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
 - [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
