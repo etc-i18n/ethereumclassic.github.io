@@ -1,5 +1,5 @@
 ---
-title: The Ethereum Classic Declaration of Independence
+title: A Declaração de Independência do Ethereum Classic
 date: 2016-08-13
 author: Ethereum Classic
 tags:
@@ -10,68 +10,68 @@ tags:
   - "education"
 ---
 
-Let it be known to the entire world that on July 20th, 2016, at block 1,920,000, we as a community of sovereign individuals stood united by a common vision to continue the original Ethereum blockchain that is truly *free from censorship, fraud or third party interference*. In realizing, that the blockchain represents absolute truth, we stand by it, supporting its immutability and its future. We do not make this declaration lightly, or without forethought to the consequences of our actions.
+Que seja conhecido por todo o mundo que em 20 de julho de 2016, no bloco 1.920.000, nós, como uma comunidade de indivíduos soberanos, permanecemos unidos por uma visão comum para continuar a blockchain Ethereum original que é verdadeiramente *livre de censura, fraude ou terceiros interferência*. Ao perceber que o blockchain representa a verdade absoluta, nós o apoiamos, apoiando sua imutabilidade e seu futuro. Não fazemos esta declaração levianamente, ou sem premeditar as consequências de nossas ações.
 
-## Looking Back
+## Olhando para trás
 
-It should be stated with great gratitude, that we acknowledge the creation of the Ethereum blockchain platform by the Ethereum Foundation and its founding developers. It certainly can be said without objection, that without their hard work and dedication that we as a community would not be, where we are today.
+Deve ser declarado com grande gratidão que reconhecemos a criação da plataforma blockchain Ethereum pela Ethereum Foundation e seus desenvolvedores fundadores. Certamente pode-se dizer sem objeções que, sem o trabalho árduo e a dedicação deles, nós, como comunidade, não estaríamos onde estamos hoje.
 
-From its inception, the Ethereum blockchain was presented as a decentralized platform for “applications that run exactly as programmed without any chance of fraud, censorship, or third-party interference” [1]. It provided a place for the free association of ideas and applications from across the globe without fear of discrimination, while also providing pseudonymity. In this decentralized platform, many of us saw great promise.
+Desde o início, o blockchain Ethereum foi apresentado como uma plataforma descentralizada para “aplicativos que são executados exatamente como programados, sem qualquer chance de fraude, censura ou interferência de terceiros” [1]. Ele forneceu um local para a livre associação de ideias e aplicativos de todo o mundo sem medo de discriminação, além de fornecer pseudônimos. Nesta plataforma descentralizada, muitos de nós vimos uma grande promessa.
 
-## List of Grievances
+## Lista de Reclamações
 
-It is however, with deep regret, that we as a community have had to spontaneously organize [2] to defend the Ethereum blockchain platform from its founding members and organization due to a long train of abuses, specifically by the leadership of the Ethereum Foundation. These grievances are as follows:
+É, no entanto, com profundo pesar, que nós, como comunidade, tivemos que organizar espontaneamente [2] para defender a plataforma blockchain Ethereum de seus membros fundadores e organização devido a uma longa série de abusos, especificamente pela liderança da Ethereum Foundation. Essas queixas são as seguintes:
 
-- For rushing the creation of a “soft fork,” which was comprised of a minor change in the Ethereum blockchain code for the sole purpose of creating a blacklist and censoring transactions, that normally would have been allowed
-- For neglecting the full implications of the “soft fork” by the Ethereum blockchain as a warning, that they were violating the principles and values coded therein [3]
-- For creating an unrepresentative voting mechanism called the “carbon vote”, which they initially stated was “unofficial” [4] only to contradict these statements a day before determining to hard fork [5]
-- For rushing the creation of a “hard fork,” which was comprised of an irregular state change in the Ethereum blockchain code that violated the properties of immutability, fungibility, and the sanctity of the ledger
-- For willfully deciding to not include replay protection in the “hard fork”, an action which has unnecessarily cost exchanges and thousands of users the rightful ownership of their Ether tokens [6]
+- Por apressar a criação de um “soft fork”, que consistia em uma pequena alteração no código da blockchain Ethereum com o único propósito de criar uma lista negra e censurar transações, que normalmente seriam permitidas
+- Por negligenciar todas as implicações do “soft fork” da blockchain Ethereum como um aviso, de que eles estavam violando os princípios e valores codificados nele [3]
+- Por criar um mecanismo de votação não representativo chamado “voto de carbono”, que eles inicialmente declararam ser “não oficial” [4] apenas para contradizer essas declarações um dia antes de determinar o hard fork [5]
+- Por apressar a criação de um “hard fork”, que consistia em uma mudança de estado irregular no código da blockchain Ethereum que violava as propriedades de imutabilidade, fungibilidade e a santidade do livro-razão
+- Por decidir deliberadamente não incluir proteção de replay no “hard fork”, uma ação que custou desnecessariamente as trocas e milhares de usuários a propriedade legítima de seus tokens Ether [6]
 
-## Respecting the Values Essential for Blockchains
+## Respeitando os Valores Essenciais para Blockchains
 
-One might ask, what harm can be done from changing the code of the Ethereum blockchain and bailing out [7] “The DAO” token holders, which is not an unreasonable question. Many of us have an innate sense of right and wrong, so at first glance rescuing "The DAO" felt right. However, it violated two key aspects of what gives peer-to-peer cash [8] and smart contract-based systems value: fungibility and immutability.
+Pode-se perguntar, que mal pode ser causado ao alterar o código da blockchain Ethereum e resgatar [7] detentores de tokens “The DAO”, o que não é uma questão irracional. Muitos de nós temos um senso inato de certo e errado, então, à primeira vista, resgatar "The DAO" parecia certo. No entanto, violou dois aspectos principais do que dá valor ao dinheiro ponto a ponto [8] e aos sistemas baseados em contratos inteligentes: fungibilidade e imutabilidade.
 
-*Immutability* means, the blockchain is inviolable. That only valid transactions agreed upon via a cryptographic protocol determined by mathematics are accepted by the network. Without this, the validity of all transactions could come into question, since if the blockchain is mutable, any transaction could be modified. Not only does this leave transactions open to fraud, but it might spell disaster for any distributed application (Dapps) running atop the platform.
+*Imutabilidade* significa que o blockchain é inviolável. Que somente transações válidas acordadas por meio de um protocolo criptográfico determinado pela matemática são aceitas pela rede. Sem isso, a validade de todas as transações poderia ser questionada, pois se o blockchain for mutável, qualquer transação poderia ser modificada. Isso não apenas deixa as transações abertas a fraudes, mas também pode significar um desastre para qualquer aplicativo distribuído (Dapps) em execução na plataforma.
 
-*Fungibility* is the feature of money, where one unit equals another unit. For instance, a Euro equals another Euro just as a Bitcoin equals another Bitcoin. Unfortunately, an ETH no longer equals another ETH. The alleged attacker’s ETH was no longer as good as your ETH and was worthy of censorship, deemed necessary by a so-called majority.
+*Fungibilidade* é a característica do dinheiro, onde uma unidade é igual a outra unidade. Por exemplo, um Euro é igual a outro Euro, assim como um Bitcoin é igual a outro Bitcoin. Infelizmente, um ETH não é mais igual a outro ETH. O ETH do suposto invasor não era mais tão bom quanto o seu ETH e era digno de censura, considerada necessária por uma suposta maioria.
 
-Ultimately, these breaches in fungibility and immutability were made possible by the subjective morality judgements of those, who felt a burning desire to bring the alleged attacker to justice.
+Em última análise, essas brechas na fungibilidade e na imutabilidade foram possibilitadas pelos julgamentos morais subjetivos daqueles, que sentiram um desejo ardente de levar o suposto agressor à justiça.
 
-However, in doing so, they compromised a core pillar of Ethereum just to do what they felt was in the interests of the “greater good”. In a global community, where each individual has their own laws, customs, and beliefs, who is to say what is right and wrong? Deeply alarmed, that these core tenets were disregarded by many of the Foundation’s developers, and a sizable portion of Ethereum participants, we, as a community, have organized and formed a code of principles to follow for the Ethereum Classic chain.
+No entanto, ao fazer isso, eles comprometeram um pilar central do Ethereum apenas para fazer o que achavam ser do interesse do “bem maior”. Em uma comunidade global, onde cada indivíduo tem suas próprias leis, costumes e crenças, quem pode dizer o que é certo e errado? Profundamente alarmados com o fato de que esses princípios básicos foram desconsiderados por muitos dos desenvolvedores da Fundação e por uma parte considerável dos participantes do Ethereum, nós, como comunidade, organizamos e formamos um código de princípios a seguir para a cadeia Ethereum Classic.
 
-## The Ethereum Classic Code of Principles
+## O Código de Princípios Ethereum Classic
 
-We believe in a *decentralized, censorship-resistant, permissionless* blockchain. We believe in the original vision of Ethereum as a world computer that cannot be shut down, running irreversible smart contracts. We believe in a strong separation of concerns, where system forks of the codebase are only possible, when fixing protocol level vulnerabilities, bugs, or providing functionality upgrades. We believe in the original intent of building and maintaining a *censorship-resistant, trustless and immutable* development platform.
+Acreditamos em um blockchain *descentralizado, resistente à censura e sem permissão*. Acreditamos na visão original do Ethereum como um computador mundial que não pode ser desligado, executando contratos inteligentes irreversíveis. Acreditamos em uma forte separação de preocupações, onde as bifurcações do sistema da base de código são possíveis apenas ao corrigir vulnerabilidades de nível de protocolo, bugs ou fornecer atualizações de funcionalidade. Acreditamos na intenção original de construir e manter</em> *à censura, confiável e imutável.</p>
 
-Herein are written the declared values by which participants within the Ethereum Classic community agree. We encourage that these principles not be changed via edict by any individual or faction claiming to wield power, authority or credibility to do so.
+Aqui estão escritos os valores declarados pelos quais os participantes da comunidade Ethereum Classic concordam. Incentivamos que esses princípios não sejam alterados por decreto de qualquer indivíduo ou facção que afirme ter poder, autoridade ou credibilidade para fazê-lo.
 
-We, as a community agree that:
+Nós, como comunidade, concordamos que:
 
-- the purpose of Ethereum Classic is to provide a decentralized platform, that runs decentralized applications, which execute exactly as programmed without any possibility of *downtime, censorship, fraud or third party interference*
-- code is law; there shall be no changes to the Ethereum Classic code that violate the properties of *immutability, fungibility, or sanctity* of the ledger; transactions or ledger history cannot for any reason be reversed or modified
-- forks and/or changes to the underlying protocol shall only be permitted for updating or upgrading the technology on which Ethereum Classic operates
-- internal project development can be funded by anyone, whether via a trusted third party of their choice or directly, using the currency of their choice on a per project basis and following a transparent, open and decentralized crowdfunding protocol
-- any individual or group of individuals may propose improvements, enhancements, or upgrades to existing or proposed Ethereum Classic assets
-- any individual or group of individuals may use the Ethereum Classic decentralized platform to build decentralized applications, hold crowdsales, create autonomous organisations / corporations or for any other purpose they deem suitable
+- o objetivo do Ethereum Classic é fornecer uma plataforma descentralizada, que executa aplicativos descentralizados, que são executados exatamente como programados, sem qualquer possibilidade de *tempo de inatividade, censura, fraude ou interferência de terceiros*
+- código é lei; não haverá alterações no código Ethereum Classic que violem as propriedades de *imutabilidade, fungibilidade ou santidade* do livro-razão; as transações ou o histórico do livro razão não podem, por nenhum motivo, ser revertidos ou modificados
+- bifurcações e/ou alterações no protocolo subjacente só serão permitidas para atualizar ou atualizar a tecnologia na qual o Ethereum Classic opera
+- o desenvolvimento interno do projeto pode ser financiado por qualquer pessoa, seja por meio de um terceiro confiável de sua escolha ou diretamente, usando a moeda de sua escolha por projeto e seguindo um protocolo de crowdfunding transparente, aberto e descentralizado
+- qualquer indivíduo ou grupo de indivíduos pode propor melhorias, aprimoramentos ou atualizações para ativos Ethereum Classic existentes ou propostos
+- qualquer indivíduo ou grupo de indivíduos pode usar a plataforma descentralizada Ethereum Classic para construir aplicativos descentralizados, realizar vendas coletivas, criar organizações/corporações autônomas ou para qualquer outra finalidade que considerem adequada
 
-## Looking Forward
+## Esperando ansiosamente
 
-For the many reasons listed above, we have chosen to rename the original blockchain “Ethereum Classic” with the ticker symbol “ETC”, so that the community and all other participants can identify the original, unforked, and immutable blockchain platform.
+Pelas muitas razões listadas acima, optamos por renomear a blockchain original “Ethereum Classic” com o símbolo “ETC”, para que a comunidade e todos os outros participantes possam identificar a plataforma blockchain original, sem bifurcação e imutável.
 
-Our most sincere gratitude goes to those developers within and outside the Foundation, who opposed interfering with the Ethereum blockchain ledger and enabled the Ethereum Classic chain to survive and live on.
+Nossa mais sincera gratidão vai para os desenvolvedores dentro e fora da Fundação, que se opuseram à interferência no registro da blockchain Ethereum e permitiram que a cadeia Ethereum Classic sobrevivesse e vivesse.
 
-We know, there are many of you and we welcome you at anytime to join our decentralized community.
+Sabemos que há muitos de vocês e damos as boas-vindas a qualquer momento para se juntar à nossa comunidade descentralizada.
 
-We will continue the vision of decentralized governance for the Ethereum Classic blockchain and maintain our opposition to any centralized leadership takeover, especially by the Ethereum Foundation as well as the developers, who have repeatedly stated, that they would no longer develop the Ethereum Classic chain.
+Continuaremos a visão de governança descentralizada para a blockchain Ethereum Classic e manteremos nossa oposição a qualquer aquisição de liderança centralizada, especialmente pela Fundação Ethereum, bem como pelos desenvolvedores, que declararam repetidamente que não desenvolveriam mais a cadeia Ethereum Classic.
 
-We likewise will openly resist the “tyranny of the majority,” and will not allow the values of the system to be compromised. As a united community, we will continue to organize for the defense and advancement, as required, for the continuation and assurance of this grand experiment. The Ethereum Classic platform, its code and technology, are now open to the world as Open Source software [9]. It is now freely available for all who wish to improve and build upon it: a truly free and trustless world computer that we together as a community have proven and will continue to prove is anti-fragile [10].
+Da mesma forma, resistiremos abertamente à “tirania da maioria” e não permitiremos que os valores do sistema sejam comprometidos. Como uma comunidade unida, continuaremos a nos organizar para a defesa e avanço, conforme necessário, para a continuação e garantia deste grande experimento. A plataforma Ethereum Classic, seu código e tecnologia, agora estão abertos ao mundo como software Open Source [9]. Ele agora está disponível gratuitamente para todos que desejam aprimorá-lo e desenvolvê-lo: um computador mundial verdadeiramente livre e sem confiança que, juntos, como comunidade, provamos e continuaremos a provar que é antifrágil [10].
 
-~ The Ethereum Classic Community
+~ A comunidade Ethereum Classic
 
 ---
 
-### References
+### Referências
 
 1. https://ethereum.org/
 2. https://www.reddit.com/r/EthereumClassic/comments/4u4o61/call_for_action_what_can_i_do_to_help_ethereum/
@@ -82,10 +82,10 @@ We likewise will openly resist the “tyranny of the majority,” and will not a
 7. https://dictionary.cambridge.org/us/dictionary/english/bailout
 8. https://bitcoin.org/bitcoin.pdf
 9. https://github.com/ethereumclassic
-10. Anti-fragile: “Things, That Gain from Disorder” by Nassim Nicholas Taleb
+10. Antifrágil: “Coisas que ganham com a desordem”, de Nassim Nicholas Taleb
 
 ---
 
-**PDF Version:**
+**Versão em PDF:**
 
 -[English](/ETC_Declaration_of_Independence.pdf) -[中文](/ETC_Declaration_of_Independence_chinese.pdf) -[русский](/ETC_Declaration_of_Independence_russian.pdf) -[Tiếng Việt](/ETC_Declaration_of_Independence_vietnamese.pdf) -[Deutsche](/ETC_Declaration_of_Independence_german.pdf) -[Italiano](/ETC_Declaration_of_Independence_italian.pdf)
