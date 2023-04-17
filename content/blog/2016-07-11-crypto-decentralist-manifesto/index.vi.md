@@ -1,5 +1,5 @@
 ---
-title: A Crypto-Decentralist Manifesto
+title: Tuyên ngôn tiền điện tử phi tập trung
 date: 2016-07-11
 author: Arvicco
 contributors:
@@ -12,40 +12,40 @@ tags:
   - "education"
 ---
 
-![Decentralize!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
+![Phân quyền!](./1gMu8qJtr2NeEuuGzvsfcnw.png)
 
-Blockchains are going to rule the world, providing a mechanism for scaling social and economic cooperation to an unprecedented level — a truly global scale. Such cooperation will involve not only human beings, groups and associations but also a growing multitude of increasingly independent artificial agents.
+Các chuỗi khối sẽ thống trị thế giới, cung cấp một cơ chế để mở rộng quy mô hợp tác kinh tế và xã hội đến một mức độ chưa từng có — một quy mô toàn cầu thực sự. Sự hợp tác như vậy sẽ không chỉ liên quan đến con người, các nhóm và hiệp hội mà còn liên quan đến vô số các tác nhân nhân tạo ngày càng độc lập.
 
-Every blockchain creates a social network around its applications, with network value growing exponentially with the number of participants in accordance with Reed’s Law. This value isn’t extracted by intermediaries or controllers, as with previous centralized models. Instead, it’s shared among participants, providing economic incentives for cooperation without coercion.
+Mỗi blockchain tạo ra một mạng xã hội xung quanh các ứng dụng của nó, với giá trị mạng tăng theo cấp số nhân với số lượng người tham gia theo Luật Reed. Giá trị này không được trích xuất bởi các trung gian hoặc bộ điều khiển, như với các mô hình tập trung trước đây. Thay vào đó, nó được chia sẻ giữa những người tham gia, cung cấp các khuyến khích kinh tế cho sự hợp tác mà không bị ép buộc.
 
-Not all blockchains are created equal. There are three key characteristics that make scalable blockchain-enabled cooperation possible: openness, neutrality and immutability.
+Không phải tất cả các chuỗi khối đều được tạo ra như nhau. Có ba đặc điểm chính giúp khả năng hợp tác hỗ trợ blockchain có thể mở rộng: tính cởi mở, tính trung lập và tính bất biến.
 
-**Openness is necessary**. It goes without saying that the rules of the game should be open for anyone to see and understand. Anyone should be able to participate in any layer of the system without asking for any permission whatsoever. Anyone should be able to use the network in accordance with its rules. Anyone should be able to create their own client implementing the open protocol. Anyone should be able to contribute to network security, and so on. No registration, identification or other preconditions should limit participation. All such limitations prevent the network from scaling and their enforcement creates centralization risks.
+**Sự cởi mở là cần thiết**. Không cần phải nói rằng các quy tắc của trò chơi nên được mở cho bất kỳ ai xem và hiểu. Bất kỳ ai cũng có thể tham gia vào bất kỳ lớp nào của hệ thống mà không cần xin bất kỳ sự cho phép nào. Bất cứ ai cũng có thể sử dụng mạng theo các quy tắc của nó. Bất kỳ ai cũng có thể tạo ứng dụng khách của riêng họ thực hiện giao thức mở. Bất kỳ ai cũng có thể đóng góp cho an ninh mạng, v.v. Không đăng ký, nhận dạng hoặc các điều kiện tiên quyết khác nên hạn chế tham gia. Tất cả những hạn chế như vậy ngăn mạng mở rộng quy mô và việc thực thi chúng tạo ra rủi ro tập trung.
 
-**Neutrality is necessary**. It’s important for anyone participating in blockchain-enabled cooperation to be on an equal footing with everyone else. It doesn’t matter if you wield huge economic power or only a tiny amount. It doesn’t matter whether you’re a saintly Mother Theresa or a vicious drug dealer. It doesn’t matter whether you’re a human or a refrigerator. It doesn’t matter what you believe in, what political theory you subscribe to, or whether you’re a moral or immoral person. A participant’s ethnicity, age, sex, profession, social standing, friends or affiliations, make or model, goals, purposes or intentions — none of this matters to the blockchain even a bit. The rules of the game are exactly the same for everyone, period. Without neutrality, the system is skewed towards one set of participants at the expense of others. In that case, it’s less likely to gain universal acceptance and maximize network value for everyone.
+**Tính trung lập là cần thiết**. Điều quan trọng đối với bất kỳ ai tham gia hợp tác hỗ trợ blockchain là phải bình đẳng với những người khác. Không quan trọng bạn nắm giữ sức mạnh kinh tế to lớn hay chỉ một phần nhỏ. Không quan trọng bạn là Mẹ Theresa thánh thiện hay một tay buôn ma túy độc ác. Không quan trọng bạn là người hay tủ lạnh. Không quan trọng bạn tin vào điều gì, bạn ủng hộ lý thuyết chính trị nào, hoặc bạn là người có đạo đức hay vô đạo đức. Dân tộc, tuổi tác, giới tính, nghề nghiệp, địa vị xã hội, bạn bè hoặc tổ chức, kiểu dáng hoặc hình mẫu, mục tiêu, mục đích hoặc ý định của người tham gia — không một điều nào trong số này quan trọng đối với blockchain dù chỉ một chút. Các quy tắc của trò chơi là hoàn toàn giống nhau cho tất cả mọi người. Nếu không có tính trung lập, hệ thống sẽ nghiêng về một nhóm người tham gia với chi phí của những người khác. Trong trường hợp đó, nó ít có khả năng nhận được sự chấp nhận rộng rãi và tối đa hóa giá trị mạng cho mọi người.
 
-**Immutability is necessary**. The blockchain is a truth machine preserving one universally accepted version of history, one immutable sequence of events. What’s true once is always true, regardless of political or business interests, and no amount of lobbying can change that. If it’s simply not possible to change history, then no resources are wasted on the effort. If there are any loopholes at all, then sufficiently motivated and determined interest groups will exploit them at the expense of others, diminishing network value for everyone.
+**Bất biến là cần thiết**. Chuỗi khối là một cỗ máy sự thật lưu giữ một phiên bản lịch sử được chấp nhận rộng rãi, một chuỗi sự kiện bất biến. Điều gì đúng một lần thì luôn đúng, bất kể lợi ích chính trị hay kinh doanh và không có số lượng vận động hành lang nào có thể thay đổi điều đó. Nếu đơn giản là không thể thay đổi lịch sử, thì không có nguồn lực nào bị lãng phí cho nỗ lực đó. Nếu có bất kỳ kẽ hở nào, thì các nhóm lợi ích đủ động lực và quyết tâm sẽ khai thác chúng với cái giá phải trả là của những người khác, làm giảm giá trị mạng cho tất cả mọi người.
 
-The rules governing the blockchain network are known in advance. They’re exactly the same for everyone and not subject to change other than with 100% consensus. Yes, it must be 100%. Because any change to the system’s rules that not all participants freely agree to creates a network split, diminishing network value for everyone.
+Các quy tắc quản lý mạng blockchain đã được biết trước. Chúng hoàn toàn giống nhau đối với mọi người và không thể thay đổi trừ khi có sự đồng thuận 100%. Vâng, nó phải là 100%. Bởi vì bất kỳ thay đổi nào đối với các quy tắc của hệ thống mà không phải tất cả những người tham gia đều tự do đồng ý sẽ tạo ra sự chia rẽ mạng, làm giảm giá trị mạng cho mọi người.
 
-It’s impossible to achieve these blockchain characteristics without the system being **truly decentralized**. If any aspect of the blockchain system becomes subject to centralized control, this introduces an attack vector enabling the violation of one or more of the key blockchain characteristics. It may be possible to limit participation (such as by enforcing AML/KYC rules), thus violating openness. It may be possible to enforce discriminatory policies (such as by filtering “illegal” transactions), thus violating neutrality. It may be possible to rewrite the history of events (such as by confiscating or “redistributing” funds), thus violating immutability. Introducing centralized chokepoints creates a precondition for the introduction of “blockchain intermediaries or controllers” who can siphon value out of the system at other participants’ expense.
+Không thể đạt được các đặc điểm chuỗi khối này mà không có hệ thống **thực sự phi tập trung**. Nếu bất kỳ khía cạnh nào của hệ thống chuỗi khối trở thành đối tượng kiểm soát tập trung, điều này sẽ tạo ra một vectơ tấn công cho phép vi phạm một hoặc nhiều đặc điểm chính của chuỗi khối. Có thể hạn chế sự tham gia (chẳng hạn như bằng cách thực thi các quy tắc AML/KYC), do đó vi phạm tính mở. Có thể thực thi các chính sách phân biệt đối xử (chẳng hạn như bằng cách lọc các giao dịch “bất hợp pháp”), do đó vi phạm tính trung lập. Có thể viết lại lịch sử của các sự kiện (chẳng hạn như bằng cách tịch thu hoặc “phân phối lại” tiền), do đó vi phạm tính bất biến. Việc giới thiệu các điểm chokepoint tập trung tạo ra điều kiện tiên quyết cho việc giới thiệu “các trung gian hoặc bộ điều khiển chuỗi khối”, những người có thể hút giá trị ra khỏi hệ thống bằng chi phí của những người tham gia khác.
 
-So decentralization is the most important feature of blockchain systems, the one everything else depends on. With decentralization, blockchains will come to rule the world. Without it, they’ll be “contained” and railroaded into niche applications.
+Vì vậy, phi tập trung hóa là tính năng quan trọng nhất của hệ thống chuỗi khối, là tính năng mà mọi thứ khác phụ thuộc vào. Với sự phân cấp, các chuỗi khối sẽ thống trị thế giới. Không có nó, chúng sẽ bị “chứa” và đưa vào các ứng dụng thích hợp.
 
-**We decentralists** are committed to keeping blockchains open, neutral and immutable. We’re committed to keeping blockchain systems decentralized. This informs all our actions and positions towards any developments in the crypto world and beyond. All attempts to violate any of the key blockchain characteristics should be fought. All changes to a blockchain’s rules that introduce new centralization risks or strengthen existing ones should be fought. Only developments that are clearly beneficial to decentralization or strengthen the three key blockchain characteristics should be supported and encouraged. The blockchain revolution won’t be centralized. Let’s make sure of it.
+**Chúng tôi, những người phân cấp** cam kết giữ cho các chuỗi khối mở, trung lập và không thay đổi. Chúng tôi cam kết giữ cho các hệ thống blockchain được phân cấp. Điều này thông báo tất cả các hành động và vị trí của chúng tôi đối với bất kỳ sự phát triển nào trong thế giới tiền điện tử và hơn thế nữa. Cần phải chống lại mọi nỗ lực vi phạm bất kỳ đặc điểm chính nào của chuỗi khối. Tất cả các thay đổi đối với các quy tắc của blockchain dẫn đến rủi ro tập trung hóa mới hoặc củng cố những rủi ro hiện có đều nên được phản đối. Chỉ những phát triển rõ ràng có lợi cho việc phân cấp hoặc củng cố ba đặc điểm chính của chuỗi khối mới được hỗ trợ và khuyến khích. Cuộc cách mạng blockchain sẽ không tập trung. Hãy chắc chắn về nó.
 
-**Onward.**
-
----
-
-Source: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
+**Trở đi.**
 
 ---
 
-**PDF Version:**
+Nguồn: https://medium.com/@bit_novosti/a-crypto-decentralist-manifesto-6ba1fa0b9ede#.2m5ro5rr9
 
-- [English](/A_Crypto-Decentralist_Manifesto.pdf)
-- [Tiếng Việt](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
+---
+
+**Phiên bản PDF:**
+
+- [Tiếng Anh](/A_Crypto-Decentralist_Manifesto.pdf)
+- [Vietnamese](/A_Crypto-Decentralist_Manifesto_vietnamese.pdf)
 - [русский](/A_Crypto-Decentralist_Manifesto_russian.pdf)
-- [Deutsche](/A_Crypto-Decentralist_Manifesto_german.pdf)
-- [Italiano](/A_Crypto-Decentralist_Manifesto_italian.pdf)
+- [Đức](/A_Crypto-Decentralist_Manifesto_german.pdf)
+- [tiếng Ý](/A_Crypto-Decentralist_Manifesto_italian.pdf)
