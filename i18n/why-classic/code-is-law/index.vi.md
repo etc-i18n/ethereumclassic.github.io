@@ -68,7 +68,7 @@ _Code is Law_ chuỗi khối là các hệ thống chọn tham gia có thể gâ
 
 ### Bên ngoài lớp hợp đồng
 
-Một quan niệm sai lầm phổ biến về _Mã là Luật_ là nó áp dụng cho tất cả các phần của ngăn xếp công nghệ của chuỗi khối, bao gồm cả mã của máy khách nút. Điều này là vô nghĩa, vì các nút chuỗi khối được viết bằng ngôn ngữ lập trình thông thường và hoạt động trong môi trường thực thi truyền thống, nơi mã không thể trở thành luật nếu nó muốn. Thay vào đó, các ứng dụng khách chuỗi khối được viết để tham gia vào giao thức __của một chuỗi khối nhất định, hoạt động của giao thức này tạo ra một môi trường thực thi phi tập trung mới; Lớp</em> _Hợp đồng nằm trên cùng, trong đó _Mã là Luật_ có thể hoạt động.</p>
+Một quan niệm sai lầm phổ biến về _Mã là Luật_ là nó áp dụng cho tất cả các phần của ngăn xếp công nghệ của chuỗi khối, bao gồm cả mã của máy khách nút. Điều này là vô nghĩa, vì các nút chuỗi khối được viết bằng ngôn ngữ lập trình thông thường và hoạt động trong môi trường thực thi truyền thống, nơi mã không thể trở thành luật nếu nó muốn. Thay vào đó, các ứng dụng khách chuỗi khối được viết để tham gia vào giao thức của một chuỗi khối nhất định, hoạt động của giao thức này tạo ra một môi trường thực thi phi tập trung mới; Lớp Hợp đồng nằm trên cùng, trong đó Mã là Luật có thể hoạt động.
 
 ### 9 trên 10 chuỗi
 
