@@ -33,8 +33,6 @@ learn:
           name: 创世纪
         decentralism:
           name: 分权主义
-        ethBtcEtc:
-          __name: ETH + BTC = ETC
         soundMoney:
           name: 健全的货币
         proofOfWork:
