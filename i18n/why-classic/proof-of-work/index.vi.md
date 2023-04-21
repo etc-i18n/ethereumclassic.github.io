@@ -22,9 +22,7 @@ Cơ chế đồng thuận của blockchain là động cơ của nó. Đây là 
 
 Đối với động cơ ô tô, các loại cơ chế đồng thuận khác nhau có sẵn cho các kiến trúc sư chuỗi khối khi thiết kế một giao thức. Việc lựa chọn sử dụng cái nào tiết lộ nhiều về thuộc tính nào trong sự đánh đổi [Blockchain Trilemma](/why-classic/decentralism#the-blockchain-trilemma) được coi là ưu tiên. Vì cơ chế đồng thuận của một chuỗi rất quan trọng nên đối với các hệ thống _Sovereign Grade_ , đây là điều cuối cùng nên được đưa vào khối chặt khi nói đến các ràng buộc thiết kế và đánh đổi bảo mật.
 
-Blockchain phổ biến đầu tiên, Bitcoin, sử dụng Proof of Work; một cơ chế đồng thuận tương đối đơn giản, đã được thử nghiệm và thực sự, về cơ bản chuyển đổi điện thành bảo mật. Việc áp dụng Proof of Work như một cơ chế đồng thuận để thực thi chuỗi khối là thành tựu quan trọng nhất trong thiết kế thiên tài của Bitcoin. Ứng dụng của nó đã giải quyết Bài toán</a> về các vị tướng Byzantine
-
-và do đó cung cấp một giải pháp phi tập trung để nhân đôi chi tiêu, một khám phá đã làm cho công nghệ chuỗi khối như chúng ta biết trở nên khả thi.</p> 
+Blockchain phổ biến đầu tiên, Bitcoin, sử dụng Proof of Work; một cơ chế đồng thuận tương đối đơn giản, đã được thử nghiệm và thực sự, về cơ bản chuyển đổi điện thành bảo mật. Việc áp dụng Proof of Work như một cơ chế đồng thuận để thực thi chuỗi khối là thành tựu quan trọng nhất trong thiết kế thiên tài của Bitcoin. Ứng dụng của nó đã giải quyết Bài toán về các vị tướng [Byzantine](https://en.wikipedia.org/wiki/Byzantine_fault) và do đó cung cấp một giải pháp phi tập trung để nhân đôi chi tiêu, một khám phá đã làm cho công nghệ chuỗi khối như chúng ta biết trở nên khả thi.
 
 Proof of Work an toàn cả về mặt thực nghiệm và lý thuyết từ góc độ lý thuyết trò chơi kinh tế và các chuỗi sử dụng nó đã hoạt động trung thực trong hơn một thập kỷ. Với đủ hashrate, các chuỗi PoW đã được chứng minh là không thể ngăn cản ngay cả bởi các quốc gia hùng mạnh. Hiện tại, không bên nào trên hành tinh có thể tập hợp điện và phần cứng theo cách thông thường để khởi động một cuộc tấn công bền vững chống lại cơ chế đồng thuận của Bitcoin, khiến nó có chủ quyền.
 
@@ -32,11 +30,9 @@ Proof of Work không được thiết kế để trở nên "hoàn hảo" 100% v
 
 Sự khôn ngoan vượt thời gian của con nếu nó không bị phá vỡ, đừng sửa nó.
 
-
-
 ## Đồng thuận Thỏa hiệp
 
-Một cơ chế đồng thuận thay thế cho Proof of Work đã trở nên phổ biến là Proof of Stake, cơ chế này đã trở thành "tính năng bắt buộc phải có" đối với nhiều dự án chuỗi khối thế hệ thứ hai. Thay vì chuyển đổi điện thành hashrate và bảo mật, Proof of Stake được mô tả là "khai thác ảo", trong đó những người đặt cược khóa vốn để đổi lấy khả năng tạo khối và nhận phần thưởng khối bằng cách làm như vậy. 
+Một cơ chế đồng thuận thay thế cho Proof of Work đã trở nên phổ biến là Proof of Stake, cơ chế này đã trở thành "tính năng bắt buộc phải có" đối với nhiều dự án chuỗi khối thế hệ thứ hai. Thay vì chuyển đổi điện thành hashrate và bảo mật, Proof of Stake được mô tả là "khai thác ảo", trong đó những người đặt cược khóa vốn để đổi lấy khả năng tạo khối và nhận phần thưởng khối bằng cách làm như vậy.
 
 Lý do chính cho PoS là chủ nghĩa môi trường; người ta hy vọng rằng PoS sẽ có thể cung cấp các đảm bảo bảo mật tương tự hoặc tốt hơn PoW mà không tiêu tốn một lượng lớn năng lượng.
 
@@ -48,8 +44,6 @@ Trên thực tế, sự phổ biến của Proof of Stake có nguy cơ không ch
 
 Nói tóm lại, Proof of Work là một cơ chế đồng thuận hợp lý, đã được thử nghiệm trong trận chiến, ưu tiên chính xác việc cung cấp các phẩm chất quan trọng làm phát sinh đề xuất giá trị và tiện ích của chuỗi khối. Mặt khác, Proof of Stake hy sinh những yếu tố này để đổi lấy việc ưu tiên những lý tưởng thứ cấp không quan trọng, chẳng hạn như giảm lượng khí thải carbon, hay trung thực hơn, tối đa hóa lợi nhuận cho cá voi lớn.
 
-
-
 ## Đánh đổi an ninh
 
 Tuyên bố rằng "Proof of Stake an toàn hơn Proof of Work", là một tuyên bố "[thậm chí không sai](https://en.wikipedia.org/wiki/Not_even_wrong)", do sắc thái trong định nghĩa của "an toàn" và cách giải quyết vấn đề này với nhiều Bằng chứng của các hệ thống cổ phần có sự đánh đổi về kinh tế, xã hội và kỹ thuật của riêng chúng.
@@ -59,8 +53,6 @@ Một bảng tính Google không thể bị tấn công 51%, nhưng điều này
 Theo nghĩa này, Proof of Stake giống như một bảng tính của Google. Sự thiếu rõ ràng về các đảm bảo bảo mật và khó khăn trong việc đo lường chúng khiến ngay cả những người dùng có kỹ thuật cao cũng không thể nhìn ra những tuyên bố tiếp thị của nhiều dự án PoS. Do đó, bản chất thực sự của các hệ thống này và các chế độ lỗi tiềm ẩn của chúng bị che khuất, so với các đảm bảo rõ ràng, dễ hiểu và ít phức tạp hơn của các hệ thống Proof of Work.
 
 Vì mỗi hệ thống PoS đều có một loạt lỗi riêng nên việc đánh giá chúng riêng lẻ là không thực tế. Tuy nhiên, một số vấn đề chung ít nhiều có thể áp dụng cho tất cả các hệ thống Proof of Stake so với Proof of Work, vấn đề này sẽ được khám phá bên dưới để chứng minh rằng các chuỗi ngầm tạo ra sự đánh đổi về bảo mật khi họ quyết định sử dụng PoS thay vì PoW.
-
-
 
 ### Bảo mật tự giới thiệu
 
@@ -76,21 +68,15 @@ Việc tự tham khảo bảo mật này có thể được mô tả như một 
 
 ![Proof of Stake Perpetual Motion Machine](./overbalance.jpg)
 
-
-
 ### Độ phức tạp và bề mặt tấn công
 
 Như với tất cả các hệ thống phần mềm, độ phức tạp bổ sung tạo ra bề mặt tấn công lớn hơn cho các tác nhân độc hại lợi dụng và khai thác, với kết quả có thể là thảm họa. Trong bối cảnh của các chuỗi khối, là hệ thống kinh tế cũng như phần mềm, vấn đề này rất phức tạp và nhiều khai thác tiềm năng nằm im lìm trong các hệ thống như vậy có thể không xuất hiện cho đến khi một giá trị kinh tế đáng kể gặp rủi ro.
 
 Các lỗi và khai thác lý thuyết trò chơi tinh vi trong chuỗi khối là cực kỳ khó, trong một số trường hợp không thể xác định, kiểm tra và loại bỏ trước khi đưa vào sản xuất. Một biện pháp bảo vệ chính là tuân thủ nguyên tắc kỹ thuật hợp lý của [Keep It Simple, Stupid](https://en.wikipedia.org/wiki/KISS_principle), một cách tiếp cận đã bị các dự án Proof of Stake bỏ rơi khi họ từ chối sự thanh lịch đơn giản của Proof of Work và nắm lấy các giải pháp thay thế phức tạp hơn và có thể khai thác được mang lại rất ít hoặc không mang lại lợi ích thực dụng vào mạng.
 
-
-
 ### Mất cân bằng quyền lực
 
 Như [đã khám phá trước đó](/why-classic/decentralism/#balancing-power), việc loại bỏ các công cụ khai thác khỏi mô hình kinh tế xã hội của chuỗi khối sẽ lấy đi một lực lượng điều tiết quan trọng mà nếu không sẽ ngăn chặn việc nắm bắt; giữ cho các bên khác trung thực thông qua mối đe dọa phủ quyết các quyết định kém bằng cách khai thác có chọn lọc các chuỗi. Trên chuỗi Proof of Stake, các nhà đầu tư và "thợ mỏ" (stakers) là cùng một nhóm, do đó, bất kỳ hành vi lạm dụng quyền lực nào của nhóm này vẫn tương đối không được kiểm soát và chuỗi có thể có xu hướng rẽ nhánh theo cách có lợi cho nhóm này với chi phí là những thứ khác, chẳng hạn như bằng cách tăng phần thưởng đặt cược.
-
-
 
 ### Tiền không phải là sức mạnh
 
@@ -101,8 +87,6 @@ Nguồn bảo mật cuối cùng trên các mạng Proof of Work là sự kết 
 Chuỗi Proof of Stake dễ bị tổn thương trước toàn bộ các cuộc tấn công kinh tế nhờ vũ khí tài chính hiện đại và giá trị của mạng được gắn trực tiếp với bảo mật thông qua staking. Không giống như phần cứng khai thác và điện, vốn có thể được in ra từ không khí mỏng trong các hệ thống fiat và tài nguyên có thể được tập hợp từ khắp nơi trên thế giới chỉ bằng một nút bấm. Các đòn bẩy kinh tế có sẵn cho các ngân hàng trung ương và các tổ chức khác có thể bị đe dọa bởi công nghệ chuỗi khối là rất lớn và phức tạp. Giá trị của tất cả các mạng Proof of Stake cộng lại chỉ là một sự sụt giảm nhỏ so với nền kinh tế rộng lớn hơn, nơi có một lượng lớn vốn lưu động có thể được vay, sử dụng đòn bẩy và đưa vào sử dụng bởi một công ty duy nhất với một con chip trên vai.
 
 Các tổ chức tài chính hiện đại bị đe dọa bởi công nghệ chuỗi khối chắc chắn sẽ tiến hành cuộc chiến kinh tế chống lại Proof of Stake, những người không thể gây rối với giá cả, mà bằng cách đó, có khả năng gây ra lỗi toàn bộ hệ thống. Thông qua việc tạo ra các thị trường phái sinh và thao túng giá, những kẻ tấn công có thể mua quyền biểu quyết trên mạng và cản trở hoặc phá hủy khả năng đạt được sự đồng thuận thông qua các cuộc tấn công đặt cược.
-
-
 
 ### Miner Attrition vs The Rich Get Richer
 
@@ -116,23 +100,19 @@ Trên hết, do tính kinh tế theo quy mô, phí xăng và tỷ lệ tiền ph
 
 Không có nỗ lực để sửa chữa xu hướng này, việc thiếu doanh thu trong hệ sinh thái đặt cược có nghĩa là một khối cá voi khổng lồ tích lũy một phần ngày càng tăng của tất cả các mạng Proof of Stake, khiến chúng ngày càng dễ bị tiếp quản khi hệ số Nakamoto tiến đến 0 . Không có lý do gì mà các triều đại staking Proof of Stake tìm kiếm tiền thuê lại không tiếp tục qua nhiều thế hệ, khi những người đặt cược lớn chuyển những chiếc túi ngày càng lớn của họ cho thế hệ tiếp theo, khiến cho việc các mạng Proof of Stake được nắm bắt rõ ràng chỉ là vấn đề thời gian. giá trị trong mạng và quyền quyết định chiến thắng trong các nhánh được đưa lên hàng đầu.
 
-
-
 ### Không được phép
 
 Không có quyền, không ngạc nhiên, là thuộc tính cho phép người dùng mới tham gia vào hệ thống mà không cần sự cho phép của ai đó đã có trong hệ thống nói trên. Tất cả những thứ khác đều bình đẳng, các hệ thống không được phép có thể được phân cấp nhiều hơn theo thời gian so với các hệ thống được phép, vì chúng mở rộng rãi cho những người tham gia mới.
 
 Khai thác, và ngược lại, Proof of Work, không được phép, vì bất kỳ ai (hoặc bất kỳ thứ gì) đều có thể đóng góp tỷ lệ băm cho mạng và có cơ hội bình đẳng để có thể khai thác một khối dựa trên tỷ lệ băm mà họ đóng góp. Mỗi hàm băm giống như một vé xổ số và càng mua nhiều vé thì cơ hội tìm thấy một khối và nhận được phần thưởng khối hấp dẫn, ngọt ngào đó càng cao.
 
-Bởi vì không có người gác cổng, cơ chế đồng thuận Proof of Work</em> _tâm _cách_ hashrate được tạo ra hay _người_ đã đóng góp. Đây là một chất lượng cần thiết nếu một chuỗi duy trì trạng thái trung lập và không bị chiếm bởi vì nếu tồn tại những người gác cổng, họ sẽ có thể từ chối công việc dựa trên danh tính hoặc vị trí của người đóng góp, khóa họ lại và bằng cách đó, tập trung hóa và nắm bắt mạng .</p> 
+Bởi vì không có người gác cổng, cơ chế đồng thuận Proof of Work tâm _cách_ hashrate được tạo ra hay _người_ đã đóng góp. Đây là một chất lượng cần thiết nếu một chuỗi duy trì trạng thái trung lập và không bị chiếm bởi vì nếu tồn tại những người gác cổng, họ sẽ có thể từ chối công việc dựa trên danh tính hoặc vị trí của người đóng góp, khóa họ lại và bằng cách đó, tập trung hóa và nắm bắt mạng .
 
 Hệ thống Proof of Stake là _chứ không phải_ không được phép. Cách duy nhất để có được loại tiền cần thiết để giao dịch và đặt cược là _mua_ từ một người đã có loại tiền nói trên; họ cần _quyền_ từ ai đó trong mạng để sử dụng mạng, với những người nắm giữ hiện tại là người gác cổng.
 
 Theo một nghĩa nào đó, tất cả các mạng Proof of Stake đã là _soft capture_, vì người sở hữu đồng tiền PoS có thể quyết định chung (hoặc bị ép buộc) ngừng giao dịch với người dùng từ một số tầng lớp hoặc khu vực pháp lý cụ thể và những người dùng này không có cách nào để thực hiện giao dịch trên mạng bất kể mức giá mà họ sẵn sàng trả.
 
 Lấy ví dụ về một người đến từ một quốc gia kém phát triển hoặc bị cô lập, có rất ít hoặc không có khả năng giao dịch bằng đô la; không có quyền truy cập vào hệ thống ngân hàng và do đó tham gia thông qua các sàn giao dịch và không có ai sẵn sàng thực hiện giao dịch OTC bằng tiền mặt trong khu vực của họ, họ luôn có thể có được tiền tệ Proof of Work bằng cách mua một số phần cứng để khai thác nó. Cũng chính người dùng này đã bị khóa khỏi chuỗi khối Proof of Stake, khiến những mạng đó khó truy cập hơn, ít hữu ích hơn và ít giá trị hơn.
-
-
 
 ### Tập trung hóa việc đặt cọc trên các sàn giao dịch
 
@@ -148,8 +128,6 @@ Nếu một ứng dụng "không mong muốn" đang hoạt động trên một c
 
 Trong Proof of Work, kiểu tấn công này là không thể xảy ra nhờ sự tách biệt các mối quan tâm và bản chất phi tập trung về mặt địa lý của các nguồn điện.
 
-
-
 ### Cuộc đua vũ khí APR
 
 Các chuỗi Proof of Stake cạnh tranh với nhau để giành được vốn đặt cược thanh khoản, không giống như phần cứng khai thác bị ràng buộc với các thuật toán cụ thể, có thể tự do di chuyển giữa _tất cả_ chuỗi PoS bằng cách giao dịch trên thị trường mở. Điều này có nghĩa là theo thời gian, tất cả các chuỗi Proof of Stake sẽ chịu áp lực phải tăng phần thưởng đặt cược, và do đó, tỷ lệ lạm phát, để lôi kéo đủ số người đặt cược vào chuỗi của họ. Do đó, "cuộc đua xuống đáy" có khả năng nhấn chìm tất cả các chuỗi Proof of Stake, khi chúng tham gia vào cuộc chạy đua vũ trang _APR_.
@@ -158,13 +136,9 @@ Ví dụ: nếu Chuỗi A cung cấp phần thưởng đặt cược 12%, thì t
 
 Tình huống này là một tin tuyệt vời đối với những người đặt cược lớn, nhưng thật khủng khiếp đối với những người dùng có phần tiền tương đối lớn hơn của họ không được đặt cược để sử dụng mạng và sẽ bị đánh thuế phí cắt cổ chỉ vì không đặt cược. Điều này diễn ra như thế nào trong thời gian dài là điều không thể biết được, nhưng nó có nguy cơ làm hỏng tiện ích và giá trị của tất cả các mạng PoS, dẫn đến vòng xoáy chết chóc của sự suy giảm giá trị ngày càng tăng.
 
-
-
 ### 33% tấn công
 
 Chuỗi Proof of Stake có thể bị gián đoạn vĩnh viễn nếu kẻ tấn công có được 33% tài sản đặt cọc, nhất thiết phải ít hơn 33% tổng số tiền.
-
-
 
 > Vì vậy, nếu giao thức PoS trung bình có hơn 70% số mã thông báo được đặt cọc, thì bạn cần phải có được ~25% tổng số mã thông báo chưa thanh toán của giao thức để khởi động một cuộc tấn công. Mặc dù mỗi PoS đều khác nhau, nhưng 33% nói chung chỉ đủ để tạm dừng chuỗi nên không thể đạt được sự đồng thuận và tạo ra các khối mới, chứ không thực sự thực hiện chi tiêu gấp đôi. Đối với điều đó, bạn cần một con số khổng lồ 66%.
 > 
@@ -172,17 +146,13 @@ Chuỗi Proof of Stake có thể bị gián đoạn vĩnh viễn nếu kẻ tấ
 
 Một số ý kiến cho rằng không có động cơ kinh tế trực tiếp _để gây ra một cuộc tấn công như vậy bởi vì kẻ tấn công có nguy cơ làm giảm giá_ nắm giữ của họ, điều này có thể đúng, nhưng đây cũng là một sự thừa nhận rằng chuỗi Proof of Stake dễ bị tạm dừng 33% thông qua _gián tiếp_ khuyến khích kinh tế như bán khống. Quan trọng hơn, các chuỗi PoS dễ bị tấn công 33% từ các tác nhân như các quốc gia, nơi các khuyến khích tài chính không phải là động lực chính, cho thấy rằng _Khả năng kiểm duyệt cấp có chủ quyền_ không phải là đối tượng đáng lo ngại.
 
-
-
 ### Công viên vĩnh viễn tinh khiết
 
-Cuộc tấn công _33% của Proof of Stake_ là một vấn đề lớn hơn nhiều so với cuộc tấn công 51%</em>của Proof of Work _, cuộc tấn công thứ hai không phải là vĩnh viễn vì nó có chi phí điện bên ngoài liên tục, khiến chúng trở nên đắt đỏ một cách phi thực tế để thực hiện trong thời gian dài. Hơn nữa, vì các cuộc tấn công 51% có chi phí trả trước và không giống như các cuộc tấn công 33%, không được đảm bảo thành công, nên sẽ có ít động lực để thực hiện chúng, chứ chưa nói đến chi phí duy trì chúng.</p> 
+Cuộc tấn công _33% của Proof of Stake_ là một vấn đề lớn hơn nhiều so với cuộc tấn công 51% của Proof of Work, cuộc tấn công thứ hai không phải là vĩnh viễn vì nó có chi phí điện bên ngoài liên tục, khiến chúng trở nên đắt đỏ một cách phi thực tế để thực hiện trong thời gian dài. Hơn nữa, vì các cuộc tấn công 51% có chi phí trả trước và không giống như các cuộc tấn công 33%, không được đảm bảo thành công, nên sẽ có ít động lực để thực hiện chúng, chứ chưa nói đến chi phí duy trì chúng.
 
 Mặc dù các cuộc tấn công 51% trong các hệ thống Proof of Work có thể gây hại, nhưng chúng chỉ thực sự ảnh hưởng trực tiếp đến những người phải chi tiêu gấp đôi; chủ yếu là trao đổi và không phải là người nắm giữ dài hạn không giao dịch thường xuyên. Ngược lại, các cuộc tấn công 33% có thể ngăn chặn chuỗi vĩnh viễn trên mạng PoS.
 
 Trên các chuỗi PoS, một khi kẻ tấn công đạt được một ngưỡng cổ phần nhất định, thì chuỗi đó không bao giờ có thể phục hồi; vì kẻ tấn công không cần phải cam kết các tài nguyên bên ngoài, nên chúng không thể bị xóa. Giải pháp duy nhất cho trạng thái thất bại này là hard-forking loại bỏ kẻ tấn công, kẻ tấn công phá vỡ _Mã là Luật_, đánh bại mục đích có một chuỗi khối, thêm tính chủ quan và tiếp tục tập trung hóa chuỗi.
-
-
 
 ### Không có gì ở Stake
 
@@ -196,8 +166,6 @@ Kẻ tấn công có thể thúc đẩy một hard fork gây tranh cãi cố tì
 
 Không giống như một fork Proof of Work độc hại, nơi các công cụ khai thác sẽ lãng phí điện khi khai thác fork mới, những người xác thực trên fork Proof of Stake mới này không chỉ có thể xác thực nó, vì không có gì bị đe dọa, mà còn được khuyến khích làm như vậy nếu có thể. cuối cùng trở thành chuỗi chiến thắng - bên duy nhất có giá trị trong tương lai.
 
-
-
 ### Giải quyết tranh chấp bị gián đoạn
 
 Ngoài ra, giả sử rằng cả hai bên của sự phân chia _do_ nhận ra các bằng chứng chặt chẽ của nhau, thì chuỗi có một vấn đề khác: việc giải quyết các khác biệt hợp pháp về quan điểm sẽ dẫn đến sự phân chia chuỗi trên mạng Proof of Work.
@@ -210,15 +178,11 @@ Không giống như trong Proof of Work, trong đó chuỗi cổ điển có l�
 
 _Lưu ý: Ba lời chỉ trích về Proof of Stake sau đây được phép của [etherplan.com](https://etherplan.com/2019/10/07/why-proof-of-stake-is-less-secure-than-proof-of-work/9077/)_
 
-
-
 ### Sự lựa chọn ngã ba chủ quan
 
 Lựa chọn ngã ba là quy tắc quyết định mà những người tham gia mạng phải sử dụng khi có nhiều hơn một chuỗi khi chuỗi đó bị phân tách, khi họ tham gia lần đầu tiên hoặc khi họ rời khỏi và tham gia lại. Là một tín hiệu vật lý bên ngoài, PoW cho phép lựa chọn fork khách quan rõ ràng dưới dạng “chuỗi bằng chứng công việc dài nhất“. Đó là khách quan vì chỉ với sức mạnh tính toán của toàn mạng thì chuỗi dài nhất mới có thể được thiết lập.
 
 Vì các hệ thống PoS không được tính với số lượng khách quan như vậy để quyết định chuỗi chính xác, nên chúng phải sử dụng quy trình ra quyết định chủ quan của những người tham gia. Điều này có nghĩa là họ cần tham khảo ý kiến ngoài chuỗi với các nhà khám phá khối, nhà phát triển, công cụ khai thác hoặc các nguồn khác để có thể quyết định nên theo chuỗi nào. Điều này áp dụng, trong trường hợp chia tách, cho các nút tham gia trong mạng, những người mới tham gia và các nút rời khỏi và tham gia lại.
-
-
 
 ### Chi phí không thể tưởng tượng được
 
@@ -226,15 +190,11 @@ Một trong những đặc điểm vật lý cơ bản của tiền nguyên vẹ
 
 Thật đơn giản để xác minh một cách khách quan rằng BTC hoặc ETC của chủ sở hữu không phải là giả mạo nhờ phép đo khách quan bên ngoài được nhúng vào mọi tiêu đề khối, nhưng bằng chứng này không tồn tại trong các hệ thống Proof of Stake. Trong các hệ thống PoS, do cơ sở dữ liệu có tài khoản và số dư rất dễ ghi bởi các nút và người đặt cược trong hệ thống, nên không có chi phí khách quan và việc xác minh tính xác thực của các khoản giữ phức tạp hơn nhiều, dễ xảy ra lỗi và có khả năng yêu cầu phần cứng đắt tiền.
 
-
-
 ### Tích lũy công việc
 
 Vì các công cụ khai thác trong chuỗi khối PoW hoạt động trên cơ sở từng khối, công việc đó không chỉ là rào cản đối với các nút không trung thực can thiệp vào các khối hiện tại hoặc khối mới nhất, mà công việc đó thực sự tích lũy khi chuỗi được xây dựng. Điều này có nghĩa là các khối nằm xa hơn trong chuỗi sẽ trở nên khó thay đổi hoặc giả mạo hơn theo cấp số nhân đối với những kẻ tấn công. Ví dụ: tại thời điểm viết bài này, sẽ mất 340 ngày với 100% sức mạnh băm hiện tại trong mạng Bitcoin để có thể đảo ngược toàn bộ chuỗi.
 
 Trong sổ cái phân tán PoS, bởi vì chúng không sử dụng PoW, để đảo ngược toàn bộ chuỗi là công việc tính toán rất nhỏ, vì vậy nó có thể được thực hiện trong vài phút.
-
-
 
 ## Khăn khách sạn
 
@@ -243,8 +203,6 @@ Ngay cả khi lập luận của các nhà bảo vệ môi trường cho Proof o
 Nhưng khi tuyên bố của các nhà bảo vệ môi trường là _chứ không phải_ được tính theo mệnh giá, lựa chọn sử dụng Proof of Stake bắt đầu có ý nghĩa. Giống như một khách sạn yêu cầu khách tái sử dụng khăn tắm để "cứu hành tinh", vị trí của nhà môi trường PoS là một vị trí thuận tiện cũng sẽ làm giàu cho những người nắm giữ các loại tiền nói trên, những người có thể tạo thu nhập thụ động bằng cách đặt cược. Trong mắt họ, đặt cược cho phép họ gặt hái những phần thưởng khi cung cấp chính dịch vụ mà những người khai thác sẽ cung cấp; "khai thác ảo" mà không mất chi phí nào khác ngoài chi phí cơ hội của việc khóa cổ phần.
 
 Có mục đích tốt hay cách khác, động cơ kinh tế khổng lồ này giải thích tại sao bất chấp việc hạ cấp bảo mật đã được khám phá ở trên, không có gì ngạc nhiên khi PoS trở thành một lựa chọn phổ biến đối với những người nắm giữ tiền điện tử và đã quản lý để tuyển dụng nhiều nhà quảng bá nhiệt tình.
-
-
 
 > Proof of Stake giống như khách sạn yêu cầu bạn tái sử dụng khăn tắm để cứu hành tinh. Nhìn bề ngoài, đó là vì những mục đích cao cả, nhưng trên thực tế, nó đang kiếm tiền cho họ và mang lại cho bạn một dịch vụ tồi tệ hơn.
 
