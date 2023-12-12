@@ -23,10 +23,10 @@ items:
         description: Platform voor het bouwen van Dapps voor ETC blockchain.
       ESerialize:
         description: Het doel van deze module is om eenvoudige functies aan te bieden voor het serialiseren en deserialiseren van gegevens voor de Ethereum Stack.
-      Ethereum JSON-RPC API:
-        description: Een specificatie van JSON-RPC-methoden die een EVM-gebaseerde blockchain-client moet implementeren.
       Eth Fiddle:
         description: Online editor voor slimme contracten.
+      Ethereum JSON-RPC API:
+        description: Een specificatie van JSON-RPC-methoden die een EVM-gebaseerde blockchain-client moet implementeren.
       EVM-LLVM:
         description: Niet alleen kunnen ontwikkelaars een groot aantal andere programmeertalen (Rust voor slimme contracten!) dan Solidity gebruiken om zich te richten op de Ethereum Virtual Machine (EVM), ze kunnen ook onmiddellijk profiteren van verschillende ontwikkeltools die gebouwd zijn rond de LLVM-infrastructuur.
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorum is een open source blockchainplatform dat de innovatie van de publieke Ethereumgemeenschap combineert met verbeteringen om de behoeften van ondernemingen te ondersteunen.
       Remix Online IDE:
         description: Een handige in-browser IDE die slimme contracten kan compileren en publiceren naar verschillende Ethereum netwerken. Inclusief een linter.
-      Signatory:
-        description: Een offline transactie en bericht ondertekenaar voor de Ethereum Stack.
       Sidekik:
         description: Debug, test en grok slimme contracten met een visuele gebruikersinterface waarmee u kunt communiceren met lokale of geïmplementeerde EVM-gebaseerde slimme contracten.
+      Signatory:
+        description: Een offline transactie en bericht ondertekenaar voor de Ethereum Stack.
       SOLL:
         description: De LLVM compiler komt eindelijk naar Solidity. Hiermee kunnen we eenvoudig smart contracts maken over meerdere blockchain VM's. De EVM op Ethereum Classic en ETH 2.0's eWASM behoren tot de eerste die we ondersteunen.
       Sputnikvm:
