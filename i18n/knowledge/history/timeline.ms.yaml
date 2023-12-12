@@ -2,6 +2,7 @@ title: Garis Masa Peristiwa
 items:
   frontierRelease:
     title: Ethereum Dilancarkan
+    text: Vitalik Buterin dan The Ethereum Foundation mencipta platform kontrak pintar lengkap Turing berasaskan blockchain pertama dengan keluaran Frontier.
   frontierThawingUpgrade:
     title: Naik Taraf Pencairan Sempadan
     text: Rangkaian ini melaksanakan 'Zaman Ais' di blok 200,000 memperkenalkan Bom Kesukaran, satu mekanisme yang direka untuk mengalihkan mekanisme konsensus rangkaian daripada Bukti Kerja kepada Bukti Pegangan.
@@ -268,8 +269,13 @@ items:
     text: Pembangun teras Ethereum Classic melaksanakan peningkatan protokol rangkaian London ETH untuk mengekalkan pariti operasi dengan rantaian saudaranya.
   etcFlood:
     title: ETC Mengalu-alukan Hashrate Baharu
+    text: Ethereum Classic memberikan sokongan kepada algoritma perlombongan ETChash dan ekosistem perlombongan semasa. Ini meletakkan Ethereum Classic sebagai rangkaian yang berada pada kedudukan yang baik untuk menyerap sebahagian besar pelombong Ethash yang tidak diberi hak dengan langkah rangkaian ETH untuk membuktikan konsensus kepentingan.
   era4:
     title: Era 5M20 4
+    text: Ganjaran blok Ethereum Classic dikurangkan sebanyak 20% kepada 2.56 ETC setiap blok, mengikut jadual pelepasan 5M20 yang diinspirasikan bitcoin. Kadar hash perlombongan ETChash terus bertukar kepada ETC dengan rangkaian mencapai Puncak Sepanjang Masa.
+  sha3Withdrawn:
+    title: Cadangan SHA3 Ditarik Balik
+    text: Selepas lebih daripada tiga tahun perdebatan yang menimbulkan perbalahan, ECIP-1049 ditarik balik kerana kemungkinan berlakunya hardfork yang dipertikaikan. Ethereum Classic kekal dalam kedudukan yang baik untuk berkembang maju di ETChash dalam dunia selepas penggabungan.
   vitalikEndorsesETC:
     title: Vitalik Buterin Menyokong Ethereum Classic
     text: Vitalik Buterin, pengasas bersama Ethereum yang paling terkemuka, memberikan pengesahan rangkaian Ethereum asal-- Ethereum Classic untuk mereka yang menghargai rantaian Bukti Kerja.
