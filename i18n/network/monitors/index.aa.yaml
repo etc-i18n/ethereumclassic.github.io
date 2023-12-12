@@ -18,14 +18,6 @@ items:
   monitors:
     __type: links
     items:
-      etc-network.info:
-        __name: etc-network.info
-        __link: https://etc-network.info
-        description: crwdns124727:0crwdne124727:0
-      ETCNodes:
-        __name: ETCNodes
-        __link: https://etcnodes.org/
-        description: crwdns124733:0crwdne124733:0
       2Miners:
         __name: 2Miners
         __link: https://2miners.com/etc-stats/
@@ -42,6 +34,14 @@ items:
         __name: Emerald Insights
         __link: https://insights.emeraldpay.io/
         description: crwdns124757:0crwdne124757:0
+      etc-network.info:
+        __name: etc-network.info
+        __link: https://etc-network.info
+        description: crwdns124727:0crwdne124727:0
+      ETCNodes:
+        __name: ETCNodes
+        __link: https://etcnodes.org/
+        description: crwdns124733:0crwdne124733:0
       ForkWatch:
         __name: Fork Watch
         __link: https://www.forkwatch.io/
@@ -58,19 +58,15 @@ items:
         __name: Pool Detective
         __link: https://pooldetective.org/
         description: crwdns124781:0crwdne124781:0
-      TokenView:
-        __name: TokenView
-        __link: https://etc.tokenview.com/en/charts
-        description: crwdns124787:0crwdne124787:0
-      WhatToMine:
-        __name: WhatToMine
-        __link: https://whattomine.com/coins/162-etc-ethash
-        description: crwdns124793:0crwdne124793:0
-      Kotti Stats:
-        __name: Kotti Stats
-        __kotti: http://stats.kotti.goerli.net/
-        description: crwdns124799:0crwdne124799:0
+      Tokenview:
+        __name: Tokenview
+        __link: https://etc.tokenview.io
+        description: crwdns128916:0crwdne128916:0
       ua-mining:
         __name: ua-mining
         __link: https://etc-stats.ua-mining.com
         description: crwdns124805:0crwdne124805:0
+      WhatToMine:
+        __name: WhatToMine
+        __link: https://whattomine.com/coins/162-etc-ethash
+        description: crwdns124793:0crwdne124793:0
