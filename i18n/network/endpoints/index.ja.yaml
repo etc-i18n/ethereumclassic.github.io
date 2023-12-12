@@ -1,5 +1,15 @@
 title: パブリックエンドポイント
 seo: MetaMaskや他のアプリケーションを介してETCと対話するために使用できるRPC(Remote Procedure Call)エンドポイントのリストです。
+description: |
+  リモートプロシージャコール（RPC）エンドポイントは、イーサリアムクラシックへのゲートウェイであり、ETCチェーンと通信したり、ETCチェーンからデータを読み取ったりすることができます。最大限の信頼性を得るには、ローカルで[ETC Client](/development/clients)を実行します。ローカルのエンドポイントは通常、`http://localhost:8545`で利用可能になります。
+
+  パブリックなEthereum Classic RPCエンドポイントも利用可能で、コミュニティに対して無料で提供されるか、サブスクリプションサービスとして提供される。MetaMask](/guides/metamask)のようなウォレットを使用してローカルでトランザクションに署名し、ブロードキャストすることができるため、秘密鍵の保管を維持しながらパブリックエンドポイントを使用することができます。
+
+  ウォレットやデプロイツールの設定を更新することで、これらのURLを使用してETC（またはそのテストネット）で取引やデプロイを行うことができます。また、Ethereum Classic メインネットのチェーン ID を `61` に変更してください。
+
+  他のネットワークの詳細については、[testnets](/development/testnets) セクションをチェックしてください。
+
+  **[ChainList.org](https://chainlist.org/chain/61)でリアルタイム監視されているETC RPCエンドポイントのいずれかを選択することを推奨します。**
 items:
   endpoints:
     columnItems:
