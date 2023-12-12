@@ -25,6 +25,8 @@ items:
         description: Povijesne poteškoće, poteškoće, vrijeme bloka i cijena.
       PoolDetective:
         description: Skupovi za rudarenje važni su igrači u kriptovalutama s dokazom o radu. Ali tko nadzire na čemu govore svojim rudarima da rade? MIT-ova Inicijativa za digitalnu valutu započela je projekt u ljeto 2019. za početak praćenja ponašanja bazena za rudarenje.
+      Tokenview:
+        description: Tokenview pruža General Multi-Crypto Blockchain Explorer prema broju pokrivenih javnih blockchaina, brzu i stabilnu blockchain API uslugu, koja služi milijunima korisnika, tvrtki, projekata i financijskih institucija od 2017. godine.
       ua-mining:
         description: Ethereum Classic nadzorna ploča statistike.
       WhatToMine:
