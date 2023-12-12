@@ -25,6 +25,8 @@ items:
         description: Dificultad histórica, dificultad, tiempo de bloqueo y precio.
       PoolDetective:
         description: Los pools de minería son actores importantes en las criptomonedas proof-of-work. Pero, ¿quién supervisa lo que les dicen a sus mineros que trabajen? La Iniciativa de Moneda Digital del MIT inició un proyecto en el verano de 2019 para comenzar a monitorear el comportamiento de los pools de minería.
+      Tokenview:
+        description: Tokenview proporciona un Explorador General de Blockchain Multi-Crypto por número de blockchains públicos cubiertos, un servicio de API de blockchain Rápido y Estable, sirviendo a millones de usuarios, empresas, proyectos e instituciones financieras desde 2017.
       ua-mining:
         description: Panel de estadísticas de Ethereum Classic.
       WhatToMine:
