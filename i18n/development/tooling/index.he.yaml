@@ -23,10 +23,10 @@ items:
         description: פלטפורמה לבניית Dapps עבור blockchain ETC.
       ESerialize:
         description: המטרה של מודול זה היא לספק פונקציות קלות להסדרה ולדה-סריאליזציה של נתונים עבור ערימת Ethereum.
-      Ethereum JSON-RPC API:
-        description: מפרט של שיטות JSON-RPC שלקוח בלוקצ'יין מבוסס EVM חייב ליישם.
       Eth Fiddle:
         description: עורך מקוון לחוזים חכמים.
+      Ethereum JSON-RPC API:
+        description: מפרט של שיטות JSON-RPC שלקוח בלוקצ'יין מבוסס EVM חייב ליישם.
       EVM-LLVM:
         description: לא רק שמפתחים יכולים להשתמש בהיקף גדול של שפות תכנות (חלודה לחוזים חכמים!) מלבד Solidity כדי למקד את ה-Ethereum Virtual Machine (EVM), הם גם יכולים ליהנות מיד מכלי פיתוח שונים שנבנו סביב תשתית LLVM.
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorum היא פלטפורמת בלוקצ'יין בקוד פתוח המשלבת את החדשנות של קהילת Ethereum הציבורית עם שיפורים לתמיכה בצרכי הארגון.
       Remix Online IDE:
         description: IDE שימושי בדפדפן שיכול להרכיב ולפרסם חוזים חכמים לרשתות Ethereum שונות. כולל לינטר.
-      Signatory:
-        description: חותם עסקאות והודעות לא מקוונות עבור ערימת Ethereum.
       Sidekik:
         description: בצע ניקוי באגים, בדוק ופתח חוזים חכמים עם ממשק משתמש חזותי המאפשר לך ליצור אינטראקציה עם חוזים חכמים מקומיים או פרוסים מבוססי EVM.
+      Signatory:
+        description: חותם עסקאות והודעות לא מקוונות עבור ערימת Ethereum.
       SOLL:
         description: מהדר LLVM סוף סוף מגיע ל-Solidity. בעזרתו, אנו יכולים ליצור חוזים חכמים בקלות על פני מספר VMs בלוקצ'יין. ה-EVM על Ethereum Classic ו-eWASM של ETH 2.0 הם בין הראשונים שבהם אנו תומכים.
       Sputnikvm:
