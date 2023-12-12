@@ -23,10 +23,10 @@ items:
         description: Plataforma para construção de Dapps para blockchain ETC.
       ESerialize:
         description: O objetivo deste módulo é fornecer funções fáceis para serializar e desserializar dados para o Ethereum Stack.
-      Ethereum JSON-RPC API:
-        description: Uma especificação de métodos JSON-RPC que um cliente blockchain baseado em EVM deve implementar.
       Eth Fiddle:
         description: Editor online para contratos inteligentes.
+      Ethereum JSON-RPC API:
+        description: Uma especificação de métodos JSON-RPC que um cliente blockchain baseado em EVM deve implementar.
       EVM-LLVM:
         description: Os desenvolvedores não apenas podem usar um amplo escopo de linguagens de programação (Rust para contratos inteligentes!) Além do Solidity para direcionar a Ethereum Virtual Machine (EVM), como também podem se beneficiar imediatamente de várias ferramentas de desenvolvimento construídas em torno da infraestrutura LLVM.
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorum é uma plataforma blockchain de código aberto que combina a inovação da comunidade pública Ethereum com melhorias para atender às necessidades corporativas.
       Remix Online IDE:
         description: Um IDE útil no navegador que pode compilar e publicar contratos inteligentes para várias redes Ethereum. Inclui linter.
-      Signatory:
-        description: Uma transação offline e assinante de mensagens para o Ethereum Stack.
       Sidekik:
         description: Depure, teste e grok contratos inteligentes com uma interface de usuário visual que permite interagir com contratos inteligentes baseados em EVM locais ou implantados.
+      Signatory:
+        description: Uma transação offline e assinante de mensagens para o Ethereum Stack.
       SOLL:
         description: O compilador LLVM está finalmente chegando ao Solidity. Com ele, podemos criar facilmente contratos inteligentes em várias VMs de blockchain. O EVM no Ethereum Classic e o eWASM do ETH 2.0 estão entre os primeiros que oferecemos suporte.
       Sputnikvm:
