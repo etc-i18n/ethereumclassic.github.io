@@ -2,6 +2,7 @@ title: 事件時間表
 items:
   frontierRelease:
     title: 以太坊推出
+    text: Vitalik Buterin 和以太坊基金會透過 Frontier 版本創建了第一個基於區塊鏈的圖靈完備智能合約平台。
   frontierThawingUpgrade:
     title: 邊境解凍升級
     text: 該網絡在第 200,000 個區塊實施了“冰河時代”，引入了難度炸彈，該機制旨在將網絡的共識機制從工作量證明轉移到權益證明。
@@ -268,8 +269,13 @@ items:
     text: Ethereum Classic 核心開發人員實施 ETH 的倫敦網絡協議升級，以保持與其姊妹鏈的操作對等。
   etcFlood:
     title: ETC 歡迎新算力
+    text: 以太坊經典致力於支援 ETCash 挖礦演算法和目前的挖礦生態系統。這使得以太經典成為一個能夠吸收大多數被剝奪權利的 Ethash 礦工的網絡，同時 ETH 網路也將轉向權益證明共識。
   era4:
     title: 5M20時代4
+    text: 根據比特幣啟發的 5M20 排放計劃，以太坊經典的區塊獎勵減少了 20%，至每個區塊 2.56 ETC。 ETCash 挖礦算力繼續轉向 ETC，網路達到歷史新高。
+  sha3Withdrawn:
+    title: SHA3 提案已撤回
+    text: 經過三年多的爭議性辯論，ECIP-1049 由於可能發生有爭議的硬分叉而被撤回。以太經典仍然處於有利位置，可以在合併後的世界中在 ETCash 上蓬勃發展。
   vitalikEndorsesETC:
     title: Vitalik Buterin 支持以太坊經典
     text: 以太坊最著名的聯合創始人 Vitalik Buterin 對最初的以太坊網絡——以太坊經典為那些重視工作量證明鏈的人提供了支持。
