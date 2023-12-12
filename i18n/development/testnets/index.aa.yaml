@@ -1,12 +1,13 @@
 title: crwdns120291:0crwdne120291:0
-__updated: 2023-04-03
+__updated: 2023-11-27
 __contribute: 1
 seo: crwdns120297:0crwdne120297:0
 description: |
-  crwdns120299:0crwdne120299:0
+  crwdns128934:0crwdne128934:0
 __contributors:
   - gitr0n1n
   - IstoraMandiri
+  - chris-mercer
 items:
   testnets:
     __type: table
@@ -38,21 +39,12 @@ items:
       chainId:
         name: crwdns120341:0crwdne120341:0
     items:
-      Testnet Kotti:
-        __name: Kotti
-        __chainId: 6
-        __type: testnet
-        __networkId: 6
-        __link: https://github.com/goerli/testnet
-        __faucet: http://kottifaucet.me/
-        __consensusAlgo: poa
-        __miningAlgo: Clique
       Testnet Mordor:
-        __name: Mordor
+        __name: Mordor Testnet
         __chainId: 63
         __type: testnet
         __networkId: 7
-        __link: https://github.com/eth-classic/mordor
-        __faucet: https://mordor.canhaz.net/
+        __link: https://github.com/mordortestnet
+        __faucet: 'https://easy.hebeswap.com/#/faucet'
         __consensusAlgo: pow
         __miningAlgo: Etchash
