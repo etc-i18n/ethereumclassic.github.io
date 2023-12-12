@@ -51,6 +51,10 @@ items:
         description: LLVM kompajler konačno dolazi u Solidity. S njim možemo jednostavno stvoriti pametne ugovore na više blockchain VM-ova. EVM na Ethereum Classic i eWASM ETH 2.0 među prvima su koje podržavamo.
       Sputnikvm:
         description: SputnikVM je samostalna implementacija Ethereum Virtual Machine (EVM) otvorenog koda. Cilj mu je biti učinkovit virtualni stroj koji se može priključiti za različite blockchaine temeljene na Ethereumu.
+      thirdweb:
+        description: Sve što vam je potrebno za povezivanje vaših aplikacija ili igara s decentraliziranim mrežama. Snažni alati koji pojednostavljuju web3 razvoj.
+      Tokenview:
+        description: Jedinstveni okvir za interakciju s više od 120 blockchaina. Tokenview blockchain API-ji imaju snažne krajnje točke koje pojednostavljuju složene blockchain podatke u pojedinačne API pozive. Kod za sve podržane lance blokova pomoću unificiranih API poziva. Odavde za jednostavno dobivanje transakcije, adrese, goriva, ugovora, tokena, NFT-a, zapisa i svih informacija iz lanca. I da, također možete poslati tx lancu. Konfiguracija jednim klikom s APIKeyem pomaže programerima da koriste, stvaraju i grade.
       Truffle Suite:
         description: Razvojno okruženje svjetske klase, okvir za testiranje i cjevovod imovine za blockchaine koji koriste Ethereum Virtual Machine (EVM), s ciljem da život programera učini lakšim.
   nodeTools:
