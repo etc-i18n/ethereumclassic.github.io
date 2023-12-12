@@ -140,7 +140,7 @@ crwdns127221:0crwdne127221:0
 
 crwdns127223:0crwdne127223:0 crwdns127225:0crwdne127225:0
 
-> crwdns127227:0crwdne127227:0 crwdns127229:0[counter-attack]crwdne127229:0 crwdns127231:0crwdne127231:0
+> crwdns127227:0crwdne127227:0 crwdns127229:0crwdne127229:0 crwdns127231:0crwdne127231:0
 > 
 > - [crwdns127235:0crwdne127235:0](https://blog.slock.it/a-dao-counter-attack-613548408dd7#.sthdgppgx)
 
@@ -176,7 +176,7 @@ crwdns127291:0crwdne127291:0 crwdns127293:0crwdne127293:0 crwdns127295:0crwdne12
 
 crwdns127297:0crwdne127297:0 crwdns127299:0crwdne127299:0
 
-> crwdns127301:0crwdne127301:0 crwdns127303:0[redacted]crwdne127303:0
+> crwdns127301:0crwdne127301:0 crwdns127303:0crwdne127303:0
 > 
 > - [crwdns127307:0crwdne127307:0](https://twitter.com/slockitproject/status/743790901877706752)
 
@@ -304,7 +304,7 @@ crwdns127531:0crwdne127531:0 crwdns127533:0crwdne127533:0 crwdns127535:0crwdne12
 
 ### crwdns127539:0crwdne127539:0
 
-crwdns127541:0[sic]crwdne127541:0 crwdns127543:0crwdne127543:0 crwdns127545:0crwdne127545:0 crwdns127547:0crwdne127547:0
+crwdns127541:0crwdne127541:0 crwdns127543:0crwdne127543:0 crwdns127545:0crwdne127545:0 crwdns127547:0crwdne127547:0
 
 crwdns127549:0crwdne127549:0 crwdns127551:0crwdne127551:0
 
@@ -330,7 +330,7 @@ crwdns127597:0crwdne127597:0 crwdns127599:0crwdne127599:0
 
 crwdns127601:0crwdne127601:0
 
-> crwdns127603:0[...]crwdne127603:0
+> crwdns127603:0crwdne127603:0
 > 
 > - [crwdns127607:0crwdne127607:0](https://blog.bitmex.com/revisiting-the-dao/)
 
