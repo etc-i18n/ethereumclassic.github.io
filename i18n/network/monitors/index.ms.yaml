@@ -25,6 +25,8 @@ items:
         description: Kesukaran sejarah, kesukaran, masa blok dan harga.
       PoolDetective:
         description: Kolam perlombongan ialah pemain penting dalam mata wang kripto bukti kerja. Tetapi siapa yang memantau apa yang mereka beritahu pelombong mereka untuk diusahakan? Inisiatif Mata Wang Digital MIT memulakan projek pada musim panas 2019 untuk mula memantau gelagat kolam perlombongan.
+      Tokenview:
+        description: Tokenview menyediakan Penjelajah Rantaian Blok Berbilang Kripto Am mengikut bilangan blok blok awam yang dilindungi, perkhidmatan API blokchain Pantas dan Stabil, berkhidmat kepada berjuta-juta pengguna, perniagaan, projek dan institusi kewangan sejak 2017.
       ua-mining:
         description: Papan pemuka statistik Ethereum Classic.
       WhatToMine:
