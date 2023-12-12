@@ -2,6 +2,7 @@ title: ציר זמן של אירועים
 items:
   frontierRelease:
     title: Ethereum השקות
+    text: Vitalik Buterin ו-The Ethereum Foundation יצרו את פלטפורמת החוזה החכם הראשונה מבוססת בלוקצ'יין של Turing עם שחרור Frontier.
   frontierThawingUpgrade:
     title: שדרוג הפשרת גבולות
     text: הרשת מיישמת 'עידן הקרח' בבלוק 200,000 ומציגה את פצצת הקושי, מנגנון שנועד להרחיק את מנגנון הקונצנזוס של הרשת מ-Proof-of-Work ל-Proof-of-Stake.
@@ -268,8 +269,13 @@ items:
     text: מפתחי הליבה של Ethereum Classic מיישמים את שדרוגי פרוטוקול הרשת בלונדון של ETH כדי לשמור על שוויון תפעולי עם הרשת האחות שלה.
   etcFlood:
     title: ETC מברכת את ה-Hashrate החדש
+    text: Ethereum Classic מתחייבת לתמיכה באלגוריתם הכרייה של ETChash ובמערכת האקולוגית הנוכחית של הכרייה. זה ממצב את Ethereum Classic כרשת הממוקמת היטב לקלוט את רוב כורי ה-Ethash חסרי הזכויות עם המהלך של רשת ETH להוכחת הסכמה על הימור.
   era4:
     title: 5M20 עידן 4
+    text: תגמולי הבלוק של Ethereum Classic מופחתים ב-20% ל-2.56 ETC לכל בלוק, בהתאם ללוח הזמנים של פליטת 5M20 בהשראת הביטקוין. ההאשרט לכריית ETChash ממשיך לעבור ל-ETC כשהרשת מגיעה לשיאי כל הזמנים.
+  sha3Withdrawn:
+    title: הצעת SHA3 בוטלה
+    text: לאחר יותר משלוש שנים של ויכוחים שנוי במחלוקת, ECIP-1049 נסגר עקב הסבירות ל-hardfork שנוי במחלוקת. Ethereum Classic נשאר במיקום טוב כדי לשגשג ב-ETChash בעולם שלאחר המיזוג.
   vitalikEndorsesETC:
     title: Vitalik Buterin מאשר את Ethereum Classic
     text: Vitalik Buterin, המייסד המשותף הבולט ביותר של Ethereum, נותן תמיכה לרשת Ethereum המקורית - Ethereum Classic למי שמעריך רשתות Proof-of-Work.
