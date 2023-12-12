@@ -25,6 +25,8 @@ items:
         description: 历史难度，难度，块状时间和价格。
       PoolDetective:
         description: 矿池是工作证明型加密货币的重要参与者。但谁来监督他们告诉矿工的工作内容？麻省理工学院的数字货币倡议在2019年夏天启动了一个项目，开始监测矿池的行为。
+      Tokenview:
+        description: Tokenview 提供一个通用的多加密区块链资源管理器（按覆盖的公共区块链数量计算），一个快速稳定的区块链 API 服务，自 2017 年以来为数百万用户、企业、项目和金融机构提供服务。
       ua-mining:
         description: 以太坊经典统计仪表板。
       WhatToMine:
