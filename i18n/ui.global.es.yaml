@@ -43,6 +43,16 @@ search:
 qa:
   show: Mostrar todas las respuestas
   hide: Ocultar todas las respuestas
+##
+## Announcement Banner
+announcement:
+  text: |
+    La actualización de la red espiral se activará en el bloque 19.250.000, cuya llegada está prevista para el 31 de enero de 2024. Asegúrese de que el software de su nodo está actualizado a la última versión.
+  button:
+    text: "Más información"
+## Global Disclaimer
+disclaimer: |
+  El contenido de este sitio web es generado por los usuarios y tiene fines exclusivamente informativos. No interprete ningún contenido como una aprobación de ningún producto o servicio. No hay "nada oficial" en Ethereum Classic. Investigue siempre por su cuenta y recuerde: ¡no confíe, verifique!
 ## Footer
 signOff: Hecho con `<3` para la visión original de Ethereum
 socialHilight: La comunidad ETC está activa en Discord
