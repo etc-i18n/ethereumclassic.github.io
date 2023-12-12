@@ -7,7 +7,7 @@ items:
     __color: blue
     __icon: rocket
     __link: https://blog.ethereum.org/2015/07/30/ethereum-launches/
-    text: crwdns121701:0crwdne121701:0
+    text: crwdns128880:0crwdne128880:0
   frontierThawingUpgrade:
     title: crwdns121703:0crwdne121703:0
     __block: 200,000
@@ -650,14 +650,7 @@ items:
     __color: green
     __icon: cubes
     __link: /blog/2022-03-18-etc-welcomes-ethash-miners
-    text: crwdns122809:0crwdne122809:0
-  etcdao:
-    title: crwdns122811:0crwdne122811:0
-    __date: 2022-04-11
-    __color: white
-    __icon: userNinja
-    __link: https://ethereumclassic.com/roadmap
-    text: crwdns122821:0crwdne122821:0
+    text: crwdns128882:0crwdne128882:0
   era4:
     title: crwdns122823:0crwdne122823:0
     __block: 15,000,001
@@ -665,21 +658,14 @@ items:
     __color: green
     __icon: coins
     __link: https://etcis.money
-    text: crwdns122835:0crwdne122835:0
+    text: crwdns128884:0crwdne128884:0
   sha3Withdrawn:
-    title: crwdns122837:0crwdne122837:0
+    title: crwdns128886:0crwdne128886:0
     __date: 2022-05-20
     __color: orange
     __icon: timesCircle
     __link: https://github.com/ethereumclassic/ECIPs/pull/486
-    text: crwdns122847:0crwdne122847:0
-  etcswap:
-    title: crwdns122849:0crwdne122849:0
-    __date: 2022-06-18
-    __color: green
-    __icon: rocket
-    __link: https://etcswap.org
-    text: crwdns122859:0crwdne122859:0
+    text: crwdns128888:0crwdne128888:0
   vitalikEndorsesETC:
     title: crwdns122861:0crwdne122861:0
     __date: 2022-07-22
