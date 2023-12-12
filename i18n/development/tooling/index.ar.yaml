@@ -23,10 +23,10 @@ items:
         description: منصة لبناء Dapps لـ ETC blockchain.
       ESerialize:
         description: الهدف من هذه الوحدة هو توفير وظائف سهلة لتسلسل البيانات وإلغاء تسلسلها لمجموعة Ethereum Stack.
-      Ethereum JSON-RPC API:
-        description: مواصفات طرق JSON-RPC التي يجب على عميل blockchain المستند إلى EVM تنفيذها.
       Eth Fiddle:
         description: محرر على الإنترنت للعقود الذكية.
+      Ethereum JSON-RPC API:
+        description: مواصفات طرق JSON-RPC التي يجب على عميل blockchain المستند إلى EVM تنفيذها.
       EVM-LLVM:
         description: لا يمكن للمطورين فقط استخدام نطاق كبير من لغات البرمجة (Rust للعقود الذكية!) بخلاف Solidity لاستهداف جهاز Ethereum Virtual Machine (EVM) ، بل يمكنهم أيضًا الاستفادة على الفور من أدوات التطوير المتنوعة المبنية حول البنية التحتية لـ LLVM.
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorum هي عبارة عن منصة blockchain مفتوحة المصدر تجمع بين ابتكار مجتمع Ethereum العام مع التحسينات لدعم احتياجات المؤسسة.
       Remix Online IDE:
         description: IDE مفيد في المتصفح يمكنه تجميع ونشر العقود الذكية لشبكات Ethereum المختلفة. يشمل لينتر.
-      Signatory:
-        description: معاملة غير متصلة بالإنترنت وموقّع رسائل لمكدس Ethereum Stack.
       Sidekik:
         description: تصحيح الأخطاء واختبارها وفحص العقود الذكية باستخدام واجهة مستخدم مرئية تتيح لك التفاعل مع العقود الذكية المحلية أو المنشورة المستندة إلى EVM.
+      Signatory:
+        description: معاملة غير متصلة بالإنترنت وموقّع رسائل لمكدس Ethereum Stack.
       SOLL:
         description: مترجم LLVM قادم أخيرًا إلى Solidity. باستخدامه ، يمكننا بسهولة إنشاء عقود ذكية عبر أجهزة افتراضية متعددة لـ blockchain. يعد EVM على Ethereum Classic و eWASM الخاص بـ ETH 2.0 من بين أول الأجهزة التي ندعمها.
       Sputnikvm:
