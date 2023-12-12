@@ -1,5 +1,16 @@
 title: Testnetten
 seo: Informatie over de verschillende Ethereum Classic-testnetten, met openbaar beschikbare netwerken die kunnen worden gebruikt om contracten en protocolupgrades te testen.
+description: |
+  Bij het ontwikkelen van contracten op Ethereum Classic wordt, net als bij elk ander EVM Contractsysteem, geadviseerd om een lokaal [virtueel netwerk](/development/tooling) te gebruiken, waarmee je snel kunt itereren zonder te hoeven wachten tot er blokken gemined zijn. Op een bepaald moment wil je echter misschien het publiek laten communiceren met een bètaversie van je applicatie, en hiervoor kan een testnet worden gebruikt.
+
+  Omdat Ethereum Classic compatibel blijft met de upstream EVM van Ethereum, zullen contracten zich identiek gedragen, afgezien van enkele kleine randgevallen. Dit betekent dat populaire Ethereum testnets voor het grootste deel gebruikt kunnen worden voor het publiekelijk testen van Ethereum Classic contracten, en vanwege hun populariteit kan dit de voorkeur hebben voor het testen door gebruikers.
+
+  Daarnaast heeft Ethereum Classic zijn eigen testnets die de Ethereum Classic versie van de EVM draaien, en het inzetten op een van deze netwerken wordt ook sterk aangeraden voor de productie release. Deze publieke testnets bieden ook faucets, zodat je gemakkelijk testnet ETC kunt verkrijgen en je code kunt implementeren.
+
+  Als een faucet niet goed werkt, sluit je dan aan bij de Ethereum Classic Community [Discord](https://ethereumclassic.org/discord) om te pingen voor testnetfondsen. Iemand in de dev-general chatroom zal je helpen. Je kunt ook gemakkelijk je eigen testnetfondsen delven door lokaal [core-geth](https://etclabscore.github.io/core-geth/getting-started/installation/) uit te voeren met het commando "geth --mordor --mine".
+
+  Je kunt [chainlist.org](https://chainlist.org) gebruiken om je web3 portemonnee te configureren met de juiste RPC eindpunten en explorers.
+  Portemonnee configureren: [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
