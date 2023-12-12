@@ -43,13 +43,6 @@ search:
 qa:
   show: 显示所有答案
   hide: 隐藏所有答案
-##
-## Announcement Banner
-announcement:
-  text: |
-    这个网站现在通过机器学习被翻译成多种语言。单击页面右上角的标志以更改语言。如果您想帮助更正翻译，请联系我们！
-  button:
-    text: "帮助翻译"
 ## Footer
 signOff: 用`<3`制作的原始以太坊愿景
 socialHilight: ETC社区在Discord上很活跃
