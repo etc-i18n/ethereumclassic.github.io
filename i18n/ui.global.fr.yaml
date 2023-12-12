@@ -43,13 +43,6 @@ search:
 qa:
   show: Afficher toutes les réponses
   hide: Masquer toutes les réponses
-##
-## Announcement Banner
-announcement:
-  text: |
-    Ce site Web est maintenant traduit en plusieurs langues grâce à l'apprentissage automatique. Cliquez sur le drapeau en haut à droite de la page pour changer de langue. Si vous souhaitez aider à corriger les traductions, contactez-nous !
-  button:
-    text: "Aide à la traduction"
 ## Footer
 signOff: Réalisé avec `<3` pour la vision originale d'Ethereum
 socialHilight: La communauté ETC est active sur Discord
