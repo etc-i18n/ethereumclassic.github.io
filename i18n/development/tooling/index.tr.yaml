@@ -51,6 +51,10 @@ items:
         description: LLVM derleyicisi nihayet Solidity'ye geliyor. Bununla birlikte, birden fazla blok zinciri VM'sinde kolayca akıllı sözleşmeler oluşturabiliyoruz. Ethereum Classic'teki EVM ve ETH 2.0'ın eWASM'ı ilk desteklediklerimiz arasında.
       Sputnikvm:
         description: SputnikVM, Ethereum Sanal Makinesi'nin (EVM) açık kaynaklı bağımsız bir uygulamasıdır. Farklı Ethereum tabanlı blok zincirleri için verimli, takılabilir bir sanal makine olmayı amaçlamaktadır.
+      thirdweb:
+        description: Uygulamalarınızı veya oyunlarınızı merkezi olmayan ağlara bağlamak için ihtiyacınız olan her şey. Web3 geliştirmeyi basitleştiren güçlü araçlar.
+      Tokenview:
+        description: 120'den fazla blok zinciri ile etkileşim için birleşik bir çerçeve. Tokenview blockchain API'leri, karmaşık blockchain verilerini tek API çağrılarına basitleştiren güçlü uç noktalara sahiptir. Birleştirilmiş API çağrılarını kullanarak desteklenen tüm blok zincirleri için kod. Buradan kolayca işlem, adres, gaz, sözleşme, token, NFT, günlükler ve zincirden herhangi bir bilgi almak için. Ve evet, zincire tx de gönderebilirsiniz. APIKey ile tek tıklamayla yapılandırma, geliştiricilerin Kullanmasına, Oluşturmasına ve Oluşturmasına yardımcı olur.
       Truffle Suite:
         description: Ethereum Sanal Makinesi (EVM) kullanan blok zincirleri için dünya standartlarında bir geliştirme ortamı, test çerçevesi ve varlık hattı, bir geliştirici olarak hayatı kolaylaştırmayı amaçlamaktadır.
   nodeTools:
