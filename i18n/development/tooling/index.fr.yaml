@@ -51,6 +51,10 @@ items:
         description: Le compilateur LLVM arrive enfin dans Solidity. Grâce à lui, nous pouvons facilement créer des contrats intelligents sur plusieurs VM de blockchain. L'EVM sur Ethereum Classic et l'eWASM de ETH 2.0 sont parmi les premiers que nous prenons en charge.
       Sputnikvm:
         description: SputnikVM est une implémentation autonome open source de la machine virtuelle Ethereum (EVM). Elle vise à être une machine virtuelle efficace et enfichable pour différentes blockchains basées sur Ethereum.
+      thirdweb:
+        description: Tout ce dont vous avez besoin pour connecter vos applications ou jeux à des réseaux décentralisés. Des outils puissants qui simplifient le développement web3.
+      Tokenview:
+        description: Un cadre unifié pour interagir avec plus de 120+ blockchains. Les API blockchain de Tokenview ont des points d'extrémité puissants qui simplifient les données blockchain complexes en appels API uniques. Code pour toutes les blockchains supportées en utilisant des appels d'API unifiés. A partir d'ici, vous pouvez facilement obtenir la transaction, l'adresse, le gaz, le contrat, le jeton, le NFT, les journaux et toutes les informations de la chaîne. Et oui, vous pouvez également envoyer des tx à la chaîne. La configuration en un clic avec APIKey aide les développeurs à utiliser, à créer, à construire.
       Truffle Suite:
         description: Un environnement de développement, un cadre de test et un pipeline d'actifs de classe mondiale pour les blockchains utilisant la machine virtuelle Ethereum (EVM), visant à faciliter la vie des développeurs.
   nodeTools:
