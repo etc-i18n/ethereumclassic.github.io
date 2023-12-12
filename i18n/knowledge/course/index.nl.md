@@ -1,17 +1,17 @@
 ---
-title: Ethereum Classic Course
+title: Cursus Ethereum Klassiek
 author: Donald McIntyre
 contributors:
   - DonaldMcIntyre
 ---
 
-This course is meant to be a detailed explanation of each part of Ethereum Classic, but to accomplish this task it is necessary to learn the background of the blockchain industry, how everything works, what is in store for the future of the sector, and how Ethereum Classic fits in all this.
+Deze cursus is bedoeld als een gedetailleerde uitleg van elk onderdeel van Ethereum Classic, maar om deze taak te volbrengen is het nodig om de achtergrond van de blockchainindustrie te leren, hoe alles werkt, wat er in petto is voor de toekomst van de sector, en hoe Ethereum Classic in dit alles past.
 
-You can watch the full series in the following youtube [playlist](https://www.youtube.com/playlist?list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn).
+Je kunt de volledige serie bekijken in de volgende youtube [afspeellijst](https://www.youtube.com/playlist?list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn).
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?si=1XffePznOEbhmuxT&amp;list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Part 1: History
+## Deel 1: Geschiedenis
 
 - [1: Public-Key Cryptography](/blog/2022-12-22-ethereum-classic-course-1-public-key-cryptography)
 - [2: The Cypherpunks](/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks)
@@ -22,7 +22,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [7: Ethereum Classics Philosophy of Code is Law](/blog/2023-02-02-ethereum-classsic-course-7-ethereum-classics-philosophy-of-code-is-law)
 - [8: Ethereum Classics Monetary Policy](/blog/2023-02-09-ethereum-classic-course-8-ethereum-classics-monetary-policy)
 
-## Part 2: How ETC Works
+## Deel 2: Hoe ETC werkt
 
 - [9: The Units and Denominations of Ethereum Classic](/blog/2023-02-16-ethereum-classic-course-9-the-units-and-denominations-of-ethereum-classic)
 - [10: Proof of Work Explained](/blog/2023-02-23-ethereum-classic-course-10-proof-of-work-explained)
@@ -39,7 +39,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [21: What Are Hardware and Software Wallets](/blog/2023-05-11-ethereum-classic-course-21-what-are-hardware-and-software-wallets)
 - [22: What Are Hot and Cold Wallets](/blog/2023-05-18-ethereum-classic-course-22-what-are-hot-and-cold-wallets)
 
-## Part 3: Industry Organization
+## Deel 3: Organisatie van de industrie
 
 - [23: What Are Native Cryptocurrencies](/blog/2023-05-25-ethereum-classic-course-23-what-are-native-cryptocurrencies)
 - [24: What Are Programmable Native Cryptocurrencies](/blog/2023-06-01-ethereum-classic-course-24-what-are-programmable-native-cryptocurrencies)
@@ -53,7 +53,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [32: What Are Block Explorers](/blog/2023-07-27-ethereum-classic-course-32-what-are-block-explorers)
 - [33: What Centralized and Decentralized Exchanges](/blog/2023-09-07-ethereum-classic-course-33-what-centralized-and-decentralized-exchanges)
 
-## Part 4: What Is in Store for the Future
+## Deel 4: Wat staat de toekomst te wachten?
 
 - [34: The Layers of the Blockchain Industry](/blog/2023-09-14-ethereum-classic-course-34-the-layers-of-the-blockchain-industry)
 - [35: Non-Fungible Tokens (NFTs)](/blog/2023-09-21-ethereum-classic-course-35-non-fungible-tokens-nfts)
