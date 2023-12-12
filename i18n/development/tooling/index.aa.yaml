@@ -178,14 +178,14 @@ items:
         __link: https://eserialize.com/?input=string&output=hex
         __name: ESerialize
         description: crwdns120617:0crwdne120617:0
-      Ethereum JSON-RPC API:
-        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
-        __name: Ethereum JSON-RPC API
-        description: crwdns120623:0crwdne120623:0
       Eth Fiddle:
         __link: https://ethfiddle.com/
         __name: Eth Fiddle
         description: crwdns120629:0crwdne120629:0
+      Ethereum JSON-RPC API:
+        __link: https://github.com/etclabscore/ethereum-json-rpc-specification
+        __name: Ethereum JSON-RPC API
+        description: crwdns120623:0crwdne120623:0
       EVM-LLVM:
         __link: https://github.com/etclabscore/evm_llvm
         __name: EVM-LLVM
@@ -218,14 +218,14 @@ items:
         __link: https://remix.ethereum.org/
         __name: Remix Online IDE
         description: crwdns120677:0crwdne120677:0
-      Signatory:
-        __link: https://signatory.dev/
-        __name: Signatory
-        description: crwdns120683:0crwdne120683:0
       Sidekik:
         __link: https://sidekik.xyz/
         __name: Sidekik
         description: crwdns120689:0crwdne120689:0
+      Signatory:
+        __link: https://signatory.dev/
+        __name: Signatory
+        description: crwdns120683:0crwdne120683:0
       SOLL:
         __link: https://github.com/second-state/soll
         __name: SOLL
@@ -234,6 +234,14 @@ items:
         __link: https://github.com/ETCDEVTeam/sputnikvm
         __name: Sputnikvm
         description: crwdns120701:0crwdne120701:0
+      thirdweb:
+        __name: thirdweb
+        __link: https://thirdweb.com/ethereum-classic
+        description: crwdns128904:0crwdne128904:0
+      Tokenview:
+        __name: Tokenview
+        __link: https://services.tokenview.io
+        description: crwdns128910:0crwdne128910:0
       Truffle Suite:
         __link: https://www.trufflesuite.com/
         __name: Truffle Suite
