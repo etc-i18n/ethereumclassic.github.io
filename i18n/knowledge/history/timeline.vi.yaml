@@ -2,6 +2,7 @@ title: Dòng thời gian sự kiện
 items:
   frontierRelease:
     title: Ra mắt Ethereum
+    text: Vitalik Buterin và The Ethereum Foundation đã tạo ra nền tảng hợp đồng thông minh hoàn chỉnh Turing dựa trên blockchain đầu tiên với bản phát hành Frontier.
   frontierThawingUpgrade:
     title: Nâng cấp làm tan băng biên giới
     text: Mạng thực hiện 'Kỷ băng hà' ở khối 200.000 giới thiệu Quả bom độ khó, một cơ chế được thiết kế để chuyển cơ chế đồng thuận của mạng từ Proof-of-Work sang Proof-of-Stake.
@@ -268,8 +269,13 @@ items:
     text: Các nhà phát triển cốt lõi của Ethereum Classic thực hiện nâng cấp giao thức mạng London của ETH để duy trì hoạt động ngang bằng với chuỗi chị em của nó.
   etcFlood:
     title: ETC chào đón tỷ lệ băm mới
+    text: Ethereum Classic cam kết hỗ trợ thuật toán khai thác ETChash và hệ sinh thái khai thác hiện tại. Điều này định vị Ethereum Classic là một mạng có vị trí tốt để hấp thụ phần lớn các công cụ khai thác Ethash bị tước quyền sở hữu khi mạng ETH chuyển sang bằng chứng về sự đồng thuận cổ phần.
   era4:
     title: 5M20 Kỷ nguyên 4
+    text: Phần thưởng khối của Ethereum Classic giảm 20% xuống còn 2,56 ETC mỗi khối, theo lịch phát hành 5 tháng 20 lấy cảm hứng từ bitcoin. Tốc độ băm khai thác ETChash tiếp tục chuyển sang ETC khi mạng đạt Mức cao nhất mọi thời đại.
+  sha3Withdrawn:
+    title: Đề xuất SHA3 đã được rút lại
+    text: Sau hơn ba năm tranh luận, ECIP-1049 đã bị rút do có khả năng xảy ra một đợt hardfork gây tranh cãi. Ethereum Classic vẫn có vị trí tốt để phát triển mạnh trên ETChash trong thế giới hậu hợp nhất.
   vitalikEndorsesETC:
     title: Vitalik Buterin tán thành Ethereum Classic
     text: Vitalik Buterin, người đồng sáng lập nổi bật nhất của Ethereum, đưa ra sự chứng thực của mạng Ethereum ban đầu - Ethereum Classic cho những người coi trọng chuỗi Proof-of-Work.
