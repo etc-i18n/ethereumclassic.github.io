@@ -25,6 +25,8 @@ items:
         description: Historische moeilijkheid, moeilijkheidsgraad, bloktijd en prijs.
       PoolDetective:
         description: Mijnpools zijn belangrijke spelers in proof-of-work cryptocurrencies. Maar wie controleert waar ze hun miners aan laten werken? MIT's Digital Currency Initiative startte in de zomer van 2019 een project om het gedrag van mining pools te gaan monitoren.
+      Tokenview:
+        description: Tokenview biedt een Algemene Multi-Crypto Blockchain Verkenner door het aantal publieke blockchains dat wordt gedekt, een Snelle en Stabiele blockchain API service, die sinds 2017 miljoenen gebruikers, bedrijven, projecten en financiële instellingen van dienst is.
       ua-mining:
         description: Ethereum Classic stats dashboard.
       WhatToMine:
