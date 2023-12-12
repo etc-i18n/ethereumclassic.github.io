@@ -43,6 +43,16 @@ search:
 qa:
   show: Tunjukkan semua Jawapan
   hide: Sembunyikan semua Jawapan
+##
+## Announcement Banner
+announcement:
+  text: |
+    Peningkatan Rangkaian Lingkaran akan diaktifkan pada blok 19,250,000, yang dianggarkan tiba pada 31 Januari 2024. Sila pastikan perisian nod anda dikemas kini kepada versi terkini.
+  button:
+    text: "Ketahui Lebih Lanjut"
+## Global Disclaimer
+disclaimer: |
+  Kandungan di laman web ini adalah dijana pengguna dan semata-mata untuk tujuan maklumat. Jangan tafsirkan mana-mana kandungan sebagai pengesahan mana-mana produk atau perkhidmatan. "Tiada apa-apa rasmi" dalam Ethereum Classic. Sentiasa lakukan penyelidikan anda sendiri dan ingat: jangan percaya, sahkan!
 ## Footer
 signOff: Dibuat dengan `<3` untuk Wawasan Ethereum Asal
 socialHilight: Komuniti ETC aktif di Discord
