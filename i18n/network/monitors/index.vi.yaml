@@ -25,6 +25,8 @@ items:
         description: Khó khăn lịch sử, độ khó, thời gian chặn và giá cả.
       PoolDetective:
         description: Các nhóm khai thác là những người đóng vai trò quan trọng trong tiền điện tử bằng chứng công việc. Nhưng ai giám sát những gì họ yêu cầu thợ đào của họ làm việc? Sáng kiến tiền tệ kỹ thuật số của MIT đã bắt đầu một dự án vào mùa hè năm 2019 để bắt đầu giám sát hành vi của các nhóm khai thác.
+      Tokenview:
+        description: Tokenview cung cấp Trình khám phá chuỗi khối đa tiền điện tử chung theo số lượng chuỗi khối công khai được bảo hiểm, dịch vụ API chuỗi khối nhanh và ổn định, phục vụ hàng triệu người dùng, doanh nghiệp, dự án và tổ chức tài chính kể từ năm 2017.
       ua-mining:
         description: Bảng điều khiển thống kê Ethereum Classic.
       WhatToMine:
