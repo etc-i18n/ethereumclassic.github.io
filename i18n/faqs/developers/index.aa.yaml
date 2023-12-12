@@ -1,6 +1,6 @@
 title: crwdns120815:0crwdne120815:0
 seo: crwdns120817:0crwdne120817:0
-info: crwdns120819:0[discord]crwdne120819:0
+info: crwdns120819:0crwdne120819:0
 __contribute: 1
 description: crwdns120823:0crwdne120823:0
 items:
@@ -10,7 +10,7 @@ items:
       types:
         question: crwdns120827:0crwdne120827:0
         answer: |
-          crwdns120829:0[apps]crwdne120829:0
+          crwdns120829:0crwdne120829:0
       eth:
         question: crwdns120831:0crwdne120831:0
         answer: |
@@ -18,7 +18,7 @@ items:
       development:
         question: crwdns120835:0crwdne120835:0
         answer: |
-          crwdns120837:0[development]crwdne120837:0
+          crwdns120837:0crwdne120837:0
       deployment:
         question: crwdns120839:0crwdne120839:0
         answer: |
@@ -26,7 +26,7 @@ items:
       rpc:
         question: crwdns120843:0crwdne120843:0
         answer: |
-          crwdns120845:0[ChainList.org]crwdne120845:0
+          crwdns120845:0crwdne120845:0
       grants:
         question: crwdns120847:0crwdne120847:0
         answer: |
@@ -34,4 +34,4 @@ items:
       ecips:
         question: crwdns120851:0crwdne120851:0
         answer: |
-          crwdns120853:0[ECIP]crwdnd120853:0[clients]crwdne120853:0
+          crwdns120853:0crwdne120853:0
