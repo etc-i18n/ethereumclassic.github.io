@@ -25,6 +25,8 @@ items:
         description: Difficulté historique, difficulté, temps de blocage et prix.
       PoolDetective:
         description: Les pools miniers sont des acteurs importants des crypto-monnaies à preuve de travail. Mais qui surveille ce sur quoi ils demandent à leurs mineurs de travailler ? La Digital Currency Initiative du MIT a lancé un projet à l'été 2019 pour commencer à surveiller le comportement des pools de minage.
+      Tokenview:
+        description: Tokenview fournit un explorateur général de blockchain multi-crypto par nombre de blockchains publiques couvertes, un service d'API blockchain rapide et stable, au service de millions d'utilisateurs, d'entreprises, de projets et d'institutions financières depuis 2017.
       ua-mining:
         description: Tableau de bord des statistiques d'Ethereum Classic.
       WhatToMine:
