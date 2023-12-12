@@ -25,6 +25,8 @@ items:
         description: Tarihsel zorluk, zorluk, blok süresi ve fiyat.
       PoolDetective:
         description: Madencilik havuzları, iş ispatı kripto para birimlerinde önemli oyunculardır. Ancak madencilerine ne üzerinde çalışmalarını söylediklerini kim izliyor? MIT'nin Dijital Para Birimi Girişimi, 2019 yazında madencilik havuzlarının davranışlarını izlemeye başlamak için bir proje başlattı.
+      Tokenview:
+        description: Tokenview, 2017'den bu yana milyonlarca kullanıcıya, işletmeye, projeye ve finansal kuruma hizmet veren Hızlı ve Kararlı bir blok zinciri API hizmeti olan, kapsanan halka açık blok zincirlerinin sayısına göre Genel Çoklu Kripto Blok Zinciri Gezgini sağlar.
       ua-mining:
         description: Ethereum Classic istatistik panosu.
       WhatToMine:
