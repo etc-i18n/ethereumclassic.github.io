@@ -71,6 +71,11 @@ learn:
       name: crwdns124079:0crwdne124079:0
       description: crwdns124081:0crwdne124081:0
       navItems:
+        course:
+          __link: /knowledge/course
+          name: crwdns129040:0crwdne129040:0
+          description: crwdns129042:0crwdne129042:0
+          __icon: hat
         foundation:
           __link: /knowledge/foundation
           name: crwdns124085:0crwdne124085:0
