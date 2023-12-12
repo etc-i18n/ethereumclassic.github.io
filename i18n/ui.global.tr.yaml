@@ -43,13 +43,6 @@ search:
 qa:
   show: Tüm Yanıtları Göster
   hide: Tüm Yanıtları Gizle
-##
-## Announcement Banner
-announcement:
-  text: |
-    Bu web sitesi artık makine öğrenimi yoluyla birden çok dile çevrilmiştir. Dili değiştirmek için sayfanın sağ üstündeki bayrağa tıklayın. Çevirilerin düzeltilmesine yardımcı olmak istiyorsanız, lütfen bizimle iletişime geçin!
-  button:
-    text: "Çeviriye Yardım Edin"
 ## Footer
 signOff: Orijinal Ethereum Vizyonu için `<3` ile yapılmıştır
 socialHilight: ETC topluluğu Discord'da aktiftir
