@@ -43,6 +43,16 @@ search:
 qa:
   show: 顯示所有答案
   hide: 隱藏所有答案
+##
+## Announcement Banner
+announcement:
+  text: |
+    螺旋網路升級將於第19,250,000區塊激活，預計2024年1月31日抵達。請確保您的節點軟體更新至最新版本。
+  button:
+    text: "了解更多"
+## Global Disclaimer
+disclaimer: |
+  本網站上的內容由使用者生成，僅供參考。請勿將任何內容解釋為對任何產品或服務的認可。以太坊經典中「沒有任何官方內容」。始終進行自己的研究，並記住：不要相信，要驗證！
 ## Footer
 signOff: 用 `<3` 為最初的以太坊願景製作
 socialHilight: ETC 社區在 Discord 上很活躍
