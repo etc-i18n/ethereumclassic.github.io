@@ -4,7 +4,7 @@ date: crwdns123053:0crwdne123053:0
 updated: crwdns123055:0crwdne123055:0
 author: crwdns123057:0crwdne123057:0
 seo: crwdns123059:0crwdne123059:0
-info: crwdns123061:0crwdne123061:0 crwdns123063:0[etherplan.com]crwdne123063:0
+info: crwdns123061:0crwdne123061:0 crwdns123063:0crwdne123063:0
 contributors:
   - crwdns123065:0crwdne123065:0
 ---
