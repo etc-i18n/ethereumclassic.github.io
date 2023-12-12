@@ -51,6 +51,10 @@ items:
         description: Pengkompil LLVM akhirnya datang ke Solidity. Dengan itu, kami boleh membuat kontrak pintar dengan mudah merentas berbilang VM blockchain. EVM pada Ethereum Classic dan eWASM ETH 2.0 adalah antara yang pertama kami sokong.
       Sputnikvm:
         description: SputnikVM ialah pelaksanaan kendiri sumber terbuka bagi Mesin Maya Ethereum (EVM). Ia bertujuan untuk menjadi mesin maya yang cekap dan boleh dipasang untuk blok blok berasaskan Ethereum yang berbeza.
+      thirdweb:
+        description: Semua yang anda perlukan untuk menyambungkan apl atau permainan anda ke rangkaian terdesentralisasi. Alat berkuasa yang memudahkan pembangunan web3.
+      Tokenview:
+        description: Rangka kerja bersatu untuk berinteraksi dengan lebih 120+ rantaian blok. API blok blok Tokenview mempunyai titik akhir berkuasa yang memudahkan data blok blok kompleks menjadi panggilan API tunggal. Kod untuk semua blok yang disokong menggunakan panggilan API bersatu. Dari sini untuk mendapatkan transaksi, alamat, gas, kontrak, token, NFT, log dan sebarang maklumat dengan mudah daripada rantaian. Dan Ya, anda juga boleh menghantar tx ke rantai. Konfigurasi satu klik dengan APIKey membantu pembangun untuk Menggunakan, untuk Mencipta, untuk Membina.
       Truffle Suite:
         description: Persekitaran pembangunan bertaraf dunia, rangka kerja ujian dan saluran paip aset untuk rantaian blok menggunakan Mesin Maya Ethereum (EVM), yang bertujuan untuk menjadikan kehidupan sebagai pembangun lebih mudah.
   nodeTools:
