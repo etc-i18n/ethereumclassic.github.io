@@ -43,13 +43,6 @@ search:
 qa:
   show: Tunjukkan semua Jawapan
   hide: Sembunyikan semua Jawapan
-##
-## Announcement Banner
-announcement:
-  text: |
-    Laman web ini kini diterjemahkan ke dalam pelbagai bahasa melalui pembelajaran mesin. Klik bendera di bahagian atas sebelah kanan halaman untuk menukar bahasa. Jika anda ingin membantu terjemahan yang betul, sila hubungi kami!
-  button:
-    text: "Bantu Terjemah"
 ## Footer
 signOff: Dibuat dengan `<3` untuk Wawasan Ethereum Asal
 socialHilight: Komuniti ETC aktif di Discord
