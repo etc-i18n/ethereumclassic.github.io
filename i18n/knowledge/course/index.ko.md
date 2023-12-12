@@ -1,17 +1,17 @@
 ---
-title: Ethereum Classic Course
-author: Donald McIntyre
+title: 이더리움 클래식 코스
+author: 도널드 매킨타이어
 contributors:
   - DonaldMcIntyre
 ---
 
-This course is meant to be a detailed explanation of each part of Ethereum Classic, but to accomplish this task it is necessary to learn the background of the blockchain industry, how everything works, what is in store for the future of the sector, and how Ethereum Classic fits in all this.
+이 과정은 이더리움 클래식의 각 부분을 자세히 설명하기 위한 것이지만, 이를 위해서는 블록체인 산업의 배경, 모든 것이 어떻게 작동하는지, 이 분야의 미래를 위해 무엇이 준비되어 있는지, 그리고 이더리움 클래식이 이 모든 것에 어떻게 부합하는지 알아볼 필요가 있습니다.
 
-You can watch the full series in the following youtube [playlist](https://www.youtube.com/playlist?list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn).
+전체 시리즈는 다음 유튜브 [재생 목록](https://www.youtube.com/playlist?list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn)에서 시청할 수 있습니다.
 
 <iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/videoseries?si=1XffePznOEbhmuxT&amp;list=PLIzptAKK7iDTbFd_t7biMkE8KogfeYuYn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Part 1: History
+## 1부: 역사
 
 - [1: Public-Key Cryptography](/blog/2022-12-22-ethereum-classic-course-1-public-key-cryptography)
 - [2: The Cypherpunks](/blog/2022-12-29-ethereum-classic-course-2-the-cypherpunks)
@@ -22,7 +22,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [7: Ethereum Classics Philosophy of Code is Law](/blog/2023-02-02-ethereum-classsic-course-7-ethereum-classics-philosophy-of-code-is-law)
 - [8: Ethereum Classics Monetary Policy](/blog/2023-02-09-ethereum-classic-course-8-ethereum-classics-monetary-policy)
 
-## Part 2: How ETC Works
+## 2부: ETC의 작동 방식
 
 - [9: The Units and Denominations of Ethereum Classic](/blog/2023-02-16-ethereum-classic-course-9-the-units-and-denominations-of-ethereum-classic)
 - [10: Proof of Work Explained](/blog/2023-02-23-ethereum-classic-course-10-proof-of-work-explained)
@@ -39,7 +39,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [21: What Are Hardware and Software Wallets](/blog/2023-05-11-ethereum-classic-course-21-what-are-hardware-and-software-wallets)
 - [22: What Are Hot and Cold Wallets](/blog/2023-05-18-ethereum-classic-course-22-what-are-hot-and-cold-wallets)
 
-## Part 3: Industry Organization
+## 파트 3: 업계 조직
 
 - [23: What Are Native Cryptocurrencies](/blog/2023-05-25-ethereum-classic-course-23-what-are-native-cryptocurrencies)
 - [24: What Are Programmable Native Cryptocurrencies](/blog/2023-06-01-ethereum-classic-course-24-what-are-programmable-native-cryptocurrencies)
@@ -53,7 +53,7 @@ You can watch the full series in the following youtube [playlist](https://www.yo
 - [32: What Are Block Explorers](/blog/2023-07-27-ethereum-classic-course-32-what-are-block-explorers)
 - [33: What Centralized and Decentralized Exchanges](/blog/2023-09-07-ethereum-classic-course-33-what-centralized-and-decentralized-exchanges)
 
-## Part 4: What Is in Store for the Future
+## 4부: 미래를 위해 준비된 것들
 
 - [34: The Layers of the Blockchain Industry](/blog/2023-09-14-ethereum-classic-course-34-the-layers-of-the-blockchain-industry)
 - [35: Non-Fungible Tokens (NFTs)](/blog/2023-09-21-ethereum-classic-course-35-non-fungible-tokens-nfts)
