@@ -2,6 +2,7 @@ title: Chronologie des événements
 items:
   frontierRelease:
     title: Lancement d'Ethereum
+    text: Vitalik Buterin et la Fondation Ethereum ont créé la première plateforme de contrat intelligent Turing-complet basée sur la blockchain avec la version Frontier.
   frontierThawingUpgrade:
     title: Amélioration du dégel des frontières
     text: Le réseau met en œuvre une " ère glaciaire " au bloc 200 000 en introduisant la bombe de difficulté, un mécanisme conçu pour faire passer le mécanisme de consensus du réseau de la preuve de travail à la preuve d'acceptation.
@@ -268,8 +269,13 @@ items:
     text: Les développeurs du noyau d'Ethereum Classic mettent en œuvre les mises à niveau du protocole de réseau de Londres de l'ETH pour maintenir la parité opérationnelle avec sa chaîne sœur.
   etcFlood:
     title: ETC accueille un nouveau Hashrate
+    text: Ethereum Classic s'engage à soutenir l'algorithme de minage ETChash et l'écosystème de minage actuel. Cela fait d'Ethereum Classic un réseau bien placé pour absorber la majorité des mineurs Ethash privés de leurs droits avec le passage du réseau ETH à la preuve du consensus de l'enjeu.
   era4:
     title: 5M20 Era 4
+    text: Les récompenses de bloc d'Ethereum Classic sont réduites de 20 % à 2,56 ETC par bloc, conformément au calendrier d'émission 5M20 inspiré du bitcoin. Le hashrate de minage d'ETChash continue de passer à l'ETC, le réseau atteignant des sommets inégalés.
+  sha3Withdrawn:
+    title: Retrait de la proposition SHA3
+    text: Après plus de trois ans de débats controversés, l'ECIP-1049 est retiré en raison de la probabilité d'un hardfork litigieux. Ethereum Classic reste bien positionné pour prospérer sur ETChash dans un monde post-fusion.
   vitalikEndorsesETC:
     title: Vitalik Buterin soutient Ethereum Classic
     text: Vitalik Buterin, le plus éminent cofondateur d'Ethereum, donne son aval au réseau Ethereum original - Ethereum Classic pour ceux qui apprécient les chaînes de preuve de travail.
