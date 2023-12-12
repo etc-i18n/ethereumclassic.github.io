@@ -25,6 +25,8 @@ items:
         description: ความยากในอดีต ความยาก เวลาบล็อก และราคา
       PoolDetective:
         description: กลุ่มการขุดเป็นผู้เล่นที่สำคัญใน cryptocurrencies พิสูจน์การทำงาน แต่ใครเป็นผู้ตรวจสอบสิ่งที่พวกเขาบอกให้คนงานเหมืองทำงาน? Digital Currency Initiative ของ MIT เริ่มโครงการในฤดูร้อนปี 2019 เพื่อเริ่มตรวจสอบพฤติกรรมของกลุ่มการขุด
+      Tokenview:
+        description: Tokenview ให้บริการ Multi-Crypto Blockchain Explorer ทั่วไปตามจำนวนบล็อกเชนสาธารณะที่ครอบคลุม บริการ API บล็อกเชนที่รวดเร็วและเสถียร ให้บริการผู้ใช้ ธุรกิจ โครงการ และสถาบันการเงินหลายล้านรายตั้งแต่ปี 2560
       ua-mining:
         description: แดชบอร์ดสถิติ Ethereum Classic
       WhatToMine:
