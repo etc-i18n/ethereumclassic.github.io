@@ -49,13 +49,16 @@ announcement:
   __color: green
   __enabled: 1
   __allPages: 0
-  __alli18nPages: 1
-  __icon: language
+  __onlyi18n: 0
+  __icon: bullhorn
   text: |
-    crwdns126007:0crwdne126007:0
+    crwdns128872:0crwdne128872:0
   button:
-    __link: 'https://github.com/ethereumclassic/ethereumclassic.github.io#translations'
-    text: "crwdns126011:0crwdne126011:0"
+    __link: /blog/2023-12-09-spiral-fork-announcement
+    text: "crwdns128876:0crwdne128876:0"
+## Global Disclaimer
+disclaimer: |
+  crwdns128878:0crwdne128878:0
 ## Footer
 signOff: crwdns126013:0crwdne126013:0
 socialHilight: crwdns126015:0crwdne126015:0
