@@ -23,10 +23,10 @@ items:
         description: แพลตฟอร์มสำหรับสร้าง Dapps สำหรับบล็อคเชน ETC
       ESerialize:
         description: เป้าหมายของโมดูลนี้คือการจัดหาฟังก์ชันที่ง่ายในการทำให้เป็นอนุกรมและดีซีเรียลไลซ์ข้อมูลสำหรับ Ethereum Stack
-      Ethereum JSON-RPC API:
-        description: ข้อกำหนดของวิธีการ JSON-RPC ที่ไคลเอ็นต์ blockchain ที่ใช้ EVM จะต้องนำไปใช้
       Eth Fiddle:
         description: โปรแกรมแก้ไขออนไลน์สำหรับสัญญาอัจฉริยะ
+      Ethereum JSON-RPC API:
+        description: ข้อกำหนดของวิธีการ JSON-RPC ที่ไคลเอ็นต์ blockchain ที่ใช้ EVM จะต้องนำไปใช้
       EVM-LLVM:
         description: นักพัฒนาไม่เพียงแต่สามารถใช้ขอบเขตภาษาการเขียนโปรแกรมขนาดใหญ่ (สนิมสำหรับสัญญาอัจฉริยะ!) นอกเหนือจาก Solidity เพื่อกำหนดเป้าหมายไปยัง Ethereum Virtual Machine (EVM) พวกเขายังได้รับประโยชน์ทันทีจากเครื่องมือการพัฒนาต่างๆ ที่สร้างขึ้นจากโครงสร้างพื้นฐาน LLVM
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorum เป็นแพลตฟอร์มบล็อกเชนโอเพ่นซอร์สที่รวมนวัตกรรมของชุมชน Ethereum สาธารณะเข้ากับการปรับปรุงเพื่อรองรับความต้องการขององค์กร
       Remix Online IDE:
         description: IDE ในเบราว์เซอร์ที่มีประโยชน์ซึ่งสามารถรวบรวมและเผยแพร่สัญญาอัจฉริยะไปยังเครือข่าย Ethereum ต่างๆ รวมถึงผ้าสำลี
-      Signatory:
-        description: ธุรกรรมออฟไลน์และผู้ลงนามข้อความสำหรับ Ethereum Stack
       Sidekik:
         description: ดีบัก ทดสอบ และทำสัญญาอัจฉริยะด้วย UI ภาพที่ให้คุณโต้ตอบกับสัญญาอัจฉริยะที่ใช้ EVM ในเครื่องหรือปรับใช้
+      Signatory:
+        description: ธุรกรรมออฟไลน์และผู้ลงนามข้อความสำหรับ Ethereum Stack
       SOLL:
         description: ในที่สุดคอมไพเลอร์ LLVM ก็มาถึง Solidity ด้วยสิ่งนี้ เราจึงสามารถสร้างสัญญาอัจฉริยะผ่าน VM บล็อคเชนหลายตัวได้อย่างง่ายดาย EVM บน Ethereum Classic และ eWASM ของ ETH 2.0 เป็นหนึ่งในกลุ่มแรกๆ ที่เราสนับสนุน
       Sputnikvm:
