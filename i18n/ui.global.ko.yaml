@@ -43,13 +43,6 @@ search:
 qa:
   show: 모든 답변 표시
   hide: 모든 답변 숨기기
-##
-## Announcement Banner
-announcement:
-  text: |
-    이 웹사이트는 이제 기계 학습을 통해 여러 언어로 번역됩니다. 언어를 변경하려면 페이지 오른쪽 상단의 플래그를 클릭하십시오. 올바른 번역을 돕고 싶다면 저희에게 연락해주세요!
-  button:
-    text: "번역 도움말"
 ## Footer
 signOff: 오리지널 이더리움 비전을 위해 `<3`으로 제작
 socialHilight: ETC 커뮤니티는 Discord에서 활성화됩니다.
