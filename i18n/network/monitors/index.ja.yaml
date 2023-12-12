@@ -25,6 +25,8 @@ items:
         description: 歴史的難易度、難易度、ブロックタイム、価格。
       PoolDetective:
         description: マイニングプールは、プルーフ・オブ・ワーク型の暗号通貨において重要な役割を担っています。しかし、彼らがマイナーに作業を指示した内容を、誰が監視しているのだろうか。MITのDigital Currency Initiativeは、2019年夏、マイニングプールの行動監視を開始するプロジェクトを開始した。
+      Tokenview:
+        description: Tokenviewは、カバーするパブリックブロックチェーンの数による一般的なマルチクリプトブロックチェーンエクスプローラー、高速で安定したブロックチェーンAPIサービスを提供し、2017年以来、数百万人のユーザー、企業、プロジェクト、金融機関にサービスを提供しています。
       ua-mining:
         description: Ethereum Classicの統計ダッシュボード。
       WhatToMine:
