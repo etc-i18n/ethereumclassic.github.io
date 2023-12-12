@@ -1,5 +1,16 @@
 title: Testnets
 seo: Informações sobre as várias testnets Ethereum Classic, com redes publicamente disponíveis que podem ser usadas para testar contratos e atualizações de protocolo.
+description: |
+  Ao desenvolver contratos no Ethereum Classic, como em qualquer sistema de contrato EVM, é aconselhável utilizar uma [rede virtual] local (/development/tooling), que lhe permite iterar rapidamente sem ter de esperar que os blocos sejam extraídos. No entanto, a dada altura, pode querer permitir que o público interaja com uma versão beta da sua aplicação e, para isso, pode ser utilizada uma testnet.
+
+  Uma vez que o Ethereum Classic mantém a compatibilidade com o EVM a montante do Ethereum, para além de alguns casos extremos menores, os contratos comportar-se-ão de forma idêntica. Isto significa que as populares redes de teste do Ethereum podem, na sua maioria, ser utilizadas para testes públicos dos contratos do Ethereum Classic e, devido à sua popularidade, podem ser preferíveis para testes de utilizadores.
+
+  Além disso, o Ethereum Classic tem as suas próprias redes de teste que operam a versão Ethereum Classic do EVM, e a implementação numa destas redes também é altamente recomendada antes do lançamento da produção. Estas redes de teste públicas também fornecem faucets, pelo que pode facilmente adquirir testnet ETC e implementar o seu código.
+
+  Se uma faucet não estiver a funcionar corretamente, junta-te à Comunidade Ethereum Classic [Discord] (https://ethereumclassic.org/discord) para obteres fundos da testnet. Alguém na sala de chat dev-general irá ajudar-te. Em alternativa, podes facilmente extrair os teus próprios fundos da testnet executando localmente [core-geth](https://etclabscore.github.io/core-geth/getting-started/installation/) com o comando "geth --mordor --mine".
+
+  Podes usar [chainlist.org](https://chainlist.org) para configurar a tua carteira web3 com os endpoints RPC e exploradores apropriados.
+  Configurar a carteira: [Mordor](https://chainlist.org/chain/63)
 items:
   testnets:
     i18n:
