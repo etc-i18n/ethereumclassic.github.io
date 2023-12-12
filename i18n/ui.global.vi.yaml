@@ -43,6 +43,16 @@ search:
 qa:
   show: Hiển thị tất cả câu trả lời
   hide: Ẩn tất cả câu trả lời
+##
+## Announcement Banner
+announcement:
+  text: |
+    Bản nâng cấp Mạng xoắn ốc sẽ được kích hoạt trên khối 19.250.000, dự kiến sẽ đến vào ngày 31 tháng 1 năm 2024. Hãy đảm bảo phần mềm nút của bạn được cập nhật lên phiên bản mới nhất.
+  button:
+    text: "Tìm hiểu thêm"
+## Global Disclaimer
+disclaimer: |
+  Nội dung trên trang web này do người dùng tạo và chỉ nhằm mục đích cung cấp thông tin. Không hiểu bất kỳ nội dung nào là sự chứng thực của bất kỳ sản phẩm hoặc dịch vụ nào. “Không có gì chính thức” trong Ethereum Classic. Luôn tự nghiên cứu và nhớ: đừng tin tưởng, hãy xác minh!
 ## Footer
 signOff: Được tạo bằng `<3` cho Tầm nhìn Ethereum ban đầu
 socialHilight: Cộng đồng ETC đang hoạt động trên Discord
