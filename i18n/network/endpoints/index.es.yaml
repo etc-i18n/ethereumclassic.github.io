@@ -1,5 +1,15 @@
 title: Puntos finales públicos
 seo: Una lista de puntos finales de llamadas a procedimientos remotos (RPC) que pueden utilizarse para interactuar con ETC a través de MetaMask y otras aplicaciones.
+description: |
+  Los puntos finales de llamada a procedimiento remoto (RPC) son su puerta de entrada a Ethereum Classic, y le permiten comunicarse con la cadena ETC y leer datos de ella. Para obtener la máxima confianza, ejecute un [Cliente ETC](/development/clients) localmente; un punto final local suele estar disponible en `http://localhost:8545`.
+
+  También hay disponibles puntos finales RPC públicos de Ethereum Classic, proporcionados de forma gratuita a la comunidad o como un servicio de suscripción. Dado que puedes firmar y emitir transacciones localmente utilizando un monedero como [MetaMask](/guides/metamask), los puntos finales públicos pueden utilizarse manteniendo la custodia de tus claves privadas.
+
+  Puede utilizar estas URL para realizar transacciones y desplegar en ETC (o sus redes de prueba) actualizando la configuración de su monedero o herramienta de despliegue. Asegúrese también de cambiar su Chain ID a `61` para la mainnet de Ethereum Classic.
+
+  Para más información sobre otras redes, consulte la sección [testnets](/development/testnets).
+
+  **Se recomienda seleccionar uno de los puntos finales ETC RPC monitorizados en tiempo real en [ChainList.org](https://chainlist.org/chain/61).
 items:
   endpoints:
     columnItems:
