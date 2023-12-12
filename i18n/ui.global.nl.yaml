@@ -43,13 +43,6 @@ search:
 qa:
   show: Toon alle antwoorden
   hide: Verberg alle antwoorden
-##
-## Announcement Banner
-announcement:
-  text: |
-    Deze website is nu vertaald in meerdere talen door middel van machine learning. Klik op de vlag rechtsboven op de pagina om de taal te wijzigen. Als je wilt helpen met het corrigeren van vertalingen, neem dan contact met ons op!
-  button:
-    text: "Help vertalen"
 ## Footer
 signOff: Gemaakt met `<3` voor de Originele Ethereum Visie
 socialHilight: De ETC-gemeenschap is actief op Discord
