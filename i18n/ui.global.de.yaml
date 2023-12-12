@@ -43,13 +43,6 @@ search:
 qa:
   show: Alle Antworten anzeigen
   hide: Alle Antworten ausblenden
-##
-## Announcement Banner
-announcement:
-  text: |
-    Diese Website wird jetzt durch maschinelles Lernen in mehrere Sprachen übersetzt. Klicken Sie auf die Flagge oben rechts auf der Seite, um die Sprache zu ändern. Wenn Sie bei korrekten Übersetzungen helfen möchten, kontaktieren Sie uns bitte!
-  button:
-    text: "Übersetzen helfen"
 ## Footer
 signOff: Hergestellt mit `<3` für die Original Ethereum Vision
 socialHilight: Die ETC-Gemeinschaft ist auf Discord aktiv
