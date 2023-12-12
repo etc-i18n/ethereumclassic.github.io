@@ -23,10 +23,10 @@ items:
         description: ETCブロックチェーン向けのDappsを構築するためのプラットフォーム。
       ESerialize:
         description: このモジュールの目的は、Ethereum Stackのデータをシリアライズおよびデシリアライズするための簡単な関数を提供することです。
-      Ethereum JSON-RPC API:
-        description: EVMベースのブロックチェーンクライアントが実装しなければならないJSON-RPCメソッドの仕様です。
       Eth Fiddle:
         description: スマートコントラクト用のオンラインエディタ。
+      Ethereum JSON-RPC API:
+        description: EVMベースのブロックチェーンクライアントが実装しなければならないJSON-RPCメソッドの仕様です。
       EVM-LLVM:
         description: 開発者は、Solidity以外の広範囲のプログラミング言語(スマートコントラクトにはRust！)を使ってEthereum Virtual Machine(EVM)をターゲットにできるだけでなく、LLVMインフラを中心に構築されたさまざまな開発ツールの恩恵をすぐに受けることができるのです。
       Ganache:
@@ -43,10 +43,10 @@ items:
         description: Quorumは、公開されているEthereumコミュニティのイノベーションと、企業のニーズをサポートするための機能拡張を組み合わせたオープンソースのブロックチェーンプラットフォームです。
       Remix Online IDE:
         description: スマートコントラクトをコンパイルし、様々なEthereumネットワークに公開できる便利なインブラウザーIDEです。リンターを含む。
-      Signatory:
-        description: Ethereum Stack 用のオフライントランザクションおよびメッセージサイナーです。
       Sidekik:
         description: ローカルまたはデプロイされた EVM ベースのスマート コントラクトを操作できるビジュアル UI を使用して、スマート コントラクトをデバッグ、テスト、および理解します。
+      Signatory:
+        description: Ethereum Stack 用のオフライントランザクションおよびメッセージサイナーです。
       SOLL:
         description: LLVMコンパイラがついにSolidityに登場します。これを使えば、複数のブロックチェーンVMにまたがるスマートコントラクトを簡単に作成することができます。Ethereum ClassicのEVMとETH 2.0のeWASMは、私たちが最初にサポートするもののうちの1つです。
       Sputnikvm:
