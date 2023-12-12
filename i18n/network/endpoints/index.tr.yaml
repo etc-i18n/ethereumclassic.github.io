@@ -1,15 +1,5 @@
 title: Genel Uç Noktalar
 seo: MetaMask ve diğer uygulamalar aracılığıyla ETC ile etkileşim kurmak için kullanılabilecek Uzak Prosedür Çağrısı (RPC) uç noktalarının bir listesi.
-description: |
-  Uzaktan Prosedür Çağrısı (RPC) Uç Noktaları, Ethereum Classic'e açılan kapınızdır ve ETC zinciriyle iletişim kurmanıza ve verileri okumanıza olanak tanır. Maksimum güvenirlik için, yerel olarak bir [ETC İstemcisi](/development/clients) çalıştırırsınız; yerel bir bitiş noktası genellikle "http://localhost:8545" adresinde sağlanır. Topluluğa ücretsiz olarak veya bir abonelik hizmeti olarak sağlanan Public
-
-  Classic RPC uç noktaları da mevcuttur. [MetaMask](/guides/metamask) gibi bir cüzdan kullanarak yerel olarak işlemleri imzalayıp yayınlayabildiğiniz için, özel anahtarlarınızın gözetimi korunurken genel uç noktalar kullanılabilir.
-
-  Bu URL'leri, cüzdanınızı veya dağıtım aracı yapılandırmanızı güncelleyerek ETC'ye (veya test ağlarına) işlem yapmak ve dağıtmak için kullanabilirsiniz. Ayrıca Ethereum Classic ana ağı için Zincir Kimliğinizi "61" olarak değiştirdiğinizden emin olun.
-
-  Diğer ağlar hakkında daha fazla bilgi için [testnets](/development/testnets) bölümüne bakın.
-
-  ** [ChainList.org]üzerinden gerçek zamanlı izlenen ETC RPC uç noktalarından birini seçmeniz önerilir (https://chainlist.org/chain/61).**
 items:
   endpoints:
     columnItems:
